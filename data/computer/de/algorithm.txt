@@ -1,0 +1,207 @@
+Algorithmus
+
+aus Wikipedia, der freien Enzyklopädie
+
+Al-Chwarizmi, der Namensgeber des Algorithmus, auf einer sowjetischen Briefmarke anlässlich seines 1200-jährigen Geburtsjubiläums.
+Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines Problems oder einer Klasse von Problemen. Algorithmen bestehen aus endlich vielen, wohldefinierten Einzelschritten.[1] Somit können sie zur Ausführung in einem Computerprogramm implementiert, aber auch in menschlicher Sprache formuliert werden. Bei der Problemlösung wird eine bestimmte Eingabe in eine bestimmte Ausgabe überführt.[2]
+
+Inhaltsverzeichnis
+
+1 Wortherkunft
+2 Informatik und Mathematik
+2.1 Algorithmus und Programme
+2.2 Erster Computeralgorithmus
+2.3 Heutige Situation
+3 Definition
+3.1 Turingmaschinen und Algorithmusbegriff
+3.2 Church-Turing-These
+3.3 Abstrakte Automaten
+4 Eigenschaften
+4.1 Determiniertheit
+4.2 Determinismus
+4.3 Finitheit
+4.3.1 Statische Finitheit
+4.3.2 Dynamische Finitheit
+4.3.3 Terminiertheit
+4.4 Effektivität
+4.5 Beispiele für Eigenschaften von Algorithmen
+5 Algorithmenanalyse
+6 Typen und Beispiele
+7 Geschichte des Algorithmus
+7.1 Antikes Griechenland
+7.2 Der Ursprung des Wortes
+7.3 Mathematik im 19. und 20. Jahrhundert
+8 Literatur
+9 Weblinks
+10 Fußnoten
+Wortherkunft
+
+Seite aus einer lateinischen Übersetzung (Cambridger Manuskript), beginnend mit „Dixit algorizmi“
+Das Wort Algorithmus ist eine Abwandlung des Namens des choresmischen Universalgelehrten Muhammed al-Chwarizmi (etwa 780–850; sein Beiname al-Chwarizmi bedeutet „der Choresmier“, bezieht sich also auf seine Herkunft aus diesem iranischen Volk), dessen arabisches Lehrbuch Über das Rechnen mit indischen Ziffern (um 825) in der mittelalterlichen lateinischen Übersetzung mit den Worten Dixit Algorismi (Algorismi hat gesagt) beginnt. Im Mittelalter veränderte sich der latinisierte Name von Alchoarismi über Algorismi, Algorismus, Algorisme, Algorithmi hin zu Algorism und dem heutigen englischen Begriff Algorithm[3]. Zu dieser Zeit wurde hiermit die Kunst des Rechnens mit den arabischen Ziffern bezeichnet.
+
+Die lateinischen Autoren pflegten zu erklären, dass das Wort algorismus aus dem Namen des Erfinders dieser Kunst, eines Philosophen namens Algus, und dem griechischen Wort rismus (arithmós) für Zahl zusammengesetzt sei. Dabei wurde Algus von einigen als Araber, von anderen als Grieche oder zumindest griechisch schreibender Autor, gelegentlich auch als „König von Kastilien“ (Johannes von Norfolk) betrachtet. In der volkssprachlichen Tradition erscheint dieser „Meister Algus“ dann zuweilen in einer Reihe mit großen antiken Denkern wie Platon, Aristoteles und Euklid, so im altfranzösischen Roman de la Rose, während das altitalienische Gedicht Il Fiore ihn sogar als Erbauer des Schiffes Argo ausgibt, mit dem Jason sich auf die Suche nach dem Goldenen Vlies begab.
+
+Durch Gräzisierung der Schreibweise des vermeintlich griechischen Wortbestandteiles rismus hat sich dann in der lateinischen Wissenschaftssprache die Schreibung algorithmus ergeben; in dieser Form hat sich das Wort später als Fachterminus für geregelte Prozeduren zur Lösung definierter Probleme eingebürgert.
+
+Informatik und Mathematik
+Algorithmen sind eines der zentralen Themen der Informatik und Mathematik. Sie sind Gegenstand einiger Spezialgebiete der Theoretischen Informatik, der Komplexitätstheorie und der Berechenbarkeitstheorie, mitunter ist ihnen ein eigener Fachbereich Algorithmik oder Algorithmentheorie gewidmet. In Form von Computerprogrammen und elektronischen Schaltkreisen steuern Algorithmen Computer und andere Maschinen.
+
+Algorithmus und Programme
+Für Algorithmen gibt es unterschiedliche formale Repräsentationen. Diese reichen vom Algorithmus als abstraktem Gegenstück zum konkret auf eine Maschine zugeschnittenen Programm (das heißt, die Abstraktion erfolgt hier im Weglassen der Details der realen Maschine, das Programm ist eine konkrete Form des Algorithmus, angepasst an die Notwendigkeiten und Möglichkeiten der realen Maschine) bis zur Ansicht, Algorithmen seien gerade die Maschinenprogramme von Turingmaschinen (wobei hier die Abstraktion in der Verwendung der Turingmaschine an sich erfolgt, das heißt, einer idealen mathematischen Maschine).
+
+Algorithmen können in Programmablaufplänen nach DIN 66001 oder ISO 5807 grafisch dargestellt werden.
+
+Erster Computeralgorithmus
+Der erste für einen Computer gedachte Algorithmus (zur Berechnung von Bernoullizahlen) wurde 1843 von Ada Lovelace in ihren Notizen zu Charles Babbages Analytical Engine festgehalten. Sie gilt deshalb als die erste Programmiererin. Weil Charles Babbage seine Analytical Engine nicht vollenden konnte, wurde Ada Lovelaces Algorithmus nie darauf implementiert.
+
+Heutige Situation
+
+Prinzipbild des Rete-Algorithmus für Expertensystem; veröffentlicht: 1979; frei
+Algorithmen für Computer sind heute so vielfältig wie die Anwendungen, die sie ermöglichen sollen. Vom elektronischen Steuergerät für den Einsatz in KFZ über die Rechtschreib- und Satzbau-Kontrolle in einer Textverarbeitung bis hin zur Analyse von Aktienmärkten finden sich tausende von Algorithmen. Als Ideen und Grundsätze, die einem Computerprogramm zugrunde liegen, wird Algorithmen in der Regel urheberrechtlicher Schutz versagt.[4] Je nach nationaler Ausgestaltung der Immaterialgüterrechte sind Algorithmen der Informatik jedoch dem Patentschutz zugänglich, so dass urheberrechtlich freie individuelle Werke, als Ergebnis eigener geistiger Schöpfung, wirtschaftlich trotzdem nicht immer frei verwertet werden können. Dies betrifft oder betraf z. B. Algorithmen, die auf der Mathematik der Hough-Transformation (Jahrzehnte alt, aber mehrfach aktualisiertes Konzept mit Neu-Anmeldung) aufbauen, Programme, die das Bildformat GIF lesen und schreiben wollten oder auch Programme im Bereich der Audio- und Video-Verarbeitung, da die zugehörigen Algorithmen, wie sie in den zugehörigen Codecs umgesetzt sind, oftmals nicht frei verfügbar sind. Die entsprechenden Einsparpotentiale für alle Anwender weltweit (für den Rete-Algorithmus wurde einst 1 Million USD auf DEC XCON genannt) dürften heute problemlos die Grenze von einer Milliarde USD im Jahr um ein zigfaches überschreiten.
+
+Definition
+Turingmaschinen und Algorithmusbegriff
+Die mangelnde mathematische Genauigkeit des Begriffs Algorithmus störte viele Mathematiker und Logiker des 19. und 20. Jahrhunderts, weswegen in der ersten Hälfte des 20. Jahrhunderts eine ganze Reihe von Ansätzen entwickelt wurde, die zu einer genauen Definition führen sollten. Formalisierungen des Berechenbarkeitsbegriffs sind die Turingmaschine (Alan Turing), Registermaschinen, der Lambda-Kalkül (Alonzo Church), rekursive Funktionen, Chomsky-Grammatiken und Markow-Algorithmen.
+
+Es wurde – unter maßgeblicher Beteiligung von Alan Turing selbst – gezeigt, dass all diese Methoden die gleiche Berechnungsstärke besitzen (gleich mächtig sind). Sie können durch eine Turingmaschine emuliert werden, und sie können umgekehrt eine Turingmaschine emulieren.
+
+Mit Hilfe des Begriffs der Turingmaschine kann folgende formale Definition des Begriffs formuliert werden:
+
+Eine Berechnungsvorschrift zur Lösung eines Problems heißt genau dann Algorithmus, wenn eine zu dieser Berechnungsvorschrift äquivalente Turingmaschine existiert, die für jede Eingabe, die eine Lösung besitzt, stoppt.
+
+Aus dieser Definition sind folgende Eigenschaften eines Algorithmus ableitbar:
+
+Das Verfahren muss in einem endlichen Text eindeutig beschreibbar sein (Finitheit).
+Jeder Schritt des Verfahrens muss tatsächlich ausführbar sein (Ausführbarkeit).
+Das Verfahren darf zu jedem Zeitpunkt nur endlich viel Speicherplatz benötigen (Dynamische Finitheit, siehe Platzkomplexität).
+Das Verfahren darf nur endlich viele Schritte benötigen (Terminierung, siehe auch Zeitkomplexität).
+Darüber hinaus wird der Begriff Algorithmus in praktischen Bereichen oft auf die folgenden Eigenschaften eingeschränkt:
+
+Der Algorithmus muss bei denselben Voraussetzungen das gleiche Ergebnis liefern (Determiniertheit).
+Die nächste anzuwendende Regel im Verfahren ist zu jedem Zeitpunkt eindeutig definiert (Determinismus).
+Church-Turing-These
+Die Church-Turing-These besagt, dass jedes intuitiv berechenbare Problem durch eine Turingmaschine gelöst werden kann. Als formales Kriterium für einen Algorithmus zieht man die Implementierbarkeit in einem beliebigen, zu einer Turingmaschine äquivalenten Formalismus heran, insbesondere die Implementierbarkeit in einer Programmiersprache – die von Church verlangte Terminiertheit ist dadurch allerdings noch nicht gegeben.
+
+Der Begriff der Berechenbarkeit ist dadurch dann so definiert, dass ein Problem genau dann berechenbar ist, wenn es einen (terminierenden) Algorithmus zu dem Problem gibt, das heißt, wenn eine entsprechend programmierte Turingmaschine das Problem in endlicher Zeit lösen könnte.
+
+Abstrakte Automaten
+Turingmaschinen harmonieren gut mit den ebenfalls abstrakt-mathematischen berechenbaren Funktionen, reale Probleme sind jedoch ungleich komplexer, daher wurden andere Maschinen vorgeschlagen.
+
+Diese Maschinen weichen etwa in der Mächtigkeit der Befehle ab; statt der einfachen Operationen der Turingmaschine können sie teilweise mächtige Operationen, wie etwa Fourier-Transformationen, in einem Rechenschritt ausführen.
+
+Oder sie beschränken sich nicht auf eine Operation pro Rechenschritt, sondern ermöglichen parallele Operationen, wie etwa die Addition zweier Vektoren in einem Schritt.
+
+Ein Modell einer echten Maschine ist die Sequential Abstract State Machine (kurz seq. ASM)[5] mit folgenden Eigenschaften:
+
+Ein Algorithmus einer seq. ASM soll
+
+durch einen endlichen Programmtext spezifiziert werden können
+schrittweise ausgeführt werden können
+für bestimmte Zustände terminieren, muss aber nicht immer terminieren (sinnvolle Gegenbeispiele für die Forderung, dass immer terminiert werden muss, wären etwa ein Programm, das fortgesetzt Primzahlen findet, oder ein Betriebssystem)
+nur begrenzt viele Zustände pro Schritt ändern können (Begrenzung der Parallelität)
+nur begrenzt viele Zustände pro Schritt inspizieren können (Begrenzung der Exploration).
+Eigenschaften
+Determiniertheit
+Ein Algorithmus ist determiniert, wenn dieser bei jeder Ausführung mit gleichen Startbedingungen und Eingaben gleiche Ergebnisse liefert.
+
+Determinismus
+Ein Algorithmus ist deterministisch, wenn zu jedem Zeitpunkt der Algorithmusausführung der nächste Handlungsschritt eindeutig definiert ist. Beispiele für deterministische Algorithmen sind Bubblesort und der euklidische Algorithmus. Dabei gilt, dass jeder deterministische Algorithmus determiniert, während aber nicht jeder determinierte Algorithmus deterministisch ist. So ist Quicksort mit zufälliger Wahl des Pivotelements ein Beispiel für einen determinierten, aber nicht deterministischen Algorithmus, da sein Ergebnis bei gleicher Eingabe und eindeutiger Sortierung immer dasselbe ist, der Weg dorthin jedoch zufällig erfolgt.
+
+In der theoretischen Informatik gibt es neben dem Determinismus auch den Nichtdeterminismus, der aber mit keiner realen Maschine (auch nicht mit Quantencomputern) direkt umgesetzt werden kann.
+
+Finitheit
+Statische Finitheit
+Die Beschreibung des Algorithmus besitzt eine endliche Länge, der Quelltext muss also aus einer begrenzten Anzahl von Zeichen bestehen.
+
+Dynamische Finitheit
+Ein Algorithmus darf zu jedem Zeitpunkt seiner Ausführung nur begrenzt viel Speicherplatz benötigen.
+
+Terminiertheit
+Ein Algorithmus ‚terminiert überall‘ oder ‚ist terminierend‘, wenn er nach endlich vielen Schritten anhält (oder kontrolliert abbricht) - für jede mögliche Eingabe. Ein nicht-terminierender Algorithmus (somit zu keinem Ergebnis kommend) gerät (für mache Eingaben) in eine so genannte Endlosschleife.
+
+Für manche Abläufe ist ein nicht-terminierendes Verhalten gewünscht: Z. B. Steuerungssysteme, Betriebssysteme und Programme, die auf Interaktion mit dem Benutzer aufbauen. Solange der Benutzer keinen Befehl zum Beenden eingibt, laufen diese Programme beabsichtigt endlos weiter. Donald E. Knuth schlägt in diesem Zusammenhang vor, nicht terminierende Algorithmen als rechnergestützte Methoden (Computational Methods) zu bezeichnen.
+
+Darüber hinaus ist die Terminierung eines Algorithmus (das Halteproblem) nicht entscheidbar. Das heißt, das Problem, festzustellen, ob ein (beliebiger) Algorithmus mit einer beliebigen Eingabe terminiert, ist nicht durch einen Algorithmus lösbar.
+
+Effektivität
+Der Effekt jeder Anweisung eines Algorithmus muss eindeutig festgelegt sein.
+
+Beispiele für Eigenschaften von Algorithmen
+Einfache Grundoperation: „Öffne die Flasche Wein“ hierbei wird das Wissen um das Öffnen vorausgesetzt.
+
+Sequentieller Algorithmus: „Bier auf Wein, lass das sein“ beiden Operationen ist eine Reihenfolge vorgegeben und diese sollte nicht verändert werden.
+
+Nebenläufiger Algorithmus: „Schnaps und Bier“ Die Reihenfolge ist nicht vorgegeben und kann auch gleichzeitig erfolgen.
+
+Parallele Ausführung: „Mit Sekt anstoßen“ Dies kann nur gleichzeitig (parallel) ausgeführt werden und nicht hintereinander (sequentiell).
+
+Nichtdeterministischer/nichtdeterminierter Algorithmus: „Bier oder Wasser“ Das Ergebnis unterscheidet sich, je nachdem welches man wählt.
+
+Algorithmenanalyse
+Die Erforschung und Analyse von Algorithmen ist eine Hauptaufgabe der Informatik, und wird meist theoretisch (ohne konkrete Umsetzung in eine Programmiersprache) durchgeführt. Sie ähnelt somit dem Vorgehen in anderen mathematischen Gebieten, in denen die Analyse eher auf die zugrunde liegenden Konzepte als auf konkrete Umsetzungen ausgerichtet ist. Algorithmen werden zur Analyse in eine stark formalisierte Form gebracht und mit den Mitteln der formalen Semantik untersucht.
+
+Die Analyse unterteilt sich in verschiedene Teilgebiete. Beispielsweise wird das Verhalten von Algorithmen bezüglich Ressourcenbedarf wie Rechenzeit und Speicherbedarf in der Komplexitätstheorie behandelt; die Ergebnisse werden als asymptotische Laufzeiten angegeben. Der Ressourcenbedarf wird dabei in Abhängigkeit von der Länge der Eingabe ermittelt, das heißt, die angegebene Komplexität hängt davon ab, wie groß die Zahlen sind, deren größter gemeinsamer Teiler gesucht wird, oder wie viele Elemente sortiert werden müssen etc.
+
+Das Verhalten bezüglich der Terminierung, ob also der Algorithmus überhaupt jemals erfolgreich beendet werden kann, behandelt die Berechenbarkeitstheorie.
+
+Typen und Beispiele
+
+Die Lösung für das Spiel Türme von Hanoi mit drei Spielsteinen – ein einfacher Algorithmus
+Der älteste bekannte nicht-triviale Algorithmus ist der euklidische Algorithmus. Spezielle Algorithmus-Typen sind der randomisierte Algorithmus (mit Zufallskomponente), der Approximationsalgorithmus (als Annäherungsverfahren), die evolutionären Algorithmen (nach biologischem Vorbild) und der Greedy-Algorithmus.
+
+Eine weitere Übersicht gibt die Liste von Algorithmen und die Kategorie Algorithmus.
+
+Geschichte des Algorithmus
+Antikes Griechenland
+Obwohl der etymologische Ursprung des Wortes arabisch ist, entstanden die ersten Algorithmen im antiken Griechenland. Zu den wichtigsten Beispielen gehören das Sieb des Eratosthenes zum auffinden von Primzahlen, welcher als im Buch Einführung in die Arithmetik von Nikomachos beschrieben wurde[6] und der euklidische Algorithmus zum berechnen des größten gemeinsamen Teiler zweier natürlichen Zahlen aus dem Werk die Elemente.[7] Einer der ältesten Algorithmen, die sich mit einer reellen Zahl beschäftigen, ist der Algorithmus des Archimedes zur Approximation von \pi, was zu gleich auch eines der ältesten numerischen Verfahren ist.[8]
+
+Der Ursprung des Wortes
+Das Wort Algorithmus stammt aus dem 9. Jahrhundert von dem persischen Mathematiker Al-Chwarizmi, der auf der Arbeit des aus dem 7. Jahrhundert stammenden indischen Mathematikers Brahmagupta[9][10] aufbaute. In seiner ursprünglichen Bedeutung bezeichnete ein Algorithmus nur das einhalten der arithmetischen Regeln unter Verwendung der indisch-arabischen Ziffern. Die ursprüngliche Definition entwickelte sich mit Übersetzung ins Lateinische weiter.[11]
+
+Mathematik im 19. und 20. Jahrhundert
+Bedeutende Arbeit leisteten die Logiker des 19. Jahrhunderts. George Boole der in seiner Schrift The Mathematical Analysis of Logic den ersten algebraischen Logikkalkül erschuf, begründete damit die moderne mathematische Logik, die sich von der traditionellen philosophischen Logik durch eine konsequente Formalisierung abhebt. [12] Gottlob Frege entwickelte als erster eine formale Sprache und die daraus resultierenden formalen Beweise.[13] Giuseppe Peano reduzierte die Arithmetik auf eine Sequenz von Symbolen manipuliert von Symbolen. Er beschäftigte sich mit der Axiomatik der natürlichen Zahlen. Dabei entstanden die Peano-Axiome.[14]
+
+Die Arbeit von Frege wurde stark von Alfred North Whitehead und Bertrand Russell in ihrem Werk Principia Mathematica weiter ausgearbeitet und vereinfacht.[15] Zuvor wurde von Bertrand Russell die berühmte russellsche Antinomie formuliert, was zum Einsturz der naiven Mengenlehre führte. Das Resultat führte auch zur Arbeit Kurt Gödel's.
+
+David Hilbert hat um 1928 das Entscheidungsproblem in seinem Forschungsprogramm präzise formuliert.[16] Alan Turing und Alonzo Church haben für das Problem 1936 festgestellt, dass es unlösbar ist.[17]
+
+Literatur
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein: Algorithmen. Eine Einführung. 2., korr. Auflage. Oldenbourg, München, Wien 2007 (Originaltitel: Introduction to algorithms, übersetzt von Karen Lippert, Micaela Krieger-Hauwede), ISBN 3-486-58262-3.
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: Introduction to Algorithms. 2. Auflage. MIT Press, Cambridge (Massachusetts) 2001, ISBN 0-262-03293-7 (engl. Originalfassung).
+John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman: Einführung in die Automatentheorie, formale Sprachen und Komplexitätstheorie. 2., überarb. Auflage. Pearson Studium, München 2002 (Originaltitel: Introduction to automata theory, languages, and computation, übersetzt von Sigrid Richter, Ingrid Tokar), ISBN 3-8273-7020-5.
+Donald E. Knuth: The Art of Computer Programming. Bd 1–3. Addison Wesley, Reading (Mass.) 1998, ISBN 0-201-48541-9.
+Thomas Ottmann & Peter Widmayer: Algorithmen und Datenstrukturen. 4. Auflage. Spektrum Akademischer Verlag, Heidelberg 2002, ISBN 3-8274-1029-0.
+Anany Levitin: Introduction to The Design and Analysis of Algorithms. Addison Wesley, 2007, ISBN 0-321-36413-9
+Jochen Ziegenbalg, Oliver Ziegenbalg & Bernd Ziegenbalg: Zum Begriff des Algorithmus. In: Algorithmen von Hammurapi bis Gödel. 3. Auflage. Deutsch, Frankfurt 2010, ISBN 978-3-8171-1864-9, S. 24–31
+Weblinks
+ Wiktionary: Algorithmus – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Der Algorithmus der Woche (Algorithmen anschaulich erklärt, verschiedene Autoren, herausgegeben vom Fakultätentag Informatik)
+Dictionary of Algorithms and Data Structures des NIST (englisch)
+Was ist Algorithmik? – Seite beim Fachbereich Informatik der TU Darmstadt
+Vorlesungsmitschrift Höhere Algorithmik der FU Berlin (PDF; 1,9 MB)
+Fußnoten
+Hartley Rogers, Jr.: Theory of Recursive Functions and Effective Computability, Seite 2.
+Charles E. Leiserson, Ronald L. Rivest, Clifford Stein: Algorithmen – Eine Einführung. Oldenbourg Verlag, München 2010, ISBN 978-3-486-59002-9, S. 5.
+Corona Brezina: Al-Khwarizmi: The Inventor of Algebra, Seite 68.
+Deutschland: § 69a Abs. (2) UrhG
+Sequential Abstract State Machine (seq. ASM)
+Roger L. Cooke: The History of Mathematics: A Brief Course 2005.
+http://aleph0.clarku.edu/~djoyce/elements/bookVII/propVII2.html
+http://itech.fgcu.edu/faculty/clindsey/mhf4404/archimedes/archimedes.html
+http://www.andyborne.com/math/downloads/AL-Kwarazmi.pdf
+Brahmagupta biography
+History of Algorithms and Algorithmics. Scriptol.com. Abgerufen am 7. November 2012.
+http://www.gutenberg.org/files/36884/36884-pdf.pdf?session_id=c32d51908145d828073340e0cf7c0d9a9290cd49
+Gottlob Frege - Eine Einführung in sein Werk - http://epub.uni-regensburg.de/12582/1/ubr05469_ocr.pdf
+Peano: Arithmetices principia nova methodo exposita, Turin 1889
+http://name.umdl.umich.edu/AAT3201.0001.001 Principia Mathematica, 1. Auflage 1910-1913, in der Onlineversion der University of Michigan
+Tapp, Christian: An den Grenzen des Endlichen. Das Hilbertprogramm im Kontext von Formalismus und Finitismus. Heidelberg: Springer 2013. ISBN 978-3-642-29654-3.
+cf. footnote in Alonzo Church 1936a in Davis 1965:90 and 1936b in Davis 1965:110
+Normdaten (Sachbegriff): GND: 4001183-5
+Von „http://de.wikipedia.org/w/index.php?title=Algorithmus&oldid=140500824“
+Kategorie: Algorithmus
+Diese Seite wurde zuletzt am 2. April 2015 um 14:59 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

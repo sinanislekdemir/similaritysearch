@@ -1,0 +1,52 @@
+Kütle çekimi
+
+Vikipedi, özgür ansiklopedi
+Klasik mekanik
+Dallar[göster]
+Formüller[göster]
+Temel kavramlar[göster]
+Konular[göster]
+Bilim adamları[göster]
+g t d
+
+Newton'ın evrensel kütle çekimi yasasının mekanizması; bir nokta kütle (m1) diğer bir nokta kütleyi (m2) iki kütlenin çarpımı ile doğru, aralarındaki (r) uzaklığının karesi ile ters orantılı olacak büyüklükteki bir F2 kuvveti ile çeker. Kütlelerden ve bu kütlelerin aralarındaki uzaklıktan bağımsız olarak |F1| ve |F2| kuvvetlerinin büyüklükleri her zaman birbirine eşittir. G kütle çekimi sabitidir.
+Kütle çekimi, nesnelerin birbirlerine doğru çekme kuvveti uygulamasına denir. Bu çekme kuvveti, cisimlerin kütleleriyle doğru orantılıdır. Kütle, merkezlerini birleştiren uzaklığın karesiyle ters orantılıdır.
+
+Isaac Newton, gök cisimlerinin hareketleriyle ilgili yaptığı çalışmalar sonucu kütlelerin birbirine uyguladığı çekim kuvvetini keşfetmiştir. Bu yüzden; bu kanuna Newton'ın evrensel kütle çekimi yasası adı verilmiştir.
+
+Kütle çekimi, cisimlerin Dünya'nın yüzeyinde kalması, gezegenlerin yörüngelerinin olması gibi fiziksel olayların sebebidir. Kütle çekiminin doğası tam anlamıyla genel görelilik kuramı ile açıklanabilmesine rağmen yerküre üzerinde veya yakın uzaydaki hesaplarda bir kuvvet olarak kabul edilebilir; Newton Mekaniği'nde daima kuvvet olarak kabul edilir.
+
+Kütle çekimi, evrendeki dört temel etkileşimden biridir. Diğer üç temel etkileşim elektromanyetik etkileşim (kuvvet), zayıf etkileşim (kuvvet) ve güçlü etkileşimdir.
+
+Bir cisme etki eden kütle çekimi kuvvetine o cismin ağırlığı denir. Hız verilmeden yüksekten bırakılan cisimler, ağırlıkları nedeniyle yere doğru hareket ederler. Bu harekete serbest düşme denir. Cisimleri harekete geçirebilmek için kuvvet uygulamak gerekir. Ancak serbest bırakılan bir cisme kuvvet uygulandığı zaman bile cisim düşmeye devam eder. Bunun nedeni yer çekimi kuvvetidir. Serbest düşen cisimler, Newton'ın hareket yasalarından İkinci Hareket Yasası’na göre ivme kazanır. Buna yer çekimi ivmesi denir. Serbest düşen cisimler yer çekimi ivmesinin etkisiyle düzgün hızlanarak yere düşer. Yer çekimi kuvveti sabit olduğu için yer çekimi ivmesi de sabittir; yani düşen bir cismin hızının artış hızı, hep aynı kalır ve cisim düştüğü sürece her geçen saniyede hızı aynı miktarda artar.
+
+Kütle çekimiinde, kuvvet taşıyıcı bozonun, graviton adı verilen varsayımsal parçacık olduğu düşünülmektedir. Ancak şimdiye kadarki deneylerde bu parçacık gözlenememiştir. Kütle çekimii, Standart Model tarafından açıklanamamakta, Standart Model'in kuantum mekaniğindeki matematiğe nasıl dahi edileceği, henüz tam olarak bilinmemektedir.[1]
+
+
+Sir Isaac Newton (1642-1727), İngiliz fizikçi
+Ağırlık
+Ağırlık (G), Newton’un genel çekim yasasına göre çekim kuvvetleri sonucu oluşan bir büyüklüktür. Yeryüzünde yerin merkezinden uzaklaştıkça cisimlerin ağırlığı azalır.
+
+Ağırlık formülü
+\overrightarrow{G} = m\cdot\,\overrightarrow{g}
+Burada;
+
+"\overrightarrow{G}", Ağırlık, Newton (N) biriminde.
+
+"m\,", Kütle, Kilogram (kg) biriminde.
+
+"\overrightarrow{g}", Yerçekimi ivmesi, \mathrm{m} / \mathrm{s}^{2}\, biriminde.
+
+Bir cismin ağırlığı, bulunduğu yere göre değişir. Ay’ın kütlesi ve yarıçapı Dünya’ya göre daha küçüktür. Bu yüzden bir cismin Ay’daki ağırlığı Dünya’daki ağırlığının yaklaşık 1/6’sı kadardır. Bir cismin kütlesi de madde miktarının bir ölçüsüdür ve ayırt edici bir özelliktir. Hiç değişmez. Dünya’dan Ay’a doğru gidildikçe Dünya’nın çekim kuvveti azalır ve Ay’ın çekim kuvveti artar. Bu iki çekim kuvvetinin eşit olduğu yerde cismin kütlesi değişmediği hâlde ağırlığı sıfır olur.
+
+Yer çekimi kuvvetinin, cismin kütlesine ve cismin yerin merkezine olan uzaklığına bağlıdır. Cismin kütlesi arttıkça cismin üzerindeki yerin çekim kuvveti de artar.
+
+Dipnotlar
+^ Altın, Vural (Mayıs 2010). "Kütle çekimi nasıl oluşur?". NTVBLM 15.sayı: 83.
+[gizle] g t d Fiziğin temel kuvvetleri
+Güçlü etkileşim ·  Zayıf nükleer kuvvet ·  Elektromanyetik kuvvet ·  Kütle çekimi
+
+"http://tr.wikipedia.org/w/index.php?title=Kütle_çekimi&oldid=15132519" adresinden alındı.
+Kategori: Kütle çekimi
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

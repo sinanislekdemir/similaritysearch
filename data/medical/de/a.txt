@@ -1,0 +1,94 @@
+Anatomie
+
+aus Wikipedia, der freien Enzyklopädie
+Die Anatomie (aus griechisch ἀνά aná „auf“ und τομή tomé „Schnitt“) ist ein Teilgebiet der Morphologie. Sie ist in der Medizin bzw. Humanbiologie (Anthropotomie), Zoologie (Zootomie) und Botanik (Phytotomie) die Lehre vom Aufbau der Organismen.
+
+
+Anatomie des menschlichen Kopfes
+Es werden Gestalt, Lage und Struktur von Körperteilen, Organen, Gewebe oder Zellen betrachtet. Die pathologische Anatomie befasst sich mit krankhaft veränderten Körperteilen. Die mikroskopische Anatomie befasst sich mit den feineren biologischen Strukturen bis zur molekularen Ebene und knüpft an die Molekularbiologie an. Die klassische Anatomie verwendet eine standardisierte Nomenklatur, die auf der lateinischen und der griechischen Sprache basiert.
+
+Inhaltsverzeichnis
+
+1 Geschichte
+2 Arbeitsgebiete
+2.1 Makroskopische Anatomie
+2.2 Mikroskopische Anatomie
+2.3 Embryologie
+3 Aufgaben in der medizinischen Ausbildung
+4 Einzelnachweise
+5 Literatur (Auswahl)
+6 Siehe auch
+7 Weblinks
+Geschichte
+
+Mayabüste
+Die ersten bis heute erhaltenen anatomischen Zeugnisse findet man in prähistorischen Höhlenmalereien. Es verwundert, dass sich diese Menschen schon mit der Trepanation von Schädeln befasst haben, da wohl weder die Höhlenmalereien noch das Öffnen der Schädel einen medizinischen Zweck verfolgten.
+
+Konkretere und umfangreichere Beschreibungen sind erstmals aus einigen Schriften des Corpus Hippocraticum (v. a. Über die Knochenbrüche und Über die Gelenke) erhalten, wobei in der hippokratischen Medizin die menschliche Physiologie eine größere Bedeutung hatte als die Anatomie. Galen fasste im 2. Jh. n. Chr. das medizinische Wissen des Hippokrates und anderer Ärzte systematisch zusammen.
+
+
+Rembrandts „Die Anatomie des Dr. Tulp“
+Nachdem im Mittelalter die Anatomie keine Fortschritte machte, erschütterte Andreas Vesalius (1514–1564) die über Jahrhunderte kaum hinterfragten Annahmen bzw. Glaubenssätze, was viele seiner Kollegen empörte. Seine Arbeit revolutionierte die Medizin seiner Zeit und macht ihn zum Begründer der modernen Anatomie.
+
+Die Anatomie nahm seitdem einen hohen Stellenwert in den bildenden Künsten ein, Sektionen an Menschen und Tieren (Vivisektion oder Obduktion) gehörten zur Grundausbildung der Studenten. Künstler wie Michelangelo, Raffael, Dürer und da Vinci (1452–1519) brachten Jahre mit dem Studium des menschlichen Körpers zu, wobei letzterer in seiner wissenschaftlichen Genauigkeit den 62 Jahre später geborenen Vesalius übertraf. Die enge Zusammenarbeit von Künstlern und Anatomen ließ medizinische Schriften von außergewöhnlich hoher Qualität entstehen.
+
+Im Zeitalter der Aufklärung errichtete man anatomische Theater, die neben dem wissenschaftlichen Wert einen hohen Schauwert hatten.
+
+Arbeitsgebiete
+
+Illustration des menschlichen Skeletts von Gerard de Lairesse in Govard Bidloos Ontleding des menschlyken lichaams von 1685. Die Vanitas-Symbole Sarg und Stundenglas rechtfertigen noch das Sujet.
+Makroskopische Anatomie
+→ Hauptartikel: Johann Adam Kulmus
+Die makroskopische Anatomie beschäftigt sich mit dem Aufbau des Menschen, von Tieren oder Pflanzen, und zwar mit allen Dingen, die man mit dem bloßen Auge sehen kann. Beachtet hierbei werden nicht nur äußerlich sichtbare Strukturen, sondern insbesondere auch die Strukturen, welche nach Auf- und Auseinanderschneiden des Körpers zu beobachten sind.
+
+Nach der Art der Herangehensweise wird die makroskopische Anatomie unterteilt:
+
+Die Beschreibende oder deskriptive Anatomie ist die wohl antiquierteste Art der Vermittlung der Anatomie. Bei ihr werden die einzelnen Strukturen des Körpers lediglich hinsichtlich ihrer äußerlichen Erscheinung vermittelt. Funktionelle, topografische und systematische Aspekte werden nicht berücksichtigt. Bei allen Nachteilen hat aber auch die modern vermittelte Anatomie immer einen deskriptiven Anteil, denn ein Arzt muss in der Lage sein, krankhafte Veränderungen an einem Organ zu erkennen.
+Die Systematische Anatomie gruppiert die einzelnen Strukturen des Körpers zu funktionell-zusammenhängenden Organsystemen. Dies ermöglicht zwar eine gewisse Kategorisierung und erleichtert das Erlernen, hat aber auch Nachteile. Topografische Aspekte, wie sie der Arzt/Tierarzt im klinischen Alltag bewältigen muss, bleiben unberücksichtigt. Zudem sind alle Organsysteme auch wieder untereinander verknüpft, die Haut besitzt z. B. Blutgefäße, Nerven, Zellen der Immunabwehr etc.
+Die Topographische Anatomie beschreibt die einzelnen Strukturen des Körpers nach ihren räumlichen Lagebeziehungen zueinander (topos: griech. „Ort“). Der große Vorteil liegt sicherlich darin, dass der Arzt/Tierarzt ein sehr anwendungsorientiertes Wissen erwirbt. So ist es z. B. für einen Handchirurgen nicht ausschließlich wichtig, zu welchem größeren Organsystem eine Struktur gehört, er muss besonders wissen, wo Nerven, Blutgefäße bzw. Sehnen genau verlaufen. Auch für die Anwendung bildgebender Verfahren sind topografisch-anatomische Kenntnisse von großer Bedeutung. Die Topographische Anatomie bedient sich standardisierter Lage- und Richtungsbezeichnungen, die von der aktuellen Körperposition unabhängig sind und stattdessen relative Bezugspunkte verwendet. Funktionelle Zusammenhänge können nicht nur aus strukturellen und insbesondere topographischen Eigentümlichkeiten des Aufbaus von körperlicher Gestalt und Organen, sondern insbesondere auch aus der somatotopischen Struktur des Nervengewebes erschlossen werden.[1]
+
+Die vergleichende Anatomie untersucht den Körperbau verschiedener Tierarten. Bereits die klassische biologische Systematik beruhte auf baulichen Gemeinsamkeiten und Unterschieden für die Einteilung von den Reichen bis zu den Arten, zunehmend werden aber auch genetische Differenzen in die Klassifikation einbezogen. Mit der Gegenüberstellung und dem Vergleich verschiedener Tierarten lassen sich manchmal Beobachtungen an einer Tierart überhaupt erst deuten. Darüber hinaus bietet dieser Vergleich die Möglichkeit, bestimmte bauliche Grundprinzipien zu erkennen und damit die Basis für eine gemeinsame Benennung zu schaffen. Der Mediziner, Anatom und Physiologe Hermann Friedrich Stannius (1808–1883) aus Rostock führte den Begriff Zootomie ein, welcher sich fast gänzlich mit dem Begriff der vergleichenden Anatomie deckt.
+Mikroskopische Anatomie
+Für die Untersuchung anatomischer Strukturen unterhalb des mit bloßem Auge sichtbaren Bereichs ist die Mikroskopische Anatomie (Histologie) zuständig. Sie beschreibt den Feinbau von Organen, Geweben und Zellen.
+
+Embryologie
+Die Embryologie beschreibt die Entstehung der anatomischen Strukturen während der Embryonalentwicklung. Anhand der Entstehungsgeschichte lassen sich vielfältige topografische und funktionelle Beziehungen erkennen. Auch für das Verständnis der Entstehung von Fehlbildungen sind embryologische Kenntnisse unverzichtbar.
+
+Aufgaben in der medizinischen Ausbildung
+
+Tafel am Hörsaal der Anatomie in Leipzig
+Ein wichtiges Gebiet der Anatomie ist die Bereitstellung von Anschauungsmaterialien zur Arztausbildung. Dies geschieht in Präparierkursen und -übungen, Vorlesungsveranstaltungen, anatomischen Sammlungen, anatomischen Museen, vergleichenden anatomischen Sammlungen oder anatomischen Lehrsammlungen.
+
+Entsprechendes gilt für die Erstellung anatomischer Lehrbücher und Atlanten, in denen auch heute noch feine Zeichnungen (Strichzeichnungen) ihre didaktische Bedeutung haben.
+
+Einzelnachweise
+Alfred Benninghoff u. a.: Lehrbuch der Anatomie des Menschen. Dargestellt unter Bevorzugung funktioneller Zusammenhänge. 3. Band: Nervensystem, Haut und Sinnesorgane. Urban und Schwarzenberg, München 1964, Seite 112–297.
+Literatur (Auswahl)
+Gerhard Baader: Zur Anatomie in Paris im 13. und 14. Jahrhundert. Medizinhistorisches Journal 3 (1968), S. 40–53.
+Leonardo da Vinci: Anatomische Zeichnungen. Aus der königlichen Bibliothek auf Schloss Windsor. Hamburger Kunsthalle 1979.
+J. M. Bourgery, N. H. Jacob: Atlas of Human Anatomy and Surgery. The complete colored Plates of 1831–1854. Jean-Marie Le Minor, Henri Sick: Atlas der Anatomie und Chirurgie von J. M. Bourgery und N. H. Jacob. Ein Monumentalwerk des 19. Jahrhunderts. Dreisprachig (f/e/d), Faksimile-Reprint 726 handkolorierte Lithografien, Großformat. Taschen, Köln 2005, ISBN 978-2-286-01268-7.
+Ernst Seidl, Philipp Aumann: KörperWissen. Erkenntnis zwischen Eros und Ekel, Tübingen: MUT, 2009, ISBN 978-3-9812736-1-8.
+Ralf Vollmuth: Das anatomische Zeitalter. Verlag Neuer Merkur, München 2004, ISBN 3-929360-70-5.
+Hermann Stannius: Handbuch der Anatomie der Wirbelthiere, Band 1. Veit, 1854.
+Carl von Siebold und Hermann Stannius: Handbuch der Zootomie, Band 2. Veit, 1854.
+Ralf Vollmuth: Das anatomische Zeitalter. Die Anatomie der Renaissance von Leonardo da Vinci bis Andreas Vesal. Verlag Neuer Merkur, München 2004, ISBN 3-929360-70-5.
+Siehe auch
+Codex Windsor, Leonardo da Vincis anatomische Studien
+Plastination
+Visible Human Project und Voxel-Man
+Weblinks
+ Commons: Anatomie – Sammlung von Bildern, Videos und Audiodateien
+ Wikisource: Anatomie – Quellen und Volltexte
+ Wiktionary: Anatomie – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Wikibooks: Topographische Anatomie – Lern- und Lehrmaterialien
+ Wikibooks: Neuroanatomie – Lern- und Lehrmaterialien
+Vorlesung Topographische Anatomie Videoaufzeichnungen einer Vorlesung. Von TIMMS, Tübinger Internet Multimedia Server der Eberhard Karls Universität Tübingen.
+apotheken-umschau: interaktiver Koerperatlas
+Normdaten (Sachbegriff): GND: 4001895-7
+Von „http://de.wikipedia.org/w/index.php?title=Anatomie&oldid=140331842“
+Kategorien: AnatomieMedizinisches Fachgebiet
+Diese Seite wurde zuletzt am 27. März 2015 um 20:04 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

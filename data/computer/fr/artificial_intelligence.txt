@@ -1,0 +1,450 @@
+Intelligence artificielle
+
+
+Le robot humanoïde ASIMO.
+L'intelligence artificielle est l'intelligence des machines et des logiciels. C'est une discipline scientifique qui recherche des méthodes de création ou simulation de l'intelligence.
+
+Sommaire
+
+1 Définition
+2 Histoire
+3 Test de Turing
+4 Intelligence artificielle forte
+4.1 Définition
+4.2 Estimation de faisabilité
+4.3 Diversité des opinions
+4.4 Travaux complémentaires
+5 Intelligence artificielle faible
+5.1 Estimation de faisabilité
+6 Courants de pensée
+6.1 Cognitivisme
+6.2 Connexionnisme
+6.3 Synthèse
+7 Différentes facettes
+8 Conception de systèmes
+9 Utilisation
+9.1 Domaines d’application
+9.2 Jeux vidéo
+10 Précurseurs
+10.1 Automates
+10.2 Pensée automatique
+11 Questions soulevées
+11.1 Essor
+11.2 Espoirs et méfiances
+12 Dans la science-fiction
+13 Actualités
+14 Bibliographie
+15 Notes et références
+16 Annexes
+16.1 Articles connexes
+16.2 Liens externes
+Définition
+
+Le terme « intelligence artificielle », créé par John McCarthy, est souvent abrégé par le sigle « I.A. » (ou « A.I. » en anglais, pour Artificial Intelligence). Il est défini par l’un de ses créateurs, Marvin Lee Minsky, comme « la construction de programmes informatiques qui s’adonnent à des tâches qui sont, pour l’instant, accomplies de façon plus satisfaisante par des êtres humains car elles demandent des processus mentaux de haut niveau tels que : l’apprentissage perceptuel, l’organisation de la mémoire et le raisonnement critique »1,2. On y trouve donc le côté « artificiel » atteint par l'usage des ordinateurs ou de processus électroniques élaborés et le côté « intelligence » associé à son but d'imiter le comportement. Cette imitation peut se faire dans le raisonnement, par exemple dans les jeux ou la pratique des mathématiques, dans la compréhension des langues naturelles, dans la perception : visuelle (interprétation des images et des scènes), auditive (compréhension du langage parlé) ou par d'autres capteurs, dans la commande d'un robot dans un milieu inconnu ou hostile.
+
+Même si elles respectent globalement la définition de Minsky, il existe un certain nombre de définitions différentes de l'IA qui varient sur deux points fondamentaux3 :
+
+Les définitions qui lient la définition de l'IA à un aspect humain de l'intelligence, et celles qui la lient à un modèle idéal d'intelligence, non forcément humaine, nommée rationalité.
+Les définitions qui insistent sur le fait que l'IA a pour but d'avoir toutes les apparences de l'intelligence (humaine ou rationnelle), et celles qui insistent sur le fait que le fonctionnement interne du système d'IA doit ressembler également à celui de l'être humain ou être rationnel.
+Histoire
+
+Article détaillé : Histoire de l'intelligence artificielle.
+
+Deep Blue, le premier ordinateur à battre un champion du monde d'échecs en titre.
+L'origine de l'intelligence artificielle se trouve probablement dans l'article d'Alan Turing « Computing Machinery and Intelligence » (Mind, octobre 1950)4, où Turing explore le problème et propose une expérience maintenant connue sous le nom de test de Turing dans une tentative de définition d'un standard permettant de qualifier une machine de « consciente ». Il développe cette idée dans plusieurs forums, dans la conférence « L'intelligence de la machine, une idée hérétique »5, dans la conférence qu'il donne à la BBC 3e programme le 15 mai 1951 « Les calculateurs numériques peuvent-ils penser ? »6 ou la discussion avec M.H.A. Newman, Sir Geoffrey Jefferson et R.B. Braithwaite les 14 et 23 janvier 1952 sur le thème « Les ordinateurs peuvent-ils penser? »7.
+
+On considère que l'intelligence artificielle, en tant que domaine de recherche, a été créée à la conférence qui s'est tenue sur le campus de Dartmouth College pendant l'été 19568 à laquelle assistaient ceux qui vont marquer la discipline. Ensuite l'intelligence artificielle se développe surtout aux États-Unis à l'université Stanford sous l'impulsion de John McCarthy, au MIT sous celle de Marvin Minsky, à l'université Carnegie-Mellon sous celle de Allen Newell et Herbert Simon et à l'université d'Édimbourg sous celle de Donald Michie. En France, l'un des pionniers est Jacques Pitrat.
+
+Test de Turing
+
+
+Démonstration du test de turing
+9A l’orée des années 1950, entre la naissance de la cybernétique et l’émergence quelques années plus tard de l’intelligence artificielle (I.A), alors que les meilleurs esprits du temps s’interrogent sur la possibilité de construire des machines pensantes, Alan Turing propose, dès le début d’un article demeuré célèbre , un test pour déterminer si une machine peut être défini par "consciente".
+
+10Définir l’intelligence est difficile et il n’est pas certain qu’on puisse y arriver un jour d’une façon satisfaisante. C’est cette remarque qui poussa le mathématicien britannique Alan Turing, il y a soixante ans, à proposer "le jeu de l’imitation" qui fixait un objectif précis à la science naissante des ordinateurs que l'on appelait pas encore informatique. Ce "jeu de l'imitation" suggérait qu'un juge puisse dialoguer avec une machine et un humain à l'aide d'un terminal sans pouvoir les différencier l'un de l'autre.
+
+Jusqu'à ce jour, personne n'a encore pu réaliser ce test, malgré la tentative de nombreux programme, et devant la pertinence de ses échecs certains informaticiens pensent que réaliser un programme aussi complexe ne permettrait pas de démontrer l'intelligence du programme et sa capacité à penser.
+
+9De nos jours, une machine peut certes réviser, faire évoluer des objectifs qu’on lui a attribués. Une machine peut même être programmée pour pouvoir réécrire, restructurer sa connaissance initiale à partir d’informations reçues/perçues. Mais la machine d’aujourd’hui ne pense pas : elle n’a pas conscience d’elle-même (et en particulier de ses limites), elle ne peut pas ultimement décider de ses buts ni sans doute imaginer de nouvelles formes de représentations du monde.
+
+Intelligence artificielle forte
+
+Définition
+
+Le concept d’intelligence artificielle forte fait référence à une machine capable non seulement de produire un comportement intelligent, mais d’éprouver une impression d'une réelle conscience de soi, de « vrais sentiments » (quoi qu’on puisse mettre derrière ces mots), et « une compréhension de ses propres raisonnements » 11.
+
+L’intelligence artificielle forte a servi de moteur à la discipline, mais a également suscité de nombreux débats. En se fondant sur le constat que la conscience a un support biologique et donc matériel, les scientifiques ne voient généralement pas d’obstacle de principe à créer un jour une intelligence consciente sur un support matériel autre que biologique. Selon les tenants de l'IA forte, si à l'heure actuelle il n'y a pas d'ordinateurs ou de robots aussi intelligents que l'être humain, ce n'est pas un problème d'outil mais de conception. Il n'y aurait aucune limite fonctionnelle (un ordinateur est une machine de Turing universelle avec pour seules limites les limites de la calculabilité), il n'y aurait que des limites liées à l'aptitude humaine à concevoir les logiciels appropriés (programme, base de données...). Elle permet notamment de modéliser des idées abstraites.
+
+Estimation de faisabilité
+
+On peut être tenté de comparer la capacité de traitement de l'information d'un cerveau humain à celle d'un ordinateur pour estimer la faisabilité d'une IA forte. Il s'agit cependant d'un exercice purement spéculatif, et la pertinence de cette comparaison n'est pas établie. Cette estimation très grossière est surtout destinée à préciser les ordres de grandeur en présence.
+
+Un ordinateur typique de 1970 effectuait 107 opérations logiques par seconde, et occupait donc - géométriquement - une sorte de milieu entre une balance de Roberval (1 opération logique par seconde) et le cerveau humain (grossièrement 2 × 1014 opérations logiques par seconde, car formé de 2 × 1012 neurones ne pouvant chacun commuter plus de 100 fois par seconde)12; comme on peut le lire sur le lien en référence, l'estimation d'un constructeur est que la puissance brute du cerveau humain serait égalable en 2019, sous réserve que la loi de Moore s'applique jusque là. En 2005, un microprocesseur typique traite 64 bits en parallèle (128 dans le cas de machines à double cœur) à une fréquence typique de 2 GHz, ce qui place en puissance brute dans les 1011 opérations logiques par seconde. En ce qui concerne ces machines destinées au particulier, l'écart s'est donc nettement réduit. En ce qui concerne les machines comme Blue Gene, il a même changé de sens.
+
+Un article de 201313 examine par plusieurs voies quelle pourrait être la capacité mémoire nécessaire et, selon le mode de calcul, obtient des chiffres très différents : 1 To, 100 To, 2 500 To (voir big data), évoquant aussi par jeu 300 Mo, soit 60 MP3 de 3 minutes.
+
+Le matériel serait donc maintenant présent. Du logiciel à la mesure de ce matériel resterait à développer. En effet, l'important n'est pas de raisonner plus vite, en traitant plus de données, ou en mémorisant plus de choses que le cerveau humain14, l'important est de traiter les informations de manière appropriée.
+
+L'IA souligne la difficulté à expliciter toutes les connaissances utiles à la résolution d'un problème complexe. Certaines connaissances dites implicites sont acquises par l'expérience et mal formalisables. Par exemple, qu'est-ce qui distingue un visage familier de deux cents autres ? Nous ne savons pas toujours clairement l'exprimer15. L'apprentissage de ces connaissances implicites par l'expérience est exploitée depuis les années 1980 (voir Réseau de neurones). Néanmoins, un autre type de complexité apparaît : la complexité structurelle. Comment mettre en relation des modules spécialisés pour traiter un certain type d'informations, par exemple un système de reconnaissance des formes visuelles, un système de reconnaissance de la parole, un système lié à la motivation, à la coordination motrice, au langage, etc. En revanche, une fois un système cognitif conçu et son apprentissage par l'expérience réalisé, l'"intelligence" correspondante peut être distribuée en un grand nombre d'exemplaires, par exemple sur les portables d'actuaires ou de banquiers pouvant ainsi, comme le rappelle un slogan, dire oui ou non, mais le dire tout de suite grâce à des applications dites de credit scoring.
+
+Diversité des opinions
+
+Les principales opinions soutenues pour répondre à la question d’une intelligence artificielle consciente sont les suivantes :
+
+Impossible : la conscience serait le propre des organismes vivants, et elle serait liée à la nature des systèmes biologiques. Cette position est défendue principalement par des philosophes et des religieux.
+Problème : Elle rappelle toutefois toutes les controverses passées entre vitalistes et matérialistes, l'histoire ayant à plusieurs reprises infirmé les positions des premiers.
+Impossible avec des machines manipulant des symboles comme les ordinateurs actuels, mais possible avec des systèmes dont l’organisation matérielle serait fondée sur des processus quantiques. Cette position est défendue notamment par Roger Penrose. Des algorithmes quantiques sont théoriquement capables de mener à bien des calculs hors de l'atteinte pratique des calculateurs conventionnels (complexité en N \ln(N)~ au lieu de N^2~, par exemple, sous réserve d'existence du calculateur approprié). Au-delà de la rapidité, le fait que l'on puisse envisager des systèmes quantiques en mesure de calculer des fonctions non-turing-calculables (voir Hypercalcul) ouvre des possibilités qui - selon cet auteur - sont fondamentalement interdites aux machines de Turing.
+Problème : On ne dispose pas encore pour le moment d'algorithmes d'IA à mettre en œuvre dans ce domaine. Tout cela reste donc spéculatif.
+Impossible avec des machines manipulant des symboles comme les ordinateurs actuels, mais possible avec des systèmes dont l’organisation matérielle mimerait le fonctionnement du cerveau humain, par exemple avec des circuits électroniques spécialisés reproduisant le fonctionnement des neurones.
+Problème : Le système en question répondant exactement de la même façon que sa simulation sur ordinateur - toujours possible - au nom de quel principe leur assigner une différence ?16
+Impossible avec les algorithmes classiques manipulant des symboles (logique formelle), car de nombreuses connaissances sont difficiles à expliciter mais possible avec un apprentissage par l'expérience de ces connaissances à l'aide d'outils tels que des réseaux de neurones formels, dont l'organisation logique et non matérielle s'inspire des neurones biologiques, et utilisés avec du matériel informatique conventionnel.
+Problème : si du matériel informatique conventionnel est utilisé pour réaliser un réseau de neurones, alors il est possible de réaliser l'IA avec les ordinateurs classiques manipulant des symboles (puisque ce sont les mêmes machines, voir Thèse de Church-Turing). Cette position parait donc incohérente. Toutefois, ses défenseurs (thèse de l'IA forte) arguent que l'impossibilité en question est liée à notre inaptitude à tout programmer de manière explicite, elle n'a rien à voir avec une impossibilité théorique. Par ailleurs, ce que fait un ordinateur, un système à base d'échanges de bouts de papier dans une salle immense peut le simuler quelques milliards de fois plus lentement. Or il peut rester difficile à admettre que cet échange de bouts de papiers « ait une conscience ». Voir Chambre chinoise. Selon les tenants de l'IA forte, cela ne pose toutefois pas de problème.
+Impossible car la pensée n'est pas un phénomène calculable par des processus discrets et finis. Pour passer d'un état de pensée au suivant, il y a une infinité non dénombrable, une continuité d'états transitoires. Cette idée est réfutée par Alain Cardon (Modéliser et concevoir une Machine pensante).
+Possible avec des ordinateurs manipulant des symboles. La notion de symbole est toutefois à prendre au sens large. Cette option inclut les travaux sur le raisonnement ou l'apprentissage symbolique basé sur la logique des prédicats, mais aussi les techniques connexionnistes telles que les réseaux de neurones, qui, à la base, sont définies par des symboles. Cette dernière opinion constitue la position la plus engagée en faveur de l'intelligence artificielle forte.
+Des auteurs comme Hofstadter (mais déjà avant lui Arthur C. Clarke ou Alan Turing) (voir le test de Turing) expriment par ailleurs un doute sur la possibilité de faire la différence entre une intelligence artificielle qui éprouverait réellement une conscience, et une autre qui simulerait exactement ce comportement. Après tout, nous ne pouvons même pas être certains que d’autres consciences que la nôtre, y compris chez des humains, éprouvent réellement quoi que ce soit, si ce n'est par une pétition de principe qui spécule que chaque humain se retrouve à l'identique chez tous les autres. On retrouve là le problème connu du solipsisme en philosophie.
+
+Travaux complémentaires
+
+Le mathématicien de la physique Roger Penrose17 pense que la conscience viendrait de l'exploitation de phénomènes quantiques dans le cerveau (voir microtubules), empêchant la simulation réaliste de plus de quelques dizaines de neurones sur un ordinateur normal, d’où les résultats encore très partiels de l’IA. Il restait jusqu’à présent isolé sur cette question. Un autre chercheur a présenté depuis une thèse de même esprit quoique moins radicale : Andrei Kirilyuk18
+
+Cette spéculation reste néanmoins marginale par rapport aux travaux des neurosciences. L'action de phénomènes quantiques est évidente dans le cas de la rétine (quelques quanta de lumière seulement suffisent à une perception) ou de l'odorat, mais elle ne constitue pas une condition préalable à un traitement efficace de l'information. En effet, le traitement de l'information effectué par le cerveau est relativement robuste et ne dépend pas de l'état quantique de chaque molécule, ni même de la présence ou de la connexion de neurones isolés.
+Cela dit, l’intelligence artificielle est loin de se limiter aux seuls réseaux de neurones, qui ne sont généralement utilisés que comme classifieurs. Les techniques de résolution générale de problèmes et la logique des prédicats19, entre autres, ont fourni des résultats significatifs et sont exploités par des ingénieurs et chercheurs dans plusieurs domaines (en particulier depuis Mycin (en) en 1973 pour le diagnostic des maladies du sang).
+
+Intelligence artificielle faible
+
+La notion d’intelligence artificielle faible constitue une approche pragmatique d’ingénieur : chercher à construire des systèmes de plus en plus autonomes (pour réduire le coût de leur supervision), des algorithmes capables de résoudre des problèmes d’une certaine classe, etc. Mais, cette fois, la machine simule l'intelligence, elle semble agir comme si elle était intelligente. On en voit des exemples concrets avec les programmes conversationnels qui tentent de passer le test de Turing, comme ELIZA. Ces logiciels parviennent à imiter de façon grossière le comportement d'humains face à d'autres humains lors d'un dialogue.
+
+Joseph Weizenbaum, créateur du programme ELIZA, met en garde le public dans son ouvrage Computer Power and Human Reason : si ces programmes « semblent » intelligents, ils ne le sont pas : ELIZA simule très grossièrement un psychologue en relevant immédiatement toute mention du père ou de la mère, en demandant des détails sur tel élément de phrase et en écrivant de temps en temps "Je comprends.", mais son auteur rappelle il s'agit d'une simple mystification : le programme ne comprend en réalité rien.
+
+Les tenants de l'IA forte admettent que s'il y a bien dans ce cas simple simulation de comportements intelligents, il est aisé de le découvrir et qu'on ne peut donc généraliser. En effet, si on ne peut différencier expérimentalement deux comportements intelligents, celui d'une machine et celui d'un humain, comment peut-on prétendre que les deux choses ont des propriétés différentes ? Le terme même de « simulation de l'intelligence » est contesté et devrait, toujours selon eux, être remplacé par « reproduction de l'intelligence ».
+
+Les tenants de l'IA faible arguent que la plupart des techniques actuelles d’intelligence artificielle sont inspirées de leur paradigme. Ce serait par exemple la démarche utilisée par IBM dans son projet nommé Autonomic computing. La controverse persiste néanmoins avec les tenants de l'IA forte qui contestent cette interprétation.
+
+Simple évolution, donc, et non révolution : l’intelligence artificielle s’inscrit à ce compte dans la droite succession de ce qu’ont été la recherche opérationnelle dans les années 1960, la supervision (en anglais : process control) dans les années 1970, l’aide à la décision dans les années 1980 et le data mining dans les années 1990. Et, qui plus est, avec une certaine continuité.
+
+Il s'agit surtout d'intelligence humaine reconstituée, et de programmation ad hoc d'un apprentissage, sans qu'une théorie unificatrice n'existe pour le moment (2011). Le Théorème de Cox-Jaynes indique toutefois, ce qui est un résultat fort, que sous cinq contraintes raisonnables, tout procédé d'apprentissage devra être soit conforme à l'inférence bayésienne, soit incohérent à terme, donc inefficace20.
+
+Estimation de faisabilité
+
+Le sémanticien François Rastier, après avoir rappelé les positions de Turing et de Grice à ce sujet, propose21 six « préceptes » conditionnant un système de dialogue évolué, en précisant qu'elles sont déjà mises en œuvre par des systèmes existants :
+
+objectivité (utilisation d'une base de connaissance par le système)
+textualité (prise en compte d'interventions de plus d'une phrase, qu'elles émanent du système ou de l'utilisateur)
+apprentissage (intégration au moins temporaire d'informations issues des propos de l'utilisateur)
+questionnement (demande de précisions de la part du système)
+rectification (suggestion de rectifications à la question posée, lorsque nécessaire)
+explicitation (explicitation par le système d'une réponse qu'il a apportée précédemment).
+Il suggère aussi que le système devrait être en mesure de se faire par lui-même une représentation de l'utilisateur auquel il a affaire, pour s'adapter à lui. De son côté, l'utilisateur a tendance à s'adapter au système à partir du moment où il a bien compris qu'il s'adresse à une machine : il ne conversera pas de la même manière avec un système automatisé qu'avec un interlocuteur humain, ce qui présente pour le concepteur l'avantage pragmatique de simplifier certains aspects du dialogue.
+
+Courants de pensée
+
+La cybernétique naissante des années 1940 revendiquait très clairement son caractère pluridisciplinaire et se nourrissait des contributions les plus diverses : neurophysiologie, psychologie, logique, sciences sociales… Et c’est tout naturellement qu’elle envisagea deux approches des systèmes, deux approches reprises par les sciences cognitives et de ce fait l’intelligence artificielle : une approche par la décomposition (du haut vers le bas) et une approche contraire par construction progressive du bas vers le haut.
+
+Ces deux approches se révèlent plutôt complémentaires que contradictoires : on est à l'aise pour décomposer rapidement ce que l'on connaît bien, et une approche pragmatique à partir des seuls éléments que l'on connaît afin de se familiariser avec les concepts émergents est plus utile pour les domaines inconnus. Elles sont respectivement à la base des hypothèses de travail que constituent le cognitivisme et le connexionnisme, qui tentent aujourd'hui (2005) d'opérer progressivement leur fusion.
+
+Le HOWTO de Linux sur l'intelligence artificielle v3.022, révisé le 15 décembre 2012, adopte pour la commodité du lecteur la taxinomie suivante :
+
+Systèmes symboliques
+Connexionnisme
+Calcul évolutif (algorithmes génétiques, par exemple)
+Alife (vie artificielle) et Complexité
+Agents et robotique
+Cognitivisme
+
+Le cognitivisme considère que le vivant, tel un ordinateur (bien que par des procédés évidemment très différents), manipule essentiellement des symboles élémentaires. Dans son livre La société de l’esprit, Marvin Minsky, s’appuyant sur des observations du psychologue Jean Piaget envisage le processus cognitif comme une compétition d’agents fournissant des réponses partielles et dont les avis sont arbitrés par d’autres agents. Il cite les exemples suivants de Piaget :
+
+L’enfant croit d’abord que plus le niveau d’eau est élevé dans un verre, plus il y a d’eau dans ce verre. Après avoir joué avec des transvasements successifs, il intègre le fait que la notion de hauteur du liquide dans le verre entre en compétition avec celle du diamètre du verre, et arbitre de son mieux entre les deux.
+Il vit ensuite une expérience analogue en manipulant de la pâte à modeler : la réduction de plusieurs objets temporairement représentés à une même boule de pâte l’incite à dégager un concept de conservation de la quantité de matière.
+Au bout du compte, ces jeux d’enfants se révèlent essentiels à la formation de l’esprit, qui dégagent quelques règles pour arbitrer les différents éléments d’appréciation qu’il rencontre, par essais et erreurs.
+
+Connexionnisme
+
+Le connexionnisme, se référant aux processus auto-organisationnels, envisage la cognition comme le résultat d’une interaction globale des parties élémentaires d’un système. On ne peut nier que le chien dispose d'une sorte de connaissance des équations différentielles du mouvement, puisqu’il arrive à attraper un bâton au vol. Et pas davantage qu’un chat ait aussi une sorte de connaissance de la loi de chute des corps, puisqu’il se comporte comme s’il savait à partir de quelle hauteur il ne doit plus essayer de sauter directement pour se diriger vers le sol. Cette faculté qui évoque un peu l’intuition des philosophes se caractériserait par la prise en compte et la consolidation d’éléments perceptifs dont aucun pris isolément n’atteint le seuil de la conscience, ou en tout cas n’y déclenche d’interprétation particulière.
+
+Synthèse
+
+Trois concepts reviennent de façon récurrente dans la plupart des travaux :
+
+la redondance (le système est peu sensible à des pannes ponctuelles)
+la réentrance (les composants s'informent en permanence entre eux ; cette notion diffère de la réentrance en programmation)
+la sélection (au fil du temps, les comportements efficaces sont dégagés et renforcés)
+Différentes facettes
+
+On peut considérer différents dispositifs intervenant, ensemble ou séparément, dans un système d’intelligence artificielle tels que :
+
+Le dialogue automatique : se faire comprendre en lui parlant,
+La traduction automatique, si possible en temps réel ou très légèrement différé,
+Le traitement automatique du langage naturel,
+Le raisonnement automatique (voir systèmes experts),
+L’apprentissage automatique,
+La composition musicale automatique (voir les travaux de René-Louis Baron et de l'Ircam),
+La reconnaissance de formes, des visages et la vision en général, etc.
+L'intégration automatique d’informations provenant de sources hétérogènes, (fusion de données)
+L'émotion artificielle (voir les travaux de Rosalind Picard sur l'émotion) et l'éventualité d'une subjectivité artificielle
+Etc.
+Les réalisations actuelles de l’intelligence artificielle peuvent intervenir dans les fonctions suivantes :
+
+L'aide aux diagnostics
+L'aide à la décision.
+La résolution de problèmes complexes, tels que les problèmes d'allocation de ressources.
+L'assistance par des machines dans les tâches dangereuses, ou demandant une grande précision,
+L'automatisation de tâches
+etc.
+Conception de systèmes
+
+Au fil du temps, certains langages de programmation se sont avérés plus commodes que d’autres pour écrire des applications d’intelligence artificielle. Parmi ceux-ci, Lisp et Prolog furent sans doute les plus médiatisés. Lisp constituait une solution ingénieuse pour faire de l’intelligence artificielle en FORTRAN. ELIZA (le premier chatterbot, donc pas de la « véritable » intelligence artificielle) tenait en trois pages de SNOBOL. On utilise aussi, plus pour des raisons de disponibilité et de performance que de commodité, des langages classiques tels que C ou C++. Lisp a eu pour sa part une série de successeurs plus ou moins inspirés de lui, dont le langage Scheme et les langages typés de la programmation fonctionnelle comme Haskell ou OCaml.
+
+Des programmes de démonstration de théorèmes géométriques simples ont existé dès les années 1960 ; et des logiciels tels que Maple ou Mathematica effectuent aujourd’hui des travaux d’intégration symbolique qui, il y a trente ans encore, étaient du ressort d’un étudiant de mathématiques supérieures.
+
+Utilisation
+
+Domaines d’application
+
+L'intelligence artificielle a été utilisée (ou intervient) dans une variété de domaines tels que :
+
+la banque, avec des systèmes experts d'évaluation de risque lié à l'octroi d'un crédit (credit-scoring)
+le militaire, avec les systèmes autonomes tels que les drones, les systèmes de commandement et l'aide à la décision
+les jeux
+la médecine, avec les systèmes experts d'aide au diagnostic
+la logistique, au travers d'approches heuristiques de type résolution de problème de satisfaction de contraintes
+Jeux vidéo
+
+L'intelligence artificielle a par exemple été utilisée depuis longtemps dans la conception de joueurs artificiels pour le jeu d'échecs. Toutefois, c'est dans les jeux vidéo que l'intelligence artificielle s'est le plus popularisée, et c'est aussi un des domaines où elle se développe rapidement. Celle-ci bénéficie en effet des progrès de l'informatique, avec par exemple les cartes graphiques dédiées qui déchargent le processeur principal des tâches graphiques. Le processeur principal peut désormais être utilisé pour développer des systèmes d’IA plus perfectionnés. Par exemple, l'intelligence artificielle peut être utilisée pour 'piloter' des bots (c'est-à-dire les personnages artificiels) évoluant dans les MMOGs ou les mondes virtuels, mais on peut aussi citer son utilisation dans des jeux de simulation, ou pour animer des personnages artificiels.
+
+Dans le domaine du jeu vidéo, l’IA caractérise toute prise de décision d’un personnage (ou d’un groupe) géré par le jeu, et contraint par l’intérêt ludique : une « meilleure » IA ne donne pas forcément un jeu plus jouable23, l’objectif est de donner l’illusion d’un comportement intelligent23. L'éventail de sujets (recherche de chemin, animation procédurale, planifications stratégiques…) sont réalisables par différentes techniques classiques issues de deux paradigmes distincts : IA symbolique (automates, script, systèmes multi-agents…), et IA située (réseau de neurones, algorithmes évolutionnistes…) ; où l’une est fortement dépendante de l’expertise humaine, et l’autre de l’expérience en situation24. La première approche est globalement préférée, car mieux contrôlée; la deuxième est préférée pour certains comportements (déplacement d’une formation, désirs/satisfactions)25. Elles partagent toutes les mêmes contraintes de ressources restreintes, que ce soit en mémoire, en temps de développement, ou en temps de calcul, même si globalement ces ressources augmentent plus les projets sont récents25.
+
+Jusqu'à la fin des années 1990, l’IA dans les jeux vidéo (plus particulièrement dans les jeux en temps réel) a été délaissée par rapport au rendu visuel et sonore. L’« évolution vers des univers toujours plus réalistes, leur peuplement par des personnages […] aux comportements crédibles devient une problématique importante »24. Pour éviter ce contraste, et coupler dans le même temps au délestage d’une grosse partie de l’aspect graphique des processeurs vers les cartes graphiques26, on constate à cette période une augmentation des ressources investies dans l’IA (temps de développement, ressource processeur)26. Certains jeux sont précurseurs (Creatures, Black and White) car l’IA y constitue l’élément central ludique[réf. nécessaire]. Partant d’une approche à base de règles rigides, les jeux utilisent alors des IA plus flexibles, diversifiant les techniques mises en œuvre23. Aujourd'hui la plupart des jeux vidéo utilisent des solutions ad hoc, il existe néanmoins des solutions middleware et également des solutions matérielles27 toutefois très minoritaires[réf. nécessaire].
+
+Avec les jeux en réseau, le besoin d’IA a tout d’abord été négligé26, mais, particulièrement avec l’apparition des jeux massivement multijoueur, et la présence d’un nombre très important de joueurs humains se confrontant à des personnages non joueur, ces derniers ont un besoin très important de pouvoir s'adapter à des situations qui ne peuvent être prévues. Actuellement ces types de jeux intéressent particulièrement des chercheurs en IA, y trouvant un environnement adéquat pour y éprouver différentes architectures adaptatives24.
+
+L'« IA scriptée » est une forme d'intelligence artificielle sans apprentissage, du type : « si le joueur a telle position, alors faire prendre tel chemin à deux PNJ », sans que le logiciel sache que cela encercle le joueur, ou ne varie sa stratégie.
+
+Précurseurs
+
+Si les progrès de l’intelligence artificielle sont récents, ce thème de réflexion est tout à fait ancien, et il apparaît régulièrement au cours de l’histoire. Les premiers signes d’intérêt pour une intelligence artificielle et les principaux précurseurs de cette discipline sont les suivants.
+
+Automates
+
+Article connexe : Automate.
+Une des plus anciennes traces du thème de « l’homme dans la machine » date de 800 avant notre ère, en Égypte. La statue du dieu Amon levait le bras pour désigner le nouveau pharaon parmi les prétendants qui défilaient devant lui, puis elle « prononçait » un discours de consécration. Les Égyptiens étaient probablement conscients de la présence d’un prêtre actionnant un mécanisme et déclarant les paroles sacrées derrière la statue, mais cela ne semblait pas être pour eux contradictoire avec l’incarnation de la divinité. Vers la même époque, Homère, dans L'Iliade (XVIII, 370–421), décrit les automates réalisés par le dieu forgeron Héphaïstos : des trépieds munis de roues en or, capables de porter des objets jusqu’à l’Olympe et de revenir seuls dans la demeure du dieu ; ou encore, deux servantes forgées en or qui l’assistent dans sa tâche. De même, le Géant de bronze Talos, gardien des rivages de la Crète, était parfois considéré comme une œuvre du dieu.
+
+Vitruve, architecte romain, décrit l’existence entre le IIIe et le ier siècle avant notre ère, d’une école d’ingénieurs fondée par Ctesibius à Alexandrie, et concevant des mécanismes destinés à l’amusement tels des corbeaux qui chantaient. Héron L'Ancien décrit dans son traité « Automates », un carrousel animé grâce à la vapeur et considéré comme anticipant les machines à vapeur. Les automates disparaissent ensuite jusqu’à la fin du Moyen Âge. On a prêté à Roger Bacon la conception d'automates doués de la parole; en fait, probablement de mécanismes simulant la prononciation de certains mots simples.
+
+Léonard de Vinci a construit un automate en forme de lion en l’honneur de Louis XII. Gio Battista Aleotti et Salomon de Caus, eux, ont construit des oiseaux artificiels et chantants, des flûtistes mécaniques, des nymphes, des dragons et des satyres animés pour égayer des fêtes aristocratiques, des jardins et des grottes. René Descartes, lui, aurait conçu en 1649 un automate qu’il appelait « ma fille Francine ». Il conduit par ailleurs une réflexion d’un modernisme étonnant sur les différences entre la nature des automates, et celles d’une part des animaux (pas de différence) et d’autre part celle des hommes (pas d’assimilation). Ces analyses en font le précurseur méconnu d’un des principaux thèmes de la science-fiction : l'indistinction entre le vivant et l’artificiel, entre les hommes et les robots, les androïdes ou les intelligences artificielles.
+
+
+Le canard artificiel de Vaucanson (1738)
+Jacques de Vaucanson a construit en 1738 un « canard artificiel de cuivre doré, qui boit, mange, cancane, barbote et digère comme un vrai canard ». Il était possible de programmer les mouvements de cet automate, grâce à des pignons placés sur un cylindre gravé, qui contrôlaient des baguettes traversant les pattes du canard. L’automate a été exposé pendant plusieurs années en France, en Italie et en Angleterre, et la transparence de l’abdomen permettait d’observer le mécanisme interne. Le dispositif permettant de simuler la digestion et d’expulser une sorte de bouillie verte fait l’objet d’une controverse. Certains commentateurs estiment que cette bouillie verte n’était pas fabriquée à partir des aliments ingérés, mais préparée à l’avance. D’autres estiment que cet avis n’est fondé que sur des imitations du canard de Vaucanson. Malheureusement, l’incendie du Musée de Nijni Novgorod en Russie vers 1879 détruisit cet automate.
+
+Les artisans Pierre et Louis Jaquet-Droz fabriquèrent parmi les meilleurs automates fondés sur un système purement mécanique, avant le développement des dispositifs électromécaniques. Certains de ces automates, par un système de cames multiples, étaient capables d'écrire un petit billet (toujours le même). Enfin, Les Contes d'Hoffmann (et ballet) L'Homme au sable décrit une poupée mécanique dont s'éprend le héros.
+
+Pensée automatique
+
+Parmi les premiers essais de formalisation de la pensée, les tentatives suivantes peuvent être citées :
+
+Raymond Lulle, missionnaire, philosophe, et théologien espagnol du xiiie siècle, a fait la première tentative pour engendrer des idées par un système mécanique. Il combinait aléatoirement des concepts grâce à une sorte de règle à calcul, un zairja, sur laquelle pivotaient des disques concentriques gravés de lettres et de symboles philosophiques. Il baptisa sa méthode Grand Art (Ars Magna), fondée sur l’identification de concepts de base, puis leur combinaison mécanique soit entre eux, soit avec des idées connexes. Raymond Lulle appliqua sa méthode à la métaphysique, puis à la morale, à la médecine et à l’astrologie. Mais il n’utilisait que la logique déductive, ce qui ne permettait pas à son système d’acquérir un apprentissage, ni davantage de remettre en cause ses principes de départ : seule la logique inductive le permet.
+Gottfried Wilhelm Leibniz, au xviie siècle, a imaginé un calcul pensant (calculus rationator), en assignant un nombre à chaque concept. La manipulation de ces nombres aurait permis de résoudre les questions les plus difficiles, et même d’aboutir à un langage universel. Leibniz a toutefois démontré que l’une des principales difficultés de cette méthode, également rencontrée dans les travaux modernes sur l’intelligence artificielle, est l’interconnexion de tous les concepts, ce qui ne permet pas d’isoler une idée de toutes les autres pour simplifier les problèmes liés à la pensée.
+George Boole a inventé la formulation mathématique des processus fondamentaux du raisonnement, connue sous le nom d’algèbre de Boole. Il était conscient des liens de ses travaux avec les mécanismes de l’intelligence, comme le montre le titre de son principal ouvrage paru en 1854 : « Les lois de la pensée » (The laws of thought), sur l’algèbre booléenne.
+Gottlob Frege perfectionna le système de Boole en formalisant le concept de prédicat, qui est une entité logique soit vraie, soit fausse (toute maison a un propriétaire), mais contenant des variables non logiques, n’ayant en soit aucun degré de vérité (maison, propriétaire). Cette formalisation eut une grande importance puisqu’elle permit de démontrer des théorèmes généraux, simplement en appliquant des règles typographiques à des ensembles de symboles. La réflexion en langage courant ne portait plus que sur le choix des règles à appliquer. Par ailleurs, l’utilisateur joue un rôle important puisqu'il connaît le sens des symboles qu’il a inventés et ce sens28 n'est pas toujours formalisé, ce qui ramène au problème de la signification en intelligence artificielle, et de la subjectivité des utilisateurs.
+Bertrand Russell et Alfred North Whitehead publièrent au début du xxe siècle un ouvrage intitulé « Principia mathematica », dans lequel ils résolvent des contradictions internes à la théorie de Gottlob Frege. Ces travaux laissaient espérer d’aboutir à une formalisation complète des mathématiques.
+Kurt Gödel démontre au contraire que les mathématiques resteront une construction ouverte, en publiant en 1931 un article intitulé « Des propositions formellement indécidables contenues dans les Principia mathematica et autres systèmes similaires ». Sa démonstration est qu’à partir d’une certaine complexité d’un système, on peut y créer plus de propositions logiques qu’on ne peut en démontrer vraies ou fausses. L’arithmétique, par exemple, ne peut trancher par ses axiomes si on doit accepter des nombres dont le carré soit -1. Ce choix reste arbitraire et n’est en rien lié aux axiomes de base. Le travail de Gödel suggère qu’on pourra créer ainsi un nombre arbitraire de nouveaux axiomes, compatibles avec les précédents, au fur et à mesure qu’on en aura besoin. Si l'arithmétique est démontrée incomplète, le calcul des prédicats (logique formelle) est au contraire démontré par Gödel comme complet.
+Alan Turing invente des machines abstraites et universelles (rebaptisées les machines de Turing), dont les ordinateurs modernes sont considérés comme des concrétisations. Il démontre l’existence de calculs qu’aucune machine ne peut faire (un humain pas davantage, dans les cas qu'il cite), sans pour autant que cela constitue pour Turing un motif pour douter de la faisabilité de machines pensantes répondant aux critères du test de Turing.
+Irving John Good29, Myron Tribus et E.T. Jaynes ont décrit de façon très claire les principes assez simples d’un robot à logique inductive utilisant les principes de l’inférence bayésienne pour enrichir sa base de connaissances sur la base du Théorème de Cox-Jaynes. Ils n’ont malheureusement pas traité la question de la façon dont on pourrait stocker ces connaissances sans que le mode de stockage entraîne un biais cognitif. Le projet est voisin de celui de Raymond Lulle, mais fondé cette fois-ci sur une logique inductive, et donc propre à résoudre quelques problèmes ouverts.
+Robot à logique inductive30
+Des chercheurs comme Alonzo Church ont posé des limites pratiques aux ambitions de la raison, en orientant la recherche (Herbert Simon, Michael Rabin, Stephen Cook) vers l’obtention des solutions en temps fini, ou avec des ressources limitées, ainsi que vers la catégorisation des problèmes selon des classes de difficulté (en rapport avec les travaux de Cantor sur l’infini).[réf. souhaitée]
+Questions soulevées
+
+Essor
+
+Cette section ne cite pas suffisamment ses sources. Pour l'améliorer, ajouter en note des références vérifiables ou les modèles {{Référence nécessaire}} ou {{Référence souhaitée}} sur les passages nécessitant une source.
+L’intelligence artificielle connaît un essor important pendant les 60 et 70, mais à la suite de résultats décevants eu égard aux capitaux investis, son succès s’estompe au milieu des 80. Par ailleurs, un certain nombre de questions restent posées[Qui ?] telles la possibilité un jour pour les robots d'accéder à la conscience31 ou d'éprouver des émotions.
+
+D’après certains auteurs[Qui ?], l’intelligence artificielle pourrait avoir des inconvénients, si par exemple les machines devenaient plus intelligentes que les humains, et finissaient par les dominer, voire (pour les plus pessimistes) à les exterminer, de la même façon que nous cherchons à exterminer certains êtres vivants et la majorité des virus. On reconnaît le thème du film Terminator, mais des personnalités techniquement très compétentes, comme Bill Joy, appréhendent un réel risque à long terme. Toutes ces possibilités futures ont fait l’objet de quantités de romans de science-fiction, tels ceux d’Isaac Asimov ou William Gibson en passant par Arthur C. Clarke.
+
+Espoirs et méfiances
+
+Cette section ne cite pas suffisamment ses sources. Pour l'améliorer, ajouter en note des références vérifiables ou les modèles {{Référence nécessaire}} ou {{Référence souhaitée}} sur les passages nécessitant une source.
+Une description spectaculaire d’un possible avenir de l’intelligence artificielle a été faite par I. J. Good : « supposons qu’existe une machine surpassant en intelligence tout ce dont est capable un homme, aussi brillant soit-il. La conception de telles machines faisant partie des activités intellectuelles, cette machine pourrait à son tour créer des machines meilleures qu’elle-même ; cela aurait sans nul doute pour effet une réaction en chaîne de développement de l’intelligence, pendant que l’intelligence humaine resterait presque sur place. Il en résulte que la machine ultra intelligente sera la dernière invention que l’homme aura besoin de faire, à condition que ladite machine soit assez docile pour constamment lui obéir. »[réf. souhaitée]
+
+La mutation qu'évoque Good correspond à un changement qualitatif du principe même de progrès, et certains la nomme « singularité »32 qui est un concept central pour de nombreux transhumanistes, qui s'interrogent très sérieusement sur les dangers ou les espoirs d'un tel scénario, certains allant jusqu'à envisager l'émergence d'un « dieu » numérique appelé à prendre le contrôle du destin de l'humanité, ou à fusionner avec elle.
+
+Good estimait à un peu plus d'une chance sur deux la mise au point d'une telle machine avant la fin du xxe siècle. La prédiction ne s’est toujours pas réalisée, en 2012, mais elle avait imprégné le public à l'époque : le cours de l’action d'IBM quadrupla[réf. nécessaire] (bien que les dividendes trimestriels versés restèrent à peu de près constants) dans les mois qui suivirent la victoire de Deep Blue sur Garry Kasparov. Une partie du grand public était en effet persuadée qu’IBM venait de mettre au point le vecteur d’une telle explosion de l’intelligence et que cette compagnie en tirerait profit. L’espoir fut déçu : une fois sa victoire acquise, Deep Blue, simple calculateur évaluant 200 millions de positions à la seconde, sans conscience du jeu lui-même, fut reconverti en machine classique utilisée pour l'exploration de données. Nous sommes probablement encore très loin d’une machine possédant ce que nous nommons intelligence générale, et tout autant d’une machine possédant la base de connaissances de n’importe quel chercheur, si humble soit-il.[réf. souhaitée]
+
+En revanche, un programme « comprenant » un langage naturel et connecté à l'Internet serait théoriquement susceptible de construire, petit à petit, une sorte de base de connaissances. Nous ignorons cependant tout, en 2012, tant de la structure optimale à choisir pour une telle base que du temps nécessaire à en rassembler et à en agencer le contenu.[réf. souhaitée]
+
+Dans la science-fiction
+
+
+Il existe une catégorie consacrée à ce sujet : Intelligence artificielle dans la fiction.
+Le thème d’une machine capable d’éprouver une conscience et des sentiments — ou en tout cas de faire comme si — constitue un grand classique de la science-fiction, notamment dans la série de romans d’Isaac Asimov sur les robots. Ce sujet a toutefois été exploité très tôt, comme dans le récit des aventures de Pinocchio, publié en 1881, où une marionnette capable d’éprouver de l’amour pour son créateur, cherche à devenir un vrai petit garçon, ou dans L'Homme le plus doué du monde, une nouvelle de l'Américain Edward Page Mitchell où le cerveau d'un simple d'esprit est remplacé par un ordinateur inspiré des recherches de Charles Babbage. Le roman Le Miroir flexible, par Régis Messac, propose quant à lui le principe d'une intelligence artificielle faible, mais évolutive, avec des automates inspirés de formes de vie simples, réagissant à certains stimulis tels que la lumière. Cette trame a fortement inspiré le film A.I. Intelligence artificielle, réalisé par Steven Spielberg, sur la base des idées de Stanley Kubrick, lui-même inspiré de Brian Aldiss. L'œuvre de Dan Simmons, notamment le cycle d'Hypérion, contient également des exposés et des développements sur le sujet. Autre œuvre majeure de la science fiction sur ce thème, Destination vide, de Frank Herbert, met en scène de manière fascinante l'émergence d'une intelligence artificielle forte.
+
+Les androïdes faisant preuve d'intelligence artificielle dans la fiction sont nombreux : Data, de Star Trek (Next generation), est un être cybernétique doué d'intelligence, avec des capacités importantes d'apprentissage. Il est officier supérieur sur le vaisseau Enterprise et évolue aux côtés de ses coéquipiers humains qui l'inspirent dans sa quête d'humanité. Il est la représentation type de l'androïde, tel qu'il était pensé dans les années 1980. Dans Ghost in the Shell, une androïde s’éveille à la conscience. Dans la saga Terminator avec Arnold Schwarzenegger, les T-800, conçus pour tuer, semblent dans la capacité d'éprouver des sentiments humains.
+
+1968 : 2001, l'Odyssée de l'espace de Stanley Kubrick, inspiré de la nouvelle La Sentinelle d'Arthur C. Clarke, également auteur du scénario du film, avec la lutte entre HAL et Dave ;
+1969 : Colossus: the Forbin project 1969, d’après le roman de Dennis Feltham Jones de 1967 (un système d’IA militaire américain contacte son homologue russe pour qu’ils coopèrent à leur mission commune, éviter la guerre nucléaire... en neutralisant les humains !).
+1981 : Blade Runner de Ridley Scott (1981), inspiré du roman éponyme de Philip K. Dick, où des hommes artificiels reviennent sur terre après une mission spatiale (mais n’acceptent pas la mort programmée suite au succès de leur mission) ;
+1982 : Tron de Steven Lisberger (1982), où le Maître contrôle principal (MCP) est un programme d'échec qui a évolué en IA et tente de prendre le contrôle total du système.
+1985 : D.A.R.Y.L. est un androïde que le gouvernement cherche à détruire.
+1999 : Matrix, trilogie cinématographique de science-fiction dans laquelle les humains, enfermés dans un monde créé par l'IA, sont asservis par les machines. Une petite poche de résistance résiste et se bat encore dans l'espoir de la venue de l'Élu : Néo.
+1999 : L'Homme bicentenaire (film): un exemplaire de NDR-114, dénommé "Andrew", poursuit un long chemin vers l'acquisition de la conscience, au point de se voir reconnaitre le statut d'être humain à la fin de sa "vie".
+2001 : A.I. Intelligence artificielle de Steven Spielberg, inspiré de la nouvelle de Brian Aldiss Les Supertoys durent tout l'été. Le personnage central est certainement un aboutissement - mais pour l’instant seulement imaginaire - de l’intelligence artificielle : un enfant-robot doué d’émotions et de sentiments ;
+2004 : I, Robot avec Will Smith, inspiré de l’œuvre de Isaac Asimov et thème semblable au film AI ;
+2012 - 2014 : la série télévisée suédoise Real Humans : 100 % humain décrit l'émergence de robots doués de conscience au sein de la société humaine ;
+Actualités
+
+L'intelligence artificielle est un sujet d'actualité au xxie siècle. En 2004, l'Institut Singularity a lancé une campagne Internet appelée « 3 Lois dangereuses » : « 3 Laws Unsafe » (les 3 lois d'Asimov) pour sensibiliser aux questions de la problématique de l'intelligence artificielle et l'insuffisance des lois d'Asimov en particulier. (Singularity Institute for Artificial Intelligence 2004)33.
+
+En 2005, le projet Blue Brain est lancé, il vise à simuler le cerveau des mammifères, il s'agit d'une des méthodes envisagées pour réaliser une IA. Ils annoncent de plus comme objectif de fabriquer, dans dix ans, le premier « vrai » cerveau électronique34. En mars 2007, le gouvernement sud-coréen a annoncé que plus tard dans l'année, il émettrait une charte sur l'éthique des robots, afin de fixer des normes pour les utilisateurs et les fabricants. Selon Park Hye-Young, du ministère de l'Information et de la communication, la Charte reflète les trois lois d'Asimov : la tentative de définition des règles de base pour le développement futur de la robotique. En juillet 2009, Californie, conférence organisé par l'Association for the Advancement of Artificial Intelligence (AAAI), où un groupe d'informaticiens se demande s'il devrait y avoir des limites sur la recherche qui pourrait conduire à la perte de l'emprise humaine sur les systèmes informatiques, et où il était également question de l'explosion de l'intelligence (artificielle) et du danger de la singularité technologique conduisant à un changement d'ère, ou de paradigme totalement en dehors du contrôle humain35,36.
+
+En 2009, le Massachusetts Institute of Technology (MIT) a lancé un projet visant à repenser la recherche en intelligence artificielle. Il réunira des scientifiques qui ont eu du succès dans des domaines distincts de l'IA. Neil Gershenfeld déclare « Nous voulons essentiellement revenir 30 ans en arrière, et de revoir quelques directions aujourd'hui gelées »37.
+
+En novembre 2009, l'US Air Force cherche à acquérir 2 200 playstation 338 pour utiliser le processeur cell à 7 ou 8 cœurs qu'elle contient dans le but d'augmenter les capacités de leur superordinateur constitué de 336 PlayStation 3 (total théorique 52,8 PetaFlops en double précision). Le nombre sera réduit à 1 700 unités le 22 décembre 200939. Le projet vise le traitement vidéo haute-définition, et l'« informatique neuromorphiques », ou la création de calculateurs avec des propriétés/fonctions similaires au cerveau humain38.
+
+Le 27 janvier 2010, l'US Air Force demande l'aide de l'industrie pour développer une intelligence avancée de collecte d'information et avec la capacité de décision rapide pour aider les forces américaines pour attaquer ses ennemis rapidement à leurs points les plus vulnérables. L'US Air Force utilisera une intelligence artificielle, le raisonnement ontologique, et les procédures informatique basées sur la connaissance, ainsi que d'autres traitement de données avancées afin de frapper l'ennemi au meilleur point40. D'autre part, d’ici 2020, plus de mille bombardiers et chasseurs F-22 et F-35 de dernière génération, parmi plus de 2 500 avions militaires, commenceront à être équipés de sorte que, d’ici 2040, tous les avions de guerre américains soient pilotés par intelligence artificielle, en plus des 10 000 véhicules terrestres et des 7 000 dispositifs aériens commandés d'ores et déjà à distance41. Le 16 février 2011, Watson, le superordinateur conçu par IBM remporte deux des trois manches du jeu télévisé Jeopardy en battant largement ses deux concurrents humains en gains cumulés.
+
+En mai 2013, Google ouvre un laboratoire de recherches dans les locaux de la NASA. Grâce à un super ordinateur quantique conçu par D-Wave Systems et qui serait d'après cette société 11000 fois plus performant qu'un ordinateur actuel (de 2013)42, ils espèrent ainsi faire progresser l'intelligence artificielle et notamment l'apprentissage automatique. Raymond Kurzweil est engagé en décembre 2012 par Google afin de participer et d'améliorer l'apprentissage automatique des machines et des IA43.
+
+Bibliographie
+
+Aspects techniques
+Alan Turing, Jean-Yves Girard, La machine de Turing, Éditions du Seuil,‎ 1995 [détail de l’édition], Les Ordinateurs et l'Intelligence, p. 133–174
+Claire Rémy, L'Intelligence artificielle,‎ 1994 (ISBN 2-10-002258-X)
+Jean-Marc Alliot et Thomas Schiex, Intelligence artificielle et informatique théorique, CEPADUES,‎ 2002 (ISBN 2-85428-578-6)
+(en) Michael R. Genesereth et Nils J. Nilsson, Logical Foundations of Artificial Intelligence, Los Altos, Californie, États-Unis, Morgan Kaufmann,‎ 1987, 405 p. [détail de l’édition] (ISBN 0-934613-31-1)
+Stuart Jonathan Russell et Peter Norvig, Intelligence Artificielle, Pearson education,‎ 2006 (ISBN 978-2-7440-7150-8)
+Jean-Louis Laurière, Intelligence Artificielle, Eyrolles,‎ 1986
+Jean-Paul Delahaye, Outils logiques pour l'intelligence artificielle, Eyrolles,‎ 1985 [détail des éditions] (ISBN 978-2212084122)
+Jean-Paul Haton, Marie-Christine Haton, L'Intelligence Artificielle, Que sais-je?,‎ 1990 (ISBN 2-13-043164-X)
+Aspects philosophiques
+Gilbert Boss, Les machines à penser - L'homme et l'ordinateur, Éditions du Grand midi,‎ 1987, 202 p. (ISBN 2-88093-105-3)
+Jacques Bolo, Philosophie contre intelligence artificielle, Lingua Franca,‎ 1996, 375 p. (ISBN 2-912059-00-3)
+Alan Ross Anderson, Pensée et machine, Editions Champ Vallon,‎ 1983 (réimpr. 1993), 150 p. (ISBN 2-903528-28-4)
+Jean Sallantin et Jean-Jacques Szczeciniarz, Le Concept de preuve à la lumière de l'intelligence artificielle, Presses universitaires de France,‎ 1999, 370 p. (ISBN 2-13-050104-4)
+Jean-Gabriel Ganascia, L'âme-machine, les enjeux de l'intelligence artificielle, Éditions du Seuil, Collection Science Ouverte,‎ 1990, 284 p. (ISBN 2-02-011470-4)
+(en) Nick Bostrom, Superintelligence: Paths, Dangers, Strategies,‎ 2014 (ISBN 978-0199678112)
+Fondements cognitifs, psychologiques et biologiques
+Hervé Chaudet et Liliane Pellegrin, Intelligence artificielle et psychologie cognitive, Dunod,‎ 1998, 179 p. (ISBN 2-10-002989-4)
+Aspects linguistiques
+Gérard Sabah, L'intelligence artificielle et le langage, Représentations des connaissances, Processus de compréhension, vol. 1, Hermès,‎ 1989 (ISBN 2-86601-134-1)
+Gérard Sabah, L'intelligence artificielle et le langage, Représentations des connaissances, Processus de compréhension, vol. 2, Hermès,‎ 1990, 768 p. (ISBN 2-86601-187-2)
+Gérard Sabah, Compréhension des langues et interaction (Traité IC2, Série Cognition et Traitement de l'Information), Hermès science: Lavoisier,‎ 2006 (ISBN 2-7462-1256-0)
+Vulgarisation
+Gérard Tisseau et Jacques Pitrat, Intelligence artificielle : problèmes et méthodes, Presses universitaires de France,‎ 1996, 255 p. (ISBN 2-13-047429-2)
+Daniel Crevier et Nathalie Bukcek, À la recherche de l'intelligence artificielle, Flammarion,‎ 1997 (ISBN 2-08-081428-1), (traduction de (en) The Tumultuous history of the search for artiticial intelligence.)
+Jack Challoner, L'Intelligence artificielle : Un guide d'initiation au futur de l'informatique et de la robotique, Pearson Education,‎ 2003 (ISBN 2-7440-1600-4)
+Hugues Bersini, De l'intelligence humaine à l'intelligence artificielle, Ellipse,‎ 2006 (ISBN 2-7298-2813-3)
+Notes et références
+
+« the building of computer programs which perform tasks which are, for the moment, performed in a more satisfactory way by humans because they require high level mental processes such as : perception learning, memory organization and critical reasoning »
+http://www.larousse.fr/encyclopedie/article/LIntelligence_Artificielle/11011577
+(en) Russell, S. et Norvig, P., Artificial Intelligence: A Modern Approach (2nd ed.), Prentice Hall,‎ 2003, 932 p. (ISBN 0-13-790395-2) Section 1.1
+Republié dans Collected Works of A. M. Turing, volume Mechanical Intelligence, ed. Darrel Ince, ISBN 978-0-444-88058-1
+Conférence Intelligent machinery, a heretical theory donnée à la Société 51 à Manchester
+« Can digital computers think? »
+« Can automatic calculating machines be said to think? »
+Crevier, Daniel (1993), AI: The Tumultuous Search for Artificial Intelligence, New York, NY: BasicBooks, ISBN 978-0-465-02997-6, p. 17
+« Turing et l’Intelligence Artificielle »
+« L’intelligence artificielle et le test de Turing »
+Dictionnaire de l'informatique (1975), André Le Garff
+http://www.pcworld.com/article/242662/ibm_simulates_45_of_the_human_brain_skynet_is_next.html#tk.twt_pi
+If your brain were a computer, how much storage space would it have?
+Même si quelques avancées semblent spectaculaires : Jeopardy : Watson, l’ordinateur d'IBM, a vaincu ses adversaires humains
+Au début des années 2010, le logiciel Picasa 3.8 y arrive cependant avec un taux de réussite le rendant tout à fait exploitable
+Voir la Thèse CPC de Bruno Marchal, Thèse de Church-Turing
+Page de Roger Penrose
+Page d'Andrei Kirilyuk
+voir (en)Logical Foundations of Artificial Intelligence, chap. 2.2 Predicate Calculus, p. 13-20
+E.T. Jaynes, Probability Theory : the Logic of Science, ISBN 978-0-521-59271-0, également consultable ici : http://bayes.wustl.edu/etj/prob/book.pdf
+François Rastier, Sémantique et recherches cognitives, PUF, 2001 (2e éd.)
+http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/AI-Alife-HOWTO.pdf
+(en) Game AI: The State of the Industry, Part Two, David C. Pottinger, John E. Laird, Gamasutra, 8 novembre 2000
+MHiCS, une architecture de sélection de l'action motivationnelle et hiérarchique à systèmes de classeurs pour personnages non joueurs adaptatifs, Gabriel Robert, LIP6, 2005
+(en) Game AI: The State of the Industry, Steven Woodcock, Gamasutra, 1er novembre 2000
+(en) Game AI: The State of the Industry, Steve Woodcock, Gamasutra, 1998
+Aiseek
+On parle de sémantique.
+Irving John Good
+(en) Robot à logique inductive (en anglais, PDF)
+L'intelligence artificielle est-elle limitée ? chat avec Gilbert Chauvet et Christophe Jacquemin qui eut lieu le 22 novembre 2006.
+Scruter la Singularité, Eliezer S. Yudkowsky, mai 2004
+(en) Singularity Institute for Artificial Intelligence (2004), Singularity Institute for Artificial Intelligence, 3 Laws Unsafe sur http://www.asimovlaws.com/, récupéré le 7 août 2007, sauvé sur web.archive.org
+(fr) Un cerveau artificiel annoncé dans dix ans - Le Figaro, 8 septembre 2009
+(en) Scientists Worry Machines May Outsmart Man - New York Times, 25 juillet 2009
+(en) Implications of AI for Society - Association for the Advancement of Artificial Intelligence (AAAI)
+(en) Science goes back to basics on AI - BBC News, 8 décembre 2009
+(en) Air Force To Expand PlayStation-Based Supercomputer - InformationWeek, 20 novembre 2009
+(en) Sony PlayStation 3 Game Consoles : Solicitation Number: FA8751-10-R-0003 - Federal Business Opportunities, 22 décembre 2009
+(en) Air Force to use artificial intelligence and other advanced data processing to hit the enemy where it hurts - John Keller, Military & Aerospace, 27 janvier 2010
+(en) Robot stealth fighter jet ready to take off. « Boeing’s sleek fighter-size Phantom Ray stealth jet will make its first flight by year’s end. This unmanned airborne system is designed for a variety of warfighter roles ranging from reconnaissance and surveillance to aerial refueling, electronic attack and hunter/killer missions. »
+http://www.cnetfrance.fr/news/google-investit-dans-des-recherches-sur-l-intelligence-artificielle-quantique-39790451.htm
+http://www.wired.com/business/2013/04/kurzweil-google-ai/
+Annexes
+
+Articles connexes
+
+Principaux projets et réalisations en intelligence artificielle
+Histoire de l'intelligence artificielle
+Sujets et domaines connexes
+Agent (informatique)
+Cognition (artificielle)
+Informatique Affective
+Intelligence ambiante ;
+Voiture automate
+Robotique
+Système expert ;
+Théorie des jeux ;
+Vie artificielle (et Intelligence collective artificielle) ;
+agent virtuel
+Principales techniques liées à l’intelligence artificielle
+Métaheuristiques (dont les Algorithmes génétiques) ;
+Programmation génétique ;
+Apprentissage automatique (Réseaux de neurones, Concepts Formels, etc.) ;
+Data mining ;
+Inférence bayésienne ;
+Planification
+Exploration
+Diagnostic
+Architecture cognitive ;
+Logique floue (fuzzy logic) ;
+Intelligence artificielle distribuée
+Programmation par contraintes ;
+Raisonnement par cas ;
+Système multi-agents ;
+Théorème de Cox-Jaynes;
+Cerveau artificiel.
+Grand noms de l’intelligence artificielle
+Alan Turing ;
+Irving John Good ;
+Douglas Hofstadter ;
+Douglas Lenat ;
+Marvin Lee Minsky ;
+Allen Newell;
+Nils Nilsson;
+Seymour Papert ;
+John McCarthy
+Roger Schank
+Herbert Simon
+Patrick Henry Winston (en)
+Personnalités notables de l’intelligence artificielle dans l'espace francophone
+Alain Colmerauer (langage de programmation Prolog)
+Jean-Paul Delahaye
+Henri Farreny
+Jacques Ferber (Système multi-agents)
+Jean-Gabriel Ganascia
+Hugues Bersini (Apprentissage automatique, orienté objet et système bioinformatique)
+Yves Kodratoff (Apprentissage automatique)
+Rose Dieng-Kuntz
+Jean-Louis Laurière (Problème de satisfaction de contraintes)
+Jacques Pitrat (Métaconnaissance)
+Gérard Sabah
+Luc Steels (en)
+Pour l’anecdote, citons Daniel Goossens, chercheur à l’Université Paris 8 mais aussi auteur de bandes-dessinées de premier plan.
+Liens externes
+
+Références de sites : série de liens groupés par thème et commentés ;
+Association française pour l'intelligence artificielle
+(en) Artificial Intelligence Directory : répertoire de sites Web sur l'intelligence artificielle.
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle&oldid=112871736 ».
+Dernière modification de cette page le 17 mars 2015 à 17:11.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

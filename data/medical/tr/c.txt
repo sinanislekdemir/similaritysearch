@@ -1,0 +1,106 @@
+Kanser
+
+Vikipedi, özgür ansiklopedi
+Esculaap4.svg     Bu madde yalnızca bilgi verme amaçlıdır.
+Yazılanlar doktor uyarısı ya da önerisi değildir.
+
+Bu maddedeki bazı bilgilerin kaynağı belirtilmemiştir. Ayrıntılar için maddenin tartışma sayfasına bakabilirsiniz.Maddeye uygun biçimde kaynaklar ekleyerek Vikipedi'ye katkıda bulunabilirsiniz.
+Kanser
+Sınıflandırma ve dış kaynaklar
+Normal cancer cell division from NIH-2.svg
+Normal hücreler tamir edilemeyecek şekilde hasarlandığında apoptosis (A) tarafından elimine edilirler. Kanserli hücreler apoptosis'ten uzak dururlar ve gelişigüzel çoğalmalarına devam ederler (B).
+Hastalık Veri Tabanı  28843
+ICD-10 kodu C 00 ile D 48 arası tüm kodlar
+MedlinePlus 001289
+MeSH  D009369
+Kanser, hücrelerde DNA'nın hasarı sonucu hücrelerin kontrolsüz veya anormal bir şekilde büyümesi ve çoğalmasıdır. Günde vücudumuzda (DNA'da) yaklaşık 10.000 mutasyon olmasına rağmen immün sistemimiz her milisaniye vücudumuzu tarar ve kanserli hücreleri yok eder.
+
+Sağlıklı vücut hücreleri bölünebilme yeteneğine sahiptirler. Ölen hücrelerin yenilenmesi ve yaralanan dokuların onarılması amacıyla bu yeteneklerini kullanırlar. Fakat bu yetenekleri de sınırlıdır. Sonsuz bölünemezler. Her hücrenin hayatı boyunca belli bir bölünebilme sayısı vardır. Sağlıklı bir hücre ne zaman ve nerede bölünebileceğini bilme yeteneğine sahiptir
+
+Buna karşın kanser hücreleri, bu bilinci kaybeder, kontrolsüz bölünmeye başlar ve çoğalırlar. Kanser hücreleri toplanarak urları (tümörleri) oluştururlar, tümörler normal dokuları sıkıştırabilirler, içine sızabilirler ya da tahrip edebilirler. Eğer kanser hücreleri oluştukları tümörden ayrılırsa, kan ya da lenf dolaşımı aracılığı ile vücudun diğer bölgelerine gidebilirler. Gittikleri yerlerde tümör kolonileri oluşturur ve büyümeye devam ederler. Kanserin bu şekilde vücudun diğer bölgelerine yayılması olayına metastaz adı verilir.
+
+Kanserler oluşmaya başladıkları organ ve mikroskop altındaki görünüşlerine göre sınıflandırılırlar. Farklı tipteki kanserler, farklı hızlarda büyürler, farklı yayılma biçimleri gösterirler ve farklı tedavilere cevap verirler. Bu nedenle kanser hastalarının tedavisinde, var olan kanser türüne göre farklı tedaviler uygulanır. Her kanser aynı yapıya sahip değildir.
+
+Vücutta mutasyona uğrayan hücrelerin ancak çok küçük bir kısmı kansere yol açar. Bunun birçok nedeni vardır:
+
+Mutasyon gösteren hücrelerin yaşama kabiliyetleri normal hücrelere göre daha azdır. Bu yüzden ölürler.
+Mutasyon gösteren hücrelerin pek çoğunda bile hâlâ aşırı büyümeyi önleyen normal geridönüm kontrol düzeneği("Tümör baskılayıcı genler") bulunur. Bu yüzden hayatta kalabilen mutant hücrelerin çok azı kanserli hücreye dönüşür.
+Sıklıkla, kanser potansiyeli taşıyan bu hücreler büyüyüp kanser oluşturmadan önce vücudun bağışıklık sistemi tarafından yok edilirler.
+Bu olay şöyle açıklanmaktadır:
+
+Mutant hücrelerin çoğu, değişikliğe uğramış genleri nedeniyle kendi içlerinde anormal protein oluştururlar. Bu anormal proteinler vucudun bağışıklık sistemini uyararak antikor yapımına veya kanserli hücreye karşı duyarlılık kazanmış lenfositlerin oluşmasına neden olarak kanserli hücrenin yok edilmesini sağlarlar. ( Bu olayı destekleyen bir gerçek de organ trasnplantasyonu nedeniyle immünsupresif tedavi gören hastalarda kanser riskinin beş kat artmasıdır.
+
+Bağışıklık sisteminin etkinliğini bozan durumlar kanseri hazırlayıcı etmenler (predispozan) olarak bilinir. Bağışıklık sistemi tarafından yok edilmemiş olan bu hücreler kontrolsüz biçimde üreyerek bulundukları dokuyu işgal ederler. Sadece o dokuyla sınırlı kalmayıp komşu dokulara da yayılırlar (invazyon). Kan ve lenf dolaşımı yoluyla vucudun ilgisiz bölgelerine de taşınabilirler (metastaz).
+
+Kanser başlangıcı olan alanda en önemli özellik, kitlenin çevre dokulara girift, yapışık olmasıdır. İyi huylu (benign) tümörler genellikle sınırları belirgin kitlelerdir. Ancak kötü huylu (malign) tümörler, sınırları belirsiz ve çevre dokuya sıkıca yapışık halde bulunurlar. İlk evrelerde genellikle ağrısızdırlar.
+
+Kanser, oluştuğu yani köken aldığı dokuya göre adlandırılır.
+
+Kanser hücreleri; civarlarındaki doku lara ulaşarak, kan dolaşımı, lenf sistemi ya da vücut boşlukları ve yüzeyleri yollarıyla vücudun diğer taraflarına yayılırlar. Buna metastaz denir.
+
+Vücudumuzda kontrolsüz olarak büyüyen kötü huylu tümörlere kanser denir. Kanserler iyi huylu ve kötü huylu olmak üzere iki kısma ayrılır. Kötü huylu tümörler başka dokulara ve organlara yayılma (Metastaz) özelliği gösterirler.
+
+Konu başlıkları
+
+1 Kanserin sebepleri
+2 Diğer Yaşa bağlı durumlar
+3 İyi huylu ve kötü huylu tümörler
+4 Kanser tedavisi
+5 Alternatif ön müdahale
+6 Kaynakça
+7 Dış bağlantılar
+Kanserin sebepleri
+Kanserin esas nedeni hücre bölünmesi esnasında DNA replikasyonunun (eşlenmesi) hatalı olması sonucu hücrenin farklılaşmasıdır. DNA replikasyon anormalisine sebep olduğu sanılan birçok faktör mevcuttur ve bunlara predispozan (hazırlayıcı) faktörler denir. Hücre bölünmesi, doku tamiri ve yenilenmesi amacıyla yapılır. Doku tamiri ve yenilenmesini hızlandıran tüm etmenler aslında bir kanser hazırlayıcısı olabilir.
+
+X-ışınları, gama ışınları, radyoaktif maddelerden yayılan partikül radyasyonları ve ultraviyole ışınları gibi iyonize edici radyasyonlar kansere zemin hazırlamaktadır. Bu radyasyonların etkisi altında doku hücrelerinde oluşan iyonlar yüksek derecede reaktif olduklarından DNA zincirlerini kopararak mutasyona sebep olmaktadır. Gürültü ve Radyasyon kirliliği, Yoğun trafik, Dar sokaklar, Mega kentleşme Ozon ve Oksijen kontaminasyonu.
+Bazı kimyasal maddelerin mutasyon potansiyeli yüksektir. Mutasyona neden olan kimyasal maddelere kanserojenler denir. Anilin boya türevleri, sigara dumanındaki çok sayıdaki kimyasal, metilmetakrilat, asbest, silika tozları, kömür ve alçı tozu bunlara örnektir. Günümüzde toplumda en büyük sayıda kansere neden olan kanserojenler sigara dumanında bulunmaktadır. # Fiziksel olarak tahriş edici maddeler de kansere neden olmaktadır. Dokuda oluşan harabiyet hızlı bir mitoz faaliyetiyle tahrip olan hücrelerin yerine yeni hücreler oluşturur. Mitoz ne kadar fazla ve hızlı olursa mutasyon riski o kadar artar. Bu tür fiziksel etmenler arasında (dudak ısırma, saçla oynama, ben (nevus) koparma), yara kabuklarıyla oynama, bazı tahriş edici gıdaların aşırı ve sık tüketimi sayılabilir.
+Birçok ailede kansere yakalanmaya karşı güçlü bir kalıtsal eğilim vardır. Bu olay belki de birçok kanser tipinde kanserin oluşmasından önce birden fazla mutasyona ihtiyaç olduğu gerçeğininden kaynaklanmaktadır. Kansere özellikle yatkınlığı olan bu ailelerin kalıtsal genomlarında bir veya daha fazla mutasyona uğramış gen bulunmaktadır. Bu yüzden böyle şahıslarda kanser büyümeye başlamadan önce çok daha az sayıda ilave mutasyon olması, kanseri başlatmak için yeterlidir.
+Kanser oluşumunda viral faktörlerin etkisi de vardır.
+Kadınlarda en çok meme, rahim ve kalın bağırsak kanseri; erkeklerde ise en çok akciğer, prostat, mide ve kalın bağırsak kanserleri görülmektedir. Tüm kanserlerin %16'sı, tüm kanser ölümlerinin %28'i erkeklerde %35, kadınlarda %19 akciğer kanseri nedeniyledir. Akciğer kanseri büyük ölçüde sigara kullanımı ile ilişkilidir.
+
+Kanserin görüldüğü yerler aşağıda gösterildiği şekilde yüzdelenebilir
+Beyin ve omurilik %1
+Cilt %10
+Genital bölgeler: erkeklerde %20, kadınlarda %8
+Meme  %14
+Sindirim sistemi %25
+Solunum yolları: erkeklerde %2, kadınlarda %3
+Karaciğer ve safra kesesi %3
+Diğer organlar %8
+Diğer Yaşa bağlı durumlar
+Teknoloji ve tıbbın ilerlemesiyle birlikte hergeçen gün uzayan insan ömrü ve başarılı insan ve hayvan tedavilerinden başka, Naturel bir son olarak zaman aşımına bağlı veya istisnai durumlarda hastalığı İlerlemiş bir hastanın yakınları ve doktoru, hastanın kalan ömrünün süresini ve o hasta için ifade ettiği değeri bilemezler ve tayin edemezler. Üstelik kanser hastalığının zaman zaman gösterdiği kendiliğinden gerilemelerin (spontan remisyon) ne zaman olacağını kestirmek mümkün değildir. Zaten kansere bağlı ölümlerin çoğunluğu kanser hastalığının hayati organları tutmasından değil; enfeksiyon, kan hücre sayısında anormal düşmeler, yetersiz beslenme, yatak yaraları gibi yan nedenlerden olmaktadır. Bu nedenle ilerlemiş kanserli hastanın yakınları ve doktorları, kansere yönelik tedaviler iflas etmiş ve hastalığa yönelik tedavi yapılamıyor bile olsa hastaya son ana kadar tıbbi ve moral desteklerini sürdürmelidirler.Kanserli hastaların ve yakınlarının en korktukları sorunlardan bir tanesi ağrıdır. Ağrı bazen direkt olarak kanser ile ilgili olmamakla beraber, tümör tıkanmaya neden olduğu, enfeksiyon başlattığı veya sinirleri tuttuğu zaman ortaya çıkar.[1]
+
+İyi huylu ve kötü huylu tümörler
+İyi huylu (benign) tümörler kanser değildir. Komşu bölgelere yayılmazlar. Sınırları belirgindir. Komşu dokuları eritmezler. Bu hücreler, onkogen yani farklılaşmışlardır (mutasyon)ancak yine de orijinlerini tahmin etmek mümkündür. Tamamen çıkartıldığı zaman genellikle tekrarlamazlar.
+
+Kötü huylu (malign) tümörler ise kanser olarak adlandırılır. Komşu organ ve dokulara yayılırlar, kemik doku ile karşılaştıklarında onu dahi eritirler (rezorbsiyon). Sınırları belirsizdir. Malign tümörü oluşturan hücreler o kadar farklılaşmışlardır ki orijinlerinin ne olduğunu söylemek imkânsızdır. Lenf ve kan yoluyla uzak organlara da yayılırlar.
+
+Kanser tedavisi
+Her şeyden önce, tüm hastalıkların tedavilerinde esas rolü vücudun bağışıklık sistemi üstlenmektedir. Bağışıklık sistemini zayıflatan etmenlerin ortadan kaldırılması tedavinin ilk basamağıdır. Kanserli hücrelerin ne kadar ve nerelere metastaz yaptığını tesbit etmek olanaksız olduğundan kanser tedavisi gören hastaların bağışıklık sistemlerinin güçlendirilerek bu yayılmış hücreleri yok etmesi arzu edilen bir durumdur.
+
+Kanser tedavisi onkoloji uzmanı doktorlar tarafından yapılır. Birçok merkezde Onkoloji Hastahaneleri mevcuttur.Genel bilindik kanser tedavileri 5 çeşit yolla yapılır:
+
+Cerrahi (Kanserli dokuyu ve çevresindeki invazyon riski taşıyan bir miktar sağlıklı dokuyu alıp çıkartmak. Bazı durumlarda kanserli dokuyu cerrahi müdahale ile çıkartmak imkânsız olabilir. Bu durumda radyoterapi veya kemoterapi uygulanır.)
+Radyoterapi (ışın) tedavisi (Uygun dozda ışın uygulayarak kanser hücrelerinin öldürülmesi)
+Kemoterapi (kanser hücrelerini öldürmek üzere ilaçlar kullanılması
+Alternatif tıp Bağışıklık sistemini güç vermeyi, asıl tedaviye destek olmayi amaçlayan ancak marjinalliğe açık olması nedeniyle, güvenilirliği ve etkinliği kontrollü deneylerle ispatlanmamış ön-tıbbi yöntemlerdir.
+İmmünoterapi Bağışıklık sistemi hücrelerinin kansere karşı etkin bir şekilde kullanılmasıdır. Örneğin idrar kesesi kanserinde kullanılan BCG uygulaması.
+  Wikimedia Commons'ta Kanser ile ilgili medyaları bulabilirsiniz.
+Alternatif ön müdahale
+Erken teşhis ve tedavi önemli olmasına rağmen, Radyoterapi korkusu veya diğer fobik nedenlerden doktorlarca olumlu bakılan diğer bireysel uygulamalar, cilt veya yüzeyel mukozadaki kanseroz, pre-kanseroz veya Aktinik keratoz safhalarında 3 cmden küçük küçük lezyonlara Antimitotik ve kortizon merhem ve ince uç lokal enjeksiyonları, Asetik asit veya bazende "yine" Dichloroacetic asit peelingi soyulması ile olumlu yanıt alındığı Oksijen ve asite karşı çok toleranssız olan kanser hücrelerinin nedeni olduğu karsinom vakalarında ilerlemeyi durdurabildiği tıp literatürüncede kabul görmüştür. Bundan başka kanser hücreleri glikoza saldırır ve beslenir, daha çok stresli ve oksijensiz kalmış durgun hücrelere akın eder, C vitamini yönünden zengin beslenme, Plastik ve köpükten içilmeyen sıcak siyah çay (Cornell Üniversitesi tarafından yapılan araştırmaya göre, sıcak içecekler sadece vücudumuzu ısıtmıyor, bağışıklık sistemini de güçlendiriyor. Sıcak içeceklerin içeresindeki antioksidanlar kalp, felç, kolestrol ve kanser gibi hastalıklara karşı koruyor). Uzmanlar özellikle sıcak çikolatanın siyah çaydan dört kat fazla antioksidan içerdiğinide iddia edip, her gün 1 fincan içilmesini tavsiye ediyor., sarımsak ve tabii baharatlar, tabi kakao oksijenli atmosfer ve stres alıcı yeşil bitkiler çevre faktörü olarak önerilmektedir. Bundan başka Asetik asit enjeksiyonu karaciğer karsinomlarına da tıbbi cerrahi müdahale olarak uygulanmaktadır.Aspirinin de kanser oluşumuna karşı koruyucu etkisi ilk olarak 1988 yılında ileri sürüldü. O zamandan bu yana bir dizi klinik, epidemiyolojik ve deneysel veriler bu görüşün doğruluğunu kanıtlandı. Antimitotik ilaçlarda bazen saç kaybı olabilirse de uygulama sonrası geri kazanılır, yine saç kayıpları Kemoterapide de geçicidir.
+
+Melanom dışı cilt kanserlerinin en önemli sebebi güneş ışığıdır. Kimyasal peeling aktinik yaralanmalarda oldukça faydalıdır. Subklinik malign lezyonlar genellikle deri kanserleriyle beraber görülürler.Gereç ve Yöntemler: 1999 ile 2004 yılları arasında 102 hasta cilt kanseri nedeniyle tedavi edildi. Yüzlerinde aşırı aktinik hasar olan 48 hastanın yüzüne, malign lezyonların cerrahi tedavisine ek olarak, %35-40'lık trikoloroasetik asitle peeling yapıldı. Hastalar 51 ile 93 yaşları arasındaydı. Takip süresi 1-5 yıldır. TCA tedavisinin efektivitesi patolojik olarak değerlendirildi.
+
+Bulgular: İkinci primer cilt kanseri, peeling yapılan hastaların sadece 3'ünde görüldü. TCA peeling sonrası histolojik olarak epidermal atrofide, atipide düzelme ve yeni subdermal kollajen birikimi görülmüştür.[2]
+
+Kaynakça
+^ http://www.guvenatasoy.com/site/?p=28.
+^ http://www.ulusalcerrahidergisi.org/summary.php3?id=812
+Dış bağlantılar
+http://www.newscientist.com/article/dn10971 (İngilizce)
+http://www.kanser.gov.tr/kanser/kanser-nedir.html
+"http://tr.wikipedia.org/w/index.php?title=Kanser&oldid=15197812" adresinden alındı.
+Kategoriler: OnkolojiEngel türleri
+Bu sayfa son olarak 15 Mart 2015, 20:54 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

@@ -1,0 +1,77 @@
+
+Quantum
+From Wikipedia, the free encyclopedia
+In physics, a quantum (plural: quanta) is the minimum amount of any physical entity involved in an interaction. Behind this, one finds the fundamental notion that a physical property may be "quantized," referred to as "the hypothesis of quantization".[1] This means that the magnitude can take on only certain discrete values.
+
+A photon is a single quantum of light, and is referred to as a "light quantum". The energy of an electron bound to an atom is quantized, which results in the stability of atoms, and hence of matter in general.
+
+As incorporated into the theory of quantum mechanics, this is regarded by physicists as part of the fundamental framework for understanding and describing nature at the smallest length-scales.
+
+Contents
+
+1 Etymology and discovery
+2 Beyond electromagnetic radiation
+3 See also
+4 References
+5 Further reading
+Etymology and discovery
+
+The word "quantum" comes from the Latin "quantus", meaning "how much". "Quanta", short for "quanta of electricity" (electrons) was used in a 1902 article on the photoelectric effect by Philipp Lenard, who credited Hermann von Helmholtz for using the word in the area of electricity. However, the word quantum in general was well known before 1900.[2] It was often used by physicians, such as in the term quantum satis. Both Helmholtz and Julius von Mayer were physicians as well as physicists. Helmholtz used "quantum" with reference to heat in his article[3] on Mayer's work, and indeed, the word "quantum" can be found in the formulation of the first law of thermodynamics by Mayer in his letter[4] dated July 24, 1841. Max Planck used "quanta" to mean "quanta of matter and electricity",[5] gas, and heat.[6] In 1905, in response to Planck's work and the experimental work of Lenard (who explained his results by using the term "quanta of electricity"), Albert Einstein suggested that radiation existed in spatially localized packets which he called "quanta of light" ("Lichtquanta").[7]
+
+The concept of quantization of radiation was discovered in 1900 by Max Planck, who had been trying to understand the emission of radiation from heated objects, known as black-body radiation. By assuming that energy can only be absorbed or released in tiny, differential, discrete packets he called "bundles" or "energy elements",[8] Planck accounted for the fact that certain objects change colour when heated.[9] On December 14, 1900, Planck reported his revolutionary findings to the German Physical Society, and introduced the idea of quantization for the first time as a part of his research on black-body radiation.[10] As a result of his experiments, Planck deduced the numerical value of h, known as the Planck constant, and could also report a more precise value for the Avogadro–Loschmidt number, the number of real molecules in a mole and the unit of electrical charge, to the German Physical Society. After his theory was validated, Planck was awarded the Nobel Prize in Physics in 1918 for his discovery.
+
+Beyond electromagnetic radiation
+
+While quantization was first discovered in electromagnetic radiation, it describes a fundamental aspect of energy not just restricted to photons.[11] In the attempt to bring experiment into agreement with theory, Max Planck postulated that electromagnetic energy is absorbed or emitted in discrete packets, or quanta.[12]
+
+See also
+
+Elementary particle
+Graviton
+Introduction to quantum mechanics
+Magnetic flux quantum
+Photon
+Photon polarization
+Quantal analysis
+Quantization (physics)
+Quantum cellular automata
+Quantum channel
+Quantum coherence
+Quantum chromodynamics
+Quantum computer
+Quantum cryptography
+Quantum dot
+Quantum electronics
+Quantum entanglement
+Quantum immortality
+Quantum lithography
+Quantum mechanics
+Quantum number
+Quantum sensor
+Quantum state
+Subatomic particle
+References
+
+Jump up ^ Wiener, N. (1966). Differential Space, Quantum Systems, and Prediction. Cambridge: The Massachusetts Institute of Technology Press
+Jump up ^ E. Cobham Brewer 1810–1897. Dictionary of Phrase and Fable. 1898.
+Jump up ^ E. Helmholtz, Robert Mayer's Priorität [1] (German)
+Jump up ^ Herrmann,A. Weltreich der Physik, GNT-Verlag (1991) [2] (German)
+Jump up ^ Planck, M. (1901). "Ueber die Elementarquanta der Materie und der Elektricität". Annalen der Physik (in German) 309 (3): 564–566. Bibcode:1901AnP...309..564P. doi:10.1002/andp.19013090311.
+Jump up ^ Planck, Max (1883). "Ueber das thermodynamische Gleichgewicht von Gasgemengen". Annalen der Physik (in German) 255 (6): 358. Bibcode:1883AnP...255..358P. doi:10.1002/andp.18832550612.
+Jump up ^ Einstein, A. (1905). "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt". Annalen der Physik (in German) 17 (6): 132–148. Bibcode:1905AnP...322..132E. doi:10.1002/andp.19053220607.. A partial English translation is available from Wikisource.
+Jump up ^ Max Planck (1901). "Ueber das Gesetz der Energieverteilung im Normalspectrum (On the Law of Distribution of Energy in the Normal Spectrum)". Annalen der Physik 309 (3): 553. Bibcode:1901AnP...309..553P. doi:10.1002/andp.19013090310. Archived from the original on 2008-04-18.
+Jump up ^ Brown, T., LeMay, H., Bursten, B. (2008). Chemistry: The Central Science Upper Saddle River, NJ: Pearson Education ISBN 0-13-600617-5
+Jump up ^ Klein, Martin J. (1961). "Max Planck and the beginnings of the quantum theory". Archive for History of Exact Sciences 1 (5): 459. doi:10.1007/BF00327765.
+Jump up ^ Melville, K. (2005, February 11). Real-World Quantum Effects Demonstrated
+Jump up ^ Modern Applied Physics-Tippens third edition; McGraw-Hill.
+Further reading
+
+B. Hoffmann, The Strange Story of the Quantum, Pelican 1963.
+Lucretius, On the Nature of the Universe, transl. from the Latin by R.E. Latham, Penguin Books Ltd., Harmondsworth 1951. There are, of course, many translations, and the translation's title varies. Some put emphasis on how things work, others on what things are found in nature.
+J. Mehra and H. Rechenberg, The Historical Development of Quantum Theory, Vol.1, Part 1, Springer-Verlag New York Inc., New York 1982.
+M. Planck, A Survey of Physical Theory, transl. by R. Jones and D.H. Williams, Methuen & Co., Ltd., London 1925 (Dover editions 1960 and 1993) including the Nobel lecture.
+Rodney, Brooks (2011) Fields of Color: The theory that escaped Einstein. Allegra Print & Imaging.
+Retrieved from "http://en.wikipedia.org/w/index.php?title=Quantum&oldid=647569013"
+Categories: Quantum mechanics
+This page was last modified on 17 February 2015, at 16:22.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

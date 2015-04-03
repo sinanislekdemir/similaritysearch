@@ -1,0 +1,114 @@
+Yapay zekâ
+
+Vikipedi, özgür ansiklopedi
+Başlığın diğer anlamları için AI sayfasına bakınız.
+Yapay zekâ, bir bilgisayarın veya bilgisayar kontrolündeki bir robotun çeşitli faaliyetleri zeki canlılara benzer şekilde yerine getirme kabiliyeti.[1] İngilizce artificial intelligence kavramının akronimi olan AI sözcüğü de bilişimde sıklıkla kullanılır. Yapay zekâ çalışmaları genellikle insanın düşünme yöntemlerini analiz ederek bunların benzeri yapay yönergeleri geliştirmeye yöneliktir.
+
+Bir bakış açısına göre, programlanmış bir bilgisayarın düşünme girişimi gibi görünse de bu tanımlar günümüzde hızla değişmekte, öğrenebilen ve gelecekte insan zekâsından bağımsız gelişebilecek bir yapay zekâ kavramına doğru yeni yönelimler oluşmaktadır. Bu yönelim, insanın evreni ve doğayı anlama çabasında kendisine yardımcı olabilecek belki de kendisinden daha zeki, insan ötesi varlıklar meydana getirme düşünün bir ürünüdür. Bu düş, 1920'li yıllarda yazılan ve sonraları Isaac Asimov'u etkileyen modern bilim kurgu edebiyatının öncü yazarlarından Karel Čapek'in eserlerinde dışa vurmuştur. Karel Čapek, R.U.R adlı tiyatro oyununda yapay zekâya sahip robotlar ile insanlığın ortak toplumsal sorunlarını ele alarak 1920 yılında yapay zekânın insan aklından bağımsız gelişebileceğini öngörmüştü.
+
+Konu başlıkları
+
+1 Tanım
+2 Tarihçe
+3 Gelişim süreci
+3.1 İlk araştırmalar ve yapay sinir ağları
+3.2 Yeni yaklaşımlar
+4 Yaklaşımlar ve eleştiriler
+4.1 Sembolik yapay zekâ
+4.2 Sibernetik yapay zekâ
+5 Uzman sistemler
+6 Doğal dil işleme
+7 Gelecekte yapay zekâ
+8 Yapay Zekânın Gücü
+9 Alt dallar
+10 Kaynaklar
+11 Dış bağlantılar
+Tanım
+İdealize edilmiş bir yaklaşıma göre yapay zekâ, insan zekâsına özgü olan, algılama, öğrenme, çoğul kavramları bağlama, düşünme, fikir yürütme, sorun çözme, iletişim kurma, çıkarımsama yapma ve karar verme gibi yüksek bilişsel fonksiyonları veya otonom davranışları sergilemesi beklenen yapay bir işletim sistemidir. Bu sistem aynı zamanda düşüncelerinden tepkiler üretebilmeli (eyleyici yapay zekâ) ve bu tepkileri fiziksel olarak dışa vurabilmelidir.
+
+Tarihçe
+"Yapay zekâ" kavramının geçmişi modern bilgisayar bilimi kadar eskidir. Fikir babası, "Makineler düşünebilir mi?" sorunsalını ortaya atarak makine zekâsını tartışmaya açan Alan Mathison Turing'dir. 1943'te II. Dünya Savaşı sırasında Kripto analizi gereksinimleri ile üretilen elektromekanik cihazlar sayesinde bilgisayar bilimi ve yapay zekâ kavramları doğmuştur.
+
+Alan Turing, Nazilerin Enigma makinesinin şifre algoritmasını çözmeye çalışan matematikçilerin en ünlenmiş olanlarından biriydi. İngiltere, Bletchley Park'ta şifre çözme amacı ile başlatılan çalışmalar, Turing'in prensiplerini oluşturduğu bilgisayar prototipleri olan Heath Robinson, Bombe Bilgisayarı ve Colossus Bilgisayarları, Boole cebirine dayanan veri işleme mantığı ile Makine Zekâsı kavramının oluşmasına sebep olmuştu.
+
+Modern bilgisayarın atası olan bu makineler ve programlama mantıkları aslında insan zekâsından ilham almışlardı. Ancak sonraları, modern bilgisayarlarımız daha çok uzman sistemler diyebileceğimiz programlar ile gündelik hayatımızın sorunlarını çözmeye yönelik kullanım alanlarında daha çok yaygınlaştılar. 1970'li yıllarda büyük bilgisayar üreticileri olan Microsoft, Apple, Xerox, IBM gibi şirketler kişisel bilgisayar (PC Personal Computer) modeli ile bilgisayarı popüler hale getirdiler ve yaygınlaştırdılar. Yapay zekâ çalışmaları ise daha dar bir araştırma çevresi tarafından geliştirilmeye devam etti.
+
+Bugün, bu çalışmaları teşvik etmek amacı ile Turing'in adıyla anılan Turing Testi ABD'de Loebner ödülleri adı altında makine zekâsına sahip yazılımların üzerinde uygulanarak başarılı olan yazılımlara ödüller dağıtılmaktadır.
+
+Testin içeriği kısaca şöyledir: birbirini tanımayan birkaç insandan oluşan bir denek grubu birbirleri ile ve bir yapay zekâ diyalog sistemi ile geçerli bir süre sohbet etmektedirler. Birbirlerini yüz yüze görmeden yazışma yolu ile yapılan bu sohbet sonunda deneklere sorulan sorular ile hangi deneğin insan hangisinin makine zekâsı olduğunu saptamaları istenir. İlginçtir ki, şimdiye kadar yapılan testlerin bir kısmında makine zekâsı insan zannedilirken gerçek insanlar makine zannedilmiştir.
+
+Loebner Ödülüü kazanan yapay zekâ diyalog sistemlerinin yeryüzündeki en bilinen örneklerinden biri A.L.I.C.E'dir. Carnegie üniversitesinden Dr.Richard Wallace tarafından yazılmıştır.Bu ve benzeri yazılımlarının eleştiri toplamalarının nedeni, testin ölçümlendiği kriterlerin konuşmaya dayalı olmasından dolayı programların ağırlıklı olarak diyalog sistemi (chatbot) olmalarıdır.
+
+Türkiye'de de makine zekâsı çalışmaları yapılmaktadır. Bu çalışmalar doğal dil işleme, uzman sistemler ve yapay sinir ağları alanlarında Üniversiteler bünyesinde ve bağımsız olarak sürdürülmektedir.Bunlardan biri, D.U.Y.G.U. - Dil Uzam Yapay Gerçek Uslamlayıcı'dır.
+
+Gelişim süreci
+İlk araştırmalar ve yapay sinir ağları
+İdealize edilmiş tanımıyla yapay zekâ konusundaki ilk çalışmalardan biri McCulloch ve Pitts tarafından yapılmıştır. Bu araştırmacıların önerdiği, yapay sinir hücrelerini kullanan hesaplama modeli, önermeler mantığı, fizyoloji ve Turing'in hesaplama kuramına dayanıyordu. Herhangi bir hesaplanabilir fonksiyonun sinir hücrelerinden oluşan ağlarla hesaplanabileceğini ve mantıksal ve ve veya işlemlerinin gerçekleştirilebileceğini gösterdiler. Bu ağ yapılarının uygun şekilde tanımlanmaları halinde öğrenme becerisi kazanabileceğini de ileri sürdüler. Hebb, sinir hücreleri arasındaki bağlantıların şiddetlerini değiştirmek için basit bir kural önerince, öğrenebilen yapay sinir ağlarını gerçekleştirmek de olası hale gelmiştir.
+
+1950'lerde Shannon ve Turing bilgisayarlar için satranç programları yazıyorlardı. İlk yapay sinir ağı temelli bilgisayar SNARC, MIT'de Minsky ve Edmonds tarafından 1951'de yapıldı. Çalışmalarını Princeton Üniversitesi'nde sürdüren Mc Carthy, Minsky, Shannon ve Rochester'le birlikte 1956 yılında Dartmouth'da iki aylık bir açık çalışma düzenledi. Bu toplantıda birçok çalışmanın temelleri atılmakla birlikte, toplantının en önemli özelliği Mc Carthy tarafından önerilen yapay zekâ adının konmasıdır. İlk kuram ispatlayan programlardan Logic Theorist (Mantık kuramcısı) burada Newell ve Simon tarafından tanıtılmıştır.
+
+Yeni yaklaşımlar
+Daha sonra Newell ve Simon, insan gibi düşünme yaklaşımına göre üretilmiş ilk program olan Genel Sorun Çözücü (General Problem Solver)'ı geliştirmişlerdir. Simon, daha sonra fiziksel simge varsayımını ortaya atmış ve bu kuram, insandan bağımsız zeki sistemler yapma çalışmalarıyla uğraşanların hareket noktasını oluşturmuştur. Simon'ın bu tanımlaması bilim adamlarının yapay zekâya yaklaşımlarında iki farklı akımın ortaya çıktığını belirginleştirmesi açısından önemlidir: Sembolik Yapay Zekâ ve Sibernetik Yapay Zekâ.
+
+Yaklaşımlar ve eleştiriler
+Sembolik yapay zekâ
+Simon'ın sembolik yaklaşımından sonraki yıllarda mantık temelli çalışmalar egemen olmuş ve programların başarımlarını göstermek için bir takım yapay sorunlar ve dünyalar kullanılmıştır. Daha sonraları bu sorunlar gerçek yaşamı hiçbir şekilde temsil etmeyen oyuncak dünyalar olmakla suçlanmış ve yapay zekânın yalnızca bu alanlarda başarılı olabileceği ve gerçek yaşamdaki sorunların çözümüne ölçeklenemeyeceği ileri sürülmüştür.
+
+Geliştirilen programların gerçek sorunlarla karşılaşıldığında çok kötü bir başarım göstermesinin ardındaki temel neden, bu programların yalnızca sentaktik süreçleri benzeşimlendirerek anlam çıkarma, bağlantı kurma ve fikir yürütme gibi süreçler konusunda başarısız olmasıydı. Bu dönemin en ünlü programlarından Weizenbaum tarafından geliştirilen Eliza, karşısındaki ile sohbet edebiliyor gibi görünmesine karşın, yalnızca karşısındaki insanın cümleleri üzerinde bazı işlemler yapıyordu. İlk makine çevirisi çalışmaları sırasında benzeri yaklaşımlar kullanılıp çok gülünç çevirilerle karşılaşılınca bu çalışmaların desteklenmesi durdurulmuştu. Bu yetersizlikler aslında insan beynindeki semantik süreçlerin yeterince incelenmemesinden kaynaklanmaktaydı.
+
+Sibernetik yapay zekâ
+Yapay sinir ağları çalışmalarının dahil olduğu sibernetik cephede de durum aynıydı. Zeki davranışı benzeşimlendirmek için bu çalışmalarda kullanılan temel yapılardaki bazı önemli yetersizliklerin ortaya konmasıyla birçok araştırmacılar çalışmalarını durdurdular. Buna en temel örnek, Yapay sinir ağları konusundaki çalışmaların Minsky ve Papert'in 1969'da yayınlanan Perceptrons adlı kitaplarında tek katmanlı algaçların bazı basit problemleri çözemeyeceğini gösterip aynı kısırlığın çok katmanlı algaçlarda da beklenilmesi gerektiğini söylemeleri ile bıçakla kesilmiş gibi durmasıdır.
+
+Sibernetik akımın uğradığı başarısızlığın temel sebebi de benzer şekilde Yapay Sinir Ağının tek katmanlı görevi başarması fakat bu görevle ilgili vargıların veya sonuçların bir yargıya dönüşerek diğer kavramlar ile bir ilişki kurulamamasından kaynaklanmaktadır.Bu durum aynı zamanda semantik süreçlerin de benzeşimlendirilememesi gerçeğini doğurdu.
+
+Uzman sistemler
+Her iki akımın da uğradığı başarısızlıklar, her sorunu çözecek genel amaçlı sistemler yerine belirli bir uzmanlık alanındaki bilgiyle donatılmış programları kullanma fikrinin gelişmesine sebep oldu ve bu durum yapay zekâ alanında yeniden bir canlanmaya yol açtı. Kısa sürede Uzman sistemler adı verilen bir metodoloji gelişti. Fakat burada çok sık rastlanan tipik bir durum, bir otomobilin tamiri için önerilerde bulunan uzman sistem programının otomobilin ne işe yaradığından haberi olmamasıydı. Buna rağmen uzman sistemlerin başarıları beraberinde ilk ticari uygulamaları da getirdi.
+
+Yapay zekâ yavaş yavaş bir endüstri hâline geliyordu. DEC tarafından kullanılan ve müşteri siparişlerine göre donanım seçimi yapan R1 adlı uzman sistem şirkete bir yılda 40 milyon dolarlık tasarruf sağlamıştı. Birden diğer ülkeler de yapay zekâyı yeniden keşfettiler ve araştırmalara büyük kaynaklar ayrılmaya başlandı. 1988'de yapay zekâ endüstrisinin cirosu 2 milyar dolara ulaşmıştı.
+
+Doğal dil işleme
+Antropoloji bilimi, gelişmiş insan zekâsı ile dil arasındaki bağlantıyı gözler önüne serdiğinde, dil üzerinden yürütülen yapay zekâ çalışmaları tekrar önem kazandı. İnsan zekâsının doğrudan doğruya kavramlarla düşünmediği, dil ile düşündüğü, dil kodları olan kelimeler ile kavramlar arasında bağlantı kurduğu anlaşıldı. Bu sayede insan aklı kavramlar ile düşünen hayvan beyninden daha hızlı işlem yapabilmekteydi ve dil dizgeleri olan cümleler yani şablonlar ile etkili bir öğrenmeye ve bilgisini soyut olarak genişletebilme yeteneğine sahip olmuştu. İnsanların iletişimde kullandıkları Türkçe, İngilizce gibi doğal dilleri anlayan bilgisayarlar konusundaki çalışmalar hızlanmaya başladı. Önce, yine Uzman sistemler olarak karşımıza çıkan doğal dil anlayan programlar, daha sonra Sembolik Yapay Zekâ ile ilgilenenler arasında ilgiyle karşılandı ve yazılım alanındaki gelişmeler sayesinde İngilizce olan A.I.M.L (Artificial intelligence Markup Language) ve Türkçe T.Y.İ.D (Türkçe Yapay Zekâ İşaretleme Dili) gibi bilgisayar dilleri ile sentaktik (Örüntü) işlemine uygun veri erişim metotları geliştirilebildi. Bugün Sembolik Yapay Zekâ araştırmacıları özel Yapay Zekâ dillerini kullanarak verileri birbiri ile ilişkilendirebilmekte, geliştirilen özel prosedürler sayesinde anlam çıkarma ve çıkarımsama yapma gibi ileri seviye bilişsel fonksiyonları benzetimlendirmeye çalışmaktadırlar.
+
+Bütün bu gelişmelerin ve süreçlerin sonunda bir grup yapay zekâ araştırmacısı, insan gibi düşünebilen sistemleri araştırmaya devam ederken, diğer bir grup ise ticari değeri olan rasyonel karar alan sistemler (Uzman sistemler) üzerine yoğunlaştı.
+
+Gelecekte yapay zekâ
+Gelecekte yapay zekâ araştırmalarındaki tüm alanların birleşeceğini öngörmek zor değildir. Sibernetik bir yaklaşımla modellenmiş bir Yapay Beyin, Sembolik bir yaklaşımla insan aklına benzetilmiş bilişsel süreçler ve Yapay Bilinç sistemi, insan aklı kadar esnek ve duyguları olan bir İrade ( Karar alma yetisi ), Uzman sistemler kadar yetkin bir bilgi birikimi ve rasyonel yaklaşımın dengeli bir karışımı sayesinde Yapay Zekâ, gelecekte insan zekâsına bir alternatif oluşturabilir.
+
+Bilginin hesaplanması matematiksel gelişme ile mümkün olabilir. Çok yüksek döngü gerektiren NP problemlerin çözümü, satranç oyununda en iyi hamleyi hesaplamak veya görüntü çözümleme işlemlerinde bilgiyi saymak yerine hesaplamak süreti ile sonuca ulaşılabilir.
+
+Yeni matematik kuantum parçacık davranışlarını açıklayacağı gibi kuantum bilgisayarın yapılmasına olanak verir .
+
+Yapay Zekânın Gücü
+
+Yapay zekâ uygulamaları gün geçtikçe gelişmeye ve insan zekâsını yakalamaya doğru adım adım ilerlemektedir.
+Bilişim uzmanları, bir insanın hepsi aynı anda paralel olarak çalışan 100 milyar nöron bağlantısının toplam hesap gücünün alt sınırı olan saniyede 10 katrilyon (1.000.000.000.000.000 = 10^{15}) hesap düzeyine 2025'te erişeceğini düşünüyorlar.
+
+Beynin bellek kapasitesine gelince, 100 trilyon bağlantının her birine 10.000 bit bilgi depolama gereksinimi tanınırsa, toplam kapasite 10^18 düzeyine çıkıyor. 2020'ye gelindiğinde insan beyninin işlevselliğine erişmiş bir bilgisayarın fiyatının 1000 dolar olacağı tahmin ediliyor. 2030'da 1000 dolarlık bir bilgisayarın bellek kapasitesi 1000 insanın belleğine eşit olacak. 2050'de ise yine 1000 dolara, dünyadaki tüm insanların beyin gücünden daha fazlasını satın alabileceksiniz.
+
+Alt dallar
+Makine Zekâsı (Sembolik Yapay Zekâ)
+Yapay Sinir Ağları (Sibernetik Yapay Zekâ)
+Doğal Dil işleme (Dil ile düşünme)
+Konuşma Sentezi (Yapay Konuşma)
+Konuşma Anlama (Konuşma Analizi)
+Uzman sistemler
+Örüntü Tanıma
+Genetik Algoritmalar
+Genetik Programlama
+Bulanık Mantık
+Çoklu Örnekle Öğrenme(Multiple Instance Learning)
+Kaynaklar
+NTV Bilim Dergisi, sayı:1,2009
+
+Dış bağlantılar
+Türkiye'nin Yapay Zekâ Portalı
+D.U.Y.G.U Projesi Tasarımcısından Yapay Zekâ hakkında görüşler
+Şakir Kocabaş, "Yapay Zekâ Araştırma ve Uygulama Alanları"
+Şakir Kocabaş, Yapay Zekâya Giriş (vefatı nedeniyle taslak halinde kalan bir çalışma)
+[göster] g t d Bilgisayar biliminin alt dalları
+^ Artificial Intelligence Britannica.com. Erişim: 1 Şubat 2015
+"http://tr.wikipedia.org/w/index.php?title=Yapay_zekâ&oldid=15297636" adresinden alındı.
+Kategori: Yapay zekâ
+Bu sayfa son olarak 22 Mart 2015, 14:57 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

@@ -1,0 +1,283 @@
+Licht
+
+aus Wikipedia, der freien Enzyklopädie
+
+Einfallendes Sonnenlicht durch die Latten einer Scheune
+Licht ist der für das Auge sichtbare Teil der elektromagnetischen Strahlung. Im elektromagnetischen Spektrum umfasst der Bereich des Lichts Wellenlängen von etwa 380 nm bis 780 nm. Dies entspricht Frequenzen von etwa 789 THz bis 384 THz. Eine genaue Grenze lässt sich nicht angeben, da die Empfindlichkeit des Auges an den Wahrnehmungsgrenzen nicht abrupt, sondern allmählich abnimmt. Die an das sichtbare Licht angrenzenden Bereiche der Infrarot- (Wellenlängen zwischen 780 nm und 1 mm) und Ultraviolettstrahlung (Wellenlängen zwischen 10 nm und 380 nm) werden häufig ebenfalls als Licht bezeichnet.
+
+
+Sichtbares Licht ist Teil des elektromagnetischen Spektrums. (Von links nach rechts: Gammastrahlung, Röntgenstrahlung, UV, sichtbares Licht, IR, Radiowellen)
+
+Das Spektrum elektromagnetischer Strahlung
+Inhaltsverzeichnis
+
+1 Geschichte
+2 Wissenschaft
+2.1 Physik
+2.1.1 Licht als elektromagnetische Welle
+2.1.2 Strahlenoptik
+2.1.2.1 Reflexion
+2.1.2.2 Brechung
+2.1.3 Wellenoptik
+2.1.4 Photonen
+2.1.5 Wechselwirkung mit Materie
+2.1.6 Lichtquellen
+2.1.7 Lichtempfänger
+2.2 Biologie
+2.2.1 Licht als Ökofaktor
+2.2.2 Licht als Sinnesreiz
+2.3 Chemie
+2.4 Größen und Einheiten
+3 Licht in der Gesellschaft
+4 Licht aus Sicht des deutschen Gesetzgebers
+5 Literatur
+6 Weblinks
+6.1 Videos
+7 Einzelnachweise
+Geschichte
+Bis weit in die Neuzeit hinein war weitgehend unklar, was Licht tatsächlich ist. Man glaubte teilweise, dass die Helligkeit den Raum ohne Zeitverzögerung ausfüllt, und dass „Strahlen“ von den Augen ausgehen und die Umwelt beim Sehvorgang abtasten. Es gab jedoch auch schon seit der Antike Vorstellungen, nach denen das Licht von der Lichtquelle mit endlicher Geschwindigkeit ausgesendet wird.
+
+Galileo Galilei versuchte als einer der ersten, die Ausbreitungsgeschwindigkeit des Lichts ernsthaft zu messen, jedoch ohne Erfolg. Dafür waren die ihm zur Verfügung stehenden Mittel viel zu grob. Dies gelang erst Ole Römer anhand von Beobachtungsdaten der Jupitermonde 1676/78. Zwar betrug die Abweichung seines Messwerts vom tatsächlichen Wert (ca. 3 · 108 m/s) rund 30 %. Die eigentliche Leistung Römers bestand jedoch darin, nachzuweisen, dass sich das Licht mit endlicher Geschwindigkeit ausbreitet. Römers Messwert wurde im Laufe der folgenden 200 Jahre durch immer raffiniertere Verfahren (vor allem durch Hippolyte Fizeau und Léon Foucault) mehr und mehr präzisiert.
+
+Die Natur des Lichts blieb jedoch weiter ungeklärt. Sir Isaac Newton versuchte mit seiner Korpuskeltheorie, die Ausbreitung des Lichts durch die Bewegung von kleinen Teilchen zu erklären. Damit konnte man zwar die Reflexion verstehen, nicht jedoch manche andere optische Phänomene, wie die Beugung, bei der es sich eindeutig um ein Wellenphänomen handelt. Christiaan Huygens und andere begründeten die Wellentheorie des Lichts, die sich vor allem nach den Doppelspaltexperimenten von Thomas Young mehr und mehr durchsetzte.
+
+Michael Faraday erbrachte 1846 als erster den Nachweis, dass Licht und Magnetismus zwei miteinander verbundene physikalische Phänomene sind. Er veröffentlichte den von ihm gefundenen magnetooptischen Effekt, der heute als Faraday-Effekt[1] bezeichnet wird, unter dem Titel Über die Magnetisierung des Lichts und die Belichtung der Magnetkraftlinien.[2]
+
+James Clerk Maxwell formulierte 1864 die noch heute gültigen Grundgleichungen der Elektrodynamik und erkannte, dass dadurch die Existenz freier elektromagnetischer Wellen vorhergesagt wurde. Da deren vorhergesagte Ausbreitungsgeschwindigkeit mit der bekannten Lichtgeschwindigkeit übereinstimmte, schloss er, dass das Licht wohl eine elektromagnetische Welle sei. Er vermutete (wie damals nahezu alle Physiker), dass diese Welle nicht im Vakuum existieren könne, sondern ein Ausbreitungsmedium brauche. Dieses Medium, das das gesamte Weltall ausfüllen müsste, wurde als Äther bezeichnet.
+
+Mit der darauf aufbauenden elektromagnetischen Lichttheorie schienen im ausgehenden 19. Jahrhundert beinahe alle Fragen zum Licht geklärt. Allerdings ließ sich einerseits der postulierte Äther nicht nachweisen (siehe Michelson-Morley-Experiment), was letztendlich das Tor zur speziellen Relativitätstheorie aufstieß. Andererseits schien unter anderem der Photoeffekt der Wellennatur des Lichts zu widersprechen. So entstand eine radikal neue Sichtweise des Lichts, die durch die Quantenhypothese von Max Planck und Albert Einstein begründet wurde. Kernpunkt dieser Hypothese ist der Welle-Teilchen-Dualismus, der das Licht nun nicht mehr ausschließlich als Welle oder ausschließlich als Teilchen beschreibt, sondern als Quantenobjekt. Als solches vereint es Eigenschaften von Welle und von Teilchen, ohne das eine oder das andere zu sein und entzieht sich somit unserer konkreten Anschauung. Daraus entstand Anfang des 20. Jahrhunderts die Quantenphysik und später die Quantenelektrodynamik, die bis heute unser Verständnis von der Natur des Lichts darstellt.
+
+Wissenschaft
+Physik
+Im Folgenden werden die wichtigsten Modelle zur Beschreibung des Lichts vorgestellt. Wie alle Modelle in der Physik sind auch die hier aufgeführten in ihrem Geltungsbereich beschränkt. Eine nach unserem heutigen Wissen vollständige Beschreibung des Phänomens „Licht“ kann nur die Quantenelektrodynamik liefern.
+
+Licht als elektromagnetische Welle
+→ Hauptartikel: Elektromagnetische Welle
+
+Elektrisches Feld (E, blau) und magnetisches Feld (B, rot) einer sich im Vakuum nach rechts ausbreitenden in vertikaler Richtung linear polarisierten Welle entlang der Ausbreitungsrichtung für einen bestimmten Zeitpunkt, λ ist die Wellenlänge. Links die Schwingungsrichtung von Ladungsträgern, die (im Fernfeld) solch eine Feldverteilung hervorrufen. Rechts der Blick entgegen der Ausbreitungsrichtung: E, B und der Wellenvektor k stehen senkrecht aufeinander und bilden in dieser Reihenfolge ein Rechtssystem.
+In der klassischen Elektrodynamik wird Licht als eine hochfrequente elektromagnetische Welle aufgefasst. Im engeren Sinne ist „Licht“ nur der für das menschliche Auge sichtbare Teil des elektromagnetischen Spektrums, also Wellenlängen zwischen ca. 380 und 780 nm. Es handelt sich um eine Transversalwelle, wobei die Amplitude durch den Vektor des elektrischen Feldes oder des Magnetfeldes gegeben ist. Die Ausbreitungsrichtung verläuft senkrecht dazu. Die Richtung des \vec{E}-Feld-Vektors oder \vec{B}-Feld-Vektors wird Polarisationsrichtung genannt. Bei unpolarisiertem Licht setzt sich das Strahlungsfeld aus Wellen aller Polarisationsrichtungen zusammen. Wie alle elektromagnetischen Wellen breitet sich auch sichtbares Licht im Vakuum mit der Lichtgeschwindigkeit von  c \,=\, 299\,792\,458\ \frac{\text{m}}{\text{s}} aus.
+
+Die Wellengleichung dieser elektromagnetischen Welle kann aus den Maxwell-Gleichungen hergeleitet werden. Daraus ergibt sich ein einfacher Zusammenhang zwischen der Lichtgeschwindigkeit und der magnetischen Feldkonstante \mu_0 und der elektrischen Feldkonstante \varepsilon_0.
+
+c=\frac{1}{\sqrt{\mu_0 \varepsilon_0}}
+im Vakuum,
+
+c_{\text{Medium}}=\frac{1}{\sqrt{\mu_0 \mu_r \varepsilon_0 \varepsilon_r}}
+im Medium.
+
+Offensichtlich hängt die Lichtgeschwindigkeit – genauer: die Phasengeschwindigkeit des Lichts – in Medien von deren Materialeigenschaften ab. Diese können im Brechungsindex n zusammengefasst werden. Im Allgemeinen ist er frequenzabhängig, was man als Dispersion bezeichnet. Darauf beruht unter anderem die Fähigkeit eines Prismas, das Licht in seine spektralen Anteile zu zerlegen. Kurzwelliges blaues Licht wird bei normaler Dispersion stärker gebrochen als langwelliges rotes Licht.
+
+Strahlenoptik
+→ Hauptartikel: Geometrische Optik
+Die Strahlenoptik (auch: geometrische Optik) macht sich die Näherung zunutze, dass die Ausbreitung des Lichts durch gerade „Strahlen“ veranschaulicht werden kann. Diese Näherung ist vor allem dann gerechtfertigt, wenn die Abmessungen der Versuchsanordnung groß gegenüber der Wellenlänge des Lichts sind. Dann können sämtliche Beugungsphänomene vernachlässigt werden. Das Bindeglied zwischen Wellenoptik und Strahlenoptik ist der Wellenvektor, dessen Richtung mit der Richtung des Lichtstrahls übereinstimmt. Die Strahlenoptik ist besonders gut geeignet, Phänomene wie Licht und Schatten, Reflexion oder Brechung zu beschreiben. Daher kann mit ihr die Funktion vieler optischer Geräte (Lochkamera, Lupe, Teleskop, Mikroskop) erklärt werden. Insbesondere sind die Abbildungsgesetze auch die Grundlage für das Verständnis des Brechapparats im menschlichen Auge.
+
+Prinzipien von Strahlen
+Lichtstrahlen breiten sich immer geradlinig aus und ändern ihre Richtung nur dann, wenn sie auf einen Körper treffen (durch Reflexion, Brechung oder Streuung), unberücksichtigt der in der Astronomie beobachteten Ablenkung des Lichts durch schwere Massen (Gravitationslinseneffekt).
+Lichtstrahlen können einander durchdringen, ohne sich gegenseitig dabei zu beeinflussen.
+Der Lichtweg ist umkehrbar. Das bedeutet, dass jeder Strahlengang auch dann allen optischen Gesetzen genügen würde, wenn man die Ausbreitungsrichtung des Lichts umkehren würde.
+Reflexion
+
+Reflexion und Brechung an der Grenzschicht zweier transparenter Medien unterschiedlicher optischer Dichte
+An spiegelnden Oberflächen (wie an blanken Metallen) wird Licht nach dem Reflexionsgesetz reflektiert.
+
+Der einfallende und der ausfallende Strahl sowie das Lot auf der reflektierenden Fläche liegen in einer Ebene. Einfallswinkel und Ausfallswinkel sind einander gleich.
+Das Verhältnis der reflektierten Lichtintensität zur einfallenden Lichtintensität wird als Reflexionsgrad bezeichnet und ist material- und wellenlängenabhängig.
+Brechung
+Licht wird an der Grenzfläche zwischen zwei Medien unterschiedlicher optischer Dichte gebrochen, d. h. ein Strahl ändert an dieser Grenzfläche seine Richtung. (Der Vollständigkeit halber sei gesagt, dass an einer solchen Grenzfläche stets auch die Reflexion mehr oder weniger stark auftritt.) Das Brechungsgesetz von Snellius besagt:
+
+Der einfallende und der gebrochene Strahl sowie das Lot auf der Grenzfläche liegen in einer Ebene. Dabei ist der Winkel zwischen Lot und Lichtstrahl in dem Medium kleiner, das den höheren Brechungsindex hat.
+Die genauen Winkel \delta_i können durch die Brechungsindizes n_i der beteiligten Medien berechnet werden:
+
+n_1\sin(\delta_1)=n_2\sin(\delta_2).
+Wenn der einfallende Strahl aus dem optisch dichteren Medium unter einem flachen Winkel auf die Grenzfläche trifft, gibt es keinen reellen Winkel für den gebrochenen Strahl, der diese Bedingung erfüllt. In diesem Fall tritt statt der Brechung eine Totalreflexion auf.
+
+Wellenoptik
+→ Hauptartikel: Wellenoptik
+
+Beugung einer ebenen Welle an einem Doppelspalt: Von den beiden Spalten geht je eine Elementarwelle aus, die beide zu dem typischen Beugungsmuster eines Doppelspalts interferieren.
+Der Wellenoptik liegt das Prinzip von Huygens und Fresnel zugrunde.
+
+Jeder Punkt einer Wellenfront ist der Ausgangspunkt einer Elementarwelle. Eine Wellenfront ergibt sich als Überlagerung dieser Elementarwellen.
+Mit Elementarwelle ist in diesem Zusammenhang eine Kugelwelle gemeint, die von einem bestimmten Punkt ausgeht. Wellenfronten sind die Flächen gleicher Phase. Der Abstand zwischen zwei aufeinander folgenden Wellenfronten ist somit die Wellenlänge. Die Wellenfronten einer ebenen Welle sind also Ebenen, die Wellenfronten von Elementarwellen sind konzentrische Kugelflächen. Die Ausbreitungsrichtung (also die Richtung des Wellenvektors) bildet stets eine Normale zur Wellenfront. Mit der Wellenoptik lassen sich alle Phänomene der Beugung und Interferenz verstehen. Sie eignet sich aber auch, das Reflexions- und das Brechungsgesetz herzuleiten. Die Wellenoptik widerspricht also nicht der Strahlenoptik, sondern erweitert und vertieft diese.
+
+Historisch nimmt die Wellenoptik von Huygens und Fresnel schon wesentliche Erkenntnisse der Elektrodynamik vorweg: Die Lichtwellen sind elektromagnetische Wellen.
+
+Photonen
+→ Hauptartikel: Photon
+In der Quantenphysik wird Licht nicht mehr als klassische Welle, sondern als Quantenobjekt aufgefasst. Demnach setzt sich das Licht aus einzelnen diskreten Energiequanten, den so genannten Photonen zusammen. Ein Photon ist ein Elementarteilchen, genauer: ein Boson mit einer Ruhemasse von 0, das sich stets mit der Lichtgeschwindigkeit c bewegt.
+
+Es trägt eine Energie von
+
+E = h \nu
+Hierbei ist \nu die Frequenz des Lichts und h das Plancksche Wirkungsquantum mit h = 6{,}626\,069\,57(29) \cdot 10^{-34}\,\text{Js}.
+
+Das Photon hat einen Impuls von
+
+p = \frac{h}{\lambda},
+wobei \lambda die Wellenlänge des Lichts ist.
+
+Der Spin des Photons hängt mit der Polarisation zusammen: Die Wellenfunktion eines einzelnen Photons ist zirkular polarisiert. Je nach Rotationsrichtung des \vec E-Feld-Vektors beträgt der Spin des Photons +1 oder -1.
+
+Ein Photon wird entweder als Ganzes absorbiert und emittiert oder gar nicht. Es ist also „zählbar“ wie ein Teilchen. Trotzdem bleibt alles, was hier bisher über die Welleneigenschaften des Lichts gesagt wurde, gültig. Die Welle wird quantenmechanisch korrekt durch einen Spezialfall der Klein-Gordon-Gleichung für masselose Teilchen beschrieben (was der Maxwellschen Wellengleichung entspricht). Dieses merkwürdige Verhalten der Photonen, das jedoch auch alle anderen Quantenobjekte zeigen, wurde mit dem Schlagwort „Welle-Teilchen-Dualismus“ bezeichnet: Quantenobjekte sind weder wie klassische Teilchen noch wie klassische Wellen zu verstehen. Je nach Betrachtungsweise zeigen sie Eigenschaften der einen oder der anderen.
+
+In der heute gängigsten Interpretation der Quantenmechanik (Kopenhagener Deutung) kann man den genauen Ort eines Photons nicht a priori vorhersagen. Man kann nur Aussagen über die Wahrscheinlichkeit machen, mit der ein Photon an einer bestimmten Stelle auftreffen wird. Diese Wahrscheinlichkeitsdichte ist durch das Betragsquadrat der Amplitude der Lichtwelle gegeben.
+
+Historisch wurde die quantenmechanische Beschreibung des Lichts notwendig, weil sich einige Phänomene mit der rein klassischen Elektrodynamik nicht erklären ließen.
+
+Stellt man sich eine thermische Lichtquelle (Idealfall: Schwarzer Körper) als eine Ansammlungen von vielen atomaren Oszillatoren vor, die mit dem Strahlungsfeld im Gleichgewicht stehen, so würde eine klassische Herleitung zur „UV-Katastrophe“ führen, kurzwellige Strahlung müsste im Spektrum des Schwarzen Körpers viel stärker vertreten sein, als sie es ist. (Rayleigh-Jeans-Gesetz)
+Die klassische Elektrodynamik würde vorhersagen, dass die Energie von Elektronen, die beim Photoeffekt freigesetzt werden, proportional zur Intensität der absorbierten Strahlung ist. Tatsächlich ist sie aber (abgesehen von einem konstanten Summanden) proportional zur Frequenz der Strahlung. Dieser Zusammenhang lässt sich klassisch nicht verstehen.
+Empfindliche Detektoren (beispielsweise Photomultiplier) empfangen bei schwacher Einstrahlung nicht etwa eine konstant gleichmäßig niedrige Intensität, sondern einzelne, sowohl räumlich als auch zeitlich sehr eng begrenzte Signale.
+Das Spektrum von Röntgenstrahlung hat eine kurzwellige Grenze, die direkt mit der Energie der Elektronen zusammen hängt, die für ihre Erzeugung verwendet wurden.
+Wechselwirkung mit Materie
+
+Reflexion
+
+ 
+
+Streuung
+
+ 
+
+Absorption
+
+ 
+
+Brechung
+
+ 
+
+Doppelbrechung
+
+ 
+
+Optische Aktivität
+
+ 
+
+Photoeffekt
+
+Neben den schon weiter oben in diesem Artikel beschriebenen Phänomenen
+
+Brechung
+Reflexion
+gibt es noch zahlreiche weitere Wechselwirkungen zwischen Licht und Materie.
+
+Absorption: Die Energie des einfallenden Lichts wird von einem Körper verschluckt. Dies kann dazu führen, dass ein Elektron auf ein höheres Energieniveau gehoben wird, dass sich der Körper erwärmt. Wenn die Strahlung unabhängig von ihrer Wellenlänge absorbiert wird, erscheint der Körper schwarz. Wird nur ein Teil des Spektrums absorbiert, so bestimmen die übrig gebliebenen Teile des Spektrums die Farbe des Körpers (Subtraktive Farbmischung). Im Falle der elektronischen Anregung kann die Energie auch wieder in Form von Strahlung abgegeben werden. Man spricht von spontaner Emission, von Fluoreszenz oder - wenn der Vorgang zeitlich deutlich verzögert erfolgt - von Phosphoreszenz.
+Doppelbrechung: Manche Materialien spalten einen Lichtstrahl in zwei Strahlen unterschiedlicher Polarisation auf.
+Optische Aktivität: Bestimmte Medien können die Polarisationsebene von polarisiertem Licht drehen.
+Photoeffekt: Die Photonen lösen Elektronen aus dem bestrahlten Körper.
+Streuung: Das Licht ändert seine Ausbreitung, jedoch nicht wie bei der Reflexion in eine definierte Richtung, sondern diffus in alle möglichen Raumrichtungen. Je nach dem streuenden Körper unterscheidet man zwischen Compton-Streuung (an freien Elektronen), Rayleigh-Streuung (an gebundenen Elektronen ohne Energieübertrag), Raman-Streuung (an gebundenen Elektronen mit Energieübertrag), Mie-Streuung (an Teilchen, deren Ausdehnung in der Größenordnung der Wellenlänge liegt).
+Lichtquellen
+
+Kontinuierliches Spektrum
+
+Linienspektrum (hier: Emissionsspektrum von Wasserstoff)
+Prinzipiell unterscheidet man zwischen thermischen und nicht-thermischen Strahlern. Erstere beziehen die Energie für die Strahlungsemission aus der thermischen Bewegung ihrer Teilchen. Beispiele wären eine brennende Kerze, der Glühdraht einer herkömmlichen Glühbirne oder die Sonne. Das Spektrum eines thermischen Strahlers ist kontinuierlich, d. h. es treten alle Wellenlängen auf, wobei die spektralen Anteile nach dem Planckschen Strahlungsgesetz ausschließlich von der Temperatur abhängen, jedoch nicht vom Material des Strahlers.
+
+Im Gegensatz dazu haben nicht-thermische Lichtquellen kein kontinuierliches Spektrum, sondern ein Linien- oder einen Bandenspektrum. Das bedeutet, dass nur ganz bestimmte Wellenlängen abgestrahlt werden. Linienspektren treten bei Gasentladungsröhren auf, Bandenspektren bei LEDs, Polarlichtern oder Leuchtkäfern. Die Energiequellen für die Strahlung sind hier meist elektrische Ströme oder Entladungen oder chemische Reaktionen. Linienspektren sind oft charakteristisch für bestimmte Stoffe.
+
+Eine Sonderstellung unter den Lichtquellen nimmt der Laser ein. Laserlicht ist monochromatisch (es besteht nur aus einer Wellenlänge), kohärent (es besteht eine feste Phasenbeziehung zwischen allen Wellenzügen), meist polarisiert und extrem gut fokussierbar.
+
+Lichtempfänger
+Der intakte Sehsinn ist der einfachste Nachweis. Dementsprechend spielt das Auge eine wichtige Rolle bei der direkten Beobachtung von Vorgängen, an denen Licht beteiligt ist.
+Der fotografische Film spielt bei der Erforschung der Natur des Lichtes eine große Rolle: Man kann durch lange Belichtung geringste Lichtintensitäten von fernen Sternen und deren Spektren dokumentieren. Fotografische Schichten können für verschiedene Bereiche des Spektrums sensibilisiert werden. Inzwischen wird der fotografische Film jedoch mehr und mehr durch digitale Sensoren verdrängt.
+Optische Strahlungsdetektoren nutzen meist den äußeren (Photozelle, Vidicon, Bildverstärker, Photomultiplier) und inneren (Halbleiterdetektoren wie Photodiode, Fototransistor, Fotowiderstand) photoelektrischen Effekt. Komplexe Sensoren (Zeilensensoren und Flächensensoren), die auch in Scannern und Digitalkameras als Aufnahmeelement dienen, arbeiten ebenfalls mit Halbleiterdetektoren. Farbsensoren arbeiten mit mehreren, hinter verschiedenen Filtern liegenden Photodetektoren.
+Durch Fluoreszenz und Photolumineszenz kann infrarotes und ultraviolettes Licht nachgewiesen werden, indem das erzeugte sichtbare Licht ausgewertet wird.
+Licht lässt sich ebenfalls durch seine thermische Wirkung nachweisen. Auf diesem Prinzip beruhen die in der Astronomie verwendeten Bolometer zur Vermessung der Strahlungsleistung astronomischer Lichtquellen, sowie thermische Leistungsmesser für Laserstrahlen hoher Leistung.
+Biologie
+Licht als Ökofaktor
+
+Absorptionsspektrum des grünen Blattfarbstoffs Chlorophyll a und b, mit dem Pflanzen Licht aufnehmen und in der Folge verwerten können; siehe auch Soret-Bande
+Licht stellt für Pflanzen - neben der Verfügbarkeit von Wasser - den wichtigsten Ökofaktor dar, weil es die Energie für die Photosynthese liefert. Die von den Chlorophyll-Molekülen in den Chloroplasten absorbierte Lichtenergie wird genutzt, um Wassermoleküle zu spalten (Fotolyse) und so Reduktionsmittel für die Photosynthese herzustellen. Diese werden in einem zweiten Schritt verwendet, um Kohlenstoffdioxid schrittweise schließlich zu Glucose zu reduzieren, woraus unter anderem Stärke aufgebaut wird. Der bei der Fotolyse anfallende Sauerstoff wird als Reststoff an die Atmosphäre abgegeben. Die Summenreaktionsgleichung der Photosynthese lautet:
+
+\mathrm{6\; CO_2 + 6\; H_2O \quad \xrightarrow{h \nu} \;C_6H_{12}O_6 + 6\; O_2}
+Den Aufbau von organischen Verbindungen aus Kohlenstoffdioxid bezeichnet man als Kohlenstoffdioxid-Assimilation. Organismen, die mit Hilfe von Licht dazu in der Lage sind, nennt man photo-autotroph. Neben den Gefäßpflanzen gehören auch die Moose, die Algen und einige Bakterien, beispielsweise Cyanobakterien und Purpurbakterien, dazu. Alle heterotrophen Organismen sind von dieser Assimilation abhängig, weil sie ihren Energiebedarf nur aus organischen Verbindungen, die sie mit der Nahrung aufnehmen müssen, decken können.
+
+Die Konkurrenz der Pflanzen ums Licht macht sich im „Stockwerkaufbau“ des Waldes und der damit verbundenen Spezialisierung von Licht- und Schattenpflanzen oder in der jahrzeitlicher Abfolge verschiedener Aspekte bemerkbar. In Gewässern dient nur die lichtdurchflutete oberste Schicht, die Nährschicht, der Bildung von Biomasse und Sauerstoff, hauptsächlich durch Phytoplankton. Weil viele Tiere und Einzeller durch das hohe Nahrungsangebot und den vergleichsweise hohen Sauerstoffgehalt des Wassers hier gute Lebensbedingungen finden, werden sie durch das Licht angelockt.
+
+
+Großer Leuchtkäfer (Lampyris noctiluca)
+Der Licht- oder Sehsinn ist für viele Tiere einer der wichtigsten Sinne. Er dient zur Orientierung im Raum, zur Steuerung des Tag-Nacht-Rhythmus, zum Erkennen von Gefahren, zum Aufspüren von Beute, zur Kommunikation mit Artgenossen. Daher haben sich im Laufe der Evolution in den verschiedensten Taxa die unterschiedlichsten Lichtsinnesorgane entwickelt. Diese reichen von den einfachen Augenflecken von Euglena, über einfache Pigmentfelder bis zu den komplex aufgebauten Facettenaugen und Linsenaugen. Nur wenige Tiere sind vollkommen unempfindlich für Lichtreize. Dies ist höchstens dann der Fall, wenn sie in völliger Dunkelheit leben, wie Höhlentiere.
+
+Sowohl für Räuber- als auch Beutetiere ist es von Vorteil, nicht gesehen zu werden. Anpassungen daran sind Tarnung und Nachtaktivität. Erstaunlicherweise haben dahingegen viele Lebewesen selbst die Fähigkeit entwickelt zu leuchten. Das bekannteste Beispiel ist der Leuchtkäfer. Man findet dieses Phänomen der Biolumineszenz aber auch bei Tiefseefischen, Leuchtkrebsen, Pilzen (Hallimasch) oder Bakterien. Der Nutzen der Biolumineszenz wird vor allem mit innerartlicher Kommunikation, Abschreckung von Fraßfeinden, Anlocken von Beute erklärt.
+
+Licht als Sinnesreiz
+
+Schematischer Längsschnitt durch das menschliche Auge
+Das Licht, das ins menschliche Auge fällt, wird durch den Brechapparat (bestehend aus Hornhaut, vorderer und hinterer Augenkammer, Linse und Glaskörper) auf die Netzhaut projiziert, wo ein reelles, auf dem Kopf stehendes Bild entsteht. (Der Vorgang ist demjenigen in einer Fotokamera vergleichbar.) Dadurch werden die in der Netzhaut befindlichen Fotorezeptoren (= Lichtsinneszellen) gereizt, die den Reiz in ein elektrisches Signal wandeln. Dieses Signal wird über den Sehnerv, in den die einzelnen Nervenstränge der Netzhaut münden, ans Gehirn geleitet, wo die Empfindung entsteht.
+
+Die Lichtintensität wird als Helligkeit empfunden. Das Auge kann sich durch verschiedene Mechanismen an die viele Zehnerpotenzen umfassende Intensitäten anpassen (s. Adaption). Die empfundene Helligkeit hängt dabei mit der tatsächlichen Intensität über das Weber-Fechner-Gesetz zusammen.
+
+Die spektrale Zusammensetzung des Lichtreizes wird als Empfindung Farbe wahrgenommen, wobei das menschliche Auge Licht mit Wellenlängen zwischen ca. 380 nm und 750 nm erfassen kann. Trennt man weißes Licht (durch ein Prisma) auf, so erscheinen die Wellenlängen als Farben des Regenbogens.
+
+Wellenlängenbereiche der Spektralfarben
+(etwa-)Farbton  Wellenlänge \lambda in nm Wellenfrequenz \nu in THz Energie E pro Photon in eV  Wellenzahl  \tilde{\nu} in cm−1
+Violett 380–420 789,5–714,5 3,26–2,955  26.316–23.810
+Blau  420–490 714,5–612,5 2,95–2,535  23.810–20.408
+Grün  490–575 612,5–522,5 2,53–2,165  20.408–17.391
+Gelb  575–585 522,5–513,5 2,16–2,125  17.391–17.094
+Orange  585–650 513,5–462,5 2,12–1,915  17.094–15.385
+Rot 650–750 462,5–400,5 1,91–1,655  15.385–13.333
+(Hierbei ist jedoch zu beachten, dass diese Tabelle streng genommen nur für monochromatisches (d. h. einfarbiges) Licht gilt. Mischfarben rufen unter Umständen ganz andere Farbeindrücke hervor. So erscheint eine Mischfarbe aus grünem und rotem monochromatischem Licht beispielsweise gelb.)
+
+
+Empfindlichkeitsverteilung der menschlichen Fotorezeptoren in Stäbchen (schwarz gestrichelt) und den drei Zapfentypen (S, M und L).
+Die Netzhaut des Auges ist mit verschiedenen Sinneszellen ausgestattet: Die Stäbchen weisen eine breite spektrale Ansprechbarkeit auf und zeichnen sich durch eine hohe Sensitivität aus. Sie sind daher auf das Sehen in der Dämmerung spezialisiert, können jedoch keine Farben unterscheiden. Die Zapfen hingegen, die an stärkere Intensitäten angepasst sind, kommen in drei verschiedenen Typen vor, die jeweils bei einer anderen Wellenlänge ihr Reaktionsoptimum haben. Ihre Verschaltung ermöglicht letztendlich das Farbensehen.
+
+Sowohl bei den Stäbchen als auch bei den Zapfen beruht der Sehvorgang auf der Absorption von Photonen durch das Sehpigment (im Falle der Stäbchen: Rhodopsin). Der Ligand Retinal macht dabei eine Konformationsänderung durch, die dazu führt, dass das Rhodopsin zerfällt und die Signalkaskade der Fototransduktion in Gang setzt. Die dadurch verursachte Hyperpolarisation der Zellmembran der Stäbchen und Zapfen bewirkt ein elektrisches Signal, welches an die nachgeschalteten Nervenzellen weitergegeben wird. (s. Sehbahn)
+
+Die Leistungen der Lichtsinnesorgane anderer Lebewesen unterscheiden sich zum Teil erheblich von denen des Menschen. Während die meisten Säugetiere ein eher unterentwickeltes Farbensehen haben, verfügen Vögel über mehr Zapfentypen und können dementsprechend mehr Farben unterscheiden als der Mensch. Bienen sind zwar mehr oder weniger unempfindlich für langwelliges (rotes) Licht, können aber das sehr kurzwellige UV-Licht wahrnehmen, das für den Menschen unsichtbar ist. Außerdem können sie die Polarisationsrichtung des Lichts wahrnehmen. Dies hilft ihnen bei der Orientierung im Raum mithilfe des Himmelblaus. Manche Schlangen wiederum können die ebenfalls für uns unsichtbaren IR-Strahlen mit ihren Grubenorganen wahrnehmen.
+
+Chemie
+Bei organischen Farbstoffen können delokalisierte π-Elektronen durch Frequenzen im sichtbaren Bereich auf ein höheres Niveau gehoben werden. Dadurch werden je nach Molekül bestimmte Wellenlängen absorbiert.
+
+Bei anorganischen Farbstoffen können auch Elektronen aus den d-Orbitalen eines Atoms in energetisch höher gelegene d-Orbitale angeregt werden (siehe Ligandenfeldtheorie). Des Weiteren können diese Farbstoffe ihre Position zwischen Zentralion und Ligand innerhalb eines Komplexes wechseln (siehe auch Charge-Transfer-Komplexe und Komplexchemie).
+
+Größen und Einheiten
+Die Lichtgeschwindigkeit (c) ist unabhängig von der Bewegung der Quelle und sinkt in Medien gegenüber der Vakuumlichtgeschwindigkeit ab. Sie beträgt im Vakuum 299.792.458 Meter pro Sekunde und ist dort auch unabhängig von der Bewegung des Beobachters.
+Die Lichtfarbe ist von der wellenlängeabhängigen Zusammensetzung des Lichtes bestimmt. Diese wiederum ist umgekehrt proportional zur Energie der Lichtquanten.
+Die Polarisation des Lichtes beschreibt die Orientierung der elektrischen und magnetischen Feldvektoren des Lichtes im Raum. Das flach an dielektrischen Flächen reflektierte Licht sowie das Licht des blauen Himmels ist teilweise linear polarisiert, während das Licht von Glühlampen und der Sonne keine Vorzugsrichtung der Polarisation aufweist. Linear und zirkular polarisiertes Licht spielen in der Optik und Lasertechnik eine große Rolle.
+Lichtstrom (Lumen)
+Lichtmenge (Lumensekunde)
+Lichtstärke (Candela)
+Leuchtdichte (Candela/m²)
+Beleuchtungsstärke (Lux)
+Der Lichtdruck (Newtonsekunde) ist die physikalische Kraftwirkung des Lichtes auf Teilchen oder Gegenstände und spielt aufgrund seines geringen Betrages nur in der Schwerelosigkeit eine merkliche Rolle.
+Die Farbtemperatur (Kelvin) ist die der Temperatur eines schwarzen Strahlers zugeordnete Lichtfarbe einer Lichtquelle, um diese hinsichtlich ihres Farbeindruckes zu klassifizieren.
+Das Lichtjahr (Lj, ly) ist eine in der Astronomie verwendete Längeneinheit, welche die während eines Jahres vom Licht zurückgelegte Strecke angibt.
+Licht in der Gesellschaft
+Licht ist, wie Feuer, eines der bedeutendsten Phänomene für alle Kulturen. Künstlich erzeugtes Licht aus Lampen ermöglicht dem Menschen heutzutage ein angenehmes und sicheres Leben auch bei terrestrischer Dunkelheit (Nacht) und in gedeckten Räumen (Höhlen, Gebäuden). Technisch wird die Funktionsgruppe, die Licht erzeugt, als Lampe oder Leuchtmittel bezeichnet. Der Halter für die Lampe bildet mit dieser eine Leuchte. „Licht“ und „Leuchte“ werden auch als Symbole für Intelligenz verwendet (Lichtblick, Aufklärung). Ein Mangel an Intelligenz wird auch als „geistige Dunkelheit“ oder „geistige Umnachtung“ bezeichnet. Im Christentum steht das Licht in der Selbstbezeichnung Jesu Christi für die Erlösung des Menschen aus dem Dunkel der Gottesferne. In der biblischen Schöpfungsgeschichte ist das Licht das zweite Werk Gottes, nach Himmel und Erde.
+
+Licht aus Sicht des deutschen Gesetzgebers
+Licht zählt als ein Umweltfaktor zu den Immissionen im Sinne des Bundes-Immissionsschutzgesetzes (BImSchG). Lichtimmissionen von Beleuchtungsanlagen können das Wohn- und Schlafbedürfnis von Menschen und Tieren erheblich stören und auch technische Prozesse behindern. Entsprechend sind in der „Licht-Richtlinie“ der Länder (in Deutschland) Maßstäbe zur Beurteilung der (Raum-)Aufhellung und der (psychologischen) Blendung festgelegt. Besonders störend kann intensiv farbiges oder blinkendes Licht wirken. Zuständig sind bei Beschwerden die Umwelt- und Immissionsschutzbehörden der jeweiligen Bundesländer. Negative Auswirkungen betreffen die Verkehrssicherheit (Navigation bei Nacht, physiologische Blendung durch falsch eingestellte Scheinwerfer oder durch Flächenbeleuchtungen neben Straßen), Einflüsse auf die Tierwelt (Anziehen nachtaktiver Insekten, Störung des Vogelflugs bei Zugvögeln) und die allgemeine Aufhellung der Erdatmosphäre (Lichtverschmutzung, die astronomische Beobachtungen infolge Streuung des Lampenlichts in der Atmosphäre des Nachthimmels behindert).
+
+Literatur
+Albert Einstein: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. In: Annalen der Physik. 1905, S. 132–148. Mit diesem Beitrag begründete Einstein den Welle-Teilchen-Dualismus des Lichts.
+Rolf Heilmann: Licht. Die faszinierende Geschichte eines Phänomens, Herbig, München 2013, ISBN 978-3-7766-2711-4.
+Klaus Hentschel: Einstein und die Lichtquantenhypothese. In: Naturwissenschaftliche Rundschau. 58, 6, 2005, ISSN 0028-1050, S. 311–319.
+Thomas Walther, Herbert Walther: Was ist Licht? Von der klassischen Optik zu Quantenoptik. Beck, München 1999, ISBN 3-406-44722-8.
+Sidney Perkowitz: Eine kurze Geschichte des Lichts. Die Erforschung eines Mysteriums. Deutscher Taschenbuch Verlag, München 1998, ISBN 3-423-33020-1.
+George H. Rieke: Detection of Light – From the Ultraviolet to the Submillimeter. Cambridge Univ. Press, Cambridge 2003, ISBN 0-521-81636-X.
+Wolfgang Schivelbusch: Lichtblicke: Zur Geschichte der künstlichen Helligkeit im 19. Jahrhundert. Fischer Taschenbuch, Frankfurt am Main 2004, ISBN 978-3-596-16180-5.
+Weblinks
+ Commons: Licht – Sammlung von Bildern, Videos und Audiodateien
+ Wiktionary: Licht – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+  Wikiquote: Licht – Zitate
+Umfangreiche Informationen zur Physik des Lichts (auf Welt der Physik)
+Enzyklopädische Geschichte des Begriffs Licht (lexikalische Nachweise zum Thema Licht, von Michael Mandelartz)
+Baunetz Wissen Tageslicht (Online-Lexikon zu Tageslicht- und Kunstlichtnutzung)
+Umweltfaktor Licht (Landesamt für Natur, Umwelt und Verbraucherschutz NRW)
+Videos
+Wird Licht müde? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 17. Mär. 2002.
+Was ist Licht? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 8. Dez. 2002.
+Was war der Äther? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 4. Feb. 2004.
+Einzelnachweise
+Bergmann-Schaefer Lehrbuch der Experimentalphysik, 10. Auflage, Seite 906
+Michael Faraday: Experimental Researches in Electricity. Nineteenth Series. In: Philosophical Transactions of the Royal Society. Band 136, 1846, S. 1–20, doi:10.1098/rstl.1846.0001.
+Von „http://de.wikipedia.org/w/index.php?title=Licht&oldid=140132746“
+Kategorien: SehenElektromagnetische Strahlung
+Diese Seite wurde zuletzt am 21. März 2015 um 12:04 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

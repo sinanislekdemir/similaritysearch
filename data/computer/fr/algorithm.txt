@@ -1,0 +1,60 @@
+Algorithme
+
+Cet article court présente un sujet plus développé dans : Algorithmique.
+Un algorithme est une suite finie et non ambiguë d’opérations ou d'instructions permettant de résoudre un problème.
+
+Le mot algorithme vient du nom latinisé du mathématicien perse Al-Khawarizmi, écrivant en langue arabe, surnommé « le père de l'algèbre »1. Le domaine qui étudie les algorithmes est appelé l'algorithmique. On retrouve aujourd'hui des algorithmes dans de nombreuses applications telles que la cryptographie, le routage d'informations, la planification et l'utilisation optimale des ressources, la bio-informatique, etc.
+
+Sommaire
+
+1 Algorithme mathématique
+1.1 Quelques définitions
+2 Algorithmes non mathématiques
+3 Notes et références
+4 Annexes
+4.1 Liens externes
+Algorithme mathématique
+
+Les algorithmes mathématiques sont des objets historiquement dédiés à la résolution de certains problèmes, comme la multiplication de deux nombres quelconques. Ils ont été formalisés et définis plus précisément bien plus tard à la suite de la crise des fondements des mathématiques et à l'avènement des machines qui permettaient de les mettre en œuvre automatiquement, les ordinateurs, grâce à des modèles formels comme la machine de Turing, l'équivalent mathématique de nos ordinateurs actuels.
+
+Un algorithme est une méthode générale pour résoudre un ensemble de problèmes. Il est dit correct lorsque, pour chaque instance du problème, il se termine en produisant la bonne sortie, c'est-à-dire qu'il résout le problème posé. On mesure l'efficacité d'un algorithme notamment par sa durée de calcul, par sa consommation de mémoire RAM (en partant du principe que chaque instruction a un temps d'exécution constant), par la précision des résultats obtenus (par exemple avec l'utilisation de méthodes probabilistes, comme la méthode de Monte-Carlo), sa scalabilité (son aptitude à être efficacement parallélisé), etc. Les ordinateurs sur lesquels s'exécutent ces algorithmes ne sont pas infiniment rapides : le temps de machine reste une ressource limitée, malgré une augmentation constante des performances des ordinateurs. Un algorithme sera donc dit performant s'il utilise avec parcimonie les ressources dont il dispose, c'est-à-dire le temps CPU et la mémoire RAM ou plus récemment sa consommation électrique. L’analyse de la complexité algorithmique permet de prédire l'évolution en temps calcul nécessaire pour amener un algorithme à son terme, en fonction de la quantité de données à traiter.
+
+Quelques définitions
+
+Donald Knuth (1938‒), également professeur à l'université de Stanford au même moment que Marshall Harvey Stone, lista les cinq propriétés suivantes comme étant les prérequis d'un algorithme :
+
+la finitude : « Un algorithme doit toujours se terminer après un nombre fini d’étapes. »
+définition précise : « Chaque étape d'un algorithme doit être définie précisément, les actions à transposer doivent être spécifiées rigoureusement et sans ambiguïté pour chaque cas. »
+entrées : « ... des quantités qui lui sont données avant qu'un algorithme ne commence. Ces entrées sont prises dans un ensemble d'objets spécifié. »
+sorties : « ... des quantités ayant une relation spécifiées avec les entrées. »
+rendement : « … toutes les opérations que l'algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »
+George Boolos (1940‒1996), philosophe et mathématicien, proposa la définition suivante :
+
+« Des instructions explicites pour déterminer le nième membre d'un ensemble, pour n un entier arbitrairement grand. De telles instructions sont données de façon bien explicite, sous une forme qui puisse être utilisée par une machine à calculer ou par un humain qui est capable de transposer des opérations très élémentaires en symboles. »
+Algorithmes non mathématiques
+
+Une recette de cuisine est également un algorithme. Elle en contient les éléments constitutifs :
+des entrées (les ingrédients, le matériel utilisé)
+des instructions élémentaires simples, dont l'exécution amène au résultat voulu
+un résultat : le plat préparé.
+Cependant, les recettes de cuisine ne sont en général pas présentées rigoureusement sous forme non ambigüe : il est d'usage d'y employer des termes vagues laissant une liberté d'appréciation à l'exécutant alors qu'un algorithme stricto sensu doit être précis et sans ambigüité.
+Le tissage surtout tel qu'il a été automatisé par le métier Jacquard est une activité algorithmique.
+Un casse-tête, tel le Rubik's Cube, peut être résolu de façon systématique par un algorithme d'exécution.
+En informatique : tel que les algorithmes de compression.
+En sport, l'exécution de séquences répondant à des finalités d'attaque, de défense, de progression, correspond à des algorithmes.
+Article détaillé : algorithme (sport).
+Notes et références
+
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue !
+ce mot peut donc être considéré comme étant un onomastisme
+Annexes
+
+Liens externes
+
+Qu’est-ce qu'un algorithme ? par Philippe Flajolet et Étienne Parizot sur la revue en ligne Interstices
+Définition du terme algorithme par les auteurs
+La page de l'algorithme
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Algorithme&oldid=113467986 ».
+Dernière modification de cette page le 1 avril 2015 à 22:25.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

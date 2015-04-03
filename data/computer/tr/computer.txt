@@ -1,0 +1,155 @@
+Bilgisayar
+
+Vikipedi, özgür ansiklopedi
+
+Bu maddedeki bazı bilgilerin kaynağı belirtilmemiştir. Ayrıntılar için maddenin tartışma sayfasına bakabilirsiniz.Maddeye uygun biçimde kaynaklar ekleyerek Vikipedi'ye katkıda bulunabilirsiniz.
+
+Bir masaüstü bilgisayarın görünümü
+Bilgisayar, kendisine verdiğimiz bilgileri istediğimizde saklayabilen, istediğimizde geri verebilen cihaza denir. İlk elektrikli bilgisayar ENIAC'tır.
+
+Bilgisayarlar çok farklı biçimlerde karşımıza çıkabilirler. 20. yüzyılın ortalarındaki ilk bilgisayarlar büyük bir oda büyüklüğünde olup, günümüz bilgisayarlarından yüzlerce kat daha fazla güç tüketiyorlardı. 21. yüzyılın başına varıldığında ise bilgisayarlar bir kol saatine sığacak ve küçük bir pil ile çalışacak duruma geldiler. Bu kadar küçük imal edilebilmelerinin temel nedeni 1969 yılında yarı iletkenler ile çok küçük alanlara sığdırılabilen devreler yapılabilmesidir. Şu anda kullandığımız bilgisayarlar Intel'in ilk işlemci unvanına sahip olan 4004'ten sonra bilgisayar teknolojisi hız kazanmıştır. Toplumumuz kişisel bilgisayarı ve onun taşınabilir eşdeğeri, dizüstü bilgisayarını, bilgi çağının simgeleri olarak tanıdılar ve bilgisayar kavramıyla özdeşleştirdiler. Günümüzde çok yaygın kullanılmaktadırlar. Bilgisayarın temel çalışma prensibi ikili sayı sistemi yani sadece 0 ve 1 den oluşan kodlamalardır.
+
+İstenilen yazılımı kayıt edip istenilen zamanda çalıştırabilmeleri bilgisayarları çok yönlü kılıp hesap makinelerinden ayıran ana özellikleridir. Church-Turing tezi bu çok yönlülüğün matematiksel ifadesidir ve herhangi bir bilgisayarın bir diğer bilgisayarın görevlerini yerine getirebileceğinin altını çizer. Dolayısıyla, karmaşıklıkları ne düzeyde olursa olsun, cep bilgisayarından süper bilgisayarlara kadar, bellek ve zaman sınırı olmadığı takdirde hepsi aynı görevleri yerine getirebilirler.
+
+
+Jacquard'ın doku tezgâhı ilk kurulabilir aygıtlardandır.
+Konu başlıkları
+
+1 Tarihçe
+1.1 Bellek
+1.2 Bilgisayar ağları
+1.3 Donanım
+1.4 Giriş/çıkış birimleri
+1.5 Yazılım
+1.6 Programlama dilleri
+2 Kişisel Bilgisayarların Kilometre Taşları
+3 Ayrıca bakınız
+Tarihçe
+Geçmişte 'bilgisayar' olarak bilinen birçok aygıt günümüz ölçütlerine göre bu tanımı hak etmemektedirler. Başlangıçta bilgisayar sözcüğü hesaplama sürecini kolaylaştıran nesnelere verilen bir ad konumundaydı. Bu ilk dönemin bilgisayar örnekleri arasında sayı boncuğu (abaküs) ve AntiKitira Makinesi (M.Ö 150-100) sayılabilir. Yüzyıllar sonra, Orta Çağ sonundaki yeni bilimsel keşifler ışığında, Avrupalı mühendisler tarafından geliştirilen bir dizi makinesel hesaplama aygıtlarının ilki ise, Wilhelm Schickard'a (1623) aittir.
+
+Ancak, yazılımlanabilir (veya kurulabilir) olmamaları nedeniyle bu aygıtların hiçbiri günümüz bilgisayar tanımına uymamaktadır. 1801 yılında Joseph Marie Jacquard'ın dokuma tezgâhındaki işlemi otomatikleştirmek adına ürettiği delikli kartlar ise bilgisayarların gelişme sürecindeki, kısıtlı da olsa, ilk yazılımlanabilme (kurulabilme) izlerinden sayılır. Kullanıcının sağladığı bu kartlar sayesinde, dokuma tezgâhı kart üzerindeki delikler ile tarif edilen çizime işleyişini uyarlayabiliyordu.
+
+
+Вir delikli kart
+1837 yılında Charles Babbage, adını Analytical Engine (çözümlemeli veya analitik makine) koyduğu, ilk tam yazılımlanabilir makinesel bilgisayarı kavramsallaştırıp tasarladı. Ancak parasal nedenler ve üzerindeki çalışmalarının sonlanamaması nedeniyle bu makineyi geliştiremedi.
+
+Delikli kartların ilk büyük ölçekli kullanımı ise Herman Hollerith tarafından, 1890 yılında muhasebe işlemlerinde kullanılmak üzere tasarlanan hesap makinesidir. Hollerith'in o dönemde bağlı olduğu işletme ise sonraki yıllarda küresel bilgisayar devine dönüşecek IBM'dir. 19. yüzyılın sonlarına varıldığında, gelecek yıllarda bilişim donanım ve kuramlarının gelişimine büyük katkıda bulunacak uygulayımlar (teknolojiler) ortaya çıkmaya başlamıştılar: delikli kartlar, Boole cebiri, boşluk tüpleri ve teletip aygıtları.
+
+20. yüzyılın ilk yarısında ise, birçok bilimsel gereksinim, gittikçe karmaşıklaşan örneksel (analog) bilgisayarlar ile giderildiler. Ancak günümüz bilgisayarlarının yanılmazlık düzeyinden hâlâ uzaktılar.
+
+1930'lar ve 1940'lar boyunca bilgisayar uygulayımı gelişmeye devam etti, ve sayısal elektronik bilgisayarın ortaya çıkışı ancak elektronik devrelerinin buluşundan (1937) sonra gerçekleşebildi. Bu dönemin önemli çalışmaları arasında aşağıdakiler sayılabilir:
+
+
+ENİAC, von Neumann mimarisini uygulayan ilk bilgisayarlardandır.
+Konrad Zuse'nin "Z makineleri". Z3 (1941) ikili sayı tabanına dayalı işleyip, gerçel sayılar ile işlem yapabilen ilk makinedir. 1998 yılında Z3'ün Turing uyumlu olduğu kanıtlanmış ve böylece ilk bilgisayar unvanını edinmiştir.
+Atanasoff-Berry Bilgisayarı (1941) boşluk tüplerine dayalı olup, ikili sayı tabanının yanı sıra, sığaç tabanlı bellek donanımına sâhipti.
+İngiliz yapımı Colossus bilgisayarı (1944), kısıtlı yazılımlanabilirliğine (kurulabilirliğine) karşın, binlerce tüp kullanımının yeterince güvenilir bir sonuç verebileceğini göstermiştir. II. Dünya Savaşı'nda Alman silahlı kuvvetlerinin gizli iletişimlerini çözümlemek için kullanılmıştır.
+Harvard Mark I (1944), kısıtlı kurulabilirliğe sahip bir bilgisayar.
+ABD Ordusu tarafından geliştirilen ENIAC (1946), onluk sayı tabanına dayalı olup ilk genel kullanım amaçlı elektronik bilgisayar unvanına sahiptir.
+ENIAC'ın olumsuz yanlarını saptayan geliştiricileri, daha esnek ve zarif bir çözüm üzerinde çalışıp, artık saklı yazılım mimarisi veya daha çok von Neumann mimarisi olarak tanınan tasarımı önerdiler. Bu tasarımdan ilk olarak John von Neumann (1945) yılında gerçekleştirdiği bir yayında söz etmesinden sonra, bu mimariye dayalı olarak geliştirilen bilgisayarlardan ilki İngiltere'de tamamlandı (SSEM). Aynı mimariye bir yıl sonra kavuşan ENIAC'a ise EDVAC adı verildi.
+
+Günümüz bilgisayarlarının neredeyse tamamının bu mimariye uyumlu duruma gelmesi ile bilgisayar sözcüğünün tanımı olarak da kullanılmaktadır. Dolayısıyla bu tanıma göre geçmişteki aygıtlar bilgisayar olarak sayılmasalar da, tarihsel bağlamda yine de o biçimde anılmaktadırlar. Her ne kadar 1940'lardan bu yana bilgisayar uygulayımı köklü değişiklikler geçirmiş olsa da, çoğunluğu von Neumann mimarisine sadık kalmıştır.
+
+
+1980'lerde Bir IBM PC
+Boşluk tüpüne dayalı bilgisayarlar 1950'ler boyunca kullanımda kaldıktan sonra, 1960'larda daha hızlı ve ucuz olan geçirgeç (transistör) tabanlı bilgisayarlar yaygınlık kazandı. Bu etkenlerin sonucunda bilgisayarların daha önce görülmemiş bir düzeyde toplu üretimine geçirildi. 1970'lere varıldığında tümleşik devre uygulayımı ve Intel 4004 gibi mikroişlemcilerin geliştirilmesi sayesinde bir kez daha büyük bir başarım ve güvenilirlik artışının yanı sıra, maliyet düşüşü de yaşandı. 1980'lerde artık bilgisayarlar, çamaşır makinesi gibi günlük hayat kullanımındaki birçok makinesel aygıtın denetleyici donanımlarındaki yerlerini almaya başlamışlardı. Yine aynı dönemde, kişisel bilgisayarlar yaygınlık kazanıyorlardı. Son olarak 1990'lardaki Internet'in gelişimi ile de bilgisayarlar televizyon ve telefon gibi alışılmış birer aygıt hâline gelmişlerdir.
+
+Ayrıca bakınız: Türkiye'de bilgisayarın geçmişi
+Von Neumann mimarisine göre bilgisayarlar başlıca dört bileşenden oluşurlar bilgisayarda aritmetik mantık vardır.
+
+
+von Neumann mimarisine göre bilgisayar yapısı.
+Bellek
+Bir bilgisayarın belleği, sayılar içeren bir hücreler bütünü olarak düşünülebilir. Her hücreye yazılabilir ve içeriği okunabilir. Her hücrenin kendisine özel bir adresi vardır. Bir komut örneğin 34 sayılı hücrenin içeriğini 5.689 sayılı hücreyle toplayıp 78. hücreye yerleştirmek olabilir. İçerdikleri sayılar herhangi bir şey olabilir, sayı, komut, adres, harf, vb. İçeriğinin doğasını ancak onu kullanan yazılım belirler. Günümüz bilgisayarlarının çoğunluğu veriyi kaydetmek için ikili sayıları kullanır ve her hücre 8 bit (yani bir bayt) içerebilir.
+
+
+Mikroişlemci von Neumann mimarisinin temel öğelerindendir.
+
+Kişisel bilgisayar: (1) Ekran, (2) Ana kart (3) İşlemci (CPU) (4) Bellek (RAM) (5) Genişletme Kartları (PCI-X, AGP, v. b.) (6) Güç Kaynağı (7) Optik Disk Sürücü (DVD, CD, v. b.) (8) Sabit Disk (9) Klavye (10) Fare
+Dolayısıyla bir bayt 255 farklı sayıyı ifade edebilir, bunlar ancak 0 dan 255'e veya -128 den +127'ye olabilirler. Yan yana yerleşmiş birden fazla bayt kullanıldığında ise (genelde 2, 4 veya 8) çok daha büyük sayıların kaydedilmesi mümkün olur. Çağımız bilgisayarlarının bellekleri milyarlarca bayt içermektedirler.
+
+Bilgisayarlarda üç adet bellek türü bulunur. İşlemci içerisinde yer alan yazmaçlar, son derece hızlı ancak çok sınırlı sığaya sahiptirler. İşlemcinin çok daha yavaş olan ana belleğe olan erişim gereksinimini gidermek için kullanılırlar. Ana bellek ise Rastgele erişimli bellek (REB veya RAM, Random Access Memory) ve Salt okunur bellek (SOB veya ROM, Read Only Memory) olmak üzere ikiye ayrılır. RAM'e istenildiği zaman yazılabilir ve içeriği ancak güç sürdüğü sürece korunur. ROM'sa sadece okunabilen ve önceden yerleştirilmiş bilgiler içerir. Bu içeriği güçten bağımsız olarak korur. Örneğin herhangi bir veri veya komut RAM'da bulunurken, bilgisayar donanımını düzenleyen BIOS ROM'da yer alır.
+
+Son bir bellek alt türü ise önbellektir (cache memory). İşlemci içerisinde yer alır ve yazmaçlardan büyük sığaya sahip olmanın yanı sıra ana bellekten de hızlıdır.
+
+
+Sabit diskler bilgisayarların en çok tanınan G/Ç birimlerindendirler.
+G/Ç bir bilgisayarın dış dünyadan veri alışverişinde bulunmak için kullandığı araçtır. Yaygın olarak kullanılan giriş birimleri arasında klavye ve fare, çıkış için ise ekran (veya görüntüleyici, monitör), hoparlör ve yazıcı sayılabilir. Sabit ve optik diskler ise her iki görevi de üstlenirler.
+
+Bilgisayar ağları
+Bilgisayarlar 1950`lerden beri çoklu ortamlar arasında bilgi koordinasyonu kurmak amacıyla kullanıldı. ABD ordusunun (SAGE) sistemi bu tür sistemlerin geniş kapsamlı ilk örneğiydi ve bu sistem (Sabre) gibi birçok özel amaçlı ticari sisteme öncülük etti. 1970'lerde ABD'li mühendisler ordu içerisinde yürütülen bir tasarı çerçevesinde bilgisayarları birbirleri ile bağlayıp (ARPANET), günümüzde bilgisayar ağı olarak bilinen yapının temellerini attılar. Zaman içerisinde bu bilgisayar ağı, ordu ve akademik birimler ile de sınırlı kalmayıp genişledi ve bugün milyonlarca bilgisayar içeriden Bilgisunar (İnternet veya Genel ağ) oluştu. 1990'lara gelindiğinde ise, İsviçre'nin CERN araştırma merkezinde geliştirilen Küresel ağ (World Wide Web, WWW) adlı iletişim kuralları, e-posta gibi uygulamalar ve ethernet gibi ucuz donanımsal çözümler ile bilgisayar ağları yaygınlık kazandılar.
+
+Donanım
+
+Disket sürücü, sabit disk ve optik diskin bulunduğu çevresel birimlerin toplandığı standart tip bilgisayar kasası
+Donanım kavramı bir bilgisayarın tüm dokunulabilir bileşenlerini kapsar.
+
+Donanım örnekleri
+Çevresel birimler (Giriş/çıkış) Giriş Fare, Klavye, Oyun çubuğu, Tarayıcı
+Çıkış Monitör, Yazıcı, Hoparlör
+Her ikisi Disket sürücü, Sabit disk, Optik disk
+Bağlantı birimleri  Kısa menzil RS-232, SCSI, PCI, USB
+Uzun menzil (Bilgisayar ağları) Ethernet, ATM, FDDI
+Giriş/çıkış birimleri
+Giriş/çıkış, bilgi işlem dizgesinin değişik işlevsel birimleri (alt sistemleri) arasındaki iletişimi veya bu arayüzlere doğrudan bilgi sinyallerini göndermeyi sağlar.
+
+Girişler, değişik birimlerden alınan sinyallerdir. Çıkışlar ise bu birimlere gönderilen sinyallerdir. I/O aygıtları bir kullanıcı (veya başka sistemler) tarafından bilgisayar ile bağlantı kurabilmek için kullanılır. Örnek olarak, klavye ve fare bilgisayarın giriş aygıtlarıdır. Ekran, hoparlör ve yazıcı ise bilgisayarın çıkış aygıtlarıdır. Değişik aygıtlar bilgisayar ile bağlantı gerçekleştirebilmeleri için giriş ve çıkış sinyallerini kullanırlar. Modem ve bağlantı kartları örnek olabilir.
+
+Klavye ve fare kullanıcıların fiziksel hareketlerini giriş olarak alırlar ve bu fiziksel hareketleri bilgisayarların anlayabileceği düzeye getirirler. Çıkış birimleri ise (yazıcı,hoparlör,ekran gibi) giriş sinyali olarak bilgisayarın ürettiği çıkış sinyallerini alırlar ve bu sinyalleri kullanıcıların görebileceği ve okuyabileceği çıktılara çevirirler.
+
+Bilgisayar mimarisinde merkezi işlem birimi (CPU) ve ana bellek bilgisayarın kalbini oluşturmaktadır. Çünkü bellek kendi talimatları ile merkezî işlem birimindeki verileri doğrudan okuyabilir ve merkezi işlem birimine doğrudan veri yazabilir. Örnek olarak, bir disket sürücüsü I/O sinyallerini dikkate alır. Merkezi işlem biriminin I/O yöntemlerini sağlaması alt düzey bilgisayar programlamacılığında aygıt sürücülerinin tamamlanmasına yardımcı olur.
+
+Üst düzey işletim sistemleri ve üst düzey programlamacılık ideal I/O kavramlarını ve temel öğeleri ayırt ederek çalıştırmaya olanak sağlamaktadır. Örneğin C programlama dili yazılımların I/O'larını düzenlemek için içerisinde fonksiyonlar bulundurmaktadır. Bu fonksiyonlar dosyalardan veri okunmasını ve bu dosyaların içerisine veri yazılmasını sağlar.
+
+Yazılım
+Yazılım kavramı bilgisayardaki özdek (maddi) olmayan tüm bileşenleri tanımlar: yazılımlar, iletişim kuralları ve veriler hepsi yazılımdır.
+
+Yazılım
+İşletim sistemi Unix/BSD  UNIX V, AIX, HP-UX, Solaris (SunOS), FreeBSD, NetBSD, IRIX
+GNU/Linux Linux dağıtımları
+Microsoft Windows Windows 3.0, Windows 3.1, Windows 95, Windows 98, Windows NT, Windows CE, Windows XP, Windows Vista, Windows 7, Windows 8 Windows 8.1 Windows 10(Deneme Sürümü)
+DOS DOS/360, QDOS, DRDOS, PC-DOS, MS-DOS, FreeDOS
+Mac OS  Mac OS X
+Gömülü ve Gerçek zamanlı işletim sistemileri  Gömülü işletim sistemleri dizelgesi
+Kütüphaneler  Çoklu ortam DirectX, OpenGL, OpenAL
+Yazılımlama kütüphanesi C kütüphanesi
+Veriler İletişim kuralı TCP/IP, Kermit, FTP, HTTP, SMTP, NNTP
+Belge biçimleri HTML, XML, JPEG, MPEG, PNG
+Kullanıcı arayüzü Grafiksel kullanıcı arayüzü (WIMP)  Microsoft Windows, GNOME, KDE, QNX Photon, CDE, GEM
+Metinsel kullanıcı arayüzü  Komut satırı, Kabuk
+Diğer 
+Uygulama  Ofis  Kelime işlemci, Masaüstü yayıncılık, Sunum yazılımı, Veri tabanı yönetim sistemi, Hesap çizelgesi, Muhasebe yazılımı
+Bilgisiyar Erişimi  Tarayıcı, E-posta istemcisi, Küresel ağ sunucusu, Anlık ileti yazılımı
+Tasarım Bilgisayar destekli tasarım, Bilgisayar destekli yapım
+Grafikler Hücresel grafik düzenleyici, Yöneysel grafik düzenleyici, 3B modelleyici, Canlandırma düzenleyici, 3B bilgisayar grafikleri, Video düzenleme, Görüntü işleme
+Sayısal ses Sayısal ses düzenleyici, Ses oynatıcı
+Yazılım mühendisliği  Derleyici, Çevirici, Yorumlayıcı, Hata ayıklayıcı, Metin düzenleyici, Tümleşik geliştirme ortamı, Başarım incelemesi, Değişiklik denetimi, Yazılım yapılandırma yönetimi
+Oyunlar Strateji, Macera, Bulmaca, Benzetim, Rol yapma oyunu, Etkileşimli kurgu
+Ek  Yapay +, Antivirüs yazılımı, Belge yönetici
+Programlama dilleri
+Programlama dilleri
+Programlama dilleri listesi Programlama dillerinin bölümsel listesi, Programlama dillerinin abecesel listesi, İngilizce tabanlı olmayan programlama dilleri
+Çokça kullanılan Assembly dilleri x86
+Çokça kullanılan Yüksek düzey diller  BASIC, [Delphi, C, C++, C#, COBOL, D, Fortran, Java, Lisp, Pascal
+Çokça kullanılan Betik dilleri  Bourne shell, JavaScript, Python, Ruby, PHP, Perl
+Kişisel Bilgisayarların Kilometre Taşları
+
+
+1950-1970 Büyük kurumlarda anaçatı bilgisayarlar kullanılıyordu.
+1971  Yonganın geliştirilmesiyle bilgisayarlar çok küçük hâle geldi. Kişisel kullanıma yönelik ilk bilgisayar satıldı. Kendi monitörü yoktu, televizyon ekranını kullanıyordu.
+1975  Bir ekranı ve klavyesi takılı olan ilk bilgisayar satıldı. Bilgisayara "Uzay Yolu" adlı televizyon dizisindeki bir gezegenden esinlenilerek Altair adı verilmişti.
+1977  Tamamı birleştirilmiş, ekranı ve klavyesi bulunan, kullanıma hazır halde ilk bilgisayar üretildi.
+1981  Bir ABD şirketi olan IBM, ilk kişisel bilgisayarı üretir. Kısa süre sonra diğer şirketler, IBM gibi kendi bilgisayarlarını tasarlar.
+1983  Apple, faresi olan bir bilgisayar olan Macintosh'u üretir. Bilgisayar çizgeleri (grafik) kullanılmaya başlanır.
+1986  Microsoft şirketi Windows 1.0'ı piyasaya sürer.
+1992  Linus Torvalds, Linux 1.0'ı duyurur.
+1997  Avuçiçi bilgisayarlar piyasaya yeni yeni çıkar. 
+Ayrıca bakınız
+Bilgisayar bilimleri
+Bilgisayar güvenliği
+Hesaplanabilirlik
+"http://tr.wikipedia.org/w/index.php?title=Bilgisayar&oldid=15306801" adresinden alındı.
+Kategoriler: BilgisayarAlman icatları
+Bu sayfa son olarak 25 Mart 2015, 17:18 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

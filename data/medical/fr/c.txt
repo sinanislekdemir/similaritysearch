@@ -1,0 +1,760 @@
+Cancer
+
+Cancer
+Classification et ressources externes
+Tomodensitométrie d'un cancer de la plèvre.
+DiseasesDB  28843
+MedlinePlus 001289
+MeSH  D009369
+Wikipédia ne donne pas de conseils médicaux Mise en garde médicale
+Un cancer (ou tumeur maligne) est une maladie caractérisée par une prolifération cellulaire (tumeur) anormalement importante au sein d'un tissu normal de l'organisme, de telle manière que la survie de ce dernier est menacée. Ces cellules dérivent toutes d'un même clone, cellule initiatrice du cancer qui a acquis certaines caractéristiques lui permettant de se diviser indéfiniment. Au cours de l'évolution de la maladie, certaines cellules peuvent migrer de leur lieu de production et former des métastases. Pour ces deux raisons, le dépistage du cancer doit être le plus précoce possible.
+
+« Cancer » est un terme général désignant une maladie pour lesquelles certaines cellules d'un organisme adoptent un comportement anormal caractérisé par1,2,3,4 :
+
+une indépendance vis-à-vis des signaux qui stimulent normalement la multiplication des cellules ;
+une insensibilité aux signaux et mécanismes anti-prolifératifs ;
+une capacité proliférative qui n'est plus limitée (croissance à l'infini) ;
+la disparition du phénomène d'apoptose ;
+une capacité anormale à susciter l'angiogenèse ;
+et l'acquisition d'un pouvoir invasif et de production de métastases.
+Les nouvelles cellules résultantes, dites « cancéreuses » ou « tumorales » peuvent former une tumeur maligne (un néoplasme) ou se propager à travers le corps.
+
+Les facteurs de risques sont internes (génome, mutation5, etc.), induction par un agent infectieux, etc. et/ou externes (alimentation, exposition à des substances cancérigènes ou à des conditions telles que l'irradiation, etc.). Des facteurs hormonaux, et épigénétiques sont possibles. Des études scientifiques concluent que seul 5 à 10 % des cas de cancer sont uniquement attribués à des facteurs génétiques contre 25 à 30 % au tabagisme, 30 à 35 % aux régimes alimentaires (dont l'alcool), 15 à 20 % aux infections, et 10 à 25 % aux autres facteurs (rayons ionisants, stress, activité physique insuffisante, pollution de l'environnement)6. Ces chiffres sont en réalité trompeurs : comme toute pathologie le cancer est le résultat d'une interaction complexe entre l'environnement et l'individu7, or les recherches actuelles ont du mal à identifier des facteurs de risques génétiques uniquement lié à un facteur environnemental ou comportemental8. Certaines études mettent par exemple en relief certaines prédispositions génétiques du cancer qui favoriseraient l'apparition de la maladie qu'en cas de facteur externe : les obèses diabétiques ne seraient pas tous égaux face au risque de cancer selon leurs gènes9. Des études futures vont sans doute permettre de mieux comprendre l’interaction entre l'environnement et la génétique10.
+
+Durant la dernière décennie, plusieurs types de cancers semblent en augmentation, si dans certains cas cette progression est facilement liée à des facteurs de risque identifiés (tabac, alcool, polluants industriels reconnus cancérigènes, obésité, sédentarité, exposition au soleil) dans certains cas il est difficile d'attribuer à des facteurs précis l'augmentation observée. L'amélioration des outils de diagnostic11 et le vieillissement de la population12 expliquent une part importante de la progression de l'incidence de certains cancers. À l'inverse une étude de l'Institut de veille sanitaire montre que les cancers de l'estomac, de l’œsophage (chez l'homme), du col de l'utérus et le lymphome hodgkinien ont régressé entre 1980 et 200013.
+
+Sommaire
+
+1 Terminologie et étymologie
+2 Biologie
+2.1 Typologie
+2.2 Génétique
+2.3 Transformation cellulaire
+2.4 Origine
+3 Chronologie de la transformation cancéreuse
+3.1 Cancérogenèse
+3.2 Tumorigenèse
+3.3 Évolution
+4 Causes
+4.1 Risques endogènes
+4.2 Risques dits « environnementaux »
+5 Prévention
+5.1 Dépistage
+6 Diagnostic
+7 Traitements
+7.1 Traitements alternatifs
+7.2 Impact sur la qualité de vie, la vie professionnelle et soutien psychologique
+8 Coûts économiques et socioéconomiques
+9 Statistiques par pays
+9.1 France
+9.2 Taux de survie et surmortalité
+9.3 Chez l'enfant
+10 Épidémiologie
+11 Historique
+12 Chez les animaux
+13 Découvertes récentes en cancérologie
+14 Bibliographie
+14.1 Littérature jeunesse
+15 Notes et références
+16 Voir aussi
+16.1 Articles connexes
+16.2 Liens externes
+Terminologie et étymologie
+
+L'oncologie est la spécialité qui étudie les cancers. Elle est souvent confondue, par les médecins eux-mêmes et par le public, avec la branche médicale de la cancérologie, qui diagnostique et traite les cancers. Les cancérologues peuvent être, selon leur spécialité, chimiothérapeutes ou radiothérapeutes. Du fait d'une image négative sur le pronostic auprès du public, le cancer a de nombreux synonymes employés par les médecins : tumeur maligne, néoplasie, néoplasme, polymitose, carcinome, etc. Certains termes sont plus répandus dans la langue populaire : tumeur, crabe, etc.
+
+Du latin cancer (« crabe, chancre, cancer »), apparenté au grec καρκινος, karkinos (« écrevisse »). Ce nom aurait été donné par Hippocrate, parce que le cancer « a des veines étendues de tous côtés, de même que le crabe a des pieds »14. La même source (Paul d'Égine) ajoute que « son nom lui vient, selon quelques-uns, de ce que quand il s'est emparé d'un organe, il ne le lâche plus, de même que fait le crabe quand il s'est attaché à quelque chose ».
+
+Biologie
+
+
+Quand des cellules normales sont endommagées et qu'elles ne peuvent pas être soignées, elles meurent : c'est l'apoptose. Les cellules cancéreuses ne meurent pas et continuent de se développer.
+Typologie
+
+Il existe généralement :
+
+les carcinomes : cancer d'un épithélium, c'est-à-dire une surface composée uniquement de cellules ;
+les sarcomes : cancers proliférant dans des tissus conjonctifs comme les os ;
+les cancers hématopoïétiques : cancer des cellules sanguines.
+Il existe un classement selon les organes touchés, par exemple :
+
+le cancer du sein ;
+le cancer du côlon : cancer du côlon et, proche, celui du rectum ;
+le cancer du pancréas ;
+le myélome multiple : cancer de la moelle osseuse ;
+les leucémies : cancers du sang ;
+le sarcome de Kaposi : cancer des vaisseaux sanguins ;
+lymphomes : maladie de Hodgkin et lymphome non-hodgkinien ;
+le cancer des testicules ;
+le cancer des poumons, causé le plus souvent par la cigarette ou autres.
+Il existe presque autant de sources de cancer que de tissus dans l'organisme. Certains sont toutefois plus fréquents que d'autres.
+
+Génétique
+
+D'un point de vue pathologique, les cancers sont des maladies génétiques, c'est-à-dire qu'ils ont pour origine une modification quantitative et/ou qualitative de nos gènes. Comme il s'agit d'altérations génétiques somatiques qui ne sont présentes que dans le tissu malade, la plupart des cancers ne sont donc pas eux-mêmes héréditaires, seul un terrain plus ou moins favorable pouvant l'être. Les cancers familiaux (10 % des cancers humains) sont associés à une altération constitutionnelle (ou germinale) d'un gène. Cette altération est donc présente dans toutes les cellules de l'organisme, gamètes inclus. Elle peut être transmise à la descendance.
+
+Il y a trois grandes catégories de gènes associés aux maladies cancéreuses : les oncogènes, les gènes suppresseurs de tumeurs et les gènes de réparation de l'ADN.
+
+Les oncogènes (appelés proto-oncogènes lorsqu'ils sont dans leur état normal et oncogènes lorsqu'ils sont mutés, ou c-onc) sont les régulateurs positifs de la prolifération cellulaire. Ils deviennent hyperactifs et leur modification est dominante car il suffit qu'une des deux copies du gène soit modifiée. On a identifié actuellement plus de cent oncogènes. Les plus connus sont les gènes Ha-ras, myc, ou abl.
+La seconde catégorie comprend les gènes suppresseurs de tumeurs qui sont des régulateurs négatifs de la prolifération cellulaire (les freins). Les deux copies de ces gènes sont inactivées dans les cancers.
+La troisième catégorie correspond aux gènes des multiples systèmes de réparation qui sont capables de détecter et de réparer les lésions de l'ADN qui ont modifié les oncogènes ou les gènes suppresseurs de tumeur. Ces systèmes de réparation sont également inactivés dans les cellules cancéreuses.
+Transformation cellulaire
+
+
+Durant toute la vie cellulaire, notre patrimoine génétique (l'acide désoxyribonucléique ou ADN) est soumis à des agressions. Dans la majeure partie des cas, ces modifications de l'ADN passent inaperçues car des mécanismes réparateurs corrigent ces défauts. Pourtant, dans de rares cas, une mutation peut atteindre et modifier la structure d'un gène spécifiant un facteur qui règle le contrôle de la multiplication cellulaire (oncogène ou gène suppresseur de tumeur). Dans ce cas, la cellule peut acquérir un avantage sélectif qui lui permettra de donner naissance à un premier clone de cellules anormales (lésion précancéreuse). Dans ces cellules qui ont un avantage sélectif, la probabilité qu'une seconde mutation apparaisse et soit sélectionnée est plus importante. Dans ce cas, une seconde population sera générée, plus anormale que la première et qui va se développer à ses dépens. On peut ainsi, par diverses étapes successives, accumuler plusieurs mutations, chacune d'entre elles permettant la sélection d'un clone de plus en plus malin pour finir par une cellule hautement cancéreuse. La progression tumorale correspond donc à un processus dynamique qui, à chaque étape, sélectionne une nouvelle cellule ayant subi une ou plusieurs altérations.
+La transformation cellulaire correspond au passage d'une cellule eucaryote normale vers une cellule eucaryote cancéreuse.
+
+Contrairement aux maladies génétiques comme la mucoviscidose, les myopathies ou certaines hémophilies qui sont des maladies monogéniques (un seul gène est généralement altéré), le cancer est une maladie multigénique. Chaque cancer a pour origine l'altération de 10 à 20 gènes. Ces altérations se produisent de manières successives, chacune d'entre elles favorisant la suivante (voir encadré). Cette suite d'altérations se produit généralement sur une très longue plage chronologique (5 à 20 ans); elle n'est pas aléatoire et pour chaque type de cancer, on a pu mettre en évidence d'une part une certaine spécificité des gènes altérés et d'autre part une chronologie dans le développement des évènements.
+
+Dans les cancers du côlon, cette succession d'événements comprend (entre autres) tout d'abord l'inactivation du gène suppresseur de tumeur APC, puis une mutation de l'oncogène Ha-ras suivi de l'inactivation du gène suppresseur de tumeur p53. Il y a d'autres événements qui restent à identifier. Le point essentiel est la spécificité des gènes altérés et leur chronologie. Dans un autre type de cancer, les gènes impliqués et la chronologie sont totalement différents. APC n'est altéré que dans les cancers du côlon et jamais dans les cancers de la peau. Par contre l'altération de p53 peut être retrouvée dans pratiquement tous les types de cancers. Dans le cancer de la peau, contrairement au cancer du côlon, l'altération du gène p53 est l'un des premiers événements. Cette très grande diversité génétique est à la base de l'hétérogénéité de la pathologie cancéreuse. À l'intérieur même d'un type de cancer particulier comme le cancer bronchique, existent plusieurs sous-types (cancer bronchique à petites cellules, adénocarcinome, cancer bronchique à grandes cellules, etc.) chacun étant associé à des altérations génétiques particulières. La situation est identique pour d'autres cancers comme celui du sein, de l'estomac ou de la peau, chaque organe pouvant être associé à plusieurs types de cancers suivant le type histologique de la cellule ayant été à l'origine de la maladie.
+
+Origine
+
+Environ 15 % des cancers humains peuvent être associés à des agents infectieux. Cela peut être des virus (virus de l'hépatite B et cancer du foie, papillomavirus humain et cancer du col de l'utérus, virus d'Epstein-Barr et lymphome de Burkitt), plus rarement des bactéries (Helicobacter et cancer gastrique) ou encore plus rarement des parasites (Schistosomes et cancer du foie). Dans tous ces cas, outre l'infection, on trouve également des altérations d'oncogènes ou de gènes suppresseurs dans les tumeurs. L'agent infectieux n'intervient qu‘à une étape du processus de transformation cellulaire.
+
+L'origine des altérations qui modifient les oncogènes et les gènes suppresseurs de tumeurs est multiple. On les classe généralement en deux grandes catégories, exogène et endogène.
+
+L'origine exogène correspond à toutes les expositions environnementales auxquelles un organisme est soumis. Cela va du tabac aux ultraviolets du soleil en passant par l'amiante, les radiations gamma, l'alcool et de nombreuses autres substances auxquelles un individu est exposé volontairement ou involontairement. Elles peuvent agir directement au niveau de notre ADN et provoquer des altérations comme certaines molécules dans le tabac ou les ultraviolets ou provoquer des états inflammatoires favorisant l'apparition de cellules cancéreuses (alcool).
+Les altérations d'origine endogène sont provoquées en partie par des molécules issues de notre métabolisme comme les espèces réactives à l'oxygène. Chaque jour notre ADN subit des millions d'agressions de la part de ces molécules mais dans la très grande majorité des cas, celles-ci sont réparées de manière très efficace. Néanmoins, il suffit d'une défaillance dans la réparation d'un gène important pour enclencher ou continuer un processus de transformation cellulaire. Des travaux récents (2007) suggèrent que les systèmes de réparation de l'ADN ont une efficacité qui diminue avec l'âge.
+En 2000, dans leur article « The hallmarks of cancer »1, Robert Weinberg et Douglas Hanahan ont suggéré que la transformation cellulaire passe par l'acquisition d'au moins six propriétés :
+
+Indépendance vis-à-vis des signaux stimulant la prolifération. Les cellules normales ne se divisent que lorsqu'elles reçoivent un stimulus particulier. Les cellules tumorales n'ont plus besoin de ce signal.
+Insensibilité aux signaux inhibiteurs
+Abolition de l'apoptose ou mort cellulaire programmée. En cas de stress ou d'anomalie ne pouvant pas être éliminée, une cellule normale se suicide en utilisant l'apoptose. Les cellules tumorales ont inactivé tous ces mécanismes pour mieux survivre.
+Capacité proliférative illimitée : le nombre usuel de divisions cellulaires pour une cellule humaine est de 50 à 60 (sénescence cellulaire, limite de Hayflick), après quoi elle cesse de pouvoir se diviser (voir article Télomère). Les cellules tumorales continuent de se diviser sans limite visible grâce à l'activité de la télomérase qui est fortement active dans toutes les cellules cancéreuses.
+Capacité de susciter l'angiogenèse. Les cellules tumorales (et la tumeur) ont un besoin important en oxygène pour survivre. Elles vont donc stimuler la formation de nouveaux vaisseaux sanguins afin d’oxygéner la tumeur.
+Acquisition d'un pouvoir invasif. Les cellules tumorales sont capables de passer à l'intérieur d'un vaisseau sanguin afin d'être transportées dans un autre organe où elles vont générer une seconde tumeur (métastase)
+Chronologie de la transformation cancéreuse
+
+La carcinogenèse est causée par des substances carcinogènes, qui entraînent des anomalies génétiques touchant l'architecture ou la séquence de l'ADN. À ce stade, le cancer en formation n'est cliniquement pas observable et n'a pas de conséquence fonctionnelle.
+
+La formation d'un cancer – au sens strict – comporte deux étapes distinctes et nécessairement successives : cancérogenèse et tumorogenèse.
+
+Cancérogenèse
+
+
+Des cellules cancéreuses photographiées par une caméra attachée à un microscope.
+Le stade cancérogenèse de la transformation cancéreuse nécessite deux étapes : l'initiation et la promotion. Ces deux étapes sont obligatoirement successives et l'initiation précède toujours la promotion, sans quoi le processus cancéreux s'arrête.
+
+Initiation
+
+L'initiation correspond à l'accumulation des anomalies génétiques.
+
+L'initiation (ou transformation cellulaire) comporte deux éléments majeurs :
+
+l'immortalisation : les cellules deviennent incapables d'initier leur propre mort (apoptose) ou ne répondent plus aux signaux extérieurs qui la déclenchent
+la perte d'homéostasie. L'homéostasie est caractérisée normalement par un équilibre divisions/morts qui assure le maintien de la taille et de la fonctionnalité d'un organe. Dans notre cas, les cellules cancéreuses perdent la sensibilité aux signaux qui régulent la prolifération.
+L'initiation est la conséquence de la carcinogenèse. L'action des carcinogènes mute des gènes importants dans le maintien de l'intégrité et des caractéristiques de chaque type cellulaire.
+
+Il en résulte des pertes ou gains de fonctions cellulaires :
+
+activation ou dérépression d'un oncogène : les oncogènes sont souvent des activateurs de la multiplication ou des inhibiteurs de l'apoptose (BCL, BCLX1, etc.)
+inhibition ou répression d'un gène suppresseur de tumeur : les gènes suppresseurs sont des inducteurs de l'apoptose ou des bloqueurs du cycle cellulaire (P53, BAC, etc.).
+Promotion
+
+La promotion recouvre la réception par la cellule de facteurs de prolifération qui vont entraîner les divisions. Ces signaux vont donc pérenniser les anomalies au cours des divisions, et ainsi assurer la descendance de la cellule anormale, qui va de surcroît accumuler de nouvelles anomalies génétiques. (voir Transformation cellulaire).
+
+La promotion est caractérisée par une grande instabilité génomique et une augmentation de la perte d'homéostasie.
+
+L'instabilité génomique est due à des mutations de deux types de gènes :
+
+Les gènes portiers (gate keeper genes) : ils assurent le contrôle du passage à une étape ultérieure du cycle cellulaire. Une perte de fonction de ces gènes permet à la cellule cancéreuse de passer rapidement à la phase ultérieure du cycle cellulaire, donc in fine de proliférer de façon incontrôlée.
+Les gènes soignants (care taker genes) : ils assurent physiologiquement la réparation des anomalies liées à l'ADN. Leur inactivation entraîne une instabilité accrue et une accumulation d'anomalies génétiques (mutation, perte d'hétérozygotie, modifications épigénétiques : hypo/hyperméthylation, désacétylation, etc.).
+Ces points de contrôle et de réparation altérés, la cellule cancéreuse a désormais perdu la capacité à « reconnaître sa vieillesse », initier sa mort et réparer les dommages de son ADN. La réponse aux signaux de croissance physiologiques est en outre disproportionnée. Ensuite, la cellule commence à produire ses propres signaux de prolifération (cf. infra) : la croissance incontrôlée d'un pool de cellules n'a alors plus de limite.
+
+À ce stade, le cancer est infraclinique : c'est une masse de cellules qui survit dans l'organisme. L'environnement des cellules cancéreuses (ou stroma, microenvironnement) est dit non coopératif : il ne fournit pas aux cellules cancéreuses les nutriments et le soutien que leur développement réclame. Cette phase est critique dans le développement clinique du cancer : si le stroma reste non-permissif, le cancer n'évolue pas, ou alors très lentement. Si en revanche il peut s'établir une réciprocité de maintien entre cancer et stroma : le cancer envoie des signaux permissifs au stroma, qui se modifie en faveur du cancer et va lui apporter nutriments et soutien. Ainsi le cancer grossit, produit de plus en plus de signaux permissifs, etc. Dans le cas ou la réciprocité s'établit, l'évolution du cancer reprend et passe à un stade clinique.
+
+Le stroma devient permissif à deux conditions :
+
+lorsqu'il est le siège d'une néoangiogenèse, c'est-à-dire d'une sécrétion par la tumeur de facteurs de croissance angiogéniques (VEGF) accompagnée d'une apparition des récepteurs à ces facteurs sur le stroma (VEGF-R))
+lorsqu'il y a apparition de récepteurs tumoraux aux facteurs de croissances cellulaires (boucle autocrine) ou microenvironnementaux (boucle paracrine).
+Tumorigenèse
+
+Il s'agit du développement du cancer donnant des conséquences cliniques : il grossit dans des limites histologiques précises (on parle de cancer in situ), puis les dépasse et devient donc invasif avec dissémination très probable de métastases.
+
+La néoangiogenèse et la mise en place d'une circulation sanguine stable et relativement efficace est un préalable indispensable à cette phase : la croissance tumorale est telle qu'elle ne peut plus se contenter d'une diffusion à partir d'un stroma non permissif mais nécessite des apports importants et dédiés.
+
+La tumeur grossit jusqu'à atteindre la lame basale : le cancer est dit in situ et son risque de métastase est faible.
+
+La croissance tumorale continue et la membrane basale se rompt, le cancer devient invasif : les cellules cancéreuses ont alors de grandes facilités à atteindre les courants métastatiques (circulations lymphatiques pour les carcinomes et veineuse pour les sarcomes) et la dissémination dans le corps débute.
+
+Évolution
+
+De son foyer initial, le cancer va (en dehors de tout traitement ou si le traitement n'est pas efficace) :
+
+se développer de manière locale. Il provoque dans ce cas une compression des organes voisins, voire un envahissement et une destruction des tissus adjacents ;
+se développer de manière régionale. Il envahit les ganglions lymphatiques, où logent les cellules du système immunitaire ;
+se propager à distance de la tumeur initiale et former des métastases. Il y a souvent une confusion chez les patients et leur famille : un cancer du sein avec des métastases au niveau du cerveau ne donne pas un cancer du cerveau ; c'est toujours le cancer du sein initial, mais qui s'est développé ailleurs. Il faut continuer à le traiter comme un cancer du sein. La localisation des métastases ne se fait pas complètement au hasard : les métastases de certains organes se localisent de préférence dans des types d'organes bien marqués. Voir à ce propos l'exemple des métastases osseuses (c'est-à-dire dans les os).
+L'évolution dépend du type du cancer et de sa prise en charge : certains ne font que très peu de métastases et sont très sensibles aux traitements permettant d'aboutir dans la grande majorité des cas à une rémission complète et prolongée (ce terme de rémission est spécifique de la cancérologie et diffère de guérison par l'absence de certitude quant à une récidive à court, moyen ou long terme). D'autres sont encore très difficilement maîtrisables et peuvent entraîner le décès à court terme. Une évaluation précise du type du cancer auprès d'un médecin spécialisé est donc indispensable.
+
+Causes
+
+Une étude américaine en 201415,16 parvient à la conclusion que deux cancers sur trois sont dus à des mutations génétiques aléatoires et ne seraient donc pas liés à des causes héréditaires ou environnementales17. Pour le tiers restant, les causes reconnues sont énoncées ci-dessous. Le journal Le Monde du 7 janvier 2015 publie un article de Annie Thébaud-Mony contestant la validité de l'étude américaine de Christian Tomasetti et Bert Vogelstein, lui reprochant de confondre relation statistique avec relation causale.
+
+Les facteurs de risque du cancer peuvent être endogènes (provenant de l'organisme) ou exogènes (extérieurs à l'organisme). L'étude sur des registres de vrais jumeaux ou des changements de taux de cancer chez les populations migrantes permet de démontrer la part environnementale de nombreux cancers.
+
+Risques endogènes
+
+Dans certains cas, l'apparition d'un cancer a une composante héréditaire. C'est le cas de quelques-uns comme certains cancers du sein18. Certains cancers induits par certains comportements transmis de génération en génération (consommation d'alcool ou de tabac) peuvent être confondus avec un risque génétique vrai, et inversement certains gènes prédisposant au cancer pourraient n'être activés que dans certaines circonstances (obésité, alcoolisme, etc.).
+
+Risques dits « environnementaux »
+
+
+Le tabagisme est la principale cause du cancer du poumon.
+Les facteurs exogènes de risque (facteurs non-génétiques ou « environnementaux ») dépassent le seul champ de l'environnement (au sens français du terme), puisque recouvrant aussi, par exemple, les bactéries et virus inducteurs de cancers. Ils sont pour partie liés à l'environnement et pour partie aux comportements à risque qui augmentent l'exposition de l'individu à ces facteurs.
+
+Alcool et tabac : Le tabac est un facteur de risque majeur pour différents cancers (voies respiratoires, ORL, vessie).
+L'éthanol (alcool) - même à dose modérée19 est classé dans la liste des cancérogènes du groupe 1 du CIRC ; il augmente le risque de plusieurs cancers, d'autant plus que la dose ingérée est importante20. Les cancers les plus favorisés par l'alcool incluent le cancer du foie et le cancer du pancréas19 ; les cancers des voies aérodigestives supérieures : cancer de la bouche (langue, cavum, lèvres), cancer de l'œsophage, cancer de l'estomac19 ; et le cancer du sein, une femme augmente son risque de cancer du sein de 10 % par 10 g d'alcool par jour. L'alcool est en France « la deuxième cause de mortalité évitable par cancer après le tabac. » Le rapport du Circ (Iarc, 2007) estime la part attribuable à l'alcool à 10,8 % de l'incidence des cancers et 9,4 % des décès par cancers chez l’homme et à respectivement 4,5 % et 3 % chez la femme. En 2006, il a été estimé que la consommation d'alcool était responsable de plus de 9 000 décès par cancers21. Il a été estimé, pour l'année 2007, que 30 000 décès (toutes causes confondues) étaient attribuables à l'alcool (OFDT, 2010)22.
+
+Radioactivité : Les rayonnements ionisants sont cancérigènes, il convient donc notamment d'éviter la pollution radioactive militaire, industrielle ou accidentelle. Il est notamment important de respecter les règles de radioprotection dans l'industrie nucléaire.
+
+Radiations solaires : Les UV du soleil sont cancérigènes. Il est notamment important d'éviter une surexposition au soleil, ou d'utiliser correctement les crèmes solaires lors d'une exposition prolongée au soleil car cela augmente considérablement le risque de cancers de la peau à cause des ultraviolets [réf. nécessaire].
+
+Micro-organismes : Les virus et bactéries font partie des facteurs exogènes du cancer. Certains cancers peuvent être induits par des virus, tels le cancer du col de l'utérus provoqué par le VPH23.
+
+Obésité : Elle jouerait un rôle dans près de 4 % des cancers, et pour beaucoup des cancers hormono-dépendants (du sein et de l'utérus et semble-t-il colorectal, de la vésicule biliaire, de la prostate, du pancréas et des reins ; à cause d'une production oestrogénique anormale et accrue dans les tissus gras).
+Elle est en forte augmentation, éventuellement à cause de perturbateurs endocriniens également facteurs de risque de cancer. Un indice de masse corporelle de 30 à 35 (seuil de l'obésité) augmente d'un tiers le risque de mourir du cancer24. 100 000 cancers auraient été causés par l'obésité par an entre 2000 et 201024[réf. insuffisante] ; Une étude américaine récente a conclu que 9 % des cas de cancer colorectal, 17 % des cas de cancer du sein, 21 % des cas de cancer de la vésicule biliaire, 24 % des cas de cancer du rein, 28 % des cas de cancer du pancréas, 35 % des cas de cancer de l'œsophage et une écrasante majorité de 49 % des cas de cancer de l'endomètre avaient l'obésité comme cause probable24,25. De plus les chances de survie sont moindres chez l'obèse, car leur cancer est souvent détecté plus tardivement. Aux États-Unis où l'obésité a fortement progressé (touchant 15 % des enfants et adolescents de 6 à 19 ans en 200026, avec 65 % des adultes étant soit en situation d'embonpoint, soit obèses26, soit 3 fois plus qu'en 1980), elle serait même déjà la cause de 14 % des décès par cancer chez les hommes et 20 % chez les femmes (devant le tabagisme)27.
+Probablement pour les mêmes raisons (hormonales), l'obésité de la mère aggrave aussi le risque de cancer du testicule chez le futur enfant (il y en avait déjà un indice avec un taux plus faible de cancer des testicules observé chez les hommes conçus durant la dernière guerre mondiale en Europe de l'Ouest, alors que la nourriture était rationnée). Pourtant, environ 40 % des gens sondés sur tous les continents ne connaissaient pas le lien entre obésité et cancer28. Le message de la campagne mondiale 2009 contre le cancer de l'UICC29 était qu'environ un cancer sur trois parmi les cancers les plus communs pourrait être évité par un poids normal, entretenu par une alimentation saine et équilibrée et une activité physique suffisante.
+Une étude récente30 a conclu que le risque de cancer du pancréas double pour ceux qui étaient obèses ou en surpoids à l'adolescence, par rapport à ceux qui n'ont jamais été obèses ou en surpoids. Sur tous les cas de cancer étudiés, 27 % ont été attribués à l'obésité (les autres facteurs de risque pour ce type de cancer sont surtout le tabagisme (25 % des cas) puis le diabète).
+
+Activité physique : L'activité physique pratiquée au quotidien a un effet protecteur vis-à-vis du cancer31. Cet effet est plus marqué pour le cancer du côlon, du sein, de l'utérus et des poumons32.
+
+Alimentation : L'alimentation joue un rôle dans la survenue de cancers. Selon le Fonds mondial de recherche contre le cancer, 30 à 40 % des cancers seraient imputables à l'alimentation33. Outre l'alcool cité plus haut, les mycotoxines34 sont considérées comme des facteurs établis de cancer.
+
+En ce qui concerne les facteurs probables de cancer, sont cités: les produits laitiers35,36,37, la viande38,39, les charcuteries à cause de leur teneur en nitrites40, les glucides à haut indice glycémique41, les résidus de pesticides, l'acrylamide et le benzopyrène (issus des viandes grillées notamment)
+
+Sur le plan des facteurs protecteurs, la consommation régulière de fruits et légumes diminuerait le risque de survenue d'un cancer42,38, ainsi que la consommation de fibres43, et peut-être celle d'antioxydants, de phyto-estrogènes. La pratique du jeûne intermittent44 et de la restriction calorique45 pourraient avoir un effet protecteur également.
+
+Polluants : Leur rôle exact dans la genèse des cancers reste difficile à évaluer. Les cancérologues accusent notamment l'exposition aux pesticides46,47. d'être responsable de cancers chez les agriculteurs. Relèvent également de la pollution les cancers provoqués par le contact, en milieu professionnel, avec des produits cancérogènes, notamment : amiante, benzène, trichloréthylène, arsenic, formaldéhyde, gaz moutarde, iode 131, radon, etc. et des produits de « mélanges » telles les poussières de bois, le goudron de houille et la suie48. L'OMS estime à 10 % la proportion de cancers liés au travail, ce qui correspond à plus de 200 000 décès annuels (rôle de l'amiante par exemple dans le mésothéliome)49.
+
+
+« Ce qui donne le cancer », d'après la classification du Centre international de recherche sur le cancer, nuage de mots-clés.
+Perturbateurs endocriniens : Mimant les hormones naturelles, certains sont fortement soupçonnées d'initier des cancers dits « dépendants des hormones » (par exemple, le cancer du sein) ; la perturbation peut se produire in utero et donner par exemple des cancers du testicule, ou d'autres types de cancers susceptibles d'être induits par des molécules telles que le distilbène.
+
+Éclairage artificiel : Il est évoqué, et parfois assimilé à la catégorie pollution lumineuse (pour le cancer du sein au moins), via une perturbation endocrinienne chez les femmes exposées à une lumière artificielle la nuit.
+
+Nanomatériaux ? Certains nanomatériaux ont une toxicité avérée, et/ou une génotoxicité potentielle, aggravée par la taille infime de ces particules qui peuvent ainsi atteindre l'ADN et le génome). Ils sont suspectés de peut-être contribuer à certains cancers. Un projet européen Nanogenotox50 doit pré-évaluer cette question, ou au moins proposer des outils de mesure du risque50, sur la base de tests faits sur 14 matériaux à base de dioxyde de titane, silice et nanotubes de carbone. Ces 3 nanomatériaux ont été choisis car déjà utilisés dans des cosmétiques, aliments, produits de consommation courante50.
+
+Pour l'Académie nationale française de médecine (rapport 2007), le tabac reste la principale cause de cancer. Viennent ensuite l'alcool, le surpoids et l'insuffisance d'exercice physique, puis les expositions professionnelles et les traitements hormonaux de la ménopause chez la femme. La moitié des origines du cancer demeurent inexpliquées51.
+
+Prévention
+
+Article détaillé : Prévention des cancers.
+La prévention du cancer se fonde sur :
+
+l'évitement ou la diminution de l'exposition aux cancérogènes de l'environnement et industriels : principalement, la lutte contre le tabagisme, la consommation excessive d'alcool et de graisses animales, l'exposition excessive au soleil, les normes de construction (désamiantage), radioprotection, manutention de produits dangereux dans le cadre professionnel, étude REACH ;
+le rôle protecteur (« oncostatique ») de certains éléments : fibres, vitamines et autres antioxydants (céréales, légumes verts, fruits52,53), ainsi que le thé vert (plus que le noir) ou le chocolat et plus précisément les aliments contenant de la catéchine. Consommer une gousse d'ail par jour réduit de moitié le risque de cancer de l'estomac, du côlon et du rectum54.
+Le traitement des lésions précancéreuses peut y être ajouté, pour éviter les métastases, bien qu'il s'agisse aussi de traitement « curatif ». Il convient de faire la différence entre la prévention, qui cherche à diminuer la survenue de la maladie en luttant contre ses facteurs favorisants, et le dépistage, qui cherche à mettre en évidence une maladie de manière précoce pour la traiter plus facilement.
+
+Le « Plan Cancer » (2003-2007/2009-2013) prévoit : une réorganisation de la recherche médicale, le renforcement de la prévention primaire, des efforts de dépistage, une amélioration de la prise en charge des maladies, des aides à l'insertion sociale des malades et des actions pour améliorer l'environnement.
+
+Dépistage
+
+Article détaillé : Dépistage des cancers en médecine générale.
+Il consiste en la détection la plus précoce possible de lésions précancéreuses ou de cancers, chez des personnes ne présentant pas encore de symptômes évidents. Le but est de trouver, dans une population donnée, des lésions que l'on peut encore traiter facilement : si l'on attend les symptômes, il est souvent nécessaire d'avoir recours à des traitements plus « lourds » pour traiter la maladie.
+
+Cela se fait par la clinique (l'examen du patient) : palpation des seins, toucher rectal, etc. et des examens paracliniques (radiographies, dosages biologiques).
+Pour Sorensen et al.55, les fièvres prolongées non-expliquées (FPI) sont un marqueur de néoplasies occultes.
+
+Certains dépistages ont prouvé leur intérêt en diminuant le nombre de décès par cancer. Ce sont le frottis du col utérin, pour dépister les lésions précancéreuses et les petits cancers du col utérin et la mammographie, pour dépister des cancers du sein à un stade précoce.
+L'intérêt de la recherche de saignements minimes dans les selles (test hémocult) fait encore l'objet de discussion pour le dépistage des polypes et des petits cancers du côlon.
+
+Diagnostic
+
+Même s'il existe des éléments permettant d'identifier un cancer avec une grande probabilité, le diagnostic de certitude ne se fait que sur analyse au microscope (anatomopathologie) d'un échantillon de la tumeur (éventuellement aidé par d'autres techniques). Cet échantillon vient soit d'une biopsie (simple prélèvement d'un morceau de la tumeur) qui peut être faite, suivant la localisation, suivant différentes procédures (fibroscopie, ponction à travers la peau…), soit d'une pièce opératoire (tumeur enlevée par le chirurgien).
+
+Traitements
+
+Le traitement est effectué en milieu spécialisé, en règle sur une stratégie définie par une équipe médicale pluridisciplinaire (c'est-à-dire comportant des médecins de plusieurs spécialités : oncologie, radiothérapie, chirurgie, gynécologie, gastro-entérologie, etc.).
+
+Il nécessite d'avoir un diagnostic de certitude et de connaître le type du cancer ; d'évaluer son extension locale, régionale et la présence ou non de métastases ; et d'évaluer l'état général du patient (âge, fonctions cardiaque et rénale, présence d'autres maladies).
+
+Suivant les cas, il repose sur :
+
+l'exérèse (l'ablation) chirurgicale large de la tumeur quand cela est possible, large voulant dire que le bistouri du chirurgien passe uniquement par des tissus sains ;
+un traitement mini-invasif percutané par radiofréquence, micro-ondes ou cryothérapie en complément ou en alternative à la chirurgie;
+une chimiothérapie, prescription de médicaments s'attaquant au cancer et à ses métastases ;
+une radiothérapie, l'irradiation de la tumeur permettant de faire fondre, voire disparaître celle-ci.
+Certains cancers peuvent bénéficier également :
+
+d'un traitement hormonal ;
+d'un traitement à visée immunologique consistant à augmenter l'action du système immunitaire ; une piste est notamment explorée, qui associe l'interleukine-7 (IL-7) à un vaccin viral pour inciter le système immunitaire à attaquer les tumeurs. Ces travaux ont aussi montré comment l'IL-7 casse les barrières qui freinaient la réponse immunitaire aux tumeurs56[réf. insuffisante].
+d'un traitement à base d'ultrasons, une technologie en plein développement s'appuyant sur la focalisation d'un faisceau ultrasonore très puissant sur une métastase ;
+d'un traitement par photochimiothérapie qui consiste à détruire les cellules cancéreuses (notamment dans les cancers de la peau) au moyen de substances chimiques devenant toxiques à la lumière.
+Souvent, plusieurs de ces types de traitements sont nécessaires chez un même patient. Il ne faut pas oublier le traitement des conséquences de la tumeur, la prise en charge des effets secondaires du traitement et le traitement de la douleur.
+
+Traitements alternatifs
+
+En médecine les traitements reposent sur des études scientifiques de bonne qualité qui sont nécessaires avant qu'un traitement soit considéré comme efficace. Il existe de nombreux traitements alternatifs, mais l'évaluation scientifique de leur efficacité est souvent soit inexistante, soit non validée en pratique clinique, c'est-à-dire validées dans des modèles expérimentaux ou animaux mais pas chez l'homme. Par exemple de nombreuses substances tuent les cellules cancéreuses en laboratoire ou chez l'animal mais fonctionne mal chez l'homme57.
+
+De nombreuses personnes se tournent vers des traitements alternatifs pensant qu'ils n'ont pas d'effets négatifs, ce qui n'est pas toujours le cas, certains sont nocifs et peuvent même entraîner la mort57. D'autre part, le simple fait de retarder le traitement reconnu peut permettre au cancer de se développer et d'atteindre d'autres parties du corps57.
+
+Certains traitements alternatifs sont assimilables à du charlatanisme ou de la fraude, ces méthodes sont souvent basées sur des théories de la maladie qui sont contraires aux idées scientifiques reconnues, de simple témoignages de patients sont parfois utilisés comme preuves57. Ces « remèdes miraculeux » prétendent souvent soigner d'autres maladies que le cancer.
+
+Quelques exemples de traitements alternatifs :
+
+La supplémentation de très forte doses de vitamine C en médecine orthomoléculaire, dont l'idée initiale a été donnée par Irwin Stone, reprise par Linus Pauling et notamment Matthias Rath. Un effet favorable semble exister chez les cultures cellulaires ou chez des animaux mais aucune preuve satisfaisante n'existe chez l'être humain à titre curatif58, ou préventif59. La Société Suisse de lutte contre le cancer souligne, en particulier, les faiblesses du dossier scientifique de Matthias Rath60.
+
+Il existe de nombreux régimes alimentaires censés lutter contre le cancer, par exemple61 : la cure de raisin de Johanna Brandt, la cure anticancer de R. Breuss, l'instinctothérapie de Guy-Claude Burger, des régimes végétariens, la méthode de Gerson, la diététique de Kousmine, le régime et la thérapie du Dr Moerman, la thérapie de Livingtone-Wheeler, le zen macrobiotique. Certaines théories utilisent le jeûne thérapeutique dans le but de « détoxifier » l'organisme ou pour faire « maigrir » les tumeurs. Les preuves scientifiques disponibles ne soutiennent pas une efficacité contre le cancer chez l'homme57. Des périodes de jeûne de courte durée peuvent avoir des effets négatifs sur certaines personnes, sur de longues périodes les effets peuvent être plus graves et même entraîner la mort57.
+
+D'autres méthodes61 font appel à la guérison par la foi et la prière, depuis l'antiquité, il existe notamment aux États-Unis des évangélistes guérisseurs. La chirurgie psychique est pratiquée par des guérisseurs aux Philippines, la méthode très controversée de Hamer en Allemagne et en France, etc.
+
+Voir aussi les travaux de Mirko Beljanski. Par ailleurs, G. Edward Griffin prétend que le cancer résulterait notamment d'une carence en vitamine B 17 ordinairement appelée Amygdaline ou laetrile62. Le professeur Didier Raoult a récemment exposé dans Le Point les travaux de William Coley63, qui ont fait l'objet d'un article dans la revue Nature64.
+
+Impact sur la qualité de vie, la vie professionnelle et soutien psychologique
+
+Apprendre qu'on a un cancer est très difficile à assumer, tant cette nouvelle a longtemps été considérée comme celle d'une mort imminente. Par ailleurs l'hospitalisation, l'opération chirurgicale et les traitements adjuvants changent profondément la vie du malade et interfèrent souvent durablement65 avec son parcours professionnel et sa vie familiale. Il est donc essentiel d'apporter aux malades un soutien psychologique adapté.
+
+En France, l'association de psycho-oncologie étudie comment aider au mieux les cancéreux, ce qui passe en général par la participation à des groupes de patients qui vivent les mêmes épreuves. Un rapport récent a synthétisé 6 études ayant répondu à un appel à projet sur le maintien/retour au travail et des trajectoires professionnelles de personnes atteintes de cancer65.
+
+Coûts économiques et socioéconomiques
+
+La chimiothérapie et la chirurgie lourde, ainsi que les traitements au long cours font du cancer une des maladies financièrement les plus coûteuses pour la société. Le coût social du cancer est difficile à évaluer, mais est important et ne cesse d'augmenter66. Avec l'industrialisation des pays pauvres et l'évolution de leur mode de vie et de l'espérance de vie, le cancer tend à se globaliser sur la planète67; En 2010, plus de 50 % des nouveaux cas de cancer et près des 2/3 des décès par cancer touchent des personnes à faible revenu, à revenu inférieur à la moyenne et des pays en développement à revenu intermédiaire du monde (à titre de comparaison, en 1970, les pays en développement ne représentaient que 15 % des cancers nouvellement signalés68). En 2030, le monde en développement sera censé supporter 70 % du fardeau mondial du cancer68.
+
+En France, dans les années 2000, environ 280 000 nouveaux cas étaient détectés par an69, avec une augmentation régulière du nombre de cas (358 000 nouveaux cas attendus en 2010 selon les modélisations de l'INVS (rendues nécessaire par le fait qu'en France, seule environ 20 % de la population est concernée par un registre du cancer)70) coût annuel estimé à 30 milliards d'euros pour 200469. 730 millions d'euros ont été accordés au 2nd Plan cancer (2009-2013) dont 95 millions pour la recherche et 400 millions pour les soins69. La recherche porte aussi sur les moyens de diminuer les coûts socio-économiques de la maladie et des soins. Les 6es Rencontres parlementaires sur le Cancer (jeudi 21 octobre 2010) à l'Assemblée nationale ont porté sur le thème : « Cancer : quels coûts pour la société? »69. Certaines réflexions de la littérature internationale suggèrent « d'accepter, sans se poser de question, les stratégies thérapeutiques dont les coûts marginaux pour le système de santé par année de vie gagnée demeurent inférieurs à deux fois le PNB par tête », soit moins de 50 000 euros71.
+
+Force est de rapprocher ce chiffre du fait que la moyenne des années de vie perdues est de 15 ans sur l'ensemble des cancers72.
+
+Des médecins et ONG telles le MDRGF et le réseau européen HEAL73 protestent contre le fait que ce type d'approche ne portant que sur les coûts du soin, omettent de poser la question des causes environnementales et comportementales du cancer. Mieux les traiter permettrait selon eux d'importantes économies, plus durables, avec peut-être une forte réduction du nombre et de la gravité des cancers74.
+
+Selon une étude publiée par les chercheurs de l'université d'Oxford (et rapportée dans le quotidien Direct Matin du 15 octobre 2013), le coût financier pour l'Union européenne s’élève à 26 milliards d'euro par an, ce chiffre inclut les coûts de la maladie pour les systèmes de santé, le manque à gagner lié à l'incapacité de travailler des malades ainsi que les soins fournis par les proches des malades[Quoi ?].
+
+Statistiques par pays
+
+La comparaison des statistiques nationales est délicate, car la détection et les classifications ont varié en fonction des époques et pays. Ainsi, en France, le terme « cause environnementale » fait référence aux produits chimiques et à la pollution…, alors qu'en anglais, cela fait référence à tout ce qui entoure l'homme et, de manière générale, tous les facteurs exogènes, c'est-à-dire le soleil, l'alcool, le tabagisme, le nombre de grossesses…
+
+France
+
+Dans le cadre du Plan cancer 2009-2013, depuis 2007, l'Institut national du cancer publie annuellement une synthèse des données sur le cancer (en 2011 le rapport contenait un focus sur les facteurs environnementaux et les expositions professionnelles75. En 2009, 1 830 cas de cancers ont été indemnisés par la CNAM, soit une augmentation de 9,1 % par rapport à 2008, en raison d'un meilleur repérage et reconnaissance des cancers professionnels et non d'une augmentation de leur incidence).
+
+En 2000, environ 278 000 personnes étaient annuellement diagnostiquées comme atteintes d'un cancer, soit un Français sur deux cent cinquante76. Le nombre total annuel des décès par cancer en France était, en 2004, de 152 708, soit environ 241 décès pour 100 000 habitants. C'est la première cause de mortalité en France, juste avant les maladies cardio-vasculaires (147 323 décès en 2004) dont le taux a baissé de 50 % depuis les vingt-cinq dernières années alors que le taux de décès par cancer n'a que peu diminué77. En même temps des cancers de plus en plus divers sont dépistés de plus en plus précocement.
+
+En 2012, le nombre de nouveaux cas de cancer en France métropolitaine est estimé à 355 000 dont 200 000 chez l’homme et 155 000 chez la femme. Le nombre de décès par cancer en 2012 est estimé 148 000 décès dont 85 000 chez l’homme et 63 000 chez la femme. Le cancer du poumon est la première cause de décès par cancer chez l’homme devant le cancer colorectal et le cancer de la prostate. Chez la femme, le cancer du sein se situe au premier rang devant le cancer du poumon et le cancer colorectal78.
+
+Il existe une augmentation du nombre de certains cancers. Les cancers du poumon, mésothéliomes, hémopathies malignes, tumeurs cérébrales et cancers du sein, de l'ovaire, du testicule, de la prostate et de la thyroïde sont en augmentation très significative depuis les années 198079,80. Ceci est en partie lié au vieillissement et à la croissance de la population et touche différemment l'homme et la femme. De 1980 à 2005 (en tenant compte de la démographie), le taux de cancers s'est élevé de 35 % pour les hommes et de 43 % pour les femmes81. En 2008, l'INSERM a conclu d'une revue de la littérature scientifique mondiale relative aux liens entre ces neuf cancers en augmentation et exposition passive à des cancérogènes, avérés ou suspectés dans l'environnement (incluant donc le tabagisme passif, mais non le tabagisme actif), que ni les améliorations du dépistage ni l'évolution de la démographie ne pouvaient expliquer cette augmentation. L’exposition aux cancérigènes de l'environnement est donc supposée, mais reste mal évaluée, bien que des liens de causalité soient déjà établis par exemple entre cancer du poumon et pollution particulaire de l’air par le trafic automobile, le chauffage et l’industrie (« Environ 1 300 à 1 900 décès par cancer du poumon pourraient être évités chaque année dans vingt-trois villes européennes si les niveaux de PM2,5 particules fines étaient ramenés respectivement à 20 et à 15 microgrammes par millimètre cube (µg/mm3) ». Mais la norme européenne sur les PM2,5 (max de 25 µg/mm3 en 2010) ne sera en vigueur qu'en 2015.
+On sait que les rayons ionisants (rayons X et gamma en particulier) peuvent induire de nombreux cancers : (poumon, thyroïde, sein, cerveau, plèvre, leucémies…) et que les radiographies fréquentes augmentent le risque de cancer du sein et peut-être d'autres cancers, a conclu l'étude. Or, ces examens sont de plus en plus fréquents (+ 5 à 8 % par an en France). L'exposition à certains insecticides domestiques du fœtus lors de la grossesse ou dans l'enfance est associée à un doublement du risque de leucémie et moindrement à un risque de tumeur ou cancer du cerveau. L'AFSSET s'est en 2008 engagée à produire des avis et recommandations dans un proche avenir.
+
+Incidence (1980-2005) et mortalité (2005) par cancer en France82
+Cancer  Incidence Mortalité
+Tous les cancers  319 380 145 762
+Prostate  62 245  9 202
+Sein  49 814  11 201
+Côlon-rectum  37 413  16 865
+Poumons 30 651  26 624
+Cavité buccale et pharynx 12 270  4 000
+Lymphome Malin Non Hodgkinien 10 224  4 203
+Vessie  9 679 4 482
+Rein  7 949 3 684
+Mélanome (peau) 7 401 1 440
+Pancréas  7 218 7 787
+Estomac 6 794 4 756
+Thyroïde  6 672 403
+Foie  6 433 7 390
+Utérus (corps)  5 774 1 800
+Œsophage  4 721 3 850
+Myélome 4 516 2 789
+Ovaire  4 375 3 180
+Système nerveux 4 120 3 019
+Larynx  3 735 1 406
+Leucémie lymphoïde chronique  3 224 1 059
+Leucémies aiguës  3 082 2 733
+Col de l'utérus 3 068 1 067
+Testicule 2 002 82
+Maladie de Hodgkin  1 544 218
+Plèvre  906 1 090
+Il est essentiel de bien noter la différence entre l'incidence d'un cancer (la fréquence annuelle calculée sur une durée précise) et la mortalité. Ce tableau montre bien que certains cancers très fréquents (prostate) ont une mortalité faible contrairement à des cancers plus rares (pancréas) qui ont une mortalité très élevée.
+
+La France est parfois présentée comme étant le pays ayant la plus longue survie après cancer83. Mais concernant la survie à 5 ans après le diagnostic, elle serait le second en Europe derrière la Suède, avec environ 52 % de survie (63 % pour les femmes, 44 % pour les hommes)84. Cela cache de grandes disparités selon les cancers. On atteint des chances de survie de 95 % pour le cancer de la thyroïde ; chez les hommes, on atteint 80 % de survie à 5 ans pour le cancer de la prostate, et quasiment 100 % pour les cancers des testicules et, chez les femmes, 85 % pour le cancer du sein entre 15 et 44 ans, mais 78 % au-delà de 75 ans. En revanche, les cancers profonds sont diagnostiqués plus tardivement et sont très souvent mortels : cancer du pancréas (10 % de survie), du poumon, etc.
+
+L'État et l'assurance maladie ont consacré un peu plus de 12 milliards d'euros à la lutte contre le cancer en 2004, 90 % de cette somme étant dédiée aux soins85.
+
+En France, outre l'InVS et l'INPES, l'INSERM, les ARS et ORS, l'Institut de recherche et documentation en économie de la santé (IRDES) et la Direction de la recherche, des études, de l'évaluation et des statistiques (DRESS) dépendant du ministère chargé de la santé, existent plus spécifiquement :
+
+un outil86 en ligne, l'Institut National du Cancer (INCa), qui donne accès aux principaux indicateurs et recherches sur le cancer (avec un rapport 2011 sur la situation en France87 .
+un « Observatoire sociétal des cancers » confié au Pôle sociétal de la Ligue contre le cancer. Il publie depuis 2012 un rapport annuel (sur le « vécu des malades en 201288 » et sur « le parcours professionnel » en 201489) et a confirmé que la maladie est paupérisante, surtout chez les plus vulnérables (arrêt maladie, perte de revenus, invalidité, rupture sociale, fracture psychologique), avec des démarches administratives fastidieuses ;
+un « Comité éthique et cancer », organe de recours indépendant, rendant des avis90, associant 35 membres permanents et présidé par le Pr Axel Kahn ;
+un Collectif interassociatif sur la santé (CISS) regroupant (en 2011) 37 associations et une plate-forme Cancer info91, une plate-forme collaborative (Web 2.0)92, créée avec le pôle citoyen de Cancer Campus® pour coproduire des contenus inédits et innovants issus des expériences individuelles et collectives concernant le cancer.
+Taux de survie et surmortalité
+
+Le taux de survie des cancers n'a cessé de s'améliorer au cours des décennies : dans les années 2010 la survie à 10 ans est similaire, en Angleterre et en Écosse, à la survie à un an en 197093.
+
+Le taux de survie dépend aussi de l'âge. Cinq ans après le diagnostic, 70 % des 15–45 ans survivent. Alors que seuls 39,4 % des malades cancéreux âgés de 75 ans survivront plus de 5 ans ; sachant qu'étant donné le risque de métastases, on ne parle pas de guérison pour un cancer, mais de rémission (voir Évolution plus loin). En France et au Canada, le cancer est la première cause de mortalité chez les plus de 65 ans94.
+Pour estimer l'efficacité du dépistage et des soins, on utilise le taux de survie et la surmortalité à une certaine durée après le diagnostic.
+
+Taux de survie
+
+En Europe, selon l'étude « Eurocare-5 » (publié dans The Lancet Oncology en 2013, il varie beaucoup selon le type de cancer, avec par exemple un taux de survie élevé à cinq ans — plus de 80 % — pour les tumeurs ou cancers des testicules, des lèvres, de la thyroïde ou encore de la prostate)95. Les chances de survie varient aussi significativement selon le pays95 ; les pays de l'Ouest (Autriche, Belgique, France, Allemagne, Suisse, Italie, Espagne, Portugal) ont de meilleurs taux de survie après cancer. La Bulgarie, les Pays baltes, la Pologne la Slovaquie ont les scores les plus bas, et le Royaume-Uni et le Danemark ont des résultats moyens95.
+
+En France
+Selon La Ligue nationale contre le cancer, en 2006, le taux de survie à cinq ans après diagnostic en France, pour des patients suivis entre 1989 et 1997 était :
+
+Survie à cinq ans par localisation et par sexe96
+Hommes  Femmes
+75 % et +
+Lèvre 96 %  Thyroïde  95 %
+Testicule 95 %  Maladie de Hodgkin  92 %
+Thyroïde  88 %  Mélanome de la peau 89 %
+Maladie de Hodgkin  85 %  Lèvre 88 %
+Mélanome de la peau 83 %  Sein  85 %
+Prostate  80 %  Corps utérin  76 %
+50 à 74 %
+Pénis 67 %  Col utérin  70 %
+Rein  63 %  Rein  64 %
+Vessie  60 %  Os, articulations et cartilages articulaires  62 %
+Os, articulations et cartilages articulaires  59 %  Larynx  59 %
+Côlon 56 %  Rectum  58 %
+Rectum  55 %  Côlon 57 %
+Larynx  54 %  Vulve et vagin  52 %
+Lymphome malin non hodgkinien 54 %  Vessie  50 %
+25 à 49 %
+Nasopharynx 45 %  Langue  45 %
+Intestin grêle  45 %  Myélomes multiples  43 %
+Myélomes multiples  42 %  Intestin grêle  42 %
+Cavité orale  38 %  Ovaire  40 %
+Langue  33 %  Fosses nasales,
+sinus annexes de la face,
+oreille moyenne et oreille interne  37 %
+Hypopharynx 34 %
+Leucémie aiguë lymphoblastique  29 %
+Estomac 28 %
+25 % et -
+Estomac 23 %  Système nerveux central 19 %
+Système nerveux central 20 %  Poumon  18 %
+Poumon  13 %  Œsophage  14 %
+Œsophage  11 %  Mésothéliome de la plèvre 13 %
+Foie  7 % Foie  9 %
+Mésothéliome de la plèvre 6 % Pancréas  7 %
+Pancréas  5 %
+Surmortalité
+
+Cette section doit être recyclée. Une réorganisation et une clarification du contenu sont nécessaires.
+Pour un groupe de personnes chez lesquelles on a diagnostiqué un cancer, on peut distinguer celles mortes des suites de leur cancer, et celles mortes d'autre chose. La surmortalité à une durée t (par exemple de 10 ans) liée au cancer est la probabilité de mourir du seul fait du cancer durant la durée t qui suit le diagnostic.
+
+Le problème de l'évaluation de cette mortalité est qu'il faudrait connaître les causes de tous les décès des personnes dont on a diagnostiqué un cancer, ce qui est impossible. On utilise donc une autre estimation ; pour un groupe de personnes du même sexe et du même âge, on utilise la « survie relative », c'est-à-dire le rapport entre :
+
+la probabilité de survie après un temps t du groupe de personnes dont on a diagnostiqué un cancer, et
+la probabilité de survie à t d'un groupe de personnes n'ayant pas de cancer, de même âge et de même sexe.
+La surmortalité est alors le complément à 1 de cette survie relative.
+
+Les études montrent une surmortalité d'environ 2 % au-delà de 10 ans après le diagnostic dans les pays développés, ce qui pointe l'irrationalité de la ségrégation que subissent les patients ayant eu un cancer de la part des assurances et des banques (surtaxes, refus de prêt, etc.).
+
+Les résultats ci-après sont issus du document Cancers — Pronostics à long terme de l'INSERM97.
+
+L'étude Eurocare s'est penchée sur une vingtaine de pays européens pour des cas diagnostiqués durant trois périodes (les malades étudiés durant une période forment une « cohorte ») : 1978–1985, 1985–1989 et 1990–1994. Cette étude ne distingue pas le stade du diagnostic.
+
+Étude Eurocare, surmortalité, tous cancers et tous âges confondus
+délais après diagnostic surmortalité
+deux sexes confondus  femmes  hommes
+0–1 an  27 %  20 %  33 %
+2e année  15 %
+5e année  5 %
+10e année 2,27 %  1,95 %  3,18 %
+11-12e année  2 % moins de 2 %  un peu plus de 2 %
+Étude Eurocare, surmortalité, tous cancers et deux sexes confondus
+délais après diagnostic surmortalité par classe d'âge
+toutes classes
+d'âge confondues  15–44 ans 45–54 ans 54–65 ans 65–74 ans
+0–1 an  27 %  12 %      33 %
+4e année    moins de 5 %
+10e année 2,27 %  1,24 %  2,06 %  2,42 %  3,03 %
+11-12e année  2 % un peu plus de 1 %      plus de 3 %
+Étude Eurocare, surmortalité à 10 ans, toutes classes d'âge et deux sexes confondus
+surmortalité  localisation du cancer
+< 2 % 
+tumeurs germinales du testicule (0,03 %),
+corps de l'utérus (0,28 %),
+leucémies aiguës lymphoïdes (0,33 %),
+thyroïde (0,49 %),
+côlon (0,91 %),
+mélanomes cutanés (0,91 %),
+maladie de Hodgkin (1,03 %)
+col de l'utérus (1,13 %),
+rectum (1,44 %),
+ovaires (1,80 %),
+2–5 % 
+sein (2,57 %),
+larynx (2,74 %),
+leucémies aiguës myéloïdes (2,75 %),
+oropharynx (2,76 %),
+rhinopharynx (2,96 %),
+rein (3,13),
+lymphomes malins non-hodgkiniens (4,18 %)
+> 5 % 
+poumon (5,64 %),
+prostate (6,67 %),
+hypopharynx (9,11 %),
+leucémies lymphoïdes chroniques (9,67 %),
+leucémies myéloïdes chroniques (10,27 %)
+L'étude américaine SEER s'est intéressée au stade du cancer au moment de son diagnostic, selon trois catégories :
+
+tumeur localisée ;
+tumeur ayant un développement régional (ganglionnaire) ;
+tumeur ayant un développement à distance (métastase).
+Étude SEER, surmortalité à 5 ans, toutes classes d'âge et deux sexes confondus, pour un cancer diagnostiqué au stade de tumeur localisée
+surmortalité  localisation du cancer
+< 1 % 
+prostate (0,00 %),
+tumeurs germinales du testicule (0,00 %),
+thyroïde (0,00 %),
+corps de l'utérus (0,50 %),
+mélanomes cutanés (0,61 %),
+ovaires (0,86 %),
+col de l'utérus (0,91 %)
+1–3 % 
+sein (1,02 %),
+rein (1,80 %),
+3–5 % larynx (2,90 %)
+> 5 % poumon (7,20 %)
+Chez l'enfant
+
+Selon une grande étude européenne98 publiée fin 2004 et fondée sur les registres du cancer, l'analyse d'une base de données financée par l'Union européenne regroupant 80 registres de cancers et couvrant environ la moitié des enfants (jusqu'à 14 ans) et un quart des adolescents (15 à 19 ans), a montré que le taux moyen de l'incidence du cancer par classe d'âge dans les années 1990, calculé sur près de 50 000 cas, s'établit à 140 cancers par million d'enfants, contre 118 dans les années 1970 et 124 dans les années 1980. Si les cancers des enfants ne comptent que pour moins de 1 % du nombre total de cancers, et bien qu'ils soient — dans les pays dits « développés » — guéris dans les deux tiers des cas97, ces cancers restent, dans les pays riches, la seconde cause de mortalité de l'enfant99. Dans les pays industrialisés, environ 1 enfant sur 500 déclare un cancer avant l'âge de 15 ans (presque 1 500 nouveaux cas par an en France, dont 50 % avant l'âge de 6 ans).
+Les cancers de l'enfant sont en forte augmentation : chez les adolescents, ce taux est de 193 par million au cours des années 1990, contre 147 dans les années 1970 et 165 dans les années 198098. Dans les années 1990, le taux de cancer chez l'enfant était en Europe un peu plus important à l'Est qu'à l'Ouest, à cause de cancers de la thyroïde plus fréquents (attribués aux retombées de Tchernobyl)98.
+
+Les leucémies (450 cas nouveaux par an en France) sont les cancers les plus fréquents100 chez l'enfant, devant (principalement) :
+
+des tumeurs cérébrales (300/an en France);
+des lymphomes (190/an en France, dont 56 % de lymphomes non-hodgkiniens déclarés entre 2 et 3 ans).
+Les tumeurs embryonnaires sont plus fréquentes les premières années de la vie, et des sarcomes osseux et des tissus mous chez les grands enfants.
+
+Étude Eurocare, surmortalité chez les enfants
+délais après diagnostic surmortalité
+0–1 an  > 10 %
+4e année  2 %
+7e année  1 %
+En raison d'une évaluation difficile des expositions indirectes et des effets de synergies possibles, des relations certaines de cause à effet sont difficiles à établir101, mais les pesticides (ingérés ou inhalés par l'enfant, ou ses parents avant la naissance) semblent être l'une des causes d'augmentation, notamment pour les tumeurs du cerveau, avec 9 études sur 16 qui concluent à une relation causale possible en cas d'emploi de sprays insecticides ou d'autres pesticides par les parents, (OR 1,5 ; 2,2) ou par la manipulation de pesticides agricoles (RR 2,0 ; 2,9 ; 3,3)102 (dans de mêmes conditions environnementales, les enfants sont significativement plus exposés que les adultes aux pesticides103,104,105,106,107,108,109,110, alors même qu'ils y sont a priori plus vulnérables). D'autres cancers de l'enfant semblent induits ou co-induits par des pesticides (leucémie102, neuroblastome102, tumeur de Wilms102, sarcomes des tissus mous102, sarcomes d'Ewing102, lymphome non-Hodgkinien102, cancer colorectal102 et cancer des testicules102)102. Dans ce dernier cas un effet perturbateur endocrinien est probable.
+
+Cancers hématopoïétiques de l'enfant
+
+Une étude a confirmé que l'exposition des ménages français aux pesticides domestiques augmente (doublement environ) le risque de cancers hématopoïétiques (cancer du sang) de leur enfant111.
+
+Cette étude a exploité le RNHE, le « Registre national des hémopathies malignes de l'enfant » (antérieurement dénommé « Registre national des leucémies de l'enfant »)112 qui enregistre les cas signalés d'hémopathie maligne ou à la limite de la malignité, chez les enfants habitant en France métropolitaine ayant moins de 15 ans au moment du diagnostic.
+
+L'étude s’est aussi appuyée sur le registre national ESCALE (Étude sur les cancers de l'enfant pour la période 2003-2004).
+
+Les mères d’un échantillon d’enfants atteints de cancers du sang et celles d'un échantillon-témoin ont été questionnées sur l'usage éventuel de pesticides (par la mère ou par le père) dans l’habitation lors de la grossesse ; en différenciant les insecticides (bombes utilisé à la maison, traitement d'animaux de compagnie, ou traitement du jardin ou des cultures, etc.), les herbicides et les fongicides. Les chercheurs ont aussi intégré des paramètres tels que l'âge, le sexe, le degré de d'urbanisation de l’environnement et le type de logement (appartement ou maison).
+
+Le panel retenu pour la période d'étude (2003-2004) était constitué des parents de 764 enfants ayant déclaré une leucémie aiguë, 130 enfants ayant présenté un lymphome de Hodgkin (LH), et 166 cas de lymphome non-hodgkinien (LNH). Ce groupe ayant été comparé à une population-témoin de parents de 1 681 enfants, le dépouillement des questionnaires a montré qu'utiliser des insecticides dans la maison durant la grossesse a significativement augmenté le risque que l’enfant déclare une leucémie aiguë (leucémie lymphoïde ou leucémie myéloïde) ou un lymphome non hodgkinien, surtout un Lymphome de Burkitt (près de 3 fois plus de risque : OR = 2,7 ; IC à 95 %, 1,6-4,5) ou des tumeurs mixtes à cellule de lymphome non hodgkinien (OR = 4,1 ; IC à 95 %, 1,4-11,8). Par contre l'exposition aux pesticides domestiques n’a pas augmenté le risque de lymphome hodgkinien à sclérose nodulaire (Nodular sclerosis ou « NSHL » pour les anglosaxons), cancer qui touche majoritairement des filles plus âgées.
+
+L'utilisation domestique de pesticides par le père a également semblé lié à une légère augmentation moindre, mais également significative du nombre de leucémies aiguës (OR = 1,5 ; IC à 95 %, 1,2-1,8) et de lymphomes non hodgkiniens NHL (OR = 1,7 ; IC à 95 %, 1,2-2,6), mais les liens avec la leucémie aiguë ne sont plus significatifs après prise en compte de l'usage des pesticides par la mère durant la grossesse.
+
+Cette étude confirme l'hypothèse que l'usage domestique des pesticides joue un rôle dans l'étiologie de ces cancers hématopoïétiques de l'enfance. Les auteurs concluent que la cohérence des résultats avec ceux d'études antérieures soulève à nouveau la question de l'opportunité de prévenir l'usage des pesticides dans l'environnement des femmes enceintes.
+
+Épidémiologie
+
+
+Taux de mortalité par cancer pour 100 000 habitants en 2004113.
+     pas de données
+     moins de 55
+     55-80
+     80-105
+     105-130
+     130-155
+     155-180
+     180-205
+     205-230
+     230-255
+     255-280
+     280-305
+     plus de 305
+En 2008, le cancer a causé la mort de 7,6 millions de personnes, surtout dans les pays en voie de développement, selon une étude du Centre international de recherche sur le cancer (CIRC, émanation de l'Organisation mondiale de la santé). En 2008, 56 % des 12,7 millions de nouveaux cas de cancer et 63 % des 7,6 millions de décès associés à un cancer dans le monde sont survenus dans les pays en développement selon une étude fondée sur 27 formes de cancer114.
+
+Les cancers les plus fréquemment diagnostiqués dans le monde sont ceux du poumon (12,7 %), du sein (10,9 %) et le cancer colorectal (9,7 %). Les décès les plus fréquents sont provoqués par le cancer du poumon (18,2 %), de l'estomac (9,7 %) et le cancer du foie (9,2 %). Les cancers du col utérin et du foie sont beaucoup plus fréquents dans les régions en développement, tandis que ceux de la prostate et du côlon-rectum sont plus fréquents dans les régions développées.
+
+En prenant en compte le nombre d'habitants de chaque pays, ce sont les pays d'Amérique du Nord, ceux d'Europe de l'Ouest et l'Australie qui enregistrent les taux de mortalité les plus élevés.
+
+Historique
+
+Des cancers étaient déjà décrits dans des écrits égyptiens (papyrus Ebers) vers -3500, et en 2013, des archéologues retrouvent des ossements vieux de 3 200 ans porteurs de lésions cancéreuses115. C'est Hippocrate qui donna la première définition de la maladie, appelée alors « carcinome » (une variété de cancer116) ou « squirre » (tumeur dure et indolore se formant en quelque partie du corps117) : une tumeur (gonflement) dure, non-inflammatoire, ayant tendance à récidiver et se généraliser jusqu'à la mort118.
+
+En 1906, la première conférence internationale pour l'étude du cancer se réunit à Heidelberg et à Francfort, en Allemagne, sur convocation du Comité central allemand pour l'étude du cancer. On y déclare pour la première fois le cancer comme fléau de l'humanité119,120.
+
+Chez les animaux
+
+
+Une chienne avec une tumeur mammaire.
+Quelques espèces animales (ex. : requins, rats-taupes nus) semblent épargnées par les cancers. On suppose de plus que, dans la nature, les animaux sauvages victimes de tumeurs sont plus rapidement éliminés par leurs prédateurs ou éliminés par sélection naturelle. Par contre, les animaux domestiques, dont chiens et chats121 sont fréquemment victimes de cancers semblables à ceux des humains121 (en particulier : ostéosarcomes, cancer des mamelles, mélanomes buccaux, carcinomes épidermoïdes, tumeurs nasales, carcinome du poumon, sarcomes des tissus mous, et tumeurs malignes non hodgkiniennes, etc.121). Ces cancers semblent également de plus en plus fréquents ; c'est même la 1re cause de mortalité des chiens dans le monde122 (chiens dont l'espérance de vie est en moyenne de 11 ans et trois mois122). 27 % des chiens meurent d'un cancer, alors que 18 % meurent d'une affection cardiaque, sachant aussi que les maladies dominantes des chiens adultes sont infectieuses bactériennes, virales ou parasitaires, et que 50 % des chiens seraient obèses (facteurs qui peuvent contribuer à augmenter le risque de certains cancers).
+
+Une médication et des moyens spécifiques (incluant chimiothérapie et radiothérapie) ont été développés pour les animaux, sur la base des mêmes molécules et moyens.
+
+Les animaux de laboratoires sont utilisés comme modèle en cancérologie humaine, y compris en épidémiologie123 ou pour tester de manière statistiquement significative des médicaments à grande échelle124.
+
+Découvertes récentes en cancérologie
+
+Des découvertes dans la recherche sur les cellules souches pourraient expliquer la cancérogenèse de manière plus précise. Jusqu'à récemment un unique modèle était proposé pour expliquer la formation d'un cancer : il est appelé « le modèle stochastique », qui stipule que toute cellule capable de se diviser peut voir son information génétique perturbée (via les mutations dans l'ADN) et acquérir des caractéristiques tumorales lui conférant un pouvoir cancérogène125. Plus spécifiquement, ce modèle dit que n'importe quelle cellule capable de se diviser peut être à l'origine d'un cancer, les cancers ne touchant pas les cellules incapables de se diviser comme les neurones.
+
+Un deuxième modèle a été proposé et se base sur le fait que ce sont les cellules souches qui acquièrent des caractéristiques tumorales et qui donc donnent sans cesse des cellules cancéreuses différenciées126. Dans ce modèle, les cellules souches sont placées en tête dans la hiérarchie de la formation d'un cancer quelconque. Pour certaines leucémies (cancers du sang) ce sont les cellules souches hématopoïétiques par exemple qui deviennent anormales et qui prolifèrent en trop grand nombre, donnant des cellules différenciées anormales et trop nombreuses. Une autre tentative d'explication a été fournie et stipule qu'une cellule déjà différenciée peut se dédifférencier de façon anormale, revenir au stade de cellule souche et commencer à proliférer comme décrit ci-dessus, pour redonner des cellules différenciées anormales et en grand nombre. Il y a des cellules souches dans tous les tissus renouvelables, ce qui fait que cette théorie n'est pas valable uniquement pour les leucémies mais aussi pour d'autres types de cancers concernant des tissus renouvelables. Cette nouvelle théorie est appuyée par l'observation de certaines tumeurs dites « hétérogènes » (hétérogénéité tumorale), c'est-à-dire que la tumeur possède à la fois des cellules assez différenciées et des cellules indifférenciées que sont les cellules souches cancéreuses (CSC). Il y a donc un gradient de différenciation observé127.
+
+Toutefois il se pourrait que certains cancers aient pour origine une seule de ces deux explications (« modèle stochastique » ou « modèle des cellules souches ») ou bien les deux, la formation d'un cancer ne serait également pas identique à celle d'un autre cancer, ce qui rend les recherches difficiles.
+
+Une autre étude récente prouve que les lymphocytes T régulateurs empêchent les réponses cytotoxiques lorsqu'un nouveau cancer se forme, une piste pourrait être de diminuer l'action de ces lymphocytes T régulateurs, sans pour autant susciter des réactions auto-immunes128.
+
+Bibliographie
+
+Littérature jeunesse
+
+L'association Sparadrap propose sur son site une liste d'ouvrages jeunesse sur un parent malade ou décédé du cancer129.
+
+Notes et références
+
+(en) Douglas Hanahan et Robert A. Weinberg, « The hallmarks of cancer », Cell 2000;100:57-70. PMID : 10647931
+(en) Douglas Hanahan et Robert A. Weinberg, « Hallmarks of cancer: the next generation », Cell 2011;144:646-674. PMID : 21376230
+Anton Vos, « Comment le cancer se développe », Le Temps, mercredi 9 mars 2011, p. 14.
+Bulletin de veille scientifique Santé / Environnement / Travail, no 13, ANSES (2011).
+* Conférence intitulée « Génome et Cancer » par Mark Lathrop, pour l'Université de tous les savoirs (vidéo de 57 minutes), 21 juin 2008
+(en) Anand P, Kunnumakkara AB, Sundaram C, Harikumar KB, Tharakan ST, Lai OS, Sung B, Aggarwal BB, « Cancer is a preventable disease that requires major lifestyle changes », Pharm Res, vol. 25, no 9,‎ 2008, p. 2097-116. (PMID 18626751, PMCID PMC2515569, DOI 10.1007/s11095-008-9661-9, lire en ligne [html])
+(en) Hutter CM, Mechanic LE, Chatterjee N, Kraft P, Gillanders EM; NCI Gene-Environment Think Tank, « Gene-environment interactions in cancer epidemiology: a National Cancer Institute Think Tank report », Genet Epidemiol, vol. 37, no 7,‎ 2013, p. 643-57. (PMID 24123198, DOI 10.1002/gepi.21756)
+(en) Schoeps A, Rudolph A, Seibold P, Dunning AM, Chang-Claude J. et al., « Identification of new genetic susceptibility loci for breast cancer through consideration of gene-environment interactions », Genet Epidemiol, vol. 38, no 1,‎ 2014, p. 84-93. (PMID 24248812, PMCID PMC3995140, DOI 10.1002/gepi.21771)
+(en) Tang H, Wei P, Duell EJ, Risch HA, Olson SH, Bueno-de-Mesquita HB, Gallinger S, Holly EA, Petersen GM, Bracci PM, McWilliams RR, Jenab M, Riboli E, Tjønneland A, Boutron-Ruault MC, Kaaks R, Trichopoulos D, Panico S, Sund M, Peeters PH, Khaw KT, Amos CI, Li D, « Genes-environment interactions in obesity- and diabetes-associated pancreatic cancer: a GWAS data analysis », Cancer Epidemiol Biomarkers Prev, vol. 23, no 1,‎ 2014, p. 98-106. (PMID 24136929, DOI 10.1158/1055-9965.EPI-13-0437-T)
+(en) Mechanic LE, Chen HS, Amos CI, Chatterjee N, Cox NJ, Divi RL, Fan R, Harris EL, Jacobs K, Kraft P, Leal SM, McAllister K, Moore JH, Paltoo DN, Province MA, Ramos EM, Ritchie MD, Roeder K, Schaid DJ, Stephens M, Thomas DC, Weinberg CR, Witte JS, Zhang S, Zöllner S, Feuer EJ, Gillanders EM, « Next generation analytic tools for large scale genetic epidemiology studies of complex diseases », Genet Epidemiol, vol. 36,‎ 2012, p. 22-35. (PMID 22147673, PMCID PMC3368075, DOI 10.1002/gepi.20652)
+http://www.has-sante.fr/portail/jcms/c_758598/depistage-du-cancer-de-la-prostate-de-nouveaux-eclairages-vont-contribuer-a-la-definition-de-la-politique-publique-a-mettre-en-place
+http://www-ulpmed.u-strasbg.fr/medecine/cours_en_ligne/e_cours/cancero/module10_item138C.pdf [PDF]
+http://www.invs.sante.fr/publications/2003/rapport_cancer_2003/
+Ralph W. Moss, Galen on Cancer: How Ancient Physicians Viewed Malignant Disease, 1989, citant Michael Shimkin, Contrary to Nature, DHEW Publication no (NIH) 79-720, Superintendent of Documents, Washington, DC, p. 35, lui-même citant Paul d'Égine, Le Livre de la chirurgie, viie siècle.
+http://www.sciencemag.org/content/347/6217/78.abstract
+http://www.hopkinsmedicine.org/news/media/releases/bad_luck_of_random_mutations_plays_predominant_role_in_cancer_study_shows
+recension dans le journal La nouvelle République
+en particulier si la mère, une sœur ou une fille a été diagnostiquée avant la ménopause ou s'il y a présence de mutations héréditaires de certains gènes tels BRCA1 ou BRCA2
+Conclusions du Centre international de recherche sur le cancer (CIRC).
+(fr) Communiqué du 11 décembre 2007 de l'Institut National Du Cancer
+Voir Tableau 17, in La situation du cancer en France en 2011, janvier 2012
+Observatoire des cancers, La situation du cancer en France en 2011, janvier 2012
+Page intitulée Papillomavirus et cancer du col de l'utérus (Institut Pasteur)
+(en) American Institute for Cancer Research
+(en) Article de l'UICC intitulé « Obesity Causes 100,000 Cancer Cases Annually »
+Sondage 1999-2000 National Health and Nutrition Examination Survey
+Association américaine pour l'avancement des sciences, février 2008.
+étude du uicc (international union against cancer)
+(en) UICC World Cancer Campaign lancée le 4 février 2009
+Étude américaine ayant porté sur 841 victimes d'un cancer du pancréas et 754 personnes-témoins n'en ayant pas, citée dans le New York Times et citée par l'UICC
+Prévention des cancers : le rôle de l'activité physique
+Physical Activity and Cancer Risk
+(en) Gary Gardner and Brian Halweil, Underfed and Overfed: The Global Epidemic of Malnutrition Worldwatch Institute, March 1, 2000, 68 pages, ISBN 1-878071-52-1
+Toxigenic fungi and mycotoxins
+La consommation de produits laitiers présente un risque pour les cancers de la prostate, du sein, et des ovaires, et éventuellement un effet protecteur pour le cancer colo-rectal
+(en) Role of Diet in Prostate Cancer Development and Progression, Journal of Clinical Oncology, vol. 23, no 32, 10 novembre 2005 : p. 8152-8160
+(en) Milk, milk products and lactose intake and ovarian cancer risk: A meta-analysis of epidemiological studies, International Journal of Cancer, vol. 118, issue 2, p. 431-441
+Adventist Health Study-1 - Cancer Findings: Some Highlights
+Institut National du Cancer: Alimentation et cancer
+Meat and Fat Intake as Risk Factors for Pancreatic Cancer: The Multiethnic Cohort Study
+Carbohydrate intake, glycemic index, glycemic load, and risk of postmenopausal breast cancer in a prospective study of French women
+(en) Boffetta P, Couto E, Wichmann J et al. « Fruit and vegetable intake and overall cancer risk in the European Prospective Investigation Into Cancer and Nutrition (EPIC) » JNCI 2010
+How Fiber Helps Protect Against Cancer
+Page sur le jeûne sur le site de l'American Cancer Society
+Calorie restriction and cancer prevention
+(en) « Agricultural pesticide exposure and the molecular connection to lymphomagenesis » J. Agopian et al. 2009
+« Pesticides et risques de cancers, état des connaissances », sur e-cancer.fr, INCa,‎ 28 juillet 2014 (consulté le 17 septembre 2014).
+Liste du Centre international de recherche sur le cancer (CIRC), ref à retrouver
+(en) Kaushal Raj Pandey. « Occupational cancer kills more than 200 000 people a year » BMJ 2007;334:925
+projet Nanogenotox, coordonnée par l'Afsset pour 3 ans, afin de donner à la Commission européenne un moyen robuste et fiable de détection du potentiel génotoxique des nanomatériaux susceptibles d'engendrer un risque de cancer ou de toxicité pour la reproduction chez l'homme
+Rapport 2007 de l'Académie nationale de Médecine sur les causes du cancer
+« OIV, numéro 62, 2001. » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-24
+information hospitalière, 2004.
+(en) Aaron T Fleischauer, Charles Poole and Lenore Arab. « Garlic consumption and cancer prevention: meta-analyses of colorectal and stomach cancers 1,2,3 » American Journal of Clinical Nutrition 2000;72(4):1047-52.
+(en) Henrik Toft Sørensen, Lene Mellemkjær, Mette Vinther Skriver, Søren P Johnsen, Bente Nørgård, Jørgen H Olsen, John A Baron. « Fever of unknown origin and cancer: a population-based study » Lancet Oncol. 2005; 6:851–5. En ligne 2005-09-28, DOI:10.1016/S1470-2045(05) 70346-6
+Nature Medicine, 27 avril 2009.
+Complementary and Alternative Methods for Cancer Management, American Cancer Society
+(en) Block KI. Koch Amanda, Mead MN. « Impact of antioxidant supplementation on chemotherapeutic efficacy: A systematic review of the evidence from randomized controlled trials » Cancer Treatment Reviews 2007;33:407-18
+(en) Bjelakovic G, Nikolova D, Gluud LL, Simonetti RG, Gluud C. « Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases » Cochrane Database of Systematic Reviews 2008;2 DOI:10.1002/14651858.CD007176
+Document de la ligue contre le cancer Suisse sur les études du Dr Rath et la vitamine C
+Dr Olivier Jallut, Médecines parallèles et cancers, l'horizon chimérique, 1992, ISBN 2-907202-35-9.
+G. Edward Griffin., World Without Cancer The Story of Vitamin B17 (Laetrile). http://www.realityzone.com/worwitcan.html
+http://www.lepoint.fr/invites-du-point/didier_raoult/ce-vaccin-contre-le-cancer-qui-ne-sera-pas-commercialise-08-01-2014-1777963_445.php
+DeWeerdt S. Bacteriology : A caring culture. Nature 2013 Dec 19;504(7480):S4-S5.
+Fondation ARC pour la recherche sur le cancern INCa (2012) Situations de travail et trajectoires professionnelles des actifs atteints de cancer Collection États des lieux et des connaissances, ouvrage collectif, septembre 2012 ; rapport de l'institut national du cancer (INCa) et «  »la fondation Arc, présenté au colloque « cancer et travail » du 14 décembre 2010
+« Breakaway: The global burden of cancer—challenges and opportunities » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-24 ; Rapport rédigé par des experts en santé publique, sur le coût des cancers, et publié par le Economist Intelligence Unit du Journal The Economist 2010, (PDF, en anglais, 73 pages)
+(en) P. Boyle, « The Globalisation of Cancer », Lancet, vol. 368, p. 629-630 (2006).
+(en) Boyle P, Levin B (eds.) World Cancer Report 2008, Lyon : International Agency for Research on Cancer, 2008.
+colloque « Cancer, quels coûts pour la société », Assemblée Nationale, 2010/10/21 (Source EHESP, 2010)
+communiqué de presse intitulé Les chiffres 2010 du cancer disponibles sur le site de l'InVS
+Institut national du cancer, Analyse économique des coûts du cancer en France, mars 2007, page 36.
+Institut national du cancer, Analyse économique des coûts du cancer en France, mars 2007, page 28.
+Health and Environment Alliance (HEAL)
+Communiqué : Le MDRGF et le réseau européen HEAL dénoncent l'absence totale de prise en compte de l'environnement dans cette épidémie et lancent une nouvelle grande campagne sur ce sujet majeur.
+[1]
+Institut national du cancer, Analyse économique des coûts du cancer en France, mars 2007, page 23.
+Numéro thématique du Bulletin épidémiologique hebdomadaire du 18 septembre 2007 / n°35-36 - Surveillance épidémiologique des causes de décès en France - publié par l'InVS
+« Estimation nationale de l'incidence et de la mortalité par cancer en France entre 1980 et 2012 », sur www.invs.sante.fr, Institut de veille sanitaire,‎ 11 juillet 2013 (consulté le 15 juillet 2013)
+Cancer, approche méthodologique du lien avec l'environnement, Éditeur : INSERM, expertise collective 2005, 92 p. (Communiqué, consulté 2008 10 04)
+Comparaison et évolution des incidences chez l'homme et la femme (tableau Inserm, 2008)
+(en) Belot A, Grosclaude P, Bossard N, Jougla E, Benhamou E. et al. « Cancer incidence and mortality in France over the period 1980-2005 » Revue d'Épidémiologie et de Santé Publique 2008;56:159-175
+Institut de veille sanitaire (InVS) INSERM
+source: Le téléphone sonne, émission radiophonique de France Inter, 24 mai 2005
+étude menée par l'Institut National du Cancer [2], rapport d'avril 2010 Survie attendue des patients atteints de cancers en France
+Institut national du cancer, Analyse économique des coûts du cancer en France, mars 2007, page 117.
+INCa Les données sur le cancer, en ligne, consulté 2011 11 09
+Rapport INCa 2011 sur Les cancers en France
+1er rapport de « l'Observatoire sociétal des cancers »
+Observatoire sociétal des cancers (2014° Rapport 2013, avril 2014
+Site du Comité éthique et cancer
+, Portail : Cancer-info
+Portail de la Plate forme collaborative CancerContribution.fr
+(en) Quaresma M, Coleman MP. et Rachet B.
+Cancer (vue d'ensemble) sur passeportsante.net.
+(en) Roberta De Angelis et al. « Cancer survival in Europe 1999—2007 by country and age: results of EUROCARE-5—a population-based study » The Lancet Oncology, Early Online Publication, 5 December 2013 DOI:10.1016/S1470-2045(13)70546-1 résumé
+Belle éclaircie sur le front du cancer, Éric Favereau, Libération, 28 février 2007
+Cancers — Pronostics à long terme de l'INSERM
+(en) Steliarova-Foucher E. et al. « Geographical patterns and time trends of cancer incidence and survival among children and adolescents in Europe since the 1970s (the ACCISproject): an epidemiological study » Lancet 2004, 11, 364(9451):2097-105.
+(en) Walker KM, Carozza S, Cooper S, Elgethun K. « Childhood cancer in Texas counties with moderate to intense agricultural activity » J Agric Saf Health. 2007 Jan;13(1):9-24. (Résumé)
+« Inserm » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-24
+(en) J L Daniels, A F Olshan et D A Savitz « Pesticides and childhood cancers » Environ Health Perspect. 1997;105(10): 1068–1077. (Texte intégral)
+(en) Shelia Hoar Zahm et Mary H. Ward ; « Pesticides and Childhood Cancer » Environmental Health Perspectives 1998;106 Supplement 3.
+(en) Simcox NJ, Fenske RA, Wolz SA, Lee IC, Kalman DA. « Pesticides in household dust and soil: exposure pathways for children of agricultural families » Environ Health Perspect. 1995;103:1126-1134.
+(en) Physicians for Social Responsibility. Pesticides and Children: What the Pediatric Practitioner Should Know. Washington: Physicians for Social Responsibility, 1995; 1-8.
+(en) National Research Council. Pesticides in the Diet of Infants and Children. Washington:National Academy Press, 1993.
+(en) Wiles R, Davies K, Campbell C. Overexposed: Organophosphate Insecticides in Children's Food. Washington:Environmental Working Group/The Tides Center, 1998.
+Wiles R, Davies K. Pesticides in Baby Food. Washington: Environmental Working Group, 1995.
+(en) Hill RH Jr, To T, Holler JS, Fast DM, Smith SJ, Needham LL, Binder S. « Residues of chlorinated phenols and phenoxy acid herbicides in the urine of Arkansas children » Arch Environ Contam Toxicol. 1989;18:469-474.
+(en) Leiss JK, Savitz DA. « Home pesticide use and childhood cancer: a case-control study » Am J Public Health. 1995;85:249-252.
+(en) Reeves JD. « Household insecticide-associated blood dyscrasias in children » Am J Hematol Oncol. 1982;4:438-439.
+(en) Jérémie Rudant et al. « « Household Exposure to Pesticides and Risk of Childhood Hematopoietic Malignancies: The ESCALE Study (SFCE) » » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-24 Environ Health Perspect. 2007;115(12):1787-1793. [PDF] DOI:10.1289/ehp.10596
+« Registre National des Hémopathies malignes de l'Enfant » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-24
+« WHO Disease and injury country estimates », World Health Organization,‎ 2009 (consulté le Nov. 11, 2009)
+Le cancer a tué 7,6 millions personnes en 2008, swissinfo.ch, 1er juin 2010
+La découverte du cancer le plus ancien : 3200 ans, sur le site franceinfo.fr, mis en ligne le 18 mars 2014 lire en ligne
+définition sur le site du Centre National de Ressources Textuelles et Lexicales.
+définition sur le site du Centre National de Ressources Textuelles et Lexicales.
+Le cancer, histoire et regards portés sur la maladie
+Anne Prigent, « Marie Curie à l'origine de la radiothérapie » Le Figaro, samedi 11 / dimanche 12 août 2012, page 2.
+http://www.lequotidiendumedecin.fr/1906-declaration-de-guerre-mondiale-contre-le-cancer
+(en) E. Gregory MacEwen « Spontaneous tumors in dogs and cats: Models for the study of cancer biology and treatment » Cancer and Metastasis Reviews Volume 9, Number 2, 125-136. DOI:10.1007/BF00046339 (Résumé)
+Article de Romandie News relatif à une étude anglaise de novembre 2010 publiée par l'assureur animalier SantéVet
+(en) Thrusfield M. « Companion animal epidemiology: its contribution to human medicine » Acta Vet Scand Suppl. 1988;84:57-65. PMID 3068983
+(en) Vail DM, MacEwen EG. « Spontaneously occurring tumors of companion animals as models for human cancer » Cancer Invest. 2000;18(8):781-92. PMID 11107448
+(en) Little MP, Heidenreich WF, Li G., « Parameter identifiability and redundancy in a general class of stochastic carcinogenesis models », PLoS One, vol. 4, no 12,‎ 2009, e8520 (PMID 20046831, PMCID PMC2797326, DOI 10.1371/journal.pone.0008520, lire en ligne)
+« Cancer: Une maladie des cellules souche? », sur www.eurostemcell.org,‎ 23 mars 2010 (consulté le 21 août 2013)
+de Sousa E Melo F, Guessous I, Vermeulen L, Medema JP., « Cellules souches cancéreuses et futures modalités thérapeutiques du cancer [Cancer stem cells and future therapeutic implications] », Rev Med Suisse., vol. 7, no 289,‎ 2011, p. 774-7. (PMID 21568100, lire en ligne)
+La théorie des cellules souches cancéreuses repose sur l'observation d'un gradient de différenciation cellulaire au sein de certaines tumeurs
+« Communiqué de presse : « Les cellules cancéreuses protégées par notre propre système immunitaire » », sur www2.cnrs.fr,‎ 3 août 2009 (consulté le 21 août 2013)
+Bibliographie jeunesse, sur Sparadrap.org.
+Voir aussi
+
+Sur les autres projets Wikimedia :
+Cancer, sur Wikimedia Commons cancer, sur le Wiktionnaire Cancer, sur Wikinews
+Articles connexes
+
+Liste des cancers
+Liste de cancérogènes du groupe 1 du CIRC
+Cancer professionnel
+Association européenne contre le cancer du col de l'utérus
+Recherche en cancérologie
+Atlas of Genetics and Cytogenetics in Oncology and Haematology
+« The hallmarks of cancer »
+Organismes français
+
+Institut Curie
+Institut Gustave-Roussy
+Institut national du cancer
+La Ligue nationale contre le cancer
+Associations françaises
+
+l'Etoile de Martin
+Fondation ARC pour la recherche sur le cancer
+Liens externes
+
+Catégorie cancer de l’annuaire DMOZ
+Cancer the Open Directory Project
+Fiches par cancer et par pays sur le site de l'Observatoire européen du cancer
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Cancer&oldid=113228289 ».
+Dernière modification de cette page le 24 mars 2015 à 21:30.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

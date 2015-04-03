@@ -1,0 +1,287 @@
+Künstliche Intelligenz
+
+aus Wikipedia, der freien Enzyklopädie
+Künstliche Intelligenz (KI, englisch artificial intelligence, AI) ist ein Teilgebiet der Informatik, welches sich mit der Automatisierung intelligenten Verhaltens befasst. Der Begriff ist insofern nicht eindeutig abgrenzbar, da es bereits an einer genauen Definition von Intelligenz mangelt. Dennoch findet er in Forschung und Entwicklung Anwendung.
+
+Im Allgemeinen bezeichnet „künstliche Intelligenz“ oder „KI“ den Versuch, eine menschenähnliche Intelligenz nachzubilden, d. h., einen Computer zu bauen oder so zu programmieren, dass dieser eigenständig Probleme bearbeiten kann. Oftmals wird damit aber auch eine effektvoll nachgeahmte, vorgetäuschte Intelligenz bezeichnet, insbesondere bei Computerspielen, die durch meist einfache Algorithmen ein intelligentes Verhalten simulieren soll.
+
+Inhaltsverzeichnis
+
+1 Überblick
+2 Geschichte
+3 Teilgebiete
+3.1 Wissensbasierte Systeme
+3.2 Musteranalyse und Mustererkennung
+3.3 Mustervorhersage
+3.4 Robotik
+3.5 Modellierung anhand der Entropiekraft
+4 Methoden
+4.1 Suchen
+4.2 Planen
+4.3 Optimierungsmethoden
+4.4 Logisches Schließen
+4.5 Approximationsmethoden
+5 Anwendungen
+6 Turing-Test
+7 Angrenzende Wissenschaften
+7.1 Sprachwissenschaft
+7.2 Psychologie
+7.3 Psychotherapie
+7.4 Philosophie
+7.5 Informatik
+8 Darstellung in Film und Literatur
+9 Literatur
+10 Weblinks
+10.1 Deutsch
+10.2 Englisch
+11 Einzelnachweise
+Überblick
+Im Verständnis des Begriffs künstliche Intelligenz spiegelt sich oft die aus der Aufklärung stammende Vorstellung vom „Menschen als Maschine“ wider, dessen Nachahmung sich die sogenannte starke KI zum Ziel setzt: eine Intelligenz zu erschaffen, die wie der Mensch kreativ nachdenken sowie Probleme lösen kann und die sich durch eine Form von Bewusstsein beziehungsweise Selbstbewusstsein sowie Emotionen auszeichnet. Die Ziele der starken KI sind nach Jahrzehnten der Forschung weiterhin visionär.
+
+Im Gegensatz zur starken KI geht es der schwachen KI darum, konkrete Anwendungsprobleme zu meistern. Insbesondere sind dabei solche Anwendungen von Interesse, zu deren Lösung nach allgemeinem Verständnis eine Form von „Intelligenz“ notwendig zu sein scheint. Letztlich geht es der schwachen KI somit um die Simulation intelligenten Verhaltens mit Mitteln der Mathematik und der Informatik, es geht ihr nicht um Schaffung von Bewusstsein oder um ein tieferes Verständnis von Intelligenz. Während die starke KI an ihrer philosophischen Fragestellung bis heute scheiterte, sind auf der Seite der schwachen KI in den letzten Jahren bedeutende Fortschritte erzielt worden.
+
+Neben den Forschungsergebnissen der Kerninformatik selbst sind in die KI Ergebnisse der Psychologie, Neurologie und Neurowissenschaften, der Mathematik und Logik, Kommunikationswissenschaft, Philosophie und Linguistik eingeflossen. Umgekehrt hatte die KI auch ihrerseits Einflüsse auf andere Gebiete, vor allem auf die Neurowissenschaften. Dies zeigt sich in der Ausbildung des Bereichs der Neuroinformatik, der der biologieorientierten Informatik zugeordnet ist, sowie der Computational Neuroscience. Zusätzlich ist auch der ganze Zweig der Kognitionswissenschaft zu nennen, welcher sich wesentlich auf die Ergebnisse der künstlichen Intelligenz in Zusammenarbeit mit der kognitiven Psychologie stützt.
+
+Es lässt sich festhalten, dass die KI kein abgeschlossenes Forschungsgebiet darstellt. Vielmehr werden Techniken aus verschiedenen Disziplinen verwendet, ohne dass diese eine Verbindung miteinander haben müssen. Bei künstlichen neuronalen Netzen handelt es sich um Techniken, die ab Mitte des 20. Jahrhunderts entwickelt wurden und auf der Neurophysiologie aufbauen.
+
+Geschichte
+Am 13. Juli 1956 begann am Dartmouth College eine berühmte Konferenz, die von John McCarthy, Marvin Minsky, Nathan Rochester und Claude Shannon organisiert wurde. McCarthy prägte den Begriff „artificial intelligence“ („künstliche Intelligenz“) 1955 in dem Förderantrag an die Rockefeller Foundation als Thema dieser Dartmouth Conference. Sie war die erste Konferenz, die sich dem Thema künstliche Intelligenz widmete.
+
+Basierend auf den Arbeiten von Alan Turing, unter anderem dem Aufsatz Computing machinery and intelligence, formulierten Allen Newell (1927–1992) und Herbert A. Simon (1916–2001) von der Carnegie Mellon University in Pittsburgh die Physical Symbol System Hypothesis. Ihr zufolge ist Denken Informationsverarbeitung, und Informationsverarbeitung ein Rechenvorgang, eine Manipulation von Symbolen. Auf das Gehirn als solches komme es beim Denken nicht an: „Intelligence is mind implemented by any patternable kind of matter.“
+
+Diese Auffassung, dass Intelligenz unabhängig von der Trägersubstanz ist, wird von den Vertretern der starken KI-These geteilt. Für Marvin Minsky (* 1927) vom Massachusetts Institute of Technology (MIT), einem der Pioniere der KI, ist „das Ziel der KI die Überwindung des Todes“. Der Roboterspezialist Hans Moravec (* 1948) von der Carnegie Mellon University beschreibt in seinem Buch Mind Children (Kinder des Geistes) das Szenario der Evolution des postbiologischen Lebens: Ein Roboter überträgt das im menschlichen Gehirn gespeicherte Wissen in einen Computer, sodass die Biomasse des Gehirns überflüssig wird und ein posthumanes Zeitalter beginnt, in dem das gespeicherte Wissen beliebig lange zugreifbar bleibt.
+
+Die Anfangsphase der KI war geprägt durch eine fast grenzenlose Erwartungshaltung im Hinblick auf die Fähigkeit von Computern, „Aufgaben zu lösen, zu deren Lösung Intelligenz notwendig ist, wenn sie vom Menschen durchgeführt werden“ (Minsky). Herbert Simon prognostizierte 1957 unter anderem, dass innerhalb der nächsten zehn Jahre ein Computer Schachweltmeister werden und einen wichtigen mathematischen Satz entdecken und beweisen würde. Diese Prognosen trafen nicht zu. Simon wiederholte die Vorhersage 1990, allerdings ohne Zeitangabe. Immerhin gelang es 1997 dem von IBM entwickelten System Deep Blue, den Schach-Weltmeister Garri Kasparov in sechs Partien zu schlagen.
+
+Newell und Simon entwickelten in den 1960er Jahren den General Problem Solver, ein Programm, das mit einfachen Methoden beliebige Probleme lösen können sollte. Nach fast zehnjähriger Entwicklungsdauer wurde das Projekt schließlich eingestellt. John McCarthy schlug 1958 vor, das gesamte menschliche Wissen in eine homogene, formale Darstellungsform, die Prädikatenlogik 1. Stufe, zu bringen.
+
+Ende der 1960er Jahre entwickelte Joseph Weizenbaum (1923–2008) vom MIT mit einem relativ simplen Verfahren das Programm ELIZA, in dem der Dialog eines Psychiaters mit einem Patienten simuliert wird. Die Wirkung des Programms war überwältigend. Weizenbaum war selbst überrascht, dass man auf relativ einfache Weise Menschen die Illusion eines beseelten Partners vermitteln kann. „Wenn man das Programm missversteht, dann kann man es als Sensation betrachten“ sagte Weizenbaum später über ELIZA.[1] Auf einigen Gebieten erzielte die KI Erfolge, beispielsweise bei Strategiespielen wie Schach und Dame, bei mathematischer Symbolverarbeitung, bei der Simulation von Robotern, beim Beweisen von logischen und mathematischen Sätzen und schließlich bei Expertensystemen.
+
+In einem Expertensystem wird das regelbasierte Wissen eines bestimmten Fachgebiets formal repräsentiert. Das System wendet bei konkreten Fragestellungen diese Regeln auch in solchen Kombinationen an, die von menschlichen Experten nicht in Betracht gezogen werden. Die zu einer Problemlösung herangezogenen Regeln können angezeigt werden, d. h. das System kann sein Ergebnis „erklären“. Einzelne Wissenselemente können hinzugefügt, verändert oder gelöscht werden; moderne Expertensysteme verfügen dazu über komfortable Benutzerschnittstellen.
+
+Eines der bekanntesten Expertensysteme war das Anfang der 1970er Jahre von T. Shortliffe an der Stanford University entwickelten MYCIN. Es diente zur Unterstützung von Diagnose- und Therapieentscheidungen bei Blutinfektionskrankheiten und Meningitis. Ihm wurde durch eine Evaluation attestiert, dass seine Entscheidungen so gut sind wie die eines Experten in dem betreffenden Bereich und besser als die eines Nicht-Experten. Allerdings reagierte das System, als ihm Daten einer Cholera-Erkrankung – eine Darm- und keine Blutinfektionskrankheit – eingegeben wurden, mit Diagnose- und Therapievorschlägen für eine Blutinfektionskrankheit: MYCIN erkannte die Grenzen seiner Kompetenz nicht. Dieser Cliff-and-Plateau-Effekt ist bei Expertensystemen, die hochspezialisiert auf ein schmales Wissensgebiet angesetzt sind, typisch.
+
+In den 1980er Jahren wurde der KI, parallel zu wesentlichen Fortschritten bei Hard- und Software, die Rolle einer Schlüsseltechnologie zugewiesen, insbesondere im Bereich der Expertensysteme. Man erhoffte sich vielfältige industrielle Anwendungen, perspektivisch auch eine Ablösung „eintöniger“ menschlicher Arbeit (und deren Kosten) durch KI-gesteuerte Systeme. Nachdem allerdings viele Prognosen nicht eingehalten werden konnten, reduzierten die Industrie und die Forschungsförderung ihr Engagement.
+
+Mit den neuronalen Netzen trat zur gleichen Zeit eine neue Perspektive der KI ans Licht, angestoßen u.a. von Arbeiten des finnischen Ingenieurs Teuvo Kohonen. In der schwachen KI löste man sich von Konzepten von Intelligenz und analysierte stattdessen, ausgehend von der Neurophysiologie, die Informationsarchitektur des menschlichen und tierischen Gehirns. Die Modellierung in Form künstlicher neuronaler Netze illustrierte dann, wie aus einer einfachen Grundstruktur eine komplexe Musterverarbeitung geleistet werden kann. Die Neuroinformatik hat sich als wissenschaftliche Disziplin zur Untersuchung dieser Verfahren entwickelt.
+
+Diese Art von Lernen beruht, im Gegensatz zu Expertensystemen, nicht auf der Herleitung und Anwendung von Regeln. Dies deutet darauf hin, dass die besonderen Fähigkeiten des menschlichen Gehirns nicht auf einen regelbasierten Intelligenz-Begriff reduzierbar sind. Die Auswirkungen dieser Einsichten auf die KI-Forschung, aber auch auf Lerntheorie, Didaktik, das Verhältnis zum Bewusstsein und andere Gebiete werden noch diskutiert.
+
+In der KI haben sich mittlerweile zahlreiche Subdisziplinen herausgebildet, so spezielle Sprachen und Konzepte zur Darstellung und Anwendung von Wissen, Modelle zu Fragen von Revidierbarkeit, Unsicherheit und Ungenauigkeit und maschinelle Lernverfahren. Die Fuzzylogik hat sich als weitere Form der schwachen KI etwa bei Maschinensteuerungen etabliert.
+
+Weitere erfolgreiche KI-Anwendungen liegen in den Bereichen natürlich-sprachlicher Schnittstellen, Sensorik und Robotik.
+
+Teilgebiete
+Wissensbasierte Systeme
+Wissensbasierte Systeme modellieren eine Form rationaler Intelligenz für sogenannte Expertensysteme. Diese sind in der Lage, auf eine Frage des Anwenders auf Grundlage formalisierten Fachwissens und daraus gezogener logischer Schlüsse Antworten zu liefern. Beispielhafte Anwendungen finden sich in der Diagnose von Krankheiten oder der Suche und Beseitigung von Fehlern in technischen Systemen.
+
+Beispiele für wissensbasierte Systeme sind Cyc und Watson.
+
+Musteranalyse und Mustererkennung
+Visuelle Intelligenz ermöglicht es, Bilder beziehungsweise Formen zu erkennen und zu analysieren. Als Anwendungsbeispiele seien hier Handschrifterkennung, Identifikation von Personen durch Abgleich der Fingerabdrücke oder der Iris, industrielle Qualitätskontrolle und Fertigungsautomation (letzteres in Kombination mit Erkenntnissen der Robotik) genannt.
+
+Mittels sprachlicher Intelligenz ist es beispielsweise möglich, einen geschriebenen Text in Sprache umzuwandeln (Sprachsynthese) und umgekehrt einen gesprochenen Text schriftlich zu erfassen (Spracherkennung). Diese automatische Sprachverarbeitung lässt sich ausbauen, sodass etwa durch latente semantische Analyse (engl. latent semantic indexing, kurz LSI) Worten und Texten Bedeutung beigemessen werden kann.
+
+Beispiele für Systeme zur Mustererkennung sind Google Brain und Microsoft Adam.[2]
+
+Mustervorhersage
+Die Mustervorhersage ist eine Erweiterung der Mustererkennung. Sie stellt etwa die Grundlage des von Jeff Hawkins definierten hierarchischen Temporalspeichers dar.
+
+“Prediction is not just one of the things your brain does. It is the primary function of the neocortex, and the foundation of intelligence.”
+
+„Vorhersage ist nicht einfach nur eines der Dinge, die dein Gehirn tut. Sie ist die Hauptfunktion des Neocortex und das Fundament der Intelligenz.“
+
+– Jeff Hawkins: On Intelligence[3]
+Solche Systeme bieten den Vorteil, dass z. B. nicht nur ein bestimmtes Objekt in einem einzelnen Bild erkannt wird (Mustererkennung), sondern auch anhand einer Bildserie vorhergesagt werden kann, wo sich das Objekt als nächstes aufhalten wird.
+
+Robotik
+Die Robotik beschäftigt sich mit manipulativer Intelligenz. Mit Hilfe von Robotern können etwa gefährliche Tätigkeiten oder auch immer gleiche Manipulationen, wie sie beim Schweißen oder Lackieren auftreten können, automatisiert werden.
+
+Der Grundgedanke ist es, Systeme zu schaffen, die intelligente Verhaltensweisen von Lebewesen nachvollziehen können.
+
+Beispiele für derartige Roboter sind ASIMO und Atlas.
+
+Modellierung anhand der Entropiekraft
+Basierend auf der Arbeit des Physikers Alexander Wissner-Gross kann ein intelligentes System durch die Entropiekraft modelliert werden. Dabei versucht ein intelligenter Agent seine Umgebung (Zustand X0), durch eine Handlung (Kraftfeld F) zu beeinflussen, um eine größtmögliche Handlungsfreiheit (Entropie S) in einem zukünftigen Zustand X zu erreichen. [4][5]
+
+Methoden
+Die Methoden der KI lassen sich grob in zwei Dimensionen einordnen: symbolische vs. neuronale KI und Simulationsmethode vs. phänomenologische Methode. Die Zusammenhänge veranschaulicht die folgende Grafik:
+
+Zur Einordnung von KI-Methoden und ihren Zusammenhängen
+
+Die Neuronale KI verfolgt einen Bottom-up-Ansatz und möchte das menschliche Gehirn möglichst präzise nachbilden. Die symbolische KI verfolgt umgekehrt einen Top-down-Ansatz und nähert sich den Intelligenzleistungen von einer begrifflichen Ebene her. Die Simulationsmethode orientiert sich so nah wie möglich an den tatsächlichen kognitiven Prozessen des Menschen. Dagegen kommt es dem phänomenologischen Ansatz nur auf das Ergebnis an.
+
+Viele ältere Methoden, die in der KI entwickelt wurden, basieren auf heuristischen Lösungsverfahren. In jüngerer Zeit spielen mathematisch fundierte Ansätze aus der Statistik, der mathematischen Programmierung und der Approximationstheorie eine bedeutende Rolle.
+
+Die konkreten Techniken der KI lassen sich grob in Gruppen einteilen:
+
+Suchen
+Die KI beschäftigt sich häufig mit Problemen, bei denen nach bestimmten Lösungen gesucht wird. Verschiedene Suchalgorithmen werden dabei eingesetzt. Ein Paradebeispiel für die Suche ist der Vorgang der Wegfindung, der in vielen Computerspielen eine zentrale Rolle einnimmt und auf Suchalgorithmen wie zum Beispiel dem A*-Algorithmus basiert.
+
+Planen
+Neben dem Suchen von Lösungen stellt das Planen einen wichtigen Aspekt der KI dar. Der Vorgang des Planens unterteilt sich dabei in zwei Phasen:
+
+Die Zielformulierung: Ausgehend vom momentanen Umgebungs- bzw. Weltzustand wird ein Ziel definiert. Ein Ziel ist hierbei eine Menge von Weltzuständen bei der ein bestimmtes Zielprädikat erfüllt ist.
+Die Problemformulierung: Nachdem bekannt ist, welche Ziele angestrebt werden sollen, wird in der Problemformulierung festgelegt, welche Aktionen und Weltzustände betrachtet werden sollen. Es existieren hierbei verschiedene Problemtypen.
+Planungssysteme planen und erstellen aus solchen Problembeschreibungen Aktionsfolgen, die Agentensysteme ausführen können, um ihre Ziele zu erreichen.
+
+Optimierungsmethoden
+Oft führen Aufgabenstellungen der KI zu Optimierungsproblemen. Diese werden je nach Struktur entweder mit Suchalgorithmen aus der Informatik oder, zunehmend, mit Mitteln der mathematischen Programmierung gelöst. Bekannte heuristische Suchverfahren aus dem Kontext der KI sind evolutionäre Algorithmen.
+
+Logisches Schließen
+Eine Fragestellung der KI ist die Erstellung von Wissensrepräsentationen, die dann für automatisches logisches Schließen benutzt werden können. Menschliches Wissen wird dabei – soweit möglich – formalisiert, um es in eine maschinenlesbare Form zu bringen. Diesem Ziel haben sich die Entwickler diverser Ontologien verschrieben.
+
+Schon früh beschäftigte sich die KI damit, automatische Beweissysteme zu konstruieren, die Mathematikern und Informatikern beim Beweisen von Sätzen und beim Programmieren (Logikprogrammierung) behilflich wären. Zwei Schwierigkeiten zeichneten sich ab:
+
+Formuliert man Sätze in den natürlicher Sprache nahen, relativ bequemen Beschreibungssprachen, werden die entstehenden Suchprobleme aufwändig. In der Praxis machte man Kompromisse, bei denen die Beschreibungssprache für den Benutzer etwas umständlicher, die zugehörigen Optimierungsprobleme für den Rechner dafür jedoch einfacher zu handhaben waren (Prolog, Expertensysteme).
+Selbst mächtige Beschreibungssprachen werden unhandlich, wenn man versucht, unsicheres oder unvollständiges Wissen zu formulieren. Für praktische Probleme kann dies eine ernste Einschränkung sein. Die aktuelle Forschung untersucht daher Systeme, die die Regeln der Wahrscheinlichkeitsrechnung verwenden, um Unwissen und Unsicherheit explizit zu modellieren. Algorithmisch unterscheiden sich diese Methoden von den älteren Verfahren: neben Symbolen werden auch Wahrscheinlichkeitsverteilungen manipuliert.
+Eine andere Form des logischen Schließens stellt die Induktion dar (Induktionsschluss, Induktionslogik), in der Beispiele zu Regeln verallgemeinert werden (maschinelles Lernen). Auch hier spielen Art und Mächtigkeit der Wissensrepräsentation eine wichtige Rolle. Man unterscheidet zwischen symbolischen Systemen, in denen das Wissen – sowohl die Beispiele als auch die induzierten Regeln – explizit repräsentiert ist, und subsymbolischen Systemen wie neuronalen Netzen, denen zwar ein berechenbares Verhalten „antrainiert“ wird, die jedoch keinen Einblick in die erlernten Lösungswege erlauben.
+
+Approximationsmethoden
+In vielen Anwendungen geht es darum, aus einer Menge von Daten eine allgemeine Regel abzuleiten (maschinelles Lernen). Mathematisch führt dies zu einem Approximationsproblem. Im Kontext der KI wurden hierzu künstliche neuronale Netze vorgeschlagen. In praktischen Anwendungen verwendet man häufig alternative Verfahren, die mathematisch einfacher zu analysieren sind.
+
+Anwendungen
+In der Vergangenheit sind Erkenntnisse der künstlichen Intelligenz mit der Zeit oft in die anderen Gebiete der Informatik übergegangen: Sobald ein Problem gut genug verstanden wurde, hat sich die KI neuen Aufgabenstellungen zugewandt. Zum Beispiel wurden der Compilerbau oder Computeralgebra ursprünglich der künstlichen Intelligenz zugerechnet.
+
+Zahlreiche Anwendungen wurden auf der Grundlage von Techniken entwickelt, die einst Forschungsgebiete der KI waren oder es noch sind. Einige Beispiele:
+
+Suchmaschinen erleichtern den Umgang mit der im Internet vorhandenen Informationsflut.
+Bei der Exploration von Ölquellen, der Steuerung von Marsrobotern oder der medizinischen Diagnose werden Expertensysteme eingesetzt.
+Maschinelle Übersetzung ist weit verbreitet. Ihre Ergebnisse sind noch nicht vergleichbar mit denen menschlicher Übersetzer, sparen jedoch viel Zeit und Geld.
+Data-Mining und Text Mining bieten Methoden zur Extraktion von Kerninformationen aus nicht- oder nur schwach strukturierten Texten, wie es etwa zur Erstellung von Inhaltsanalysen benötigt wird.
+Information Retrieval oder Informationsrückgewinnung hat das Wiederauffinden und Zusammenführen bereits bestehender, komplexer Strukturen in sehr großen Datensätzen zum Ziel, ein Anwendungsgebiet sind Internet-Suchmaschinen.
+Analyse und Prognose von Aktienkursentwicklungen werden gelegentlich durch künstliche neuronale Netze unterstützt.
+Optische Zeichenerkennung liest gedruckte Texte zuverlässig.
+Handschrifterkennung wird millionenfach in PDAs verwendet.
+Spracherkennung ermöglicht das Diktieren eines Textes.
+Computeralgebrasysteme, wie Mathematica oder Maple, unterstützen Mathematiker, Wissenschaftler und Ingenieure bei ihrer Arbeit.
+Computer-Vision-Systeme überwachen öffentliche Plätze, Produktionsprozesse oder sichern den Straßenverkehr.
+In Computerspielen dienen die Algorithmen, die in der KI entwickelt wurden, dazu, computergesteuerte Mitspieler intelligent handeln zu lassen. Beispiele solcher Anwendungen sind Deep Blue, ein Schachcomputer, der 1997 den Weltmeister Garri Kasparow besiegte, und das Programm Chinook, das seit 1994 Dame-Weltmeister ist.
+Bei Gruppensimulationen für Sicherheitsplanung oder Computeranimation wird ein möglichst realistisches Verhalten von (Menschen-)Massen berechnet.
+Ein wissensbasiertes System bzw. spezieller ein Expertensystem stellt Lösungen bei komplexen Fragestellungen zur Verfügung. Beispiele für solche Anwendungen sind: Das Computerprogramm Watson, das im Jahr 2011 im Quiz Jeopardy gegen die beiden bislang erfolgreichsten Spieler gewinnen konnte oder die Wissensdatenbank Cyc.
+Turing-Test
+Um ein Maß zu haben, wann eine Maschine eine dem Menschen gleichwertige Intelligenz simuliert, wurde von Alan Turing der nach ihm benannte Turing-Test vorgeschlagen. Dabei stellt ein Mensch per Terminal beliebige Fragen an einen anderen Menschen bzw. eine KI, ohne dabei zu wissen, wer jeweils antwortet. Der Fragesteller muss danach entscheiden, ob es sich beim Interviewpartner um eine Maschine oder einen Menschen handelte. Ist die Maschine nicht von dem Menschen zu unterscheiden, so ist laut Turing die Maschine intelligent.[6] Bisher konnte keine Maschine den Turing-Test zweifelsfrei bestehen. Seit 1991 existiert der Loebner-Preis für den Turing-Test.
+
+Angrenzende Wissenschaften
+Sprachwissenschaft
+Die Interpretation menschlicher Sprache durch Maschinen besitzt bei der KI-Forschung eine entscheidende Rolle. So ergeben sich etwaige Ergebnisse des Turing-Tests vor allem in Dialogsituationen, die bewältigt werden müssen.
+
+Die Sprachwissenschaft liefert mit ihren Grammatikmodellen und psycholinguistischen Semantikmodellen wie der Merkmals- oder der Prototypensemantik Grundlagen für das maschinelle „Verstehen“ komplexer natürlichsprachlicher Phrasen.
+
+Einen Teilbereich der Linguistik und zugleich eine Schnittstelle zwischen dieser und der Informatik bildet die Computerlinguistik, die sich unter anderem mit maschineller Sprachverarbeitung und künstlicher Intelligenz beschäftigt.
+
+Psychologie
+Die Psychologie beschäftigt sich u.a. mit dem Intelligenzbegriff.
+
+Psychotherapie
+In der Psychotherapieforschung existieren bereits seit geraumer Zeit experimentelle Anwendungen der Künstlichen Intelligenz, um Defizite und Engpässe in der psychotherapeutischen Versorgung zu überbrücken und Kosten zu sparen.[7]
+
+Philosophie
+Die philosophischen Aspekte der KI-Problematik gehören zu den weitreichendsten der gesamten Informatik.
+
+Die Antworten, die auf die zentralen Fragen dieses Bereiches gegeben werden, reichen weit in ontologische und erkenntnistheoretische Themen hinein, die das Denken des Menschen schon in den Anfängen der Philosophie beschäftigten. Wer solche Antworten gibt, muss die Konsequenzen daraus auch für den Menschen und sich selbst ziehen. Nicht selten möchte man umgekehrt vorgehen und die Antworten, die man vor der Entwicklung künstlicher Intelligenz gefunden hat, auf diese übertragen. Doch wie sich zeigte, hat die künstliche Intelligenz zahlreiche Forscher dazu veranlasst, Probleme wie das Verhältnis zwischen Materie und Geist, die Ursprünge des Bewusstseins, die Grenzen der Erkenntnis, das Problem der Emergenz, die Möglichkeit außermenschlicher Intelligenz usw. in einem neuen Licht zu betrachten und zum Teil neu zu bewerten.
+
+Eine dem metaphysischen bzw. auch idealistischen Denken verpflichtete Sichtweise hält es (im Sinn einer schwachen KI) für unmöglich, dass Maschinen jemals mehr als nur simuliertes Bewusstsein mit wirklicher Erkenntnis und Freiheit besitzen könnten. Aus ontologischer Sicht kritisiert der amerikanische Philosoph Hubert Dreyfus die Auffassung der starken KI. Aufbauend auf der von Martin Heidegger in dessen Werk Sein und Zeit entwickelten Ontologie der „Weltlichkeit der Welt“ versucht Dreyfus zu zeigen, dass hinter das Phänomen der Welt als sinnhafte Bedeutungsganzheit nicht zurückgegangen werden kann: Sinn, d. h. Beziehungen der Dinge in der Welt aufeinander, sei ein Emergenzphänomen, denn es gibt nicht „etwas Sinn“ und dann „mehr Sinn“. Damit erweist sich jedoch auch die Aufgabe, die sinnhaften Beziehungen zwischen den Dingen der Welt in einen Computer einzuprogrammieren, als eigentlich unmögliches bzw. unendliches Vorhaben. Dies deshalb, weil Sinn nicht durch Addition von zunächst sinnlosen Elementen hergestellt werden kann.[8]
+
+Eine evolutionär-progressive Denkrichtung sieht es hingegen (im Sinn einer starken KI) als möglich an, dass Systeme der künstlichen Intelligenz einmal den Menschen in dem übertreffen könnten, was derzeit noch als spezifisch menschlich gilt. Dies birgt zum einen die Gefahr, dass solche KI-Maschinen missbraucht werden z. B. für militärische Zwecke. Andererseits birgt diese Technologie die Chance, Probleme zu lösen, deren Lösung dem Menschen wegen seines limitierten Verstands nicht möglich ist (siehe auch technologische Singularität).
+
+Weitere Anknüpfungspunkte lassen sich in der analytischen Philosophie finden; beispielhaft sei hier Wittgensteins Tractatus Logico-Philosophicus erwähnt.
+
+Informatik
+Selbstverständlich ist die KI mit den anderen Disziplinen der Informatik eng verzahnt. Ein Versuch der Abgrenzung könnte auf Grundlage der Bewertung der erzielten Ergebnisse hinsichtlich ihres Grades an Intelligenz erfolgen. Hierzu scheint es sinnvoll, verschiedene Dimensionen von Intelligenz zu unterscheiden. Im Folgenden sollen diese Dimensionen aufgeführt werden, die ersten drei scheinen als notwendige Bedingungen angesehen werden zu können.
+
+Die Fähigkeit zur Verarbeitung beliebiger Symbole (nicht nur Zahlen).
+Der Aufbau eines inneren Modells der äußeren Welt, eines Selbstmodells, sowie der jeweils aktuellen Beziehung von Selbst und Welt.
+Die Fähigkeit zu einer zweckentsprechenden Anwendung des Wissens.
+Die Fähigkeit, die im gespeicherten Wissen enthaltenen Zusammenhänge aufzudecken, d. h. logisch schlussfolgern zu können.
+Die Fähigkeit zur Verallgemeinerung (Abstraktion) und zur Spezialisierung (d. h. zu Anwendung allgemeiner Zusammenhänge auf konkrete Sachverhalte).
+Das Vermögen, erworbenes Wissen und vorhandene Erfahrung auf neue, bisher unbekannte Situationen zu übertragen.
+Die Fähigkeit, sich planvoll zu verhalten und entsprechende Strategien zum Erreichen der Ziele bilden zu können.
+Anpassungsfähigkeit an verschiedene, u.U. sich zeitlich ändernde Situationen und Problemumgebungen.
+Lernfähigkeit, verbunden mit dem Vermögen, partiellen Fortschritt oder Rückschritt einschätzen zu können.
+Die Fähigkeit, auch in unscharf bzw. unvollständig beschriebenen oder erkannten Situationen handeln zu können.
+Die Fähigkeit zur Mustererkennung (Besitz von Sensoren) und zur aktiven Auseinandersetzung mit der Umwelt (Besitz von Effektoren).
+Über ein Kommunikationsmittel von der Komplexität und Ausdrucksfähigkeit der menschlichen Sprache verfügen.
+Je mehr dieser Merkmale eine Anwendung erfüllt, desto intelligenter ist sie. Eine Anwendung, die auf dieser Skala als intelligent eingestuft werden kann, wird eher der KI als einer anderen Disziplin der Informatik zugeordnet werden können.
+
+Darstellung in Film und Literatur
+Seit der Klassischen Moderne wird sie in Kunst, Film und Literatur behandelt.[9] Dabei geht es bei der künstlerischen Abhandlung – im Gegensatz zur KI-Forschung, bei der die technische Realisierung im Vordergrund steht – vor Allem um die moralischen, ethischen und religiösen Aspekte und Folgen einer nicht-menschlichen, „maschinellen Intelligenz“.
+
+In der Renaissance wurde der Begriff des Homunculus geprägt, eines künstlichen Miniaturmenschen ohne Seele.[10] Im 18. und 19. Jahrhundert erschienen in der Literatur menschenähnliche Automaten, beispielsweise in E.T.A. Hoffmanns Der Sandmann und Jean Pauls Die Automaten.
+
+Im 20. und 21. Jahrhundert greift die Science-Fiction in Film und Prosa das Thema mannigfach auf.[11] 1920 prägte der Schriftsteller Karel Capek den Begriff in seinem Bühnenstück R.U.R. 1926 thematisierte Fritz Lang in Metropolis Roboter, die die Arbeit der Menschen übernehmen.[11] Dem Filmpublikum wurden in den unterschiedlichen Werken die Roboter als intelligente und differenzierte Maschinen präsentiert, mit ganz unterschiedlichen Persönlichkeiten. Sie werden entwickelt, um sie für gute Zwecke einzusetzen, wandeln sich aber häufig zu gefährlichen Maschinen, die feindselige Pläne gegen Menschen entwickeln.[12] Im Lauf der Filmgeschichte werden sie zunehmend zu selbstbewussten Wesen, die sich die Menschheit unterwerfen wollen.[12]
+
+Einige bedeutsame Beispiele aus der jüngeren Literatur- und Filmgeschichte sind:
+
+HAL 9000 in 2001: Odyssee im Weltraum (1968)
+Colossus und Guardian in Colossus (1970)
+Die sprechenden Bomben in Dark Star (1974)
+Der Super-Computer Golem aus den Büchern Golem XIV und Also sprach Golem von Stanisław Lem (1981)
+K.I.T.T. in "Knight Rider" (1982-1986)
+Master Control Programm in Tron (1982)
+Skynet aus Der Terminator (1984)
+Sämtliche Programme (Orakel, Architekt, Agent, etc.) in The Matrix (1999)
+Chi und alle anderen Persocoms in Chobits (2000-2002)
+Die Hauptfigur in A.I. - Künstliche Intelligenz von Steven Spielberg (2001)
+Red Queen aus Resident Evil (2002-2012)
+Sonny in I, Robot (Film) (2004)
+Deep Thought in Per Anhalter durch die Galaxis (Film) (2005)
+Jarvis in Iron Man (2008)
+Love Machine, die Hacker-KI aus Summer Wars (2009)
+Das Computerspiel Erebos im gleichnamigen Buch von Ursula Poznanski (2010)
+Hubots in Real Humans – Echte Menschen (2012)
+Dr. Will Caster aus dem Film Transcendence (Film) (2014)
+Literatur
+Dietrich Dörner: Bauplan für eine Seele. Rowohlt, Reinbek 2001, ISBN 3-499-61193-7
+Wolfgang Ertel: Grundkurs Künstliche Intelligenz: Eine praxisorientierte Einführung. 3. Aufl., Springer Vieweg 2013. ISBN 978-3-8348-1677-1
+Howard Gardner: Dem Denken auf der Spur (KI als Teil der interdisziplinären Kognitionswissenschaft) Stuttgart 1989 ISBN 3-608-93099-X
+Uwe Lämmel; Jürgen Cleve: Künstliche Intelligenz, 3. Auflage 2008, Carl Hanser Verlag München, ISBN 978-3-446-41398-6
+Douglas R. Hofstadter: Gödel, Escher, Bach, ein Endloses Geflochtenes Band dtv ISBN 3-423-30017-5
+Raymond Kurzweil: The Age of Spiritual Machines. B&T (Januar 2000) ISBN 978-0-14-028202-3
+Jan Lunze: Künstliche Intelligenz für Ingenieure. 2010. ISBN 978-3-486-70222-4
+Marvin Minsky: Mentopolis Stuttgart 1990 ISBN 3-608-93117-1
+Hans Moravec: Computer übernehmen die Macht. Vom Siegeszug der künstlichen Intelligenz. Hoffmann und Campe (1999) ISBN 978-3-455-08575-4
+Roger Penrose: Computerdenken – Des Kaisers neue Kleider oder die Debatte um künstliche Intelligenz, Bewusstsein und die Gesetze der Natur, Übersetzung der englischen Originalausgabe The Emperor's New Mind, mit einem Vorwort von Martin Gardner und einem Vorwort zur deutschen Ausgabe von Dieter Wandschneider, Heidelberg 1991
+Roger Penrose: Schatten des Geistes. Wege zu einer neuen Physik des Bewußtseins Übersetzung aus dem Englischen Shadows of the Mind Heidelberg 1995
+Rolf Pfeifer, Christian Scheier, Alex Riegler: Understanding Intelligence Bradford Books, 2001, ISBN 0-262-66125-X
+Görz, Rollinger, Schneeberger (Hrsg.): Handbuch der Künstlichen Intelligenz, 4. Auflage 2003, Oldenbourg, ISBN 3-486-27212-8
+Georg Ruppelt (Hg): Der große summende Gott – Geschichten von Denkmaschinen, Computern und künstlicher Intelligenz Hg. für die Niedersächsische Landesbibliothek. Zugl.: Uwe Drewen, Dokumentation einer Ausstellung. Niemeyer, Hameln 2003 ISBN 3-8271-8807-5 (sehr ausführliche Bibliographie)
+Stuart Russell, Peter Norvig: Artificial Intelligence: A Modern Approach, 2. Auflage, 2002, Prentice Hall.
+Stuart Russell, Peter Norvig: Künstliche Intelligenz: Ein moderner Ansatz, August 2004, Pearson Studium, ISBN 3-8273-7089-2 (deutsche Übersetzung der 2. Auflage)
+Bernd Vowinkel: Maschinen mit Bewusstsein – Wohin führt die künstliche Intelligenz?. Wiley-VCH (Mai 2006) ISBN 978-3-527-40630-2
+Joseph Weizenbaum: Die Macht der Computer und die Ohnmacht der Vernunft Suhrkamp, 12. Auflage, 1978, ISBN 3-518-27874-6
+Ingo Boersch, Jochen Heinsohn, Rolf Socher: Wissensverarbeitung - Eine Einführung in die Künstliche Intelligenz. Elsevier (Mai 2006) ISBN 978-3-8274-1844-9
+Weblinks
+Deutsch
+KI-Zeitschrift mit teilweise kostenlosen Artikeln im PDF-Format
+Wer hat Geist und wer nicht? (deutsche Kurzfassung einer Science-Studie)
+Einführung in die Künstliche Intelligenz
+Österreichische Gesellschaft für Artificial Intelligence (ÖGAI)
+Englisch
+European Coordinating Committee for Artificial Intelligence (ECCAI)
+Journal of Artificial Intelligence Research (JAIR)
+Larry Hauser: Artificial Intelligence in der Internet Encyclopedia of Philosophy
+Richmond Thomason: Logic and Artifical Intelligence. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy
+Frederic Portoraro: Automated Reasoning. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy
+AI on the Web – Zusammenstellung weiterführender Links von Peter Norvig
+Einzelnachweise
+[1] Dokumentarfilm Plug & Pray mit Joseph Weizenbaum und Raymond Kurzweil
+Daniela Hernandez: Microsoft Challenges Google’s Artificial Brain With ‘Project Adam’. Wired, 14. Juli 2014, abgerufen am 5. August 2014 (englisch).
+Jeff Hawkins, Sandra Blakeslee: On Intelligence. Owl Books, August 2005, ISBN 978-0805078534, S. 89.
+Alexander D. Wissner-Gross, C. E. Freer: Causal Entropic Forces. In: Physical Review Letters. Institute for Applied Computational Science (Harvard University), The Media Laboratory (MIT), Department of Mathematics (University of Hawaiʻi at Mānoa), 19. April 2013, abgerufen am 8. August 2014 (PDF, englisch).
+Alex Wissner-Gross: A new equation for intelligence. In: YouTube. TED, 6. Februar 2014, abgerufen am 5. August 2014 (englisch).
+Alan Turing: Computing Machinery and Intelligence. Aus: Mind No. 236. Oktober 1950.
+Franz-Josef Hücker: Die Pygmalion-Mythologie in der Psychotherapie. In: Psychotherapie Forum. Vol. 16, Nr. 3, 2008 (Springer Wien), S. 128-135.
+Vgl. Hubert Dreyfus: In-der-Welt-sein und Weltlichkeit: Heideggers Kritik des Cartesianismus. in: Thomas Rentsch: Sein und Zeit. Akademie Verlag, Berlin 2001, S. 69ff
+Lisa Xanke, Elisabeth Bärenz: Künstliche Intelligenz in Literatur und Film – Fiktion oder Realität?, Online-Artikel der Universität Karlsruhe, abgerufen am 20. Juli 2012; S. 1
+Xanke, Bärenz, S. 37
+Xanke, Bärenz, S. 38
+Xanke, Bärenz, S. 39
+Normdaten (Sachbegriff): GND: 4033447-8
+Von „http://de.wikipedia.org/w/index.php?title=Künstliche_Intelligenz&oldid=140149612“
+Kategorien: Künstliche IntelligenzKybernetikAngewandte InformatikKognitionswissenschaftMaschinelles Lernen
+Diese Seite wurde zuletzt am 21. März 2015 um 22:10 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

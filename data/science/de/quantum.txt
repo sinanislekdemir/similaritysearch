@@ -1,0 +1,43 @@
+Quant
+
+aus Wikipedia, der freien Enzyklopädie
+In der Physik bezeichnet der Begriff Quant (von lateinisch quantum ‚wie groß‘, ‚wie viel‘) ein Objekt, das durch einen Zustandswechsel in einem System mit diskreten Werten einer physikalischen Größe, meist Energie, erzeugt wird.
+
+Quanten können immer nur in bestimmten Portionen dieser physikalischen Größe auftreten, sie sind mithin die Quantelung dieser Größen.
+
+Quantisierte Größen werden im Rahmen der Quantenmechanik und davon inspirierten Teilgebieten der theoretischen Physik wie der Quantenelektrodynamik beschrieben.
+
+Inhaltsverzeichnis
+
+1 Der Begriff Quant
+2 Beispiele
+3 Siehe auch
+4 Weblinks
+Der Begriff Quant
+Oft wird mit dem physikalischen Begriff Quant ein Teilchencharakter der betrachteten Größe assoziiert. Dies ist jedoch nur ein Teil der eigentlichen Bedeutung des Begriffs. Ein Beispiel für ein Quant, dem man keinen Teilchencharakter zuschreiben kann, ist das Drehimpulsquant.
+
+Als physikalischer Terminus wird Quant nicht zur Bezeichnung der atomaren Struktur der Materie verwendet, obwohl auch hier eine kleinste Mengeneinheit (Quantelung) auftritt.
+
+Beispiele
+Das Photon als Quant des elektromagnetischen Feldes. Photonen können zwar unterschiedliche diskrete Energieniveaus haben, aber nur als Ganzes erzeugt oder vernichtet werden.
+Das Phonon als Quant mechanischer Verzerrungswellen im Festkörper.
+Das Plasmon als Quant einer Anregung im Festkörper, bei der die Ladungsträger gegeneinander schwingen.
+Das Magnon als Quant magnetischer Anregungen.
+Das Quant des Drehimpulses, das nicht als Teilchen interpretiert wird.
+Das Gluon als Quant des Kraftfeldes, welches die Starke Wechselwirkung überträgt.
+Das Graviton als Quantelungsgröße des Schwerefeldes.
+Siehe auch
+Quantenphysik
+Quantenfeldtheorie, Quantenchemie, Quantenobjekt, Quantenzahl
+Quasiteilchen, Anregungsenergie
+Weblinks
+ Wiktionary: Quant – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Einführung in die Quantenphysik ohne Formeln
+Experimente mit einzelnen Quanten (Photonen)
+Von „http://de.wikipedia.org/w/index.php?title=Quant&oldid=137446442“
+Kategorie: Quantenphysik
+Diese Seite wurde zuletzt am 5. Januar 2015 um 13:40 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

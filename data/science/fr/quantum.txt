@@ -1,0 +1,89 @@
+Quantum
+
+En physique, quantum (mot latin signifiant « combien » et dont le pluriel s'écrit « quanta1 ») représente la plus petite mesure indivisible, que ce soit celle de l'énergie, de la quantité de mouvement ou de la masse. Cette notion est centrale en théorie des quanta, laquelle a donné naissance à la mécanique quantique.
+
+Sommaire
+
+1 Description
+2 Histoire
+3 Application en électronique
+3.1 Exemple
+4 Étymologie
+5 Utilisation fiscale
+6 Notes et références
+Description
+
+Cette section ne cite pas suffisamment ses sources. Pour l'améliorer, ajouter en note des références vérifiables ou les modèles {{Référence nécessaire}} ou {{Référence souhaitée}} sur les passages nécessitant une source.
+La théorie des quanta ou théorie quantique, affirme que l'énergie rayonnante est discontinue. Les quanta sont alors les quantités minimales, les « grains » composant cette énergie. Leur valeur est h.ν, où :
+
+h est la constante de Planck,
+ν est la fréquence de l'onde.
+Ainsi, on peut déterminer facilement l'énergie contenue dans un photon en multipliant sa fréquence (déduite de sa longueur d'onde puisque sa vitesse est constante) par h.
+
+La valeur de h est faible : 6,626.10-34 J.s.
+
+Et \frac{E}{\nu}=n \times h, c'est-à-dire que le quotient \frac{E}{\nu} est toujours un multiple de h.
+
+Histoire
+
+En physique classique, on considérait que les passages d'un état à un autre se faisaient de manière continue, ou, pour parler autrement, de manière progressive. Par exemple des échanges d'énergie ou des modifications de vitesse pouvaient toujours être plus petits, en physique classique, que n'importe quelle valeur. Cela signifie qu'une modification d'état pouvait être d'une quantité infiniment petite. La théorie des quantas vient bouleverser cette idée. Au contraire, toute modification se fait selon une quantité minimum en deçà de laquelle il est impossible de descendre. Autrement dit, toute modification se fait par saut. C'est le rayonnement des corps noirs qui suggéra cette idée. Elle a été généralisée à toute la physique et a été validée par l'expérience. Cela provoqua l'émergence d'une nouvelle physique en contradiction avec de nombreux concepts de la physique classique, et que l'on appela la physique quantique.
+
+Ainsi, John Rayleigh énonça que la puissance rayonnée par un corps chauffé est proportionnelle à sa température absolue et inversement proportionnelle au carré de la longueur d'onde de la couleur refléchie, ce qui illustre l'idée d'un changement continu. Cependant, des mesures ont démontré que sa théorie n'était vraie que pour les longueurs d'onde allant de l'infrarouge au vert. À partir du bleu, l'expérience est en contradiction avec les valeurs théoriques. Paul Ehrenfest appela cette erreur la « catastrophe ultraviolette ».
+
+Max Planck, en 1900, proposa que les vibrations issues de la chaleur d'un corps se répartissent suivant une loi déterminée, régie par la constante h qui porte son nom. Il fut, au même titre que les autres physiciens, déstabilisé par sa théorie. Il essaya longtemps de conserver son résultat en supprimant les quanta, pour finalement renoncer et les admettre. La théorie des quanta était née. Elle fut le point de départ de la mécanique quantique, l'une des deux grandes théories physiques du xxe siècle.
+
+La mécanique quantique, qui fait notamment appel à la fonction d'onde, fut initiée par Bose, de Broglie, Dirac, Einstein, Fermi, Feynman, Heisenberg, Pauli et Schrödinger. De Broglie lia le quantum à la longueur d'onde dans la mécanique ondulatoire, où une particule possède la double caractéristique quantique et ondulatoire. Une partie importante des travaux de la fin du XIXe siècle et du début du XXe siècle ont été consacrés à l'établissement de cette dualité.
+
+Richard Feynman et Julian Schwinger ont par la suite développé l'électrodynamique quantique relativiste, théorie qui considère que l'interaction électromagnétique entre particules chargées se fait par l'échange de photons ; par extension, l'interaction gravitationnelle se ferait par l'échange de gravitons et les interactions faibles et fortes par l'intermédiaire de bosons. Pour décrire l'interaction des particules élémentaires, il a fallu développer une autre théorie portant le nom de théorie quantique des champs.
+
+Application en électronique
+
+En électronique, le quantum2 correspond à la tension analogique de la valeur numérique la plus petite dans un convertisseur numérique/analogique, soit un 1 logique. C'est donc la différence de tension qu'il y a entre une valeur numérique et la valeur numérique suivante, à la sortie d'un convertisseur numérique/analogique. Ou aussi c'est la plus petite variation de la tension analogique qu'un système/instrument de mesure peut détecter.
+
+q = \frac{V_{PE}}{2^{n}-1} avec V_{PE} la tension pleine échelle
+
+
+La tension pleine échelle, qui peut être aussi appelé tension de référence (V_{REF}), est la plage de conversion complète.
+
+Pour les circuits numériques actuels cette plage de conversion est souvent 0V-5V. Dans ce cas, V_{PE} = V_{REF} = 5V.
+
+Dans l'équation ci-dessus, "n" représente le nombre de bits utilisés par le convertisseur Analogique/Numérique.
+
+Exemple
+
+Les suites binaires suivantes sur n=4 bits :
+- De l'analogique au numérique on a :
+
+0 0 0 0 si Ua < 3mV 
+0 0 0 1 si 3mV <Ua < 6mV 
+1 1 1 1 si 45mV < Ua < TPE 
+Ainsi le quantum q = 3mV (on augmente de 3mV en analogique pour 0 0 0 1 en numérique)
+
+- Du numérique à l'analogique on a :
+
+0 0 0 1 = 3mV ( = q )
+0 0 1 0 = 6mV ( = 2q )
+1 1 1 1 = 45mV ( = 15q )
+
+Étymologie
+
+Quantum est une forme latine correspondant à ce qui désigne en physique une quantité insécable (quanta au pluriel) ;
+Quantus, adjectif signifiant « combien » dans le mode interrogatif et exclamatif (quanta au féminin singulier ou au neutre pluriel).
+Citons quelques mots dérivés de « quanta » :
+
+quantification
+quantique (logique, théorie, nombre, formalisme, particule, probabilité)
+quantifier
+quantificateur
+Utilisation fiscale
+
+En droit fiscal français, le terme quantum est utilisé pour désigner le montant des impositions qui sont contestées devant l'administration ou devant le juge de l'impôt.
+
+Notes et références
+
+La rectification de l’orthographe recommande « quantums »
+Le guide du Technicien en électronique - Edition Hachette technique - Edition 2007 (page 233)
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Quantum&oldid=109111342 ».
+Dernière modification de cette page le 14 novembre 2014 à 14:55.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

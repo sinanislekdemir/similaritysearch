@@ -1,0 +1,294 @@
+Dies ist ein als exzellent ausgezeichneter Artikel.
+Lichtgeschwindigkeit
+
+aus Wikipedia, der freien Enzyklopädie
+Physikalische Konstante
+Name  Lichtgeschwindigkeit (im Vakuum) 
+Formelzeichen c,\, c_0\,
+Größenart Geschwindigkeit
+Wert
+SI  299\,792\,458 ~ \mathrm{m/s}
+Unsicherheit (rel.) keine
+Gauß  29\,979\,245\,800 ~ \mathrm{cm/s}
+Planck  1
+Bezug zu anderen Konstanten
+c_0=\frac{1}{\sqrt{\varepsilon_0 \mu_0}} (in SI und Planck)
+\varepsilon_0\, – Elektrische Feldkonstante
+\mu_0\, – Magnetische Feldkonstante
+Quellen und Anmerkungen
+Quelle SI-Wert: CODATA 2010 (NIST)
+Lichtgeschwindigkeit bezeichnet allgemein die Ausbreitungsgeschwindigkeit von Licht und anderen elektromagnetischen Wellen in beliebigen Medien. Meist ist speziell die fundamentale Naturkonstante Lichtgeschwindigkeit im Vakuum c gemeint, deren Bedeutung durch die spezielle Relativitätstheorie weit über die Ausbreitungsgeschwindigkeit von Licht im Vakuum hinausgeht.
+
+Es wurde nachgewiesen, dass die Geschwindigkeit von Licht im Vakuum unbeeinflusst und unabhängig von der Geschwindigkeit des zum Nachweis verwendeten Empfängers (Michelson-Morley-Experiment) und von der Geschwindigkeit der Lichtquelle selbst ist. Albert Einstein postulierte daher die Vakuumlichtgeschwindigkeit c als die absolute Geschwindigkeitsgrenze für die Bewegung von Masse und die Übertragung von Energie und Information in unserem Universum. Daraus entwickelte er die Relativitätstheorie. Teilchen ohne Ruhemasse, wie die Photonen, bewegen sich stets mit dieser Grenzgeschwindigkeit, alle massebehafteten Teilchen stets langsamer. Als Folge der speziellen Relativitätstheorie (SRT) verbindet die Naturkonstante c die vorher unabhängigen Konzepte Energie (E) und Masse (m) in der berühmten Äquivalenz von Masse und Energie E=mc2. Auch Orts- und Zeitkoordinaten werden nun durch c zur Raumzeit zusammengefasst und in einem vierdimensionalen Raum als Vierervektor gemeinsam betrachtet.
+
+Die Lichtgeschwindigkeit ist so hoch, dass man lange Zeit annahm, dass das Entzünden eines Lichts überall gleichzeitig wahrgenommen werden kann. Im Jahr 1676 stellte Ole Rømer eine Verzögerung in der Verdunkelung des Jupitermondes Io je nach Lage der Erde relativ zum Jupiter fest. Daraus folgerte er korrekt, dass sich Licht mit einer endlichen Geschwindigkeit ausbreitet. Der von ihm ermittelte Wert wich nur um 30 % vom tatsächlichen Wert ab. Die Messmethoden zur Bestimmung der Lichtgeschwindigkeit wurden in der Folgezeit immer genauer. Seit 1983 wird der Meter als die Entfernung definiert, die Licht im 299 792 458-ten Bruchteil einer Sekunde im Vakuum zurücklegt, so dass der Zahlenwert der Vakuumlichtgeschwindigkeit c=299\,792\,458\;\mathrm{m/s} dauerhaft gilt. Präzise Entfernungsmessungen werden heute direkt auf die Lichtgeschwindigkeit bezogen, z. B. bei Laserentfernungsmessern oder beim Global Positioning System.
+
+Das Formelzeichen c (von lateinisch celeritas, Schnelligkeit) wird in vielen Fällen auch für die abweichende Ausbreitungsgeschwindigkeit in Materialien benutzt, wie Glas, Luft oder elektrischen Leitungen. Daher wird oft durch Wortzusätze deutlich gemacht, ob die Lichtgeschwindigkeit im Vakuum oder im Medium gemeint ist, wenn es sich nicht aus dem Zusammenhang ergibt. Auch der Index 0 (\rightarrow c_0) wird für die Lichtgeschwindigkeit im Vakuum verwendet.
+
+Inhaltsverzeichnis
+
+1 Wert
+2 Natürliche Einheiten
+3 Technische Bedeutung
+4 Lichtgeschwindigkeit und Elektrodynamik
+4.1 Ebene Welle oder Kugelwelle im Vakuum
+4.2 Ebene oder Kugel-Welle in einem Medium
+4.3 Transversal modulierte Welle im Vakuum
+5 Lichtgeschwindigkeit in Materie
+6 Lichtgeschwindigkeit und Teilchenphysik
+7 Überlichtgeschwindigkeit
+8 Historische Hintergründe
+8.1 Spekulationen über Endlichkeit
+8.2 Messung der Lichtgeschwindigkeit
+8.3 Zur Konstanz der Lichtgeschwindigkeit
+8.3.1 Erste Überlegungen
+8.3.2 Michelson-Morley-Experiment
+8.3.3 Unabhängigkeit von der Quelle
+9 Siehe auch
+10 Literatur
+11 Weblinks
+12 Einzelnachweise und Anmerkungen
+Wert
+
+Zeitgetreue Darstellung eines Lichtstrahls, der von der Erde zum Mond reist; Dauer: etwa 1,3 Sekunden
+Vor 1983 war der Meter als Vielfaches der Wellenlänge eines bestimmten atomaren Übergangs definiert. Die Lichtgeschwindigkeit war ein Ergebnis von Messungen, das in der abgeleiteten Einheit Meter pro Sekunde angegeben wurde. Die 17. Generalkonferenz für Maß und Gewicht hat 1983 das Verhältnis zwischen Lichtgeschwindigkeit und Meterdefinition umgekehrt. Seitdem wird der Zusammenhang zwischen der Wellenlänge des Übergangs und dem Meter als Ergebnis von Messungen betrachtet. Im Gegenzug konnte der Zusammenhang zwischen dem Meter und der Lichtgeschwindigkeit durch eine Definition, d. h. ohne Messung, festgelegt werden.
+
+Ein Meter ist die Strecke, die Licht im Vakuum binnen des 299 792 458 sten Teils einer Sekunde zurücklegt.[1]
+Nach dieser Festsetzung beträgt die Geschwindigkeit des Lichts im Vakuum exakt
+
+ c \,=\, 299\,792\,458\ \frac{\text{Meter}}{\text{Sekunde}}\,, also etwa 300.000 Kilometer pro Sekunde oder etwa eine Milliarde Kilometer pro Stunde (genauer Wert: 1.079.252.848,8 km/h).
+Der genaue Zahlenwert wurde so gewählt, dass er mit dem besten damaligen Messergebnis übereinstimmte. Er wird auch dann gültig bleiben, wenn genauere Geschwindigkeitsmessungen möglich sind. Solche Messungen ergeben dann eine genauere Bestimmung für die Länge eines Meters.
+
+Natürliche Einheiten
+Viele Darstellungen der relativistischen Physik geben Längen durch Lichtlaufzeiten an oder umgekehrt Zeiten durch die Länge des Weges, den Licht während dieser Zeit durchläuft. Ein Lichtjahr heißt dann kürzer ein Jahr. In diesen Maßeinheiten (siehe Planck-Einheiten) gilt
+
+1 \text{ Lichtsekunde} = 299\,792\,458 \text{ Meter} 
+und Licht hat die dimensionslose Geschwindigkeit einer Sekunde pro Sekunde
+
+c=1.
+Das Formelbild physikalischer Zusammenhänge vereinfacht sich durch diese Einheitenwahl, beispielsweise lautet der Zusammenhang von Energie E und Impuls \vec p  eines Teilchens der Masse m dann nicht mehr E^2 = m^2 c^4 + \vec p^{\,2} c^2 sondern E^2 = m^2 + \vec p^{\,2}.
+
+Wer aus einer Gleichung in natürlichen Einheiten die Gleichung im SI-System zurückgewinnen will, muss jeden Summanden mit so vielen Faktoren c multiplizieren, dass beide Seiten der Gleichung und jeder Summand gleiche SI-Einheiten haben. Beispielsweise hat im SI-System die Energie die Maßeinheit einer Masse mal dem Quadrat einer Geschwindigkeit und ein Impuls die Maßeinheit einer Masse mal einer Geschwindigkeit. Damit in der Formel E^2 = m^2 + \vec p^{\,2} auf der rechten Seite im SI-System Größen von derselben Maßeinheit, Energie mal Energie, stehen wie auf der linken, muss daher das Massenquadrat mit c^4 und das Impulsquadrat mit c^2 multipliziert werden. So erhält man die im SI-System gültige Gleichung E^2 = m^2\,c^4 + \vec p^{\,2}\,c^2.
+
+Technische Bedeutung
+Da sich alle elektromagnetischen Wellen mit Lichtgeschwindigkeit ausbreiten, ist sie für die Telekommunikation wichtig. Auf der Erde beträgt der maximale Abstand (entlang der Oberfläche) zweier Orte etwa 20 000 km (halber Erdumfang). Die kürzeste Zeit für ein elektromagnetisches Signal, diese Strecke zu durchlaufen, ist knapp 67 Millisekunden. Die tatsächliche Übertragungszeit ist allerdings länger. Bei atmosphärischer Übertragung wird die Welle in den verschiedenen Schichten der Atmosphäre sowie am Erdboden reflektiert und hat so einen längeren Weg zurückzulegen. Bei der Übertragung in Glasfaserkabeln ist die Lichtgeschwindigkeit etwa 30 Prozent kleiner als im Vakuum. Zusätzlich treten Verzögerungen durch die elektronischen Schaltelemente auf.
+
+Mikroprozessoren arbeiten heute mit Taktfrequenzen in der Größenordnung von wenigen Gigahertz. Die Schwingungsdauer bei 1 GHz beträgt 1 Nanosekunde. In dieser Zeit legt ein elektrisches Signal also maximal knapp 30 Zentimeter zurück - das ist schon die Größenordnung der Abmessungen einer Hauptplatine eines Personal Computers. Konstrukteure müssen bei der Entwicklung der Leiterplatten für solche Elektronik also Laufzeiteffekte mit einkalkulieren.
+
+Geostationäre Satelliten befinden sich 35 786 Kilometer über dem Äquator. Um bei Telefon- oder Fernsehsignalen auf diesem Weg eine Antwort zu erhalten, muss das Signal mindestens 144 000 Kilometer zurückgelegt haben: vom Sender zum Satelliten, dann zum Empfänger, anschließend erfolgt die Antwort, und das Signal läuft den gleichen Weg zurück. Die reine Laufzeit ist etwa eine halbe Sekunde.
+
+Raumsonden befinden sich an ihren Zielorten oft viele Millionen oder Milliarden Kilometer von der Erde entfernt. Selbst mit Lichtgeschwindigkeit sind die Funksignale mehrere Minuten bis Stunden zu ihnen unterwegs. Die Antwort braucht noch einmal genauso lange zurück zur Erde. Extraterrestrische Fahrzeuge, wie zum Beispiel der Mars-Rover Opportunity, müssen daher in der Lage sein, sich selbst zu steuern und Gefahren zu erkennen, da die Bodenstation erst Minuten später auf Zwischenfälle reagieren kann.
+
+Lichtgeschwindigkeit und Elektrodynamik
+Aus den Maxwellgleichungen folgt, dass elektrische und magnetische Felder schwingen können und dabei Energie durch den leeren Raum transportieren. Dabei gehorchen die Felder einer Wellengleichung, ähnlich der für mechanische Wellen und für Wasserwellen. Die elektromagnetischen Wellen übertragen Energie und Information, was in technischen Anwendungen für Radio, Radar oder Laser genutzt wird.
+
+Ebene Welle oder Kugelwelle im Vakuum
+Die Geschwindigkeit von ebenen oder kugelförmigen elektromagnetischen Wellen im Vakuum ist den Maxwell-Gleichungen zufolge der Kehrwert der Wurzel des Produkts der elektrischen Feldkonstanten \varepsilon_0 und der magnetischen Feldkonstanten \mu_0
+
+c = \frac{1}{\sqrt{\varepsilon_0\,\mu_0}}\,.
+Daraus berechnete Maxwell 1865 mit den damals bekannten Werten für \varepsilon_0 und \mu_0 den Wert von 310 740 km/s und folgerte:
+
+„Diese Geschwindigkeit ist so nahe an der Lichtgeschwindigkeit, so dass wir einen starken Grund zu der Annahme haben, dass das Licht selbst (einschließlich Wärmestrahlung und anderer Strahlung, falls es sie gibt), eine elektromagnetische Welle ist.“
+
+Maxwells Annahme ist in allen Beobachtungen an elektromagnetischer Strahlung bestätigt worden. Mit den heutigen Werten für c,\,\varepsilon_0 und \mu_0 ist die Gleichung exakt erfüllt, denn c und \mu_0 sind als Bestandteil der Definition der physikalischen Grundeinheiten exakt festgelegt und \varepsilon_0 wird aus der Gleichung ermittelt.
+
+Ebene oder Kugel-Welle in einem Medium
+In einem Medium werden die beiden Feldkonstanten durch das Material geändert, was durch die Faktoren relative Permittivität \varepsilon_\mathrm{r} und relative Permeabilität \mu_\mathrm{r} berücksichtigt wird. Beide hängen von der Frequenz ab. Die Lichtgeschwindigkeit im Medium ist dementsprechend
+
+
+c_\text{medium}
+= \frac{1}{\sqrt{\varepsilon \, \mu}} = \frac{1}{\sqrt{\varepsilon_0\,\varepsilon_\mathrm{r}\,\mu_0\,\mu_\mathrm{r}}}
+= \frac{c}{\sqrt{\varepsilon_\mathrm{r}\,\mu_\mathrm{r}}}
+.
+Das Verhältnis der Lichtgeschwindigkeit in Vakuum zu der in einem Medium ist der Brechungsindex n des Mediums. Der Zusammenhang des Brechungsindex mit der relativen Permittivität und der relativen Permeabilität heißt auch maxwellsche Relation:
+
+
+n
+= \frac{c}{c_\text{medium}}
+= \sqrt{\varepsilon_\mathrm{r}\,\mu_\mathrm{r}}
+.
+
+Der rote Punkt bewegt sich mit der (mittleren) Phasengeschwindigkeit, die grünen Punkte mit Gruppengeschwindigkeit.
+Wegen der im Allgemeinen gegebenen Abhängigkeit von \varepsilon_\mathrm{r} und \mu_\mathrm{r} von der Frequenz der Welle ist zu beachten, dass c_\text{medium} die Phasengeschwindigkeit im Medium bezeichnet, mit der die Maxima einer ebenen Welle fortschreiten. Ein räumlich begrenztes Wellenpaket pflanzt sich hingegen mit der Gruppengeschwindigkeit fort. In Medien können sich beide Geschwindigkeiten drastisch unterscheiden. Insbesondere bedeutet ein Brechungsindex n<1 lediglich, dass die Wellenberge schneller als c voranschreiten. Das ganze Wellenpaket, mit dem Information und Energie transportiert werden, ist langsamer als c.[2]
+
+Transversal modulierte Welle im Vakuum
+Nach den Maxwell-Gleichungen ergibt sich die von der Wellenlänge unabhängige Lichtgeschwindigkeit c = 1/\sqrt{\varepsilon_0\,\mu_0} u. a. für den Fall einer im Vakuum unendlich ausgedehnten ebenen Welle mit einer wohldefinierten Fortpflanzungsrichtung. Demgegenüber hat jede praktisch realisierbare Lichtwelle immer ein gewisses Strahlprofil. Wird dies als Überlagerung von ebenen Wellen mit leicht veränderten Fortpflanzungsrichtungen dargestellt, haben die einzelnen ebenen Wellen zwar alle die Vakuumlichtgeschwindigkeit c, jedoch gilt dies nicht notwendig für durch die Überlagerung entstehende Welle. Es resultiert eine leicht verlangsamte Welle. Dies konnte an speziell geformten Bessel-Strahlen von Mikrowellen und sichtbarem Licht auch nachgewiesen werden, sogar für die Geschwindigkeit einzelner Photonen.[3][4] Bei allen praktisch realisierbaren Lichtwellen, auch bei scharf gebündelten Laserstrahlen, ist dieser Effekt aber vernachlässigbar klein.
+
+Lichtgeschwindigkeit in Materie
+
+Tscherenkow-Licht eines Triga-Reaktors
+In Materie ist Licht langsamer als im Vakuum, und zwar gilt, wie oben hergeleitet wurde, für Materie mit dem Brechungsindex n  (>1), dass c_{\,\mathrm{Medium}}={c}/{n}\, ist.[5] Dies stimmt mit der Vorstellung überein, dass Photonen von den Molekülen absorbiert und wieder ausgesendet werden. Zwar laufen sie zwischen den Molekülen so schnell wie im Vakuum, aber die Wechselwirkung mit den Molekülen, die wie effektive „Pausen“ wirkt, verlangsamt sie. (Dieses anschauliche Bild kann allerdings nicht zur Berechnung der optischen Eigenschaften fester oder flüssiger Körper verwendet werden.)
+
+In bodennaher Luft ist die Lichtgeschwindigkeit etwa 0,28 ‰ geringer als im Vakuum (also ca. 299 710 km/s), in Wasser beträgt sie etwa 225 000 km/s (−25 %) und in Gläsern mit hohem Brechungsindex bis hinab zu 160 000 km/s (−47 %).
+
+In manchen Medien, wie Bose-Einstein-Kondensaten oder photonischen Kristallen, herrscht für bestimmte Wellenlängen eine sehr große Dispersion. Licht breitet sich in ihnen deutlich verlangsamt aus.[6] So konnte die Forschungsgruppe der dänischen Physikerin Lene Hau im Jahr 1999 Licht auf eine Gruppengeschwindigkeit von ungefähr 61 km/h bringen.[7]
+
+Grenzen zwei durchsichtige Medien aneinander, so bewirkt die unterschiedliche Lichtgeschwindigkeit beider Medien die Brechung des Lichts an der Grenzfläche. Da die Lichtgeschwindigkeit im Medium auch von der Wellenlänge des Lichtes abhängt, wird Licht unterschiedlicher Farbe unterschiedlich gebrochen und weißes Licht spaltet in seine unterschiedlichen Farbanteile auf. Dieser Effekt lässt sich z. B. mit Hilfe eines Prismas direkt beobachten.
+
+In einem Medium können Teilchen schneller sein als das Licht. Wenn sie elektrisch geladen sind, wie etwa Elektronen oder Protonen, tritt dabei der Tscherenkow-Effekt auf: Die Teilchen strahlen Licht ab, so wie ein überschallschnelles Flugzeug den Überschallknall hinter sich her schleppt. Dies ist beispielsweise in Schwimmbadreaktoren beobachtbar. In ihnen befindet sich Wasser zwischen den Brennelementen. Die Betastrahlung der Spaltprodukte besteht aus Elektronen, die schneller sind als die Lichtgeschwindigkeit im Wasser. Das von ihnen abgegebene Tscherenkow-Licht lässt das Wasser blau leuchten.
+
+Der Tscherenkow-Effekt wird in Teilchendetektoren zum Nachweis schneller geladener Teilchen verwendet.
+
+Lichtgeschwindigkeit und Teilchenphysik
+
+Die Vakuum-Lichtgeschwindigkeit als Grenzgeschwindigkeit massiver Teilchen: Wenn deren Geschwindigkeit gegen die Lichtgeschwindigkeit geht, wächst die Energie, alsoE(v), über alle Grenzen.
+Teilchen ohne Masse bewegen sich immer und in jedem Inertialsystem mit Lichtgeschwindigkeit. Das bekannteste masselose Teilchen, das diese Eigenschaft zeigt, ist das Photon. Es vermittelt die elektromagnetische Wechselwirkung, die einen großen Teil der Physik des Alltags bestimmt. Weitere masselose Teilchen sind im Standardmodell der Teilchenphysik die Gluonen, die Vermittlerteilchen der starken Wechselwirkung. Teilchen mit einer von Null abweichenden Masse sind stets langsamer als das Licht. Wenn man sie beschleunigt, wächst ihre Energie E(v) wegen der relativistischen Energie-Impuls-Beziehung gemäß
+
+E(v) = \frac{m \, c^2}{\sqrt{1- {v}^2/c^2}}\,.
+Dabei ist v die Geschwindigkeit des Teilchens in Bezug auf das Inertialsystem, das für die Beschreibung des Vorgangs gewählt wird. Je näher der Betrag der Teilchengeschwindigkeit v an der Lichtgeschwindigkeit c ist, desto mehr nähert sich der Quotient v^2/c^2 dem Wert 1 an und desto kleiner wird die Wurzel im Nenner. Insgesamt wird die Energie also umso größer, je mehr sich die Teilchengeschwindigkeit der Lichtgeschwindigkeit nähert. Die zusätzliche Energie muss für die Beschleunigung aufgebracht werden. Mit endlich hoher Energie kann man also ein Teilchen zwar beliebig nahe an die Lichtgeschwindigkeit beschleunigen, man kann diese jedoch nicht erreichen.
+
+Der von der Relativitätstheorie vorhergesagte Zusammenhang von Energie und Geschwindigkeit wurde in verschiedenen Experimenten belegt.
+
+Er hat u. a. Auswirkungen auf die Technik von Teilchenbeschleunigern. Die Umlaufzeit eines z. B. in einem Synchrotron kreisenden Pakets von Elektronen ändert sich bei weiterer Beschleunigung kaum noch; die Synchronisation der einzelnen beschleunigenden Wechselfelder kann daher konstant sein. Dagegen muss sie bei schwereren Teilchen, die mit geringerer Geschwindigkeit zugeführt werden, laufend der zunehmenden Geschwindigkeit angepasst werden.
+
+Überlichtgeschwindigkeit
+→ Hauptartikel: Überlichtgeschwindigkeit
+Es gibt Spekulationen über Teilchen, die sich schneller als mit Lichtgeschwindigkeit bewegen. Ein Beispiel sind als Tachyonen bezeichnete hypothetische Teilchen. Nach der Relativitätstheorie könnten Tachyonen nicht mit normaler Materie wechselwirken: sonst könnte man nicht, für alle Beobachter gleich, zwischen Ursache und Wirkung unterscheiden. Die theoretischen Grundlagen des Tachyonen-Konzepts sind umstritten. Ein experimenteller Nachweis von Tachyonen gelang bisher nicht.
+
+Darüber hinaus erregten in den vergangenen Jahren Veröffentlichungen besonderes Aufsehen, in denen die Beobachtung von Überlichtgeschwindigkeit behauptet wurde. Doch entweder konnte gezeigt werden, dass die scheinbar überlichtschnelle Signalübermittlung durch eine Fehlinterpretation der Daten entstand (überlichtschnelle Jets, superluminares Tunneln), oder die Messungen konnten nicht reproduziert werden und stellten sich schließlich als fehlerhaft heraus (siehe beispielsweise Messungen der Neutrinogeschwindigkeit).
+
+Historische Hintergründe
+Spekulationen über Endlichkeit
+Historisch vermutete Höhe der Lichtgeschwindigkeit
+Jahr (etwa) Forscher  Lichtgeschwindigkeit
+450 v. Chr. Empedokles  endlich
+350 v. Chr. Aristoteles unendlich
+100 Heron von Alexandria  unendlich
+1000  Avicenna/Alhazen  endlich
+1350  Sayana  endlich
+1600  Johannes Kepler unendlich
+1620  René Descartes  unendlich
+1620  Galileo Galilei endlich
+Die Frage, ob das Licht sich unendlich schnell ausbreitet oder ob es eine endliche Geschwindigkeit besitzt, war bereits in der Philosophie der Antike von Interesse. Licht legt einen Kilometer in nur drei Mikrosekunden zurück. Mit den Beobachtungsmöglichkeiten der Antike ist somit unweigerlich ein Lichtstrahl scheinbar in dem Moment seines Entstehens gleichzeitig bereits an seinem Ziel.
+
+Trotzdem glaubte bereits Empedokles (um 450 v. Chr.), Licht sei etwas, das sich in Bewegung befände und daher Zeit brauche, um Entfernungen zurückzulegen. Aristoteles meinte dagegen, Licht komme von der bloßen Anwesenheit von Objekten her, sei aber nicht in Bewegung. Er führte an, dass die Geschwindigkeit andernfalls so enorm groß sein müsse, dass sie jenseits der menschlichen Vorstellungskraft liege. Aufgrund seines Ansehens und Einflusses fand Aristoteles’ Theorie allgemeine Akzeptanz.
+
+Eine altertümliche Theorie des Sehens ging davon aus, dass das zum Sehen benötigte Licht vom Auge emittiert wird (heute noch umgangssprachlich: „das Augenlicht verlieren“ für erblinden). Ein Objekt sollte demnach zu sehen sein, wenn die Lichtstrahlen aus dem Auge darauf träfen. Aufbauend auf dieser Vorstellung befürwortete auch Heron von Alexandria die aristotelische Theorie. Er führte an, dass die Lichtgeschwindigkeit unendlich groß sein müsse, da man selbst die weit entfernten Sterne sehen kann, sobald man die Augen öffnet.
+
+In der orientalischen Welt war dagegen auch die Idee einer endlichen Lichtgeschwindigkeit verbreitet. Insbesondere glaubten die persischen Philosophen und Wissenschaftler Avicenna und Alhazen (beide um das Jahr 1000), dass das Licht eine endliche Geschwindigkeit besitzt. Ihre Unterstützer waren aber gegenüber der Anhängerschaft der aristotelischen Theorie in der Minderheit.
+
+Zu Beginn des 17. Jahrhunderts glaubte der Astronom Johannes Kepler, dass die Lichtgeschwindigkeit zumindest im Vakuum unendlich sei, da der leere Raum für Licht kein Hindernis darstelle. Hier scheint schon die Idee auf, dass die Geschwindigkeit eines Lichtstrahls vom durchquerten Medium abhängig sein könnte.
+
+Francis Bacon argumentierte, dass das Licht nicht notwendigerweise unendlich schnell sein müsse, sondern vielleicht nur schneller als wahrnehmbar.
+
+René Descartes ging von einer unendlich großen Lichtgeschwindigkeit aus. Sonne, Mond und Erde liegen während einer Sonnenfinsternis in einer Linie. Descartes argumentierte, dass diese Himmelskörper für einen Beobachter zu diesem Zeitpunkt scheinbar nicht in Reihe stehen würden, wenn die Lichtgeschwindigkeit endlich sei. Da ein solcher Effekt nie beobachtet wurde, sah er sich in seiner Annahme bestätigt. Descartes glaubte derart stark an eine unendlich große Lichtgeschwindigkeit, dass er überzeugt war, sein Weltbild würde zusammenbrechen, wenn sie endlich wäre.
+
+Dem stehen um das Jahr 1700 die Theorien von Isaac Newton und Christiaan Huygens mit endlicher Lichtgeschwindigkeit gegenüber. Newton sah Licht als einen Strom von Teilchen an, während Huygens Licht als eine Welle deutete. Beide konnten das Brechungsgesetz erklären, indem sie die Lichtgeschwindigkeit proportional (Newton) bzw. umkehrt proportional (Huygens) zum Brechungsindex ansetzten. Newtons Vorstellung galt als widerlegt, nachdem im 19. Jahrhundert Interferenz und Beugung beobachtet und die Geschwindigkeit in Medien gemessen werden konnten.
+
+Da es zu Huygens Zeit die erste Messung der Lichtgeschwindigkeit gab, die seiner Meinung nach viel zu hoch war, als dass Körper mit Masse diese erreichen könnten, schlug er mit dem Äther ein elastisches (nicht sicht- und messbares) Hintergrundmedium vor, das die Ausbreitung von Wellen gestatte, ähnlich dem Schall in der Luft.
+
+Messung der Lichtgeschwindigkeit
+Historische Werte für die Lichtgeschwindigkeit (Auswahl)
+Jahr  Forscher  Methode Lichtgeschwindigkeit in km/s  Weitere Resultate
+etwa 1620 Galileo Galilei Zeitverzögerung der Beobachtung von Laternen, die mit der Hand abgedeckt wurden mindestens mehrere km/s 
+1676/78 Ole Rømer / Christiaan Huygens  Zeitverzögerung bei astronomischen Beobachtungen  213 000 Nachweis einer endlichen Lichtgeschwindigkeit
+1728  James Bradley Aberration  301 000 Messung der Konstanz der Lichtgeschwindigkeit auf 1 %
+etwa 1775  ?  Venus-Transit 1769  etwa 285 000  AE wurde erstmals genau bestimmt
+1834  Charles Wheatstone  Drehspiegelmethode zur Messung der Geschwindigkeit von elektrischem Strom 402 336 el. Strom im Leiter
+1838  François Arago  Vorschlag der Drehspiegelmethode    keine Messung
+1849  Armand Fizeau Zahnradmethode  315 000 
+1851  Léon Foucault Drehspiegelmethode  298 000 ± 500 
+1875  Alfred Cornu  Drehspiegelmethode  299 990 
+1879  Albert A. Michelson Drehspiegelmethode  299 910 ± 50  
+1888  Heinrich Hertz  Frequenz- und Wellenlängenmessung von stehenden Radiowellen etwa 300 000  Nachweis der Natur des Lichts als elektromagnetische Welle
+1926  Albert A. Michelson Drehspiegelmethode  299 796 ± 4 
+1947  Louis Essen, Albert Gordon-Smith  elektrischer Hohlraumresonator  299 792 ± 3 
+1958  Keith Froome  Interferometer  299 792,5 ± 0,1 
+1973  Boulder-Gruppe am NBS Lasermessung  299 792,4574 ± 0,001  
+1983  (Definition der CGPM) Neudefinition des Meters  299 792,458 (exakt) Keine Messung
+Galileo Galilei versuchte um 1600 als Erster, die Geschwindigkeit des Lichts mit wissenschaftlichen Methoden zu messen, indem er sich und einen Gehilfen mit je einer Signallaterne auf zwei Hügel mit bekannter Entfernung postierte. Der Gehilfe sollte Galileis Signal unverzüglich zurückgeben. Unter Abzug der Reaktionszeit seines Gehilfen erhoffte er sich, die Lichtgeschwindigkeit zu messen, da er mit vergleichbarer Methode schon erfolgreich die Schallgeschwindigkeit gemessen hatte. Zu seinem Erstaunen verblieb nach Abzug der Reaktionszeit des Gehilfen keine messbare Zeit mehr; was sich auch nicht (messbar) änderte, als die Distanz bis auf maximal mögliche Sichtweite der Laternen erhöht wurde. Isaac Beeckman schlug 1629 eine abgewandelte Version des Versuchs vor, bei der das Licht von einem Spiegel reflektiert werden sollte. Descartes kritisierte solche Experimente als überflüssig, da bereits exaktere Beobachtungen mit Hilfe von Sonnenfinsternissen durchgeführt worden seien und ein negatives Ergebnis geliefert hätten.
+
+Dennoch wiederholte die Accademia del Cimento in Florenz 1667 das Experiment Galileis, wobei die Lampen etwa eine Meile entfernt voneinander standen. Wieder konnte keine Verzögerung beobachtet werden. Das bestätigte Descartes’ Annahme einer unendlich schnellen Lichtausbreitung; Galilei und Robert Hooke deuteten das Ergebnis dagegen so, dass die Lichtgeschwindigkeit sehr hoch ist und mit diesem Experiment nicht bestimmt werden konnte.
+
+Die erste erfolgreiche Abschätzung der Lichtgeschwindigkeit gelang dem dänischen Astronomen Ole Rømer im Jahr 1676. Er untersuchte die Bewegung des Jupitermonds Io mit seinem Teleskop. Aus dem Ein- beziehungsweise Austreten aus Jupiters Schatten ließ sich die mittlere Umlaufzeit des Mondes zu etwa 42,5 Stunden ermitteln. Mit diesem Wert lässt sich der Zeitpunkt der Verfinsterung des Mondes vorhersagen. Doch Rømer bemerkte, dass die berechneten Werte nicht genau mit den Zeitpunkten des Ein- bzw. Austritts aus dem Schatten des Jupiters übereinstimmten: Im Laufe eines Jahres ging der Mond erst zunehmend vor, dann zunehmend nach. Rømer deutete diese Zeitverschiebung durch eine unterschiedliche Laufzeit des Lichtes abhängig vom jeweiligen Abstand zwischen Mond Io und der Erde. Er schloss daraus, dass das Licht sich nicht augenblicklich, sondern mit einer endlichen, aber sehr hohen Geschwindigkeit ausbreitet. Er gab für den Erdbahndurchmesser eine Laufzeit des Lichtes von 22 min an. Der richtige Wert ist kürzer (16 min 38 s). Rømer hatte von seinen Messungen extrapolieren müssen (ohne die dazu nötige Rechnung anzugeben), weil Jupiter und Io im Bereich der größten Entfernung von der Erde nicht beobachtbar sind, weil die Sonne dazwischen steht. Da Rømer den Durchmesser der Erdbahn nicht kannte, hat er für die Geschwindigkeit des Lichtes keinen Wert angegeben. Dies tat zwei Jahre später Christiaan Huygens als Erster. Er bezog die Laufzeitangabe von Rømer auf den von Cassini 1673 zufällig etwa richtig angegebenen Erdbahndurchmesser von 280 Millionen Kilometer und kam so auf die Lichtgeschwindigkeit 213 000 km/s. Weil beide Werte ungenau waren, wich die berechnete Geschwindigkeit um etwa ein Viertel vom heutigen Wert ab.
+
+James Bradley fand 1728 eine andere astronomische Methode, indem er die Schwankungen der Sternpositionen um einen Winkel von 20“ während des Umlaufs der Erde um die Sonne (Aberration (Astronomie)) bestimmte. Seine Messungen waren der Versuch, die Parallaxe von Fixsternen zu beobachten, um damit deren Entfernungen zu bestimmen. Daraus berechnete Bradley, dass das Licht 10 210-mal schneller als die Erde bei ihrem Umlauf ist (Messfehler 2 %). Seine Messung (veröffentlicht im Jahr 1729) wurde damals als weiterer Beweis für eine endliche Lichtgeschwindigkeit und – gleichzeitig – für das kopernikanische Weltsystem angesehen. Aus seinen Beobachtungen resultierte ein Wert von 301 000 km/s. Für die Berechnung benötigte er die Bahngeschwindigkeit der Erde und für sie wieder den Erdbahnradius.
+
+
+Versuchsaufbau des Experiments von Fizeau
+Cassini hatte den Erdbahnradius aus der Marsparallaxe ermittelt. Dieses wurde damals von Edmund Halley kritisiert. Er schlug stattdessen vor, die Venusdurchgänge 1761 und 1769 dafür zu benutzen. Durch deren Auswertung wusste man erstmals die absolute Größe des Planetensystems (siehe Astronomische Einheit) und konnte über bekannte „Lichtentfernungen“ die Lichtgeschwindigkeit auf etwa 5 % Genauigkeit berechnen.
+
+
+Versuchsaufbau des Experiments von Foucault
+Die erste irdische Bestimmung der Lichtgeschwindigkeit gelang Armand Fizeau mit der Zahnradmethode. Er sandte 1849 Licht durch ein rotierendes Zahnrad auf einen mehrere Kilometer entfernten Spiegel, der es wieder zurück durch das Zahnrad reflektierte. Je nachdem, wie schnell sich das Zahnrad dreht, fällt das reflektierte Licht, das auf dem Hinweg eine Lücke des Zahnrads passiert hat, entweder auf einen Zahn, oder es gelangt wieder durch eine Lücke, und nur dann sieht man es. Fizeau kam damals auf einen um 5 % zu großen Wert.
+
+Léon Foucault verbesserte 1850 die Methode weiter, indem er mit der Drehspiegelmethode die Messstrecken deutlich verkürzte. Damit konnte er erstmals die Materialabhängigkeit der Lichtgeschwindigkeit nachweisen: Licht breitet sich in anderen Medien langsamer aus als in Luft. Im Experiment fällt Licht auf einen rotierenden Spiegel. Von diesem wird es auf einen festen Spiegel abgelenkt, wo es zurück auf den rotierenden Spiegel reflektiert wird. Da sich der Drehspiegel aber inzwischen weiter gedreht hat, wird der Lichtstrahl nun nicht mehr auf den Ausgangspunkt reflektiert. Durch Messung der Verschiebung des Punktes ist es möglich, bei bekannter Drehfrequenz und bekannten Abständen, die Lichtgeschwindigkeit zu bestimmen. Foucault veröffentlichte sein Ergebnis 1862 und gab c zu 298 000 Kilometern pro Sekunde an.
+
+Simon Newcomb und Albert A. Michelson bauten wiederum auf Foucaults Apparatur auf und verbesserten das Prinzip nochmals. 1926 benutzte Michelson in Kalifornien ebenfalls rotierende Prismenspiegel, um einen Lichtstrahl vom Mount Wilson zum Mount San Antonio und zurück zu schicken. Er erhielt 299 796 km/s, was fast genau dem heutigen Wert entspricht; die Abweichung beträgt weniger als 0,002 %.
+
+Zur Konstanz der Lichtgeschwindigkeit
+Erste Überlegungen
+James Bradley konnte mit seinen Untersuchungen zur Aberration von 1728 nicht nur die Lichtgeschwindigkeit selbst bestimmen, sondern auch erstmals Aussagen über ihre Konstanz treffen. Er beobachtete, dass die Aberration für alle Sterne in der gleichen Blickrichtung während eines Jahres in identischer Weise variiert. Daraus schloss er, dass die Geschwindigkeit, mit der Sternenlicht auf der Erde eintrifft, im Rahmen seiner Messgenauigkeit von etwa einem Prozent für alle Sterne gleich ist.
+
+Um zu klären, ob diese Eintreffgeschwindigkeit davon abhängt, ob sich die Erde auf ihrem Weg um die Sonne auf einen Stern zu oder von ihm weg bewegt, reichte diese Messgenauigkeit allerdings nicht aus. Diese Frage untersuchte zuerst François Arago 1810 anhand der Messung des Ablenkwinkels von Sternenlicht in einem Glasprisma. Nach der damals akzeptierten Korpuskulartheorie des Lichtes erwartete er eine Veränderung dieses Winkels in einer messbaren Größenordnung, da sich die Geschwindigkeit des einfallenden Sternenlichtes zu der der Erde auf ihrem Weg um die Sonne addiert. Es zeigten sich jedoch im Jahresverlauf keine messbaren Schwankungen des Ablenkwinkels. Arago erklärte dieses Ergebnis mit der These, dass Sternenlicht ein Gemisch aus verschiedenen Geschwindigkeiten sei, während das menschliche Auge daraus nur eine einzige wahrnehmen könne. Aus heutiger Sicht kann seine Messung jedoch als erster experimenteller Nachweis der Konstanz der Lichtgeschwindigkeit betrachtet werden.
+
+Mit dem Aufkommen der Vorstellung von Licht als Wellenphänomen formulierte Augustin Fresnel 1818 eine andere Interpretation des Arago-Experiments. Danach schloss die Analogie zwischen mechanischen Wellen und Lichtwellen die Vorstellung ein, dass sich Lichtwellen in einem gewissen Medium ausbreiten müssen, dem so genannten Äther, so wie sich auch Wasserwellen im Wasser ausbreiten. Der Äther sollte dabei den Bezugspunkt für ein bevorzugtes Inertialsystem darstellen. Fresnel erklärte das Ergebnis von Arago durch die Annahme, dass dieser Äther im Inneren von Materie teilweise mitgeführt werde, in diesem Fall im verwendeten Prisma. Dabei würde der Grad der Mitführung in geeigneter Weise vom Brechungsindex abhängen.
+
+Michelson-Morley-Experiment
+
+Schematischer Aufbau des Michelson-Morley-Experiments
+→ Hauptartikel: Michelson-Morley-Experiment und Geschichte der speziellen Relativitätstheorie
+1887 führten Albert A. Michelson und Edward W. Morley ein bedeutsames Experiment zur Bestimmung der Geschwindigkeit der Erde relativ zu diesem angenommenen Äther durch. Dazu wurde die Abhängigkeit der Lichtlaufzeiten vom Bewegungszustand des Äthers untersucht. Das Experiment ergab wider Erwarten stets die gleichen Laufzeiten. Auch Wiederholungen des Experiments zu verschiedenen Phasen des Erdumlaufs um die Sonne führten stets zu demselben Ergebnis. Eine Erklärung anhand einer weiträumigen Äthermitführung durch die Erde als Ganzes scheiterte daran, dass es in diesem Fall keine Aberration bei Sternen senkrecht zur Bewegungsrichtung der Erde gäbe.
+
+Eine mit der maxwellschen Elektrodynamik verträgliche Lösung wurde mit der von George FitzGerald und Hendrik Lorentz vorgeschlagenen Längenkontraktion erreicht. Lorentz und Henri Poincaré entwickelten diese Hypothese durch Einführung der Zeitdilatation weiter, wobei sie dies jedoch mit der Annahme eines hypothetischen Äthers kombinierten, dessen Bewegungszustand prinzipiell nicht ermittelbar gewesen wäre. Das bedeutet, dass in dieser Theorie die Lichtgeschwindigkeit „real“ nur im Äthersystem konstant ist, unabhängig von der Bewegung der Quelle und des Beobachters. Das heißt unter anderem, dass die maxwellschen Gleichungen nur im Äthersystem die gewohnte Form annehmen sollten. Dies wurde von Lorentz und Poincaré jedoch durch die Einführung der Lorentz-Transformation so berücksichtigt, dass die „scheinbare“ Lichtgeschwindigkeit auch in allen anderen Bezugssystemen konstant ist und somit jeder von sich behaupten kann, im Äther zu ruhen. (Die Lorentz-Transformation wurde also nur als mathematische Konstruktion interpretiert, während Einstein (1905) auf ihrer Grundlage die gesamten bisherigen Vorstellungen über die Struktur der Raumzeit revolutionieren sollte, siehe unten). Poincaré stellte noch 1904 fest, das Hauptmerkmal der lorentzschen Theorie sei die Unüberschreitbarkeit der Lichtgeschwindigkeit für alle Beobachter, unabhängig von ihrem Bewegungszustand relativ zum Äther (siehe lorentzsche Äthertheorie). Das bedeutet, auch für Poincaré existierte der Äther.
+
+Jedoch war eine Theorie, in welcher das Äthersystem zwar als existent angenommen wurde, aber unentdeckbar blieb, sehr unbefriedigend. Eine Lösung des Dilemmas fand Einstein (1905) mit der Speziellen Relativitätstheorie, indem er die konventionellen Vorstellungen von Raum und Zeit aufgab und durch das Relativitätsprinzip und die Lichtkonstanz als Ausgangspunkte bzw. Postulate seiner Theorie ersetzte. Diese Lösung war formal identisch mit der Theorie von H. A. Lorentz, jedoch kam sie wie bei einer Emissionstheorie ganz ohne „Äther“ aus. Die Lichtkonstanz entnahm er dem lorentzschen Äther, wie er 1910 ausführte, wobei er im Gegensatz zu Poincaré und Lorentz erklärte, dass gerade wegen der Gleichberechtigung der Bezugssysteme und damit der Unentdeckbarkeit des Äthers der Ätherbegriff überhaupt sinnlos sei.[8] 1912 fasste er dies so zusammen:[9]
+
+„Es ist allgemein bekannt, dass auf das Relativitätsprinzip allein eine Theorie der Transformationsgesetze von Raum und Zeit nicht gegründet werden kann. Es hängt dies bekanntlich mit der Relativität der Begriffe „Gleichzeitigkeit“ und „Gestalt bewegter Körper“ zusammen. Um diese Lücke auszufüllen, führte ich das der H. A. Lorentzschen Theorie des ruhenden Lichtäthers entlehnte Prinzip der Konstanz der Lichtgeschwindigkeit ein, das ebenso wie das Relativitätsprinzip eine physikalische Voraussetzung enthält, die nur durch die einschlägigen Erfahrungen gerechtfertigt erschien (Versuche von Fizeau, Rowland usw.).“
+
+Die Unabhängigkeit der Lichtgeschwindigkeit von der Geschwindigkeit des gleichförmig bewegten Beobachters ist also Grundlage der Relativitätstheorie. Diese Theorie ist seit Jahrzehnten aufgrund vieler sehr genauer Experimente allgemein akzeptiert.
+
+Unabhängigkeit von der Quelle
+→ Hauptartikel: Emissionstheorie
+Mit dem Michelson-Morley-Experiment wurde zwar die Konstanz der Lichtgeschwindigkeit für einen mit der Lichtquelle mitbewegten Beobachter bestätigt, jedoch keineswegs für einen nicht mit der Quelle mitbewegten Beobachter. Denn das Experiment kann auch mit einer Emissionstheorie erklärt werden, wonach die Lichtgeschwindigkeit in allen Bezugssystemen lediglich konstant relativ zur Emissionsquelle ist (das heißt, in Systemen, wo sich die Quelle mit ± v bewegt, würde sich das Licht folglich mit c ± v ausbreiten). Auch Albert Einstein zog vor 1905 eine solche Hypothese kurz in Betracht,[10] was auch der Grund war, dass er in seinen Schriften das MM-Experiment zwar immer als Bestätigung des Relativitätsprinzips, aber nicht als Bestätigung der Lichtkonstanz verwendete.[11]
+
+Jedoch würde eine Emissionstheorie eine völlige Reformulierung der Elektrodynamik erfordern, wogegen der große Erfolg von Maxwells Theorie sprach. Die Emissionstheorie wurde auch experimentell widerlegt. Beispielsweise müssten die von der Erde aus beobachteten Bahnen von Doppelsternen bei unterschiedlichen Lichtgeschwindigkeiten verzerrt ausfallen, was jedoch nicht beobachtet wurde. Beim Zerfall von sich mit annähernd c bewegenden π0-Mesonen hätten die dabei entstehenden Photonen die Geschwindigkeit der Mesonen übernehmen und sich annähernd mit doppelter Lichtgeschwindigkeit bewegen sollen, was jedoch nicht der Fall war. Auch der Sagnac-Effekt demonstriert die Unabhängigkeit der Lichtgeschwindigkeit von der Bewegung der Quelle. Alle diese Experimente finden ihre Erklärung in der Speziellen Relativitätstheorie, die u. a. aussagt: Licht überholt nicht Licht.
+
+Siehe auch
+Einweg-Lichtgeschwindigkeit
+Scharnhorst-Effekt
+Literatur
+Historische Arbeiten
+Ole Rømer: Démonstration touchant le mouvement de la lumière. In: Journal des Sçavans. de Boccard, Paris 1676, ISSN 0021-8103 (engl. Version (Internet Archiv) (Memento vom 21. Dezember 2008 im Internet Archive)., PDF).
+S. Débarbat, C. Wilson: The galilean satellites of Jupiter from Galileo to Cassini, Römer and Bradley. In: René Taton (Hrsg.): Planetary astronomy from the Renaissance to the rise of astrophysics. Part A: Tycho Brahe to Newton. Univ. Press, Cambridge 1989, ISBN 0-521-24254-1, S. 144–157.
+G. Sarton: Discovery of the aberration of light (with facsimile of Bradley’s letter to Halley 1729). In: Isis. Vol. 16, Nr. 2, Univ. Press, Chicago November 1931, ISSN 0021-1753, S. 233–248.
+Edmund Halley: Monsieur Cassini, his New and Exact Tables for the Eclipses of the First Satellite of Jupiter, reduced to the Julian Stile and Meridian of London. In: Philosophical Transactions. Vol. 18, London 1694, ISSN 0370-2316, S. 237–256.
+H. L. Fizeau: Sur une expérience relative à la vitesse de propagation de la lumière. In: Comptes Rendus. Bd. 29, Gauthier-Villars, Paris 1849, ISSN 0001-4036.
+J. L. Foucault: Détermination expérimentale de la vitesse de la lumière, parallaxe du Soleil. In: Comptes Rendus. Bd. 55, Gauthier-Villars, Paris 1862, ISSN 0001-4036.
+A. A. Michelson: Experimental Determination of the Velocity of Light. In: Proceedings of the American Association for the Advancement of Science. Philadelphia 1878, ISSN 0065-7085 (Projekt Gutenberg).
+Simon Newcomb: The Velocity of Light. In: Nature. London 13. Mai 1886, ISSN 0028-0836.
+Joseph Perrotin: Sur la vitesse de la lumière. In: Comptes Rendus. No. 131, Gauthier-Villars, Paris 1900, ISSN 0001-4036.
+A. A. Michelson, F. G. Pease, F. Pearson: Measurement of the Velocity of Light In a Partial Vacuum. In: Astrophysical Journal. Vol. 81, Univ. Press, Chicago 1935, ISSN 0004-637X, S. 100–101.
+Moderne Arbeiten
+Léon Brillouin: Wave Propagation and Group Velocity. Academic Press Inc., New York 1960, 1969, ISBN 0-12-134968-3.
+John D. Jackson: Klassische Elektrodynamik. John Wiley & Sons, New York 1998, 2001, ISBN 0-471-30932-X.
+Subhash Kak, T. R. N. Rao: Computing Science in Ancient India. USL Press / Munshiram Manoharlal Publishers, Lafayette / New Delhi 1998 / 2000, ISBN 0-9666512-0-0 (PDF).
+R. J. MacKay, R. W. Oldford: Scientific Method, Statistical Method and the Speed of Light. In: Statistical Science. Vol. 15, Nr. 3, 2000, ISSN 0883-4237, S. 254–278 (PDF).
+Jürgen Bortfeldt: Units and fundamental constants in physics and chemistry, Subvolume B. In: B. Kramer, Werner Martienssen (Hrsg.): Numerical data and functional relationships in science and technology. Bd 1, Springer, Berlin 1992, ISBN 3-540-54258-2 (PDF).
+Weblinks
+ Wiktionary: Lichtgeschwindigkeit – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Commons: Lichtgeschwindigkeit – Sammlung von Bildern, Videos und Audiodateien
+Flug durch Stonehenge
+Fast lichtschnell durch die Stadt – Eine Spritztour durch die Tübinger Altstadt bei simulierter Beinahe-Lichtgeschwindigkeit
+Gibt es Überlichtgeschwindigkeit? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 7. Juli 2004.
+Kann man mit Lichtgeschwindigkeit reisen? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 5. Jan. 2005.
+Einzelnachweise und Anmerkungen
+Resolution zur Definition des Meters als Ergebnis der 17th CGPM-Tagung. "The metre is the length of the path travelled by light in vacuum during a time interval of 1/299 792 458 of a second."
+Die Beziehungen für die Phasengeschwindigkeit bzw. die Gruppengeschwindigkeit werden mathematisch besonders einfach, wenn man statt der Frequenz f die Kreisfrequenz ω =2πf und statt der Wellenlänge λ die reziproke Größe k:=2π/λ benutzt, die sogenannte „Wellenzahl“: Dann ist die Phasengeschwindigkeit durch den Quotienten v_P=\omega /k gegeben, die Gruppengeschwindigkeit v_G=\mathrm d\,\omega /\mathrm d\,k\,, durch die Ableitung der Funktion \omega (k)\,.
+D. Giovannini u. a.: Spatially structured photons that travel in free space slower than the speed of light. Auf: sciencemag.org. 22. Januar 2015. doi:10.1126/science.aaa3035.
+Lichtquanten trödeln im Vakuum. Auf: pro-physik.de. 22. Januar 2015.
+Genau genommen wird dabei vorausgesetzt, dass Einschwingvorgänge bereits abgeklungen sind und man es mit stationären Verhältnissen zu tun hat. Interessanterweise gelten jedenfalls in Materie analoge Formeln für die sog. retardierten Potential- und Vektorpotentiale wie im Vakuum, d. h. auch dort erfolgt die Retardierung mit der Vakuum-Lichtgeschwindigkeit: Die Polarisationseffekte der Materie stecken nur in den zweiten Termen der zu „retardierenden“ effektiven Ladungs- und Stromdichten \rho_E\,\,(=\mathrm{div}\,\,(\mathbf{D-P})) und \mathbf j_B\,\,(=\mathrm{rot\,\,}(\mathbf{H+M}))\,. Dies entspricht präzise dem folgenden Text.
+Langsames Licht in photonischen Resonanzen
+Light speed reduction to 17 metres per second in an ultracold atomic gas, Artikel in Nature zur Verlangsamung von Licht in einem Bose-Einstein-Kondensat. (englisch)
+A. Einstein: Über die Entwicklung unserer Anschauungen über das Wesen und die Konstitution der Strahlung. In: Physikalische Zeitschrift. 10, Nr. 22, 1909, S. 817–825 (WikiSource (englisch), PDF (deutsch)).
+A. Einstein: Relativität und Gravitation. Erwiderung auf eine Bemerkung von M. Abraham. In: Annalen der Physik. 38, 1912, S. 1059–1064, doi:10.1002/andp.19123431014 (PDF (deutsch)).
+J. D. Norton: Einstein’s Investigations of Galilean Covariant Electrodynamics prior to 1905. In: Archive for History of Exact Sciences. 59, 2004, S. 45–105, doi:10.1007/s00407-004-0085-6 (http://philsci-archive.pitt.edu/archive/00001743/).
+J. Stachel: Einstein and Michelson: the Context of Discovery and Context of Justification. In: Astronomische Nachrichten. 303, Nr. 1, 1982, S. 47–53, doi:10.1002/asna.2103030110.
+Normdaten (Sachbegriff): GND: 4167583-6
+Von „http://de.wikipedia.org/w/index.php?title=Lichtgeschwindigkeit&oldid=140506589“
+Kategorien: Wikipedia:ExzellentOptikRelativitätstheoriePhysikalische Konstante
+Diese Seite wurde zuletzt am 2. April 2015 um 18:41 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

@@ -1,0 +1,120 @@
+
+Biopsy
+From Wikipedia, the free encyclopedia
+Biopsy
+Intervention
+Brain biopsy under stereotaxy.jpg
+Brain biopsy
+ICD-10-PCS  0?D???X (without force),
+0?B???X (with force)
+MeSH  D001706
+OPS-301 code: 1-40...1-49 (without incision)
+1-50...1-58 (with incision)
+MedlinePlus 003416
+A biopsy is a medical test commonly performed by a surgeon, interventional radiologist, or an interventional cardiologist involving sampling of cells or tissues for examination. It is the medical removal of tissue from a living subject to determine the presence or extent of a disease. The tissue is generally examined under a microscope by a pathologist, and can also be analyzed chemically. When an entire lump or suspicious area is removed, the procedure is called an excisional biopsy. When only a sample of tissue is removed with preservation of the histological architecture of the tissue’s cells, the procedure is called an incisional biopsy or core biopsy. When a sample of tissue or fluid is removed with a needle in such a way that cells are removed without preserving the histological architecture of the tissue cells, the procedure is called a needle aspiration biopsy. Biopsies are most commonly performed for insight into possible cancerous and inflammatory conditions.
+
+Contents
+
+1 Etymology
+2 History
+3 Conditions identified with biopsies
+3.1 Cancer
+3.2 Cancer liquid biopsy
+3.3 Precancerous conditions
+3.4 Inflammatory conditions
+4 Biopsied sites
+5 Analysis of biopsied material
+6 See also
+7 References
+8 External links
+Etymology
+
+Biopsy is of Greek origin, coming from the words βίος bios, "life," and ὄψις opsis, "a sight."[1]
+
+French dermatologist Ernest Besnier introduced the word biopsie to the medical community in 1879.[2]
+
+History
+
+One of the earliest diagnostic biopsies was developed by the Arab physician Abulcasis (1013–1107). A needle was used to puncture a goiter, and the material issuing was characterized.[3]
+Conditions identified with biopsies
+
+Cancer
+
+
+Lung biopsy in a case of suspected lung cancer under control of computer tomography.
+When cancer is suspected, a variety of biopsy techniques can be applied. An excisional biopsy is an attempt to remove an entire lesion. When the specimen is evaluated, in addition to diagnosis, the amount of uninvolved tissue around the lesion, the surgical margin of the specimen is examined to see if the disease has spread beyond the area biopsied. "Clear margins" or "negative margins" means that no disease was found at the edges of the biopsy specimen. "Positive margins" means that disease was found, and a wider excision may be needed, depending on the diagnosis.
+
+When intact removal is not indicated for a variety of reasons, a wedge of tissue may be taken in an incisional biopsy. In some cases, a sample can be collected by devices that "bite" a sample. A variety of sizes of needle can collect tissue in the lumen (core biopsy). Smaller diameter needles collect cells and cell clusters, fine needle aspiration biopsy.[4]
+
+Pathologic examination of a biopsy can determine whether a lesion is benign or malignant, and can help differentiate between different types of cancer. In contrast to a biopsy that merely samples a lesion, a larger excisional specimen called a resection may come to a pathologist, typically from a surgeon attempting to eradicate a known lesion from a patient. For example, a pathologist would examine a mastectomy specimen, even if a previous nonexcisional breast biopsy had already established the diagnosis of breast cancer. Examination of the full mastectomy specimen would confirm the exact nature of the cancer (subclassification of tumor and histologic "grading") and reveal the extent of its spread (pathologic "staging").
+
+Cancer liquid biopsy
+
+Cancer is a heterogeneous genetic disease, and excisional biopsies provide only a snapshot in time of some of the rapid, dynamic genetic changes occurring in tumors. In addition, excisional biopsies are invasive, can’t be used repeatedly, and are ineffective in understanding the dynamics of tumor progression and metastasis.[5] However, liquid biopsy, or blood-sample tests, under development by Epic Sciences can generate actionable information for oncologists by analyzing circulating tumor cells (CTCs)[6] and fragments of tumor-cell DNA that are continuously shed by tumors into the bloodstream.[7] Highly sensitive analysis of individual CTCs have demonstrated a high level of heterogeneity seen at the single cell level for both protein expression and protein localization and the CTCs reflected both the primary biopsy and the changes seen in the metastatic sites. By detecting and quantifying genomic alterations in CTCs and cell-free DNA in blood, liquid biopsy can provide real-time information on the stage of tumor progression, treatment effectiveness, and cancer metastasis risk.[8] This technological development could make it possible to diagnose and manage cancer from repeated blood tests rather than from a traditional biopsy.[9][10][11][12]
+
+Precancerous conditions
+
+For easily detected and accessed sites, any suspicious lesions may be assessed. Originally, this was skin or superficial masses. X-ray, then later CT, MRI, and ultrasound along with endoscopy extended the range.
+
+Inflammatory conditions
+
+A biopsy of the temporal arteries is often performed for suspected vasculitis. In inflammatory bowel disease (Crohn's disease and ulcerative colitis), frequent biopsies are taken to assess the activity of disease and to assess changes that precede malignancy.[13]
+
+Biopsy specimens are often taken from part of a lesion when the cause of a disease is uncertain or its extent or exact character is in doubt. Vasculitis, for instance, is usually diagnosed on biopsy.
+
+Kidney disease: Biopsy and fluorescence microscopy are key in the diagnosis of alterations of renal function. The immunofluorescence plays vital role in the diagnosis of Crescentic glomerulonephritis.
+Infectious disease: Lymph node enlargement may be due to a variety of infectious or autoimmune diseases.
+Metabolic disease: Some conditions affect the whole body, but certain sites are selectively biopsied because they are easily accessed. Amyloidosis is a condition where degraded proteins accumulate in body tissues. In order to make the diagnosis, the gingival.
+Transplantation: Biopsies of transplanted organs are performed in order to determine that they are not being rejected or that the disease that necessitated transplant has not recurred.
+Fertility: A testicular biopsy is used for evaluating the fertility of men and find out the cause of a possible infertility, e.g. when sperm quality is low, but hormone levels still are within normal ranges.[14]
+Biopsied sites
+
+Location  Description
+Bone marrow Since blood cells are formed in the bone marrow, a bone marrow biopsy is employed in the diagnosis of abnormalities of blood cells when the diagnosis cannot be made from the peripheral blood alone. In malignancies of blood cells (leukemia and lymphoma) a bone marrow biopsy is used in staging the disease. The procedure involves taking a core of trabecular bone using a trephine, and then aspirating material.
+Gastrointestinal tract  Flexible endoscopy enables access to the upper and lower gastrointestinal tract, such that biopsy of the esophagus, stomach and duodenum via the mouth and the rectum, colon and terminal ileum are commonplace. A variety of biopsy instruments may be introduced through the endoscope and the visualized site biopsied. Until recently, the majority of the small intestine could not be visualized for biopsy. The double-balloon “push-pull” technique allows visualization and biopsy of the entire gastrointestinal tract.[15]
+Needle core biopsies or aspirates of the pancreas may be made through the duodenum or stomach.[16]
+
+Lung  Biopsies of the lung can be performed in a variety of ways depending on the location.
+Liver In hepatitis, most biopsies are not used for diagnosis, which can be made by other means. Rather, it is used to determine response to therapy which can be assessed by reduction of inflammation and progression of disease by the degree of fibrosis or, ultimately, cirrhosis.
+In Wilson's disease, the biopsy is used to determine the quantitative copper level.
+
+Prostate  Forms of prostate biopsy include transrectal biopsy and transurethral biopsy
+Nervous system  Forms include brain biopsy, nerve biopsy, and meningeal biopsy
+Urogenital system Forms include renal biopsy, endometrial biopsy and cervical conization
+Other Other sites include breast biopsy, lymph node biopsy, muscle biopsy, and skin biopsy
+Analysis of biopsied material
+
+After the biopsy is performed, the sample of tissue that was removed from the patient is sent to the pathology laboratory. A pathologist is a physician who specializes in diagnosing diseases (such as cancer) by examining tissue under a microscope. When the laboratory (see Histology) receives the biopsy sample, the tissue is processed and an extremely thin slice of tissue is removed from the sample and attached to a glass slide. Any remaining tissue is saved for use in later studies, if required. The slide with the tissue attached is treated with dyes that stain the tissue, which allows the individual cells in the tissue to be seen more clearly. The slide is then given to the pathologist, who examines the tissue under a microscope, looking for any abnormal findings. The pathologist then prepares a report that lists any abnormal or important findings from the biopsy. This report is sent to the physician who originally performed the biopsy on the patient.
+
+See also
+
+Interventional radiology
+References
+
+Jump up ^ "biopsy". Online Etymology Dictionary.
+Jump up ^ Zerbino DD (1994). "Biopsy: Its history, current and future outlook". Likars'ka sprava / Ministerstvo okhorony zdorov'ia Ukrainy (3–4): 1–9. PMID 7975522.
+Jump up ^ Anderson JB, Webb AJ (1987). "Fine-needle aspiration biopsy and the diagnosis of thyroid cancer". The British journal of surgery 74 (4): 292–296. doi:10.1002/bjs.1800740422. PMID 3580805.
+Jump up ^ Sausville, Edward A. and Longo, Dan L. "Principles of Cancer Treatment: Surgery, Chemotherapy, and Biologic Therapy", Harrison's Principles of Internal Medicine, 16th Ed. Kaspar, Dennis L. et al., eds. p.446 (2005).
+Jump up ^ Marrinucci D, Bethel K, Luttgen M, Bruce RH, Nieva J, Kuhn P (Sep 2009). "Circulating tumor cells from well-differentiated lung adenocarcinoma retain cytomorphologic features of primary tumor type". Archives of Pathology & Laboratory Medicine 133 (9): 1468–71. doi:10.1043/1543-2165-133.9.1468 (inactive 2015-01-10). PMID 19722757.
+Jump up ^ Nieva J, Wendel M, Luttgen MS, Marrinucci D, Bazhenova L, Kolatkar A, Santala R, Whittenberger B, Burke J, Torrey M, Bethel K, Kuhn P (Feb 2012). "High-definition imaging of circulating tumor cells and associated cellular events in non-small cell lung cancer patients: a longitudinal analysis". Physical Biology 9 (1): 016004. Bibcode:2012PhBio...9a6004N. doi:10.1088/1478-3975/9/1/016004. PMC 3388002. PMID 22306961.
+Jump up ^ Crowley E, Di Nicolantonio F, Loupakis F, Bardelli A (Aug 2013). "Liquid biopsy: monitoring cancer-genetics in the blood". Nature Reviews Clinical Oncology 10 (8): 472–484. doi:10.1038/nrclinonc.2013.110. PMID 23836314.
+Jump up ^ Nieva JJ, Kuhn P (Aug 8, 2012). "Fluid biopsy for solid tumors: a patient's companion for lifelong characterization of their disease.". Future Oncology 9 (8): 989–998. doi:10.2217/fon.12.91. PMC 3658625. PMID 22894671.
+Jump up ^ Nieva JJ, Kuhn P (Aug 8, 2012). "Fluid biopsy for solid tumors: a patient's companion for lifelong characterization of their disease.". Future Oncology 9 (8): 989–998. doi:10.2217/fon.12.91. PMC 3658625. PMID 22894671.
+Jump up ^ Nieva J, Wendel M, Luttgen MS, Marrinucci D, Bazhenova L, Kolatkar A, Santala R, Whittenberger B, Burke J, Torrey M, Bethel K, Kuhn P (Feb 2012). "High-definition imaging of circulating tumor cells and associated cellular events in non-small cell lung cancer patients: a longitudinal analysis". Physical Biology 9 (1): 016004. Bibcode:2012PhBio...9a6004N. doi:10.1088/1478-3975/9/1/016004. PMC 3388002. PMID 22306961.
+Jump up ^ Hekimian K, Meisezahl S, Trompelt K, Rabenstein C, Pachmann K (2012). "Epithelial Cell Dissemination and Readhesion: Analysis of Factors Contributing to Metastasis Formation in Breast Cancer". ISRN Oncology 2012: 601810. doi:10.5402/2012/601810. PMC 3317055. PMID 22530147.
+Jump up ^ Rolle A, Günzel R, Pachmann U, Willen B, Höffken K, Pachmann K (2005). "Increase in number of circulating disseminated epithelial cells after surgery for non-small cell lung cancer monitored by MAINTRAC(R) is a predictor for relapse: A preliminary report". World J Surg Oncol 3 (1): 18. doi:10.1186/1477-7819-3-18. PMC 1087511. PMID 15801980.
+Jump up ^ Friedman, S. and Blumberg, R.S. "Inflammatory Bowel Disease", Harrison's Principles of Internal Medicine, 16th Ed. Kaspar, Dennis L. et al., eds. pp.1176-1789, 2005.
+Jump up ^ Mens health - Testicular Biopsy
+Jump up ^ Saibeni S, Rondonotti E, Iozzelli A, Spina L, Tontini GE, Cavallaro F, Ciscato C, de Franchis R, Sardanelli F, Vecchi M (2007). "Imaging of the small bowel in Crohn's disease: a review of old and new techniques". World J. Gastroenterol. 13 (24): 3279–87. PMC 4172707. PMID 17659666.
+Jump up ^ Iglesias-Garcia J, Dominguez-Munoz E, Lozano-Leon A, Abdulkader I, Larino-Noia J, Antunez J, Forteza J (2007). "Impact of endoscopic ultrasound-guided fine needle biopsy for diagnosis of pancreatic masses". World J. Gastroenterol. 13 (2): 289–93. PMC 4065960. PMID 17226911.
+External links
+
+Mybiopsyinfo.com - What is a biopsy? How is a biopsy examination performed? This website gives you answers to these and many other questions.
+MyBiopsy.org - Information about biopsy results for patients. This site is created by pathologists, the physicians who diagnose cancer and other diseases by looking at biopsies under a microscope.
+RadiologyInfo - The radiology information resource for patients: Biopsy
+Fine needle aspiration biopsy on Wikisurgery
+Core needle (Trucut) biopsy on Wikisurgery
+Retrieved from "http://en.wikipedia.org/w/index.php?title=Biopsy&oldid=647382312"
+Categories: BiopsyPathologySurgical procedures
+This page was last modified on 16 February 2015, at 11:16.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

@@ -1,0 +1,101 @@
+Işık
+
+Vikipedi, özgür ansiklopedi
+Işık, bir ışımanın ışık kaynağından çıktıktan sonra cisimlere çarparak veya direkt olarak yansıması sonucu canlıların görmesini sağlayan olgudur.IŞIK KAYNAĞI,hangi ortamda olursa olsun,gece ve gündüz kendiliğinden ışık yayarak görülebilen cisimlere ışık kaynağı denir. C ile gösterilir. Yunanca'da celeritas (hız) anlamına gelir. Einstein'ın E=mc² kütle-enerji eşdeğerliğindeki c ışık hızını ifade eder. Görünür ışık (yaygın kullanımı ışık), insan gözü tarafından algılanabilen ve görülen elektromanyetik dalgadır. Işık Sinüs dalga’sı ve parçacık (foton) şeklinde hareket eder. Görünür ışığın dalga boyu 400 nm ile 700 nm arasındadır. Bu aralık elektromanyetik tayfta, kızılötesi ile morötesi arasına denk gelir. Görünür ışığın dalga boyu kızılötesinden kısa, morötesinden uzundur.
+
+Işığın özellikleri arasında şiddeti, yayılma yönü, frekansı, kutuplanması ve vakumda 299,792,458 m/s olan hızı yer alır.
+
+Işık da diğer elektromanyetik ışınımlar (EMI) gibi foton adı verilen "paketlerden" oluşur. Fotonlar dalgaların ve parçacıkların özelliklerini gösterir. Bu, fizikte dalga parçacık ikiliği olarak adlandırılır. Işığı inceleyen fiziğin alt dalı optiktir. Optik, modern fiziğin önemli bir araştırma alanıdır.
+
+Konu başlıkları
+
+1 Işık hızı
+2 Elektromanyetik tayf ve görünür ışık
+3 Renkler
+3.1 Işığı renklerine ayırmak
+3.2 Renkleri birbirine eklemek
+4 Optik
+4.1 Yansıma
+4.2 Kırılma
+4.3 Kutuplanma
+5 Işık kaynakları
+6 Işığın algılanması
+7 Işıkla ilgili kuramların tarihi
+8 Dipnotlar
+Işık hızı
+Işığın boşluktaki hızı yaklaşık 300,000 km/s'dir. (Tam olarak 299,792,458 m/s'dir).Tüm elektromanyetik dalgaların boşluktaki hızı da budur. Işık saydam maddelerin içinde boşluktaki hızından daha yavaş yayılır. Işığın bir madde içindeki yayılma hızı, o maddenin kırıcılık indisini belirler.
+
+Elektromanyetik tayf ve görünür ışık
+
+Görünür ışığın elektromanyetik tayftaki yeri
+Elektromanyetik dalgalar birbirine dik olarak salınan elektrik alan ve manyetik alandan oluşur. Bu EM dalgalar frekanslarına (aynı zamanda dalgaboyuna; dalgaboyuyla frekans arasında c=λf ilişkisi vardır) göre çeşitli isimler alırlar. Bu isimler yandaki görselde görülebilir. İnsan gözü bu tayfın küçük bir bölümü olan görünür ışık kısmını görür.
+
+Renkler
+Görünür ışığın renkleri[1]
+renk  dalga boyu aralığı  frekans aralığı
+kırmızı ~ 700–635 nm  ~ 430–480 THz
+turuncu ~ 635–590 nm  ~ 480–510 THz
+sarı  ~ 590–560 nm  ~ 510–540 THz
+yeşil ~ 560–490 nm  ~ 540–610 THz
+mavi  ~ 490–450 nm  ~ 610–670 THz
+mor ~ 450–400 nm  ~ 670–750 THz
+Işık, dalga boyuna göre göze farklı renklerde gözükür. Temel ışık renkleri, kırmızı, yeşil ve mavidir. Diğer renkler bu üç rengin karışımıyla elde edilir. Üç rengin birlikte varlığı beyazı oluşturur. Hiçbir ışığın olmaması durumundaysa siyah oluşur.
+
+Işığı renklerine ayırmak
+Güneş ışığı tüm renklerin birleşiminden oluşur. Bu ışık, bir prizmadan geçirildiğinde her renk farklı miktarlarda kırılır ve ortaya gökkuşağı gibi bir tayf çıkar. Bu olayı ilk kez Isaac Newton, Opticks isimli kitabında açıklamıştır. Bu deneyin ardından, tayftaki tek bir rengi tekrar prizmadan geçiren Newton, tek rengin herhangi bir değişikliğe uğramadan kırıldığını gözlemlemiş ve renklerin prizma tarafından üretilmediği, Güneş ışığının tüm renkleri içinde barındırdığı sonucuna ulaşmıştır.
+
+Renkleri birbirine eklemek
+
+Renklerin karışımı
+Kırmızı ışık + Yeşil ışık = Sarı ışık
+Kırmızı ışık + Mavi ışık = Magenta ışık
+Yeşil ışık + Mavi ışık = Cyan ışık
+Yeşil Işık + Mavi Işık + Kırmızı Işık =Beyaz Işık
+Optik
+Işığı ve ışığın maddeyle etkileşimini inceleyen fiziğin alt dalına optik denir. Gökkuşağı, kuzey ışıkları gibi ışıkla ilgili olaylar optik olaylar olarak adlandırılır. Işığın doğasından kaynaklanan birtakım olaylar vardır:
+
+Yansıma
+Yansıma ışığın bir yüzeye çarptıktan sonra geri dönmesidir. Her cisim ışığı yansıtır ve biz yansıya ışıklar sayesinde cisimleri görürüz. Işığı en çok yansıtan cisimler ise aynalardır. Yansıma olayı ilk kez Öklid tarafından açıklanmıştır. 1100'lü yıllarda İbnül Haysem yansıma yasalarını ortaya koymuştur.
+
+Kırılma
+Kırılma ışığın bir ortamdan başka bir ortama geçerken yönünün değişmesidir. Sudaki cisimlerin gerçektekinden daha yakında görünmesinin sebebi budur. Kırılma açısı 1621 yılında Willebord Snell tarafından hesaplanmıştır ve Snell Yasası olarak bilinir.
+
+Kutuplanma
+Kutuplanma, elektrik alan ve manyetik alandan oluşan ışığın pek çok düzlemde ilerleyen elektrik alanının tek bir düzlemle sınırlandırılmasıdır. Bu kutuplanmayı sağlayan filtreler güneş gözlüklerinde ve fotoğrafçılıkta kullanılır.
+
+Kırınım
+Girişim
+Işık kaynakları
+
+Bu madde Vikipedi standartlarına uygun değildir. Sayfayı Vikipedi standartlarına uygun biçimde düzenleyerek Vikipedi'ye katkıda bulunabilirsiniz. Gerekli düzenleme yapılmadan bu şablon kaldırılmamalıdır. (Haziran 2011)
+Güneş'imizin ışık yaymasıda bu prensiple alakalıdır. Dört helyum atomu füzyon (nükleer kaynaşma) aşamasında açığa bir enerji çıkarır bu da şu an güneşimizin çekirdiğende gerçekleşen bir olgudur. Bir nevi maddenin kendine uygulanan kuvvete şiddetle direnç göstermesidir. Madde enerjiye karşı koymaya devam ettikten bir süre sonra ısı yaymaya başlar ve sonrasında maddeyi oluşturan elektronlar yeterli enerjiye sahip olduklarında bağlı oldukları atom’un yörüngesinden kaçacak gücü bulurlar. Elektronlar yörüngelerinden koparken ortaya bir enerji boşalması çıkar buda bizim algılarımızda IŞIK olarak nitelenir.
+
+Standart ampulün çalışma mantığı da budur... Neon gazı ile doldurulmuş bir cam küre içine iki kutup arasına tungsten metali gerdirilir. Tungsten, üzerinden geçen elektrik enerjisi sonucu enerjiye tepki göstererek ışıma yapar. Tungstenin kaynama noktası çok yüksek bir metal olduğu için bu kuvvete karşı koyabilmektedir. Aksi halde metal erir ve ışıma sona ererdi. Şu an kulanılan tasarruflu lambalarda aynı mantıkla çalışır. Dairesel bir tüp içerisine xenon veya neaon gazı sıkışıtırıl…(gazlar sıkıştırıldıklarında atomlar arasındaki fiziksel mesafe daralır buda daha sağlıklı bir ışıma demektir) iki kutup arasında belli mesafede bir yol oluşturulmuş olur. Elektrik verildiğinde elektronlar bir kutuptan diğer kutuba xenon gazı yardımı ile akarlar bu esnada gaz bu etkiye tepki gösterir ve ışır. Bu da bizim ışık kaynağımızdır.
+
+Işığın algılanması
+İnsan tarafından renklerin algılanması; ışığa, ışığın cisimler tarafından yansıtılışına ve nesnenin gözyardımıyla beyne iletilmesi sayesinde gerçekleşir. Bize ışık kaynağından gelen ışınlar gözümüze yansır ve bu ışınların sayesinde karşımızdakini rahatlıkla görebiliriz.
+
+Göz tarafından algılanan ışık, retinada sinirsel sinyallere dönüştürülüp, optik sinir aracılığıyla beyine iletilir. Göz, üç temel birleştirici renk olan; kırmızı, mavi ve yeşile tepki verir ve beyin, diğer renkleri bu üç rengin farklı kombinasyonları olarak algılar. Renklerin algılanışı dış koşullara bağlı olarak değişir. Aynı renk güneş ışığında ve mum ışığında farklı algılanacaktır. Fakat, insanın görme duyusu ışığın kaynağına uyum sağlayarak, bizim her iki koşuldakinin de aynı renk olduğunu algılamamızı sağlar.
+
+Tat alma, duyma, dokunma ve diğer duyularımızda da olduğu gibi, renklerin algılanışı da özneldir. Bir renk sıcak, soğuk, ağır, hafif, yumuşak, kuvvetli, heyecan verici, rahatlatıcı, parlak veya sakin olarak algılanabilir. Ancak bu tanımlama, kişinin, kültür, dil, cinsiyet, yaş, çevre veya deneyimlerinden kaynaklanır. Kısaca, herhangi bir renk, iki ayrı insanda aynı duyguları uyandırmayacaktır. İnsanları gama ışınına duyarlılıklarıyla da birbirlerinden ayırmak mümkündür. Doğrudan alınan güneş ışığı; %47 kızılötesi, %46 görünür ışık ve %7 morötesi ışınımdan oluşur.
+
+Işıkla ilgili kuramların tarihi
+
+Bu madde Vikipedi standartlarına uygun değildir. Sayfayı Vikipedi standartlarına uygun biçimde düzenleyerek Vikipedi'ye katkıda bulunabilirsiniz. Gerekli düzenleme yapılmadan bu şablon kaldırılmamalıdır. (Haziran 2011)
+Keşfedilen ilk görünmez ışın, 1800 yılında William Herschel tarafından rastlantıyla bulunan kızılötesi ışınımdır. Herschel, güneş ışığını bir prizmadan geçirerek tayf renkleri olarak adlandırılan kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor renkleri incelerken çok ilginç bir şeyle karşılaşır. Her rengin sıcaklığını ayrı ayrı termometreyle ölçerken, kırmızı rengin ötesinde termometrenin yükseldiğini görür. Bu şekilde yayılan ısının da kırmızı ışık gibi bir ışık türü olduğunu, ama insan gözüyle görülmediğini istemeden de olsa göstermiş olur. William bu keşfine kızılötesi ışınım adını verir. Bu keşiften sonra tayfın diğer ucunda yer alan ve morötesi ışık olarak adlandırılan, görünmez ışık da fotoğraf kartı üzerindeki etkisi sayesinde keşfedilir.
+
+Karanlık bir yerde göremeyiz; tıpkı Albert Einsteinin dediği gibi "Karanlık diye bir şey yoktur, karanlık ışığın yokluğudur". Işık kaynakları olmadan ışık da olamaz ve ışık kaynakları bize kendiliklerinden gözükürler. Onun için fizik dilinde ışık kaynağı denir. Onlardan kaynaklanan ışığın aracılığıyla gördüğümüz cisimlere de karanlık cisimler adını veririz. Karanlık cisimler, ışık kaynağından çıkan ışınların yansıması sonucu bize gözükür. Işık kaynağı ile karanlık cisimlerin arasına koyduğumuz cam, su gibi cisimler, bu karanlık cisimleri görmemizi engellemez.
+
+Işık bizim görebilmemizin ana nedenidir. Eğer ışık olmasaydı hiçbir şey göremezdik. Çünkü görme işleminde ışık kaynağından çıkan ışınlar etrafımızdaki cisimlere çarparak gözümüze ulaşırlar da o narin göz bebeğimiz onları birer birer içeri buyur edip retinada ağırlar. Daha sonra retinaya körü körüne bağlı sinirler aracılığı ile burada oluşan görüntü, işlenmesi ve yorumlanması için beyne yollanır. Fakat 1600'lü yıllarda ışık ışınlarının gözümüzden çıkıp diğer cisimlere çarpıp geri geldiğine ve böylece görebildiğimize inanılırdı.
+
+Işık; foton denilen kütlesiz (ağırlıksız değil, kütlesiz) ve yüksüz atom-altı parçacıklardan oluşur.Tüm parçacıklar gibi fotonlar da dalga özelliği gösterirler. Yani bir dalga boyları ve bir frekansları vardır. Işık ışınları da fotonların ilerlerken aldıkları yoldan başka bir şey değildirler. Fotonlar kaynaklarından çıktıktan sonra -eğer önlerinde hiçbir engel yoksa- düz doğrultuda ve hiç sapmadan yayılırlar. Herhangi bir cisme çarpınca da cismin şeffaf olup olmamasına göre yansır veya kırılırlar.
+
+Günümüzde ışığın hareketi, dual (ikili, çift) model denilen dalga ve parçacık teorilerinin birleşmesinden oluşmuş bir teori ile açıklanmakta. Açıklama kısaca şöyle: Işık dalga özelliği gösteren fotonlardan oluşmuştur. Ve yayılırken iki özelliği de gösterebilir. Ama kesinlikle ikisini bir arada değil! Bazen dalga bazen de parçacık olarak yayılır ışık. Ama hangi hallerde parçacık hangi hallerde dalga olarak yayıldığı konusunda hiçbir bilgimiz yok. Ama şunu biliyoruz ki biz onu dalga olarak görmek istiyorsak dalga, parçacık olarak görmek istiyorsak parçacık olarak davranır.
+
+Dipnotlar
+^ Craig F. Bohren (2006). Fundamentals of Atmospheric Radiation: An Introduction with 400 Problems. Wiley-VCH. ISBN 3-527-40503-8.
+  Wikimedia Commons'ta Işık ile ilgili medyaları bulabilirsiniz.
+"http://tr.wikipedia.org/w/index.php?title=Işık&oldid=15310371" adresinden alındı.
+Kategoriler: Vikipedi düzenle Haziran 2011Işık
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

@@ -1,0 +1,134 @@
+İnternet
+
+Vikipedi, özgür ansiklopedi
+
+İnternet haritası. Her bir çizgi IP adreslerini temsil eden iki node arasında çizilmiştir. Çizgilerin uzunluğu IP adresleri arasındaki gecikmeyi temsil eder. Bu çizim C sınıfı ağların yaklaşık %30'unu temsil eder. Renk kodları, çizgilerin RFC 1918 kodlarını temsil eder.
+İnternet, Dünya genelindeki bilgisayar ağlarını ve kurumsal bilgisayar sistemlerini birbirine bağlayan elektronik iletişim ağıdır.[1] TDK, İnternet sözcüğüne karşılık olarak genel ağı önermiştir.[2] İnternet yerine zaman zaman sadece net sözcüğü de kullanılır.[3]
+
+İnternet, çok protokollü bir ağ olup birbirine bağlı bilgisayar ağlarının tümü olarak da tanımlanabilir. Binlerce akademik ve ticari ağla devlet ve serbest bilgisayar ağının birbirine bağlanmasıyla oluşmuştur. Bilgisayarlar arasında bilgi çeşitli protokollere göre paketler halinde transfer edilir. İnternet üzerinde elektronik posta ve birbirine bağlı sayfalar gibi çok çeşitli bilgiler ve hizmetler vardır. İnternet üzerinden oyunlar da oynanabilir.
+
+İnternet'in kökeni, hataya dayanıklı, sağlam ve özel bir bilgisayar ağı kurmak isteyen Amerika Birleşik Devletleri hükümeti tarafından 1960 yılındaki araştırmalara dayanır. 1980'lerde Ulusal Bilim Vakfı tarafından yeni bir ABD omurgasının finansmanı için toplanan özel fonlar, Dünya çapında katılım ve birçok özel ağın birleşmesine neden olmuştur. 1990'larda uluslararası bir ağın yaygınlaşması ile İnternet, modern insan hayatının temelinde yer almıştır.
+
+Konu başlıkları
+
+1 Etimoloji
+2 Geçmiş
+3 Kişisel kullanım
+3.1 Günümüzdeki kullanımı
+3.2 Yaygınlaşması
+4 Terimler
+4.1 Site
+4.2 Modem
+4.3 TCP/IP
+4.4 Adres işareti (@)
+4.5 E-posta
+5 İnternet'e bağlanabilen cihazlara gelebilecek dijital tehlikeler
+5.1 Virüsler
+5.2 Casus programlar
+5.3 Bilgisayar korsanları (hackerlar)
+5.4 Bu tehlikelerden korunma yöntemleri
+6 İnternet'ten gelebilecek diğer tehlikeler
+6.1 Bu tehlikelerden korunma yöntemleri
+7 Ayrıca bakınız
+8 Kaynakça
+9 Dış bağlantılar
+Etimoloji
+1985 yılında kullanılmaya başlayan[1] İngilizce Internet kelimesi, "kendi aralarında bağlantılı ağlar" anlamına gelen Interconnected Networks teriminin kısaltmasıdır. Inter- öneki İngilizce'de arasında ve karşılıklı anlamlarına gelir. Net kelimesi ise ağ anlamına gelir.[4]
+
+Zaman zaman İnternet kelimesi yerine kullanılan "WWW" kısaltması ise World Wide Web (Dünya Çapında Ağ) sözcüklerinin akronimidir ve İnternet ile eş anlamlı değildir.
+
+Geçmiş
+İnternet üzerinden ağ sayesinde iletişim kuran bilgisayar sistemleri olan askeri iletişim sistemi Semi-Automatic Ground Environment (SAGE) ve ticari havayolu rezervasyon sistemi olan Semi-Automatic Business Research Environment (SABRE) 1950'lerin başında başlamıştır. 1960 larda ise the Advanced Research Projects Agency (ARPA), ABD nin savunma sistemi için the Advanced Research Projects Agency Network (ARPANET) nin tasarım finansmanı olmaya başladı. 1960'larda oluşturulan projelerin sayesinde 1969'da İnternet o dönemin zirvesine ulaşmıştır. Bu tarihten sonra da ARPANET bildiğimiz modern İNTERNET olarak hayatımıza girmiş oldu. 70'li yılların başında Amerikan üniversitelerinde bu projeden yararlanma imkânı verilmesinin ardından e-posta (SMTP) ve NNTP uygulamaları yaygınlık kazanmaya başlamıştır. Bunları FTP ve HTTP izlemiştir. 30 Nisan 1993'te CERN tarafından WWW ön eki ile İnternet kamunun ulaşabileceği şekle getirildi. 12 Nisan 1993 tarihinde ODTÜ'den Ankara-Washington arasında kiralık hat ile Türkiye'de ilk İnternet bağlantısı gerçekleşti.[5]
+
+Kişisel kullanım
+Kişisel bilgisayarlar ile İnternet'e bağlanabilmek için genellikle bir telefon hattına ihtiyacı vardır. Bunun yanında uydu, kablo ve Wi-Fi diye adlandırılan radyo yayınlarla da İnternet'e bağlanılabilir. En yaygın olanı ise bir analog modem ile belli hızda bir İnternet servisi veren bir şirketin hizmetinden yararlanmaktır. Modemin ayarları şirketin verdiği servis telefon numarası ve özelliklerine göre ayarlanıp, bağlan komutu verilir. Analog modem bilgisayarın dijital verileri (bits) çeşitli ses frekanslarına çevirip telefon hattından İnternet servisine ulaştırmakta olup tersine aynı yöntemle verileri almaktadır.
+
+Her görüntülenen sitenin bir adresi numarası vardır Bu, dört yuvadan oluşan ve her yuvanın 0 ile 255 arası değeri olan bir adresdir. Fakat kullanıcı bu yalın sayı değerini her çağıracağı site için aklında tutamayacağı için bu adresleri Web sayfasına eş değer tutan DNS bilgisayarları vardır. Bunların görevi ise görüntülenecek her site ismine eş değer IP adresini hazır tutmak ve bilgi taşıma protokolünün paketlerini (TCP/IP) bu adrese yönlendirmektir. Böylece az uğraşla İnternet gezgincisinin çağırdığı sitedeki bilgilere ulaşılabilinir.
+
+Günümüzde, analog modemlerin yerini daha hızlı ve daha az hatalı olan dijital ( ADSL) modemler almaktadır. Bunların kullanım ücretleri, çoğul katılımın artması sayesinde makul ödenebilir düzeye inmektedir. ADSL bir analog modemden 10x - 1500x kez hıza sahip olup, canlı videolu sohbet imkânı yanında bir sinema filmini kısa bir zaman dilimi içinde yükleme imkânı vermektedir.
+
+WWW. Dünyası yanında dosya indirimi sanal sohbet odaları, eCommerce (sanal ticaret), tartışma mekânları (forum), İnternet üzerinden sohbet doğrudan mesaj (IM) gibi kullanım alanlarını, bugün bütün Dünya'da yüzmilyonlarca insan kullanmaktadırlar.
+
+Günümüzdeki kullanımı
+Günümüzde özellikle mobil İnternet aygıtlarıyla hemen hemen her yerden İnternet'e erişilebilir. Kablosuz ağ bağlantısını destekleyen cep telefonları, taşınabilir oyun konsolları,dizüstü bilgisayarlar gibi cihazlarla kullanıcılar istedikleri zaman istedikleri yerden İnternet'e ulaşabilirler. Servis sağlayıcılarının hizmetleri ve sundukları kablosuz veri iletim ücretleri diğer erişim yöntemlerine göre daha yüksek olabilir.
+
+Yaygınlaşması
+Radyo, televizyon ve İnternet'in bulunuşundan 50 milyon kullanıcıya ulaşmak için geçen süre incelendiğinde; radyo için 38 yıl, televizyon için 13 yıl iken, İnternet için sadece beş yıldır.
+
+İnternet Türkiye'ye 1994 yılında gelmiştir ve geldikten sonra Türkiye'de kullanımı yaygınlaşmıştır. İnternet günümüzde de yaygın olan yediden 70'e herkesin kullandığı teknoloji ürünü olan ve her gün yenilenen bir bilgi kaynağı teknoloji ürünüdür.
+
+Terimler
+İnternet ve "World Wide Web" sözcükleri günlük kullanımda genelde aynı anlamda kullanılır fakat aynı şey değillerdir. İnternet yazılım ve donanım altyapısı ile sağlanan küresel veri iletişim dizgesidir fakat web İnternet ile sağlanan iletişim şekillerinden yalnızca birisidir.
+
+Site
+
+Vikipedi sitesinin 16 Eylül 2010 tarihindeki ana sayfası.
+İnternet sitesi, İnternet üzerinden yazı, resim ve diğer dosyaların paylaşıldığı dijital sayfalar grubudur. İnternet'in, ekran aracılığıyla görsel olarak, hoparlörler aracılığıyla da işitsel olarak kullanıldığı ortamlardır. Bir İnternet sitesi bir sayfadan ya da binlerce sayfadan oluşabilir. Bir sitenin kullanıcının karşısına çıkan ilk sayfasına "ana sayfa" denir. Ana sayfadan, linkler (bağlantılar) aracılığıyla sitenin diğer kısımlarına veya yabancı sitelere ulaşılabilir.
+
+Modem
+Telefon sinyallerini sayısal verilere çeviren ve bilgisayarın İnternet'e bağlanmasını sağlayan elektronik alettir.
+
+TCP/IP
+İnternet'i çağın haberleşme ortamı yapan ise TCP/IP dosya iletişim protokolüdür. Açılımı; Transmission Control Protocol/Internet Protocol'dur (Aktarım Denetim Kuralı/İnternet Kuralı).
+
+TCP/IP, özde makinelerin konuşmasını sağlayan, işletim sisteminden veya uygulama yazılımlarından bağımsız bir kuralıdır. Bu özelliği sayesinde, cep telefonu, kişisel bilgisayar veya bir saat dahi İnternet'e bağlı diğer cihazlarla konuşabilir.
+
+Adres işareti (@)
+İnternet'te sık kullanılan sembollerden birisi @'dir (okunuşu: et). Elektronik posta adreslerinde kullanıcı ismi ile gönderilen hedef alanını (site adı) ayırır. Adres işareti, güzel a olarak da bilinir. Türk Dil Kurumu çengelli a ya da kuyruklu a karşılıklarını önermiştir.
+
+E-posta
+E-postalar, İnternet üzerinden gönderilen ve alınan dijital mektuplardır. E-posta (İng: e-mail) "elektronik posta" sözcüklerinin kısaltmasıdır. Görsel olarak kâğıt bir mektup ile aralarında büyük bir fark yoktur. E-postalara resim, müzik, video gibi her türlü dosya türü eklenebilir ve alıcının bilgisayarına transfer edilebilir. Her gün Dünya'da milyarlarca e-posta gönderilmektedir. Ucuzluğu ve kolaylığı nedeniyle kâğıt mektuplardan daha yaygın olarak kullanılmaktadır ancak güvenilirliğinin yetersizliği nedeniyle resmi işlerde kullanımı oldukça kısıtlıdır.
+
+E-posta hesapları bu hizmeti veren çeşitli sitelerden ücretsiz veya belirli bir ücret karşılığında açılabilir. E-posta adresleri; kullanıcı adı, adres işareti, hesabın oluşturulduğu sitenin e-posta sunucusunun adı, nokta (.) ve site uzantısının aralık bırakılmadan yazılması ile oluşur. Örneğin: vikipedist@vikipedi.com
+
+İnternet'e bağlanabilen cihazlara gelebilecek dijital tehlikeler
+Pek çok faydasının yanında maalesef İnternet çeşitli tehlikelere de kapımızı açar. İnternet ağına bağlandığınız andan itibaren çeşitli zararlı yazılımların saldırılarına mazur kalabilir; "hacker" diye tanımlanan bilgisayar korsanlarının bilgisayarınızı ele geçirebileceğine şahit olabilir; çevrimiçi bankacılık aracılığı ile banka hesabınız boşaltılabilir; cihazınız anlayamadığınız garip davranışlarda bulunmaya başlayabilir.
+
+Virüsler
+Bilgisayar virüsleri, zararlı kod ve programcıklardır. Bilgisayarlara veri taşıyan diskler, taşınabilir hafızalar, yerel ağlar ya da İnternet aracılığıyla girerler. Kendini kopyalamak, verileri silmek, istenmeyen programları çalıştırmak, kişisel (şifre vb.) bilgileri yaymak gibi zararlı faaliyetleri gerçekleştirirler. Bilgisayarlara zarar verme yöntemleri canlılarda hastalık meydana getiren virüslere benzediği için bu isim uygun görülmüştür.
+
+Bazı virüsler bir programın zaman aşımına uğramış veya bozunmuş yani istem dışı çalışan ve genellikle görevleri belli olmayan halleridir. Kötü emeller için hazırlanan Trojan, Win32, Win29, Solucan vb. virüsler başkaları tarafından bulaştırılırlar. Virüslerin kendi kendine oluşması zordur, farkedildiğinde derhal temizlenmesi gerekir.
+
+Casus programlar
+Malware, adware, spyware gibi çeşitli şekillerde adlandırılan casus programlar, bilgisayarlardan bilgi toplamak amacıyla oluşturulmuş küçük yazılımlardır. Virüs gibi faaliyet gösterirler bu nedenle bir kısmı virüs olarak da adlandırılır. Bilgisayar kullanıcısının İnternet alışkanlıkları, hesap numaraları gibi bilgileri zararlı kişi ve kuruluşlara ulaştırırlar. Bazıları çok zararlı olmamakla birlikte, veri toplarken arka planda çalışarak bilgisayar hafızasını gereksiz yere işgal ederler. Bazı casus programlar ise resmi kuruluşlar tarafından suçluları ve terörist faaliyetleri izlemek amacı ile geliştirilmiştir. Ayrıca devletler eski casusluk yöntemleri yerine bilgisayar ortamında casusluk yöntemlerine başvurmakta buna bağlı olarak risk ve maliyeti düşürmektedirler.
+
+Bilgisayar korsanları (hackerlar)
+Başka insanların bilgisayar, telefon gibi elektronik cihazlarlarının bilgilerine izinsiz olarak ulaşarak kişisel bilgilerini çalan kişilerdir. Fakat bu gerekmez. Bazı hackerlara yer verilen sitelerde hackerlar sitelerin teknik gelişimine yardım ederler. Bunun Vikipedi'de örneği Teknisyenler'dir.
+
+Bu tehlikelerden korunma yöntemleri
+Bilgisayarları İnternet'ten gelebilcek tehditlere karşı korumanın en etkin yolu anti-virüs, anti-casus yazılımları ve güvenlik duvarı yazılımları kullanmaktır. Norton, Kaspersky, McAfee gibi günümüzdeki birçok ticari güvenlik yazılımı, bu üç korumayı da içerir.
+
+İnternet'ten gelebilecek diğer tehlikeler
+İnternet'in yaygınlaşması sonucu her gün milyonlarca insanın hiç tanımadığı insanlarla şahsi bilgilerini paylaşması, virüslerden çok daha vahim bir tehdit oluşturmaktadır. İnternet'in dikkatsiz kullanımı, kimlik bilgilerinin çalınması ya da polisiye olaylara istemeden karışmak gibi sonuçlar doğurabilir.
+
+Sohbet ve oyun odaları, çok güzel dostluklara ve ilişkilere vesile olabildiği gibi, hırsızlık, sübyancılık, teşhir, taciz, tecavüz ve hatta cinayete varan tehditlere de kapımızı sonuna kadar açmaktadır.
+
+Pornografiye erişimin hızlı ve kolay olması, her yaşta pornografi bağımlılığı riskini artırmakta, şahısların cinsel hayatını, aile hayatını ve zaman zaman da psikolojilerini tehdit etmektedir. Çocukların çok küçük yaşta pornografiye kolayca erişebilmeleri, ileriki yaşlarda ciddi cinsel ve psikolojik rahatsızlıklara gebe olmalarına neden olabilmektedir.
+
+Bu tehlikelerden korunma yöntemleri
+İnternet ortamında kimliğini, yaşını, görünüşünü, ekonomik durumunu, eğitim durumunu, kısaca bir şahsa ait her şeyi gizlemek ya da sahte bir kimlik oluşturmak çok kolay olduğu için, arkadaşlık kurarken çok daha dikkatli olunması gerekir. Özellikle yeterince tanınmayan kişilere adres ve telefon vermekten özellikle kaçınılmalı, karşıdaki kişinin bunlara ulaşmasını sağlayacak ipuçları vermekten de sakınılmalıdır.
+
+Günümüzde birçok İnternet güvenlik yazılımı, "ebeveyn kontrolü" özellikleri ile birlikte gelmektedir. Ebeveyn kontrol paneli bilgisayar erişim saatlerinin ayarlanmasına, istenmeyen sitelere erişimin engellenmesine imkân vermekte, bu ayarlar parolalar aracılığıyla korunabilmektedir.
+
+Ayrıca bakınız
+WWW
+İnternet (cins isim)
+Kaynakça
+^ a b Merriam Webster's Dictionary & Thesaurus, 2008
+^ TDK Türkçe Sözlük
+^ "net." Oxford Dictionary of English 2e, Oxford University Press, 2003.
+^ "Internet." Oxford Dictionary of English 2e, Oxford University Press, 2003.
+^ http://www.emo.org.tr/ekler/951ccd95572a671_ek.doc?tipi=46&turu=X&sube=0
+Dış bağlantılar
+  Wikimedia Commons'ta İnternet ile ilgili medyaları bulabilirsiniz.
+(İngilizce) İnternet, Nsf.gov
+(İngilizce) Siberalem hakkında bilgi, Harvard Üniversitesi
+(İngilizce) İnternet, email vs. hakkında detaylı bilgi (İng.)
+(İngilizce) Bilim-Teknoloji-İnternet
+(İngilizce) İnternet Vadisi
+(İngilizce) Global Internet Traffic Report
+"http://tr.wikipedia.org/w/index.php?title=İnternet&oldid=15184038" adresinden alındı.
+Kategoriler: İnternetABD icatlarıBilişim terimleriİngilizceden Türkçeye geçen sözcükler
+Bu sayfa son olarak 13 Mart 2015, 13:26 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

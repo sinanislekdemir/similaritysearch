@@ -1,0 +1,292 @@
+Çevirici diller
+
+Vikipedi, özgür ansiklopedi
+Tek başlık altında birleş(tir)  Bu madde veya bölüm Çevirici dili maddesine çok benzemektedir ve bu iki maddenin tek başlık altında birleştirilmesi önerilmektedir. Birleştirme işlemi yapıldıktan sonra sayfaya {{Geçmiş birleştir}} şablonunu ekleyiniz.
+Bir Çevirme Dili (Assembly Language) bilgisayar programlarının yazılmasında kullanılan alt seviyeli bir dildir. Assembly dili programlarının yazılımında insan dostu sembollerin “mnemonics” kullanılması, daha fazla hataya yatkın ve zaman alıcı ilk bilgisayarlarda kullanılmış olan bir hedef bilgisayarının sayısal makine kodunda doğrudan programlama çalışmasının yerine geçmiştir. Bir assembly dil programı çevirici “Assembler” olarak adlandırılan faydalı bir program tarafından hedef bilgisayarın makine koduna çevrilir. (Bir çevirici bir derleyiciden (compiler) farklıdır, bu genellikle “mnemonic” ifadelerden makine komutlarına teke tek (izomorfik) çeviriler yapar.)
+
+Assembly dili karmaşık programlar yazmak için kullanılan düşük seviyeli bir programlama dilidir. Assembly insanlar tarafından anlaşılması zor olan makina dilinin sayısal ifadelerini, insanlar tarafından anlaşılarak programlanması daha kolay olan alfabetik ifadelerle değiştirerek düşük seviyede programlama için bir ortam oluşturur. Assembly kullanmanın amacı, ilk bilgisayarlarda yazılan programların daha az hata içermesi ve daha az zaman almasını sağlamaktır.
+
+Assembly dilini makina koduna çeviren programlara assembler denir. Bir assembler'ı derleyiciden ayıran en önemli özellik birebir dönüşüm yapmasıdır. Derleyiciler kodun tamamını okurlar ve kodun tamamını anlamlı bir programa dönüştürürler. Kodun her satırını tek tek okuyan ve uygulayan programlara ise yorumlayıcı denir.
+
+Assembly dil programları, genellikle platformdan bağımsız olan yüksek seviyeli programlama dillerinin aksine bir hedef bilgisayar mimarisine sıkı sıkıya bağlıdır ( ve bu bilgisayara özeldir). Çok fazla sofistike olan çeviriciler programın gelişmesini kolaylaştırmak, çeviri işlemini kontrol etmek ve hataların düzeltilmesine yardımcı olmak amacıyla mekanizmalar kullanarak program komutlarının temel çevirisini genişletir.
+
+Assembly dili bir zamanlar programlamada çok fazla kullanılmaktaydı, ancak günümüzde daha az kullanılma eğilimindedir, öncelikle doğrudan donanım manipülasyonunun veya anormal performans hususları söz konusu olduğu zaman bu dil kullanılmaktadır. Tipik uygulamaları cihaz sürücüleri, alt seviyeli dahili (embedded) sistemleri ve gerçek zaman uygulamalarıdır.
+
+Assembly(çeviri) ve assembler (çevirici) terimlerinin çelişkili kullanımlarına ilişkin olarak aşağıdaki terminoloji bölümüne bakınız.
+
+Konu başlıkları
+
+1 1. Önemli Kavramlar
+2 2.Dil Tasarımı
+3 3.Assembly Dilinin Kullanımı
+4 4.İlgili Terminoloji
+5 5.Daha Fazla Bilgi
+6 6.Referanslar
+7 Dış bağlantılar
+1. Önemli Kavramlar
+1.1. Çevirici (Assembler)
+
+Tipik olarak bir modern çevirici assembly (çeviri) komut “mnemonic”leri işlem kodlarına çevirerek (tercüme ederek), ve hafıza mahalleri (memory locations) ve diğer varlıklar için sembolik isimler belirleyerek “object code” unu oluşturur. Sembolik referansların kullanılması, program modifikasyonlarından sonra bıktırıcı hesaplamaları ve elle yapılan adres güncelleştirmelerini kaydettiğinden çeviricilerin en önemli (kilit) özelliğidir. Çeviricilerin çoğu metinsel ikameyi (yerine koymayı) yerine getirmek için – örneğin, bir alt rutin (subroutine) yerine “inline” olarak çalışacak komutların ortak kısa serilerini üretmek için- makro imkânları da içerirler.
+
+Çeviriciler genellikle yüksek seviyeli dilleri yazma konusunda derleyicilerden (compilers) daha basittir, ve 1950’li yıllardan beri kullanılmaktadır. (Bilgisayarların ilk günlerindeki ilk çeviriciler yorgun programcıların bir jenerasyonu için önemli bir keşifti.) Modern çeviriciler, bilhassa MIPS, Sun SPARC ve HP PA-RISC gibi RISC’e dayalı mimariler CPU “pipeline” verimliliğini sağlamaya yönelik komutu (instruction) optimize ederler.
+
+Daha sofistike (karmaşık) olan Yüksek Seviyeli çeviriciler aşağıda belirtilenler gibi dil özetlerini (abstractions) sağlarlar:
+
+• Yüksek kontrol yapıları
+
+• Yüksek seviyeli prosedür fonksiyon deklarasyonları ve talepleri
+
+• Yapılar/kayıtlar, birlikler, sınıflar ve takımlar dahil yüksek seviyeli özet veri türleri
+
+• Sofistike makro işleme
+
+Daha fazla bilgi için aşağıdaki Dil tasarımına bakınız.
+
+Normal profesyonel kullanımda çevirici teriminin sıklıkla farklı anlamlarda kullanıldığına dikkatinizi çekeriz; sıklıkla çevirici yararından ziyade bir çeviri dilinin kendisine atfen kullanılır. Böylece “ASM-H çok kullanılan bir S/370 çevirici olmuştur” ifadesine karşı “CP/CMS S/360 çeviricide yazılmıştır” ifadesi kullanılır.
+
+1.2.Assembly (Çevirme) Dili
+
+Assembly dilinde yazılan bir program pek çok yerine getirilebilir komutlara (emirlere) tekabül eden komut “mnemonic”lerin (sembollerin) bir serisinden oluşur; bir çevirici tarafından tercüme edildiğinde bunlar hafızaya yüklenebilir ve yerine getirebilirler.
+
+Örneğin; bir x86/IA-32 işlemci makine dilinde ifade edilmiş olan aşağıdaki ikili (binary) komutu yerine getirebilir:
+
+• Binary (ikili) : 10110000 01100001 (Altı haneli ondalık: 0xb061)
+
+Muadil assembly dilinin sunumu daha kolay hatırlanır (daha fazla “mnemonic” tir ):
+
+• Mov al. 061h
+
+Bu komut şunu ifade eder:
+
+• 61 (97 ondalık) altı haneli değeri “al” adı verilen işlemci kaydedicisinin içine naklediniz
+
+“mov” sembolü (mnemonic) bir işlem kodu olup, “move” (taşı) sözcüğünü kısaltmak için komut set tasarımcısı tarafından seçilmiştir. Virgülle ayrılmış argümanların veya parametlerin bir listesi işlem kodunu izler; bu tipik bir assembly dil ifadesidir.
+
+Assembly dilinin makine diline dönüştürülmesi bir çevirici tarafından gerçekleştirilir, ve bunun tersi olan işlem bir demonte edici (disassembler) tarafından yapılır. Yüksek seviyeli dillerin aksine basit assembly ifadeleri ile makine dil komutları arasında genellikle 1-10-1 ilişki bulunur. Ancak, bazı hallerde bir çevirici ortak ihtiyaç duyulan işlevselliği sağlayacak olan çeşitli makine dili komutlarına yayılan pseudoinstructions (yapma emirler) sağlayabilir. Örneğin, bir “büyük veya eşit ise dallandır” emrine sahip olmayan bir makine için bir çevirici makinenin “eğer küçük ise kur” (set if less than) ve “eğer sıfır ise dallandır (kurulan emrin neticesinde)” ifadelerine kadar uzanan bir “yapma emri” bir çevirici verebilir. Tam yetenekli çeviricilerin pek çoğu ayrıca daha karmaşık kod ve veri dizisini üretmek amacıyla satıcılar ve programcılar tarafından kullanılan zengin bir makro dili (aşağıda tartışılmıştır) de sağlarlar.
+
+Her bilgisayar mimarisi kendine özgü makine diline sahiptir, ve dolayısıyla kendisine ait bir çevirme dili vardır. Bilgisayarlar destekledikleri işlemlerin sayısına ve tipine göre birbirlerinden farklıdırlar. Bilgisayarlar aynı zamanda farklı ebat ve sayıda kayıt ünitelerine, ve hafızada veri tiplerinin farklı örneklerine sahip olabilirler. Pek çok genel amaçlı bilgisayarlar esas itibariyle aynı işlevselliği sürdürürlerken, bu işlevlerin yapılış tarzı farklıdır; benzer çevirme dilleri bu farklılıkları yansıtır.
+
+“Mnemonics” (sembollerin) veya assembly dil sentakslarının çoklu takımları tek bir emir (komut) takımı için hazır olabilir, tipik olarak farklı çevirici programlarında. Bu gibi durumlarda en popüler olan genellikle üretici tarafından temin edilen ve dokümantasyonunda kullanılandır.
+
+1.3.Makine Dili
+
+Makine dili münferit ifadelerden (statements) veya komutlardan (instructions) tesis edilir. İşlem mimarisine bağlı olarak, verilen bir komut (emir)
+
+• aritmetik, adresleme, veya kontrol fonksiyonarı için belli kayıt yerlerini (registers)
+
+• belli hafıza yerlerini veya ofsetleri
+
+• İşlem faktörlerini (operands) yorumlamak için kullanılan belli adresleme şekillerini belirleyebilir.
+
+Daha karmaşık işlemler, sırasıyla yerine getirilen (bir von Neumann makinesinde) veya başka bir şekilde kontrol akış komutlarıyla yönlendirilen bu basit komutların birleştirilmesiyle oluşturulur.
+
+Pek çok komut grubunda yer alan bazı işlemler:
+
+• taşıma
+
+. bir sabit değere bir kayıt yerini ayarlayınız (CPU’nun kendisinde geçici bir “scratchpad” (bir bilgisayar sisteminde geçici sonuçları tutmak için kullanılan bir bellek) yeri)
+
+. verileri bir bellek yerinden bir kayıt yerine veya kayıt yerinden bir bellek yerine taşıyınız. Bu işlem daha sonra bir hesaplama yapmak veya hesaplama sonucunun saklamak için verilerin temin edilmesi amacıyla yapılır.
+
+. donanım cihazlarından verileri okuyunuz ve yazınız.
+
+• hesaplama
+
+. sonuçları bir kayıt yerine yerleştirerek iki kayıt yerinin değerlerini toplayınız, çıkarınız, çarpınız veya bölünüz.
+
+. bir çift kayıt yerindeki (pair of registers) ilgili bit’lerin birleşimini/ayrımını (ve/veya) alarak veya bir kayıt yerinde (register) her bir bit’i eksilterek bit’e yönelik işlemleri yapınız.
+
+. Kayıt yerlerindeki iki değeri karşılaştırınız ( örneğin, birinin diğerinden az olup olmadığını veya ikisinin de birbirlerine eşit olup olmadıklarını anlamak için)
+
+• Program akışının etkilenmesi
+
+. programda başka bir yere atlayınız ve orada komutları yerine getiriniz.
+
+. belli bir koşulun oluşması halinde başka bir yere atlayınız.
+
+. başka bir yere atlayınız, ancak (bir çağrıya) dönüş noktası olarak bir sonraki komutun yerini saklayınız.
+
+Bazı bilgisayarlar içerdikleri komut grubunda karmaşık (complex) komutlara sahiptirler. Tek bir “complex” komut diğer bilgisayarlarda pek çok komutları alabileceği bir şeyi yapar. Bu tür komutlar çoklu adımlar atan, çoklu fonksiyonel birimleri kontrol eden, veya başka bir şekilde belli bir işlemci tarafından uygulanan basit talimatların tümünden daha hacimli görünen komutlar olarak sınıflandırılırlar. “Complex” (Karmaşık) komutların bazı örnekleri aşağıda verilmiştir:
+
+• Bir defada “stack” ( bir uçtan erişilebilir birbirini takip eden bellek yerlerinin bir bloğu) üzerinde pek çok kayıt yerlerini (registers) saklayan
+
+• Geniş bellek bloklarını taşıyan
+
+• Karmaşık (complex) ve/veya kayan nokta (floating point) aritmetiği (sinüs, kosinüs, karekök, vs.)
+
+• Bir atomik test et ve kur (test-and-set) komutunu yerine getiren
+
+• ALU’yu bir “register” (kayıt yeri) yerine bellekten gelen bir “operand” (işlem faktörü) ile birleştiren komutlar.
+
+Son zamanlarda özellikle çok popüler hale gelen bir kompleks (karmaşık) komut türü SIMD işlemi veya aynı zamanda çoklu veri parçaları üzerinde aynı aritmetik işlemi yapan bir işlem olan vektör komutudur. SIMD komutları çoğunlukla ses, görüntü ve video işleminde bulunan algoritmaların kolayca paralelizasyonunu sağlar. MNX, 3DNow ve AltiVec gibi ticari markalarda muhtelif SIMD uygulamaları piyasaya sunulmuştur.
+
+Komut takımlarının (grubu) tasarımı karmaşık bir husustur. Basit bir komut takımı küçültülmüş işlemci büyüklüğü ve düşük enerji tüketimiyle birlikte yüksek hızlar için potansiyel oluşturabilir; daha karmaşık olan genel işlemleri optimize edebilir, bellek/kaşe verimliliğini artırabilir, veya programlamayı basitleştirebilir. Bu farklılık genellikle CISC’ye (Complex Instruction set Computer) (Kompleks Komut Grubu Bilgisayarı) karşı RISC (Reduced Instruction Set Computer) (Küçültülmüş Komut Grubu Bilgisayarı) açısından tartışılır, ancak bu bir aşırı basitleştirmedir. (Örneğin, RISC kavramı bir mikro programlanan mimariye açık – assembly dil programlanmasında direkt yoldan ziyade derleyici teknoloji tarafından işletilmeyi amaçlayan- olarak düşünülebilir. Programlama kolaylığı ve pek çok optimizasyon meseleleri tartışılacak bir konuyu teşkil eder). İlgili yorumlar için komut grubuna (instruction set) bakınız.
+
+2.Dil Tasarımı
+Assembly dilindeki komutlar (emirler) yüksek seviyeli bir dilin aksine genellikle oldukça basittirler. Her bir komut tipik olarak bir işlem kodundan (veya, sadece, komut) artı sıfır veya daha fazla “operand” lardan ( işlem faktörlerinden) ibarettir. Komutların pek çoğu tek bir değere veya değer çiftine atıfta bulunurlar. Dilde kodlanan bir komut genellikle doğrudan yerine getirilebilir makine dili komutuna tekabül eder.
+
+Pek çok assembly dillerinde ortak olarak bulunan diğer elemanlar arasında aşağıdakiler yer alır:
+
+• Veri tarifleri. İlave direktifler programcının makine dil komutlarıyla referans için saklama (depolama) alanlarını ayırmasını sağlarlar. Depolama tipik olarak gerçek sayılar, diziler ve diğer primitif veri tipleriyle başlatılabilir.
+
+• Etiketler. Veri tariflere programcı tarafından belirlenen isimler (etiketler veya semboller) ve tipik olarak referans sabiteleri, değişkenler veya yapı elemanları kullanılmak suretiyle referanslandırılırlar. Etiketler aynı zamanda kod yerlerine de tahsis edilebilirler, örneğin alt rutin giriş noktaları veya GOTO destinasyonları gibi. Çeviricilerin pek çoğu programcıların farklı isim yerlerini yönetmesine, veri yapıları içinde ofsetleri otomatik olarak hesaplamalarına ve gerçek değerlere veya çevirici tarafından gerçekleştirilen basit hesaplamaların sonucuna atıfta bulunan etiketleri belirlemesine imkân veren esnek sembol yönetimini sağlarlar.
+
+• Yorumlar. Pek çok bilgisayar dilleri gibi çevirici tarafından göz ardı edilen yorumlar assembly kaynak koduna eklenebilirler.
+
+• Makrolar. Pek çok çevirici bir takım argümanlara dayalı kod veya veri üreten dahili (embedded) bir makro dile sahiptirler. Makrolar tekrardan kaçınmak amacıyla programcı tarafından kodlanabilir, örneğin ortak bir veri yapısının oluşturulması. Makrolar belli bir işlemi kapsayacak şekilde bir satıcı veya üretici tarafından da temin edilirler. Örneğin:
+
+o 8-bit işlemcililer, iki ardışık “byte” içinde saklanan 16-bit’lik bir miktarı artıran veya azaltan bir makronun kullanılması yaygındır – normal olarak örneğin 6502 gibi üç veya dört komutu gerektirecek olan ortak bir operasyon.
+
+o I/O operasyonları veya alt seviyeli çalışan sistem talepleri gibi Standard sistem ara yüzlerin kullanılması için Üreticiler makrolar temin ederler. IBM ana gövdesinde, muazzam makro kütüphaneleri sayısız IBM erişim yöntemlerine ve diğer sistem servislerine erişimi sağlar.
+
+o Pek çok işlemci mimarisi idyomatik (deyimsel) komut dizilerine sahiptir (hatta pek çok çeviriciler ortak kullanımlar için gömme makrolara da sahiptirler). Örneğin, bir IBM ana gövdesindeki para birimi formatlama işlemi “Edit” ve “Mark” (EDMK) komutu dahil dört komuttan oluşan bir sıralamayı üretmek için bir makroyu yaygın bir şekilde kullanmıştır. Söz konusu özellikler yüksek seviyeli dil tasarımlarından ödünç alınırlar. Bunlar kodlama alt seviyeli kodu sürdürme problemlerini büyük ölçüde basit hale getirebilirler. Derleyiciler veya “disassembler”ler (çevirmeyenler) tarafından üretilmiş olan ham (işlenmemiş) assembly kaynak kodunun – yani, yorumsuz, anlamlı semboller, veya veri tanımları – okunması oldukça zordur.
+
+Pek çok assembly dilleri yukarıda belirtilen temel karakteristikleri paylaşırlar. Ancak, bazı olağandışı istisnalar bulunmaktadır, şöyle ki;
+
+• Bazı çeviriciler, sembolik değişkenler, şarta bağlı olanlar, dizi (string) maniplasyonu, ve aritmetik işlemler gibi, hepsi verilen bir makro’nun yerine getirilmesi sırasında faydalı olan ve makroların konteksti saklamasına veya bilgi alışverişinde bulunmasına imkân veren, yüksek seviyeli dil elemanlarını ihtiva eden oldukça sofistike makro dillere sahiptirler. Böylece bir makro, makro argümanlarına dayalı büyük miktarda assembly dil komutlarını veya veri tanımlarını yayabilecektir. Bu, örneğin, kayıt tarzı veri yapılarını veya “unrolled” (sarılmamış) halkaları (loops) üretmek için kullanılabilecektir veya kompleks parametrelere dayalı tüm algoritmaları üretebilecektir. Böyle bir makro süiti kullanarak ağır bir şekilde genişlemiş olan assembly dilini kullanan bir teşkilat tartışmalı olarak bir miktar yüksek seviyeli dil içinde çalışmakta olduğu düşünülebilir – bu tür programlar bir bilgisayarın en düşük seviyeli kavramsal elemanlarıyla çalışmamaktadır.
+
+• Bazı çeviriciler icra akışını şifrelemek (encode) için yapısal programlamaya sahiptirler. Bu yaklaşımın ilk örneği IBM’in Thamos Watson Araştırma Merkezinde Marvin Zloof tarafından geliştirilen Concept-14 makro set’de görülmüştür; bu S/370 makro çeviriciyi IF/ELSE/ENDIF ve benzer kontrol akış bloklarıyla genişletmiştir. Bu assembly kodunda GOTO işlemlerinin kullanımını azaltmada veya elimine etmede kullanılan bir usul olmuştu, assembly dilinde spagetti koduna neden olan ana faktörlerden birisi. Bu yaklaşım daha sonraki günlerde büyük ölçekli assembly dilinin kullanımında geniş kullanım alanı bulmuştur, yani 80’li yılların başlarında.
+
+• Garip bir tasarım A-natural, Whitesmiths Ltd.’den (Unix benzeri Idris’in geliştiricileri olan ve ilk ticari C derleyicisi olduğu bildirilen) 8080, Z80 işlemcileri için bir “stream-oriented” (akışa yönelik) çevirici olmuştur. Bu dil bir çevirici olarak sınıflandırılmıştı, çünkü bu dil işlem kodları, “register”ler ( kayıt yerleri) ve bellek referansları gibi ham makine elemanlarıyla çalışmıştı; fakat icra emrini göstermek için bir ifade sentaksını içermiştir. Blok’a yönelik yapısal programlama yapılarının yanında parantezler ve diğer semboller üretilen komutların sırasını kontrol etmiştir. “A-natural” elle kodlama amacından ziyade bir C derleyicisinin hedef dili (object language) olarak kurulmuştu, fakat bu dilin mantıksal sentaksı birtakım taraftarın oluşmasını (destekçilerin ortaya çıkmasını) sağlamıştır.
+
+Büyük ölçekli assembly dilinin gelişmesindeki gerilemeden bu yana daha sofistike çeviriciler için çok az görünür talep olmuştur.
+
+3.Assembly Dilinin Kullanımı
+3.1.Tarihsel Perspektif
+
+Tarihsel olarak tamemen assembly dilinde olmak üzere çok sayıda programlar yazılmıştır. Çalışan sistemler 1970’li yıllarda ve 1980’li yılların başlangıcında C’nin yaygın bir şekilde kullanılmasının kabul edilmesine kadar hemen hemen münhasıran assembly dilinde yazılmışlardı. Büyük şirketler tarafından yazılan büyük miktarda IBM ana gövde (mainframe) (bilgisayarın kalbi) yazılımı dahil pek çok ticari uygulamalar da assembly dilinde yazılmıştı. Birtakım büyük şirketlerin 80’li yıllarda assembly dil uygulaması altyapılarını muhafaza etmelerine karşın COBOL ve FORTRAN dolayısıyla bu işin çoğunu değiştirmiştir.
+
+İlk mikrobilgisayarların pek çoğu, genellikle çalışan sistemler ve geniş uygulamalar dahil elle kodlamalı assembly diline bel bağlamıştı. Bunun nedeni adı geçen sistemlerin konulan özel (idiosyncratic) bellek ve display mimarileri, ve sağlanan sınırlı “buggy” sistem servisleri yüzünden ciddi kaynak sıkıntıları içinde bulunmalarıydı. Belki de daha önemlisi mikrobilgisayar kullanımına uygun birinci sınıf yüksek seviyeli dil derleyicilerinin bulunmayışıydı. Bir psikolojik faktöründe bunda rolü olmuş olabilir: mikrobilgisayar programcılarının ilk nesli bir hobici (meraklı), “teller ve pense” davranışı içindeydi. Bu zamandan kalan tipik büyük assembly dil programlarının örnekleri CP/M ve MS-DOS işlem sistemleridir; ilk IBM PC “spreadsheet” ( hesap tablosu) programı Lotus 123, ve hemen hemen tüm popüler oyunlar için Commodore 64. Hatta 1990’lı yıllarda Mega Drive/Genesis ve Super nintendo Entertainment System için pek çok oyunlar dahil, pek çok konsol video oyunları assembly dilinde yazılmıştı. Popüler pasaj (arcade) oyunu NBA Jam (1993) buna başka bir örnektir.
+
+3.2.Mevcut (günümüzdeki) Kullanım
+
+Günümüzde dikkatleri çok az çekse de assembly dilinin yüksek seviyeli dillere göre faydalılığı ve performansı üzerinde sürekli olarak tartışmalar yapılmaktadır. Assembly dili önemli olduğunda kullanılan spesifik uygun bir yere sahiptir: aşağıya bakınız. Ancak genel olarak modern işlemciler etkin elle yapılan optimizasyonu giderek zorlaştırmaktadır. Ayrıca, ve verimliliği sevenlerin korkulu umutsuzluklarına karşın artış gösteren işlemci performansı pek çok CPU’ların zamanın çoğunda boş oturduklarını, I/O işlemleri ve çağrı (paging) gibi önceden tahmin edilen sıkıntıların neden olduğu gecikmelerin söz konusu olduğunu ifade etmektedir. Bu pek çok programcılar için ham kodun çalışma hızını bir mesele olmaktan çıkarmıştır (böylece aşikar performans etkisi olmaksızın yorumlanan dillerin kullanımı artırılmıştır).
+
+Aslında günümüz uzman pratisyenlerin assembly dilini tercih edebileceği sadece çok az durum vardır: şöyle ki:
+
+• Tek başına bir ikilinin icra edilmesi gerektiğinde, bir başka deyişle yüksek seviyeli bir dille bağlantılı olarak çalışma süresi elemanlarına veya kütüphanelerine başvurmaya gerek duyulmaksızın icra etmesi kesinlikle şart olan; bu belki de en çok karşılaşılan durumdur.
+
+• Donanımla doğrudan etkileşim sağlandığında, örneği: bir cihaz sürücüsünde veya derleyici tarafından kullanılmayan veya derleyicide bulunmayan işlemciye özel komutların kullanılması halinde.
+
+• Ekstrem (aşırı) optimizasyonun gerekmesi halinde, örneğin; işlemci yoğun algoritma içindeki bir dahili döngü(loop) içinde.
+
+• Sınırlı kaynakların kullanımını maksimize etmek için ciddi kaynak sıkıntısı içindeki bir sistemin (örneğin: bir dahili sistem) elle kodlanması gerektiğinde; ancak işlemci fiyatı/performansı kanıtlamadığından bu daha az yaygın hale gelmektedir.
+
+• Yüksek seviyeli dilin mevcut olmaması halinde, örneğin; bir yeni veya uzmanlaşmış işlemcide.
+
+Günümüzde pek az programcı günlük bazda assembly dilini kullanma gereğini duymaktadır. Performans-kritik uygulamalar için C gibi alt seviyeli bir dil genellikle seçilebilecektir. Şimdi, bir assembly dilinde yazılan programdan daha az verimli olan bir C programını yazmak çok güçtür.
+
+Ancak, assembly dili pek çok Bilgisayar Bilimi programlarında hala öğretilmektedir. Bir araç olarak günümüzde az sayıda programcılar düzenli olarak assembly dili ile çalışmaktaysalar da kolayca görülmeyen ancak önemli olan kavramlar hala önemini sürdürmektedir. İkili (binary) aritmetik, bellek tahsisi, “stack” işleme, karakter seti kodlaması, kesme işlemi ve derleyici tasarımı gibi ana konular üzerinde ayrıntılı olarak çalışmak bir bilgisayarın donanım seviyesinde nasıl çalıştığını tam olarak kavramadan çok zor olacaktı. Bir bilgisayarın davranışı esas itibariyle kendi komut setiyle belirlendiğinden, bu kavramların öğrenilmesindeki mantıksal usul bir assembly dili üzerinde çalışma yapmaktır. Neyse ki, pek çok modern bilgisayarlar benzer komut setlerine sahiptir, böylece tek bir assembly dili üzerindeki çalışma temel kavramları (concepts) öğrenmek, assembly dili kullanımının uygun olabileceği durumları tanımak ve verimli icra edilebilir bir kodun yüksek seviyeli dillerden yaratılabileceğini anlamak için yeterlidir.
+
+3.3.Tipik Uygulamalar
+
+Elle kodlanmış assembly dili tipik olarak bir sistemin BIOS’unda kullanılır. Bu alt seviyeli kod diğerleriyle birlikte OS’yi tanıtmadan (booting) önce sistem donanımını çalıştırmak ve test etmek için kullanılır ve ROM içinde saklanır. Bir kez belli bir seviyedeki donanımın initializasyonu (ilk çalıştırılması) yapılırsa, icraat diğer koda geçer, tipik olarak yüksek seviyeli dillerde yazılmıştır; fakat güç devreye alındıktan hemen sonra çalışan kod genellikle assembly dilinde yazılır. Aynı şey pek çok “boot” yükleyicileri içinde geçerlidir.
+
+Pek çok derleyiciler tam derleme yapılmadan önce ilk iş olarak, assembly kodunun hatadan kurtarma (debugging) ve optimizasyon amacıyla görülmesine imkân vererek yüksek seviyeli dillerin assembly (çevirme) içine alınmasını sağlar.
+
+Bu imkânları kullanan programlar, Linux kernel gibi, daha sonra her bir donanım platformu üzerinde farklı assembly dili kullanan abstraksiyonları inşa edebilirler. Sistemin taşınabilir kodu daha sonra bu işlemciye özel elemanları yeknesak bir ara yüz vasıtasıyla kullanabilir.
+
+Pek çok program sadece makine kodu formunda dağıtıldıklarından, ve makine kodunun genellikle assembly diline çevrilmesi kolay olduğundan ve bu formda dikkatlice incelendiğinden, fakat bir yüksek seviyeli dile çevirmek çok zor olduğundan, assembly dili ters mühendislikte de kıymetlidir. Enteraktif Disassembler (çeviri yapmayan) gibi araçlar bu amaca yönelik “disassembly”nin kapsamlı kullanımına imkân verir.
+
+4.İlgili Terminoloji
+• Assembly (çevirme) dili veya çevirici dili genel olarak assembly (çevirme), assembler (çevirici), ASM, veya sembolik makine kodu şeklinde adlandırılır. IBM ana gövde (mainframe) programlayıcılarının bir nesli Temel Assembly Dili için BAL olarak adlandırılır.
+
+Not: Dil çeviricisi teriminin kullanılması şüphesiz potansiyel olarak karıştırılır ve müphemdir, çünkü bu terim aynı zamanda assembly dil komutlarını makine koduna çeviren faydalanma (utility) programının da adıdır. Bazıları bunun tam karşılığı olmadığını veya hata olduğunu düşünebilir. Ancak, bu kullanım profesyoneller arasında ve literatürde on yıldan beri yaygın bir kullanıma sahiptir. Aynı şekilde bazı ilk bilgisayarlar çeviricilerine assembly programı olarak adlandırmışlardır.
+
+• Tüm makro işlem dahil bir çeviricinin çalıştığı hesapsal (computational) adım assembly (çevirme) zamanı olarak bilinir.
+
+• Assembly (çevirme) sözcüğünün kullanımı bilgisayarın ortaya çıktığı ilk yıllar kadar eskidir (karşılaştırınız: kısa kod. Hızlı kod/”hızlı kodlama”).
+
+• Bir çapraz çevirici (cross assembler) (çapraz derleyiciye bakınız) tek tip işlemci için kod üretir, fakat başka birisinin üzerinde çalışır. Yeni işlemciler için yazılımların geliştirilmesi sırasında bu teknoloji özellikle önemlidir.
+
+5.Daha Fazla Bilgi
+Hem geçmişte hem de günümüzde verilen herhangi bir kişisel bilgisayar, ana gövde, dahili sistem, ve oyun konsolu için çeviricilerden (muhtemelen düzinelerce) en az biri yazılmıştır. Örnekler için çeviriciler listesine bakınız.
+
+Unix sistemlerinde çevirici geleneksel olarak “as” olarak adlandırılır; kodun tek bir gövdesi olmasa da, her bir port için tipik olarak yeniden yazılır. Unix varyantlarının bir kısmı GAS kullanır.
+
+İşlemci grupları içerisinde her bir çevirici kendine ait diyalekte sahiptir. Bazen, bazı çeviriciler başka bir çeviricinin diyalektini okuyabilir, örneğin, TASM eski MASM kodunu okuyabilir, fakat eski MASM kodu TASM’yi okuyamaz. FASM ve NASM aynı sentaksa sahiptirler, fakat her biri birbirlerine çevirmeyi güçleştiren farklı makroları destekler. Temel tamamıyla aynıdır, fakat ileri özellikler farklı olacaktır.
+
+Ayrıca, assembly (çevirme) bazen aynı tip CPU üzerindeki farklı çalışan tüm sistemlerde taşınabilir. Çalışan sistemler arasında konvansiyonlar olarak çağrılması sıklıkla biraz farklıdır, ve büyük dikkat ile assembly dilinde bir miktar portatifliğin elde edilmesi mümkündür, genellikle çalışan sistemler arasında değişmeyen bir C kütüphanesi ile bağlanarak. Ancak, arayanın çalışan sistemler arasında değişebilen ön işlemci makroları kullanmasını isteyen C kütüphanesi ile portatif olarak bağlanmak mümkün değildir.
+
+Örneğin, derlemeden önce “libe”deki pek çok şey OS-specific, C-specific şeyleri programda yapmak için ön işlemciye bağlıdır. Aslında, bazı fonksiyonların ve sembollerin ön işlemcinin dışında varlıkları da garanti edilemez. En kötüsü, “structs” ın büyüklüğü ve alan sırası, aynı zamanda “off t” gibi belli “typedefs” büyüklüğü assembly dilinde hiç yoktur, ve parametreler olarak sadece basit tam sayıları ve ibreleri alanların dışında “libe” deki fonksiyonları portatif olarak aramayı imkânsız hale getirerek Linux versiyonları arasında da farklıdırlar.
+
+C gibi bazı yüksek seviyeli bilgisayar dilleri, assembly kodunun oldukça kısa bölümlerinin yüksek seviyeli dil kodunun içerisine yerleştirilebilindiği “Inline assembly”yi desteklerler. “Borland Pascal” de bir “asm” şifresiyle açılan bir çevirici derleyiciye sahip olmuştur. Bu başlıca Mouse (fare) ve COM-port sürücüleri oluşturmakta kullanılmıştı.
+
+Assembly dil programlarını hatadan arındırmak (debug) için pek çok kişi bir benzetici (emulator) kullanır.
+
+Aşağıda C, Visual Basic ve Assemblyde introduction programlarının farkı. Dil seviyesi yükseldikçe kod kısalmaktadır:
+
+Assembly
+
+
+
+title   Hello World Program                             (hello.asm)
+ 
+dosseg
+.model small
+.stack 100h
+ 
+.data
+hello_message db 'Hello World!',0dh,0ah,'$'
+ 
+.code
+main  proc
+      mov    ax,@data
+      mov    ds,ax
+ 
+      mov    ah,9
+      mov    dx,offset hello_message
+      int    21h
+ 
+      mov    ax,4C00h
+      int    21h
+main  endp
+end   main
+
+C
+
+
+
+#include<stdio.h>
+ 
+int main()
+{
+   printf("Hello World\n");
+   return 0;
+}
+
+Visual Basic
+
+
+
+ Sub Main()
+      MsgBox("Hello, World!") '
+  End Sub
+
+6.Referanslar
+1.http://en.wikipedia.org/wiki/Assembly_language
+
+2.David Salomon, Assemblers and Loaders. 1993
+
+3.Hyde, op. cit., Foreword ("Why would anyone learn this stuff?")
+
+4.Stroustrup, Bjarne, The C++ Programming Language, Addison-Wesley, 1986, ISBN 0-201-12078-X: "C++ was primarily designed so that the author and his friends would not have to program in assembler, C, or various modern high-level languages. [use of the term assembler to mean assembly language]"
+
+5.Saxon, James, and Plette, William, Programming the IBM 1401, Prentice-Hall, 1962, LoC 62-20615. [use of the term assembly program]
+
+6.Murdocca, Miles J., Vincent P. Heuring (2000). Principles of Computer Architecture. Prentice-Hall. ISBN 0-201-43664-7.
+
+7.Principles of Computer Architecture (POCA) – ARCTools virtual computer available for download to execute referenced code, accessed August 24, 2005
+
+Dış bağlantılar
+The Art of Assembly Language Windows 32bit
+The Art of Assembly Language GNU/Linux 32bit
+Open source assembly language compiler.
+The Place On The Internet to Learn Assembly
+x86 Assembly community
+Linux için Satıriçi Sembolik Makina Dili (Inline Assembly)
+"http://tr.wikipedia.org/w/index.php?title=Çevirici_diller&oldid=14981627" adresinden alındı.
+Kategori: Düşük seviyeli diller
+Bu sayfa son olarak 3 Ocak 2015, 13:37 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

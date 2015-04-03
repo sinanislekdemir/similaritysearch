@@ -1,0 +1,492 @@
+Krebs (Medizin)
+
+aus Wikipedia, der freien Enzyklopädie
+Krebs, Krebsgeschwulst, syn. Malignom bezeichnet in der Medizin einen malignen (bösartigen) Tumor – eine bösartige Gewebeneubildung (Neoplasie). Im engeren Sinn sind die malignen epithelialen Tumoren (Karzinome) und die malignen mesenchymalen Tumoren (Sarkome) gemeint. Umgangssprachlich werden auch die bösartigen Hämoblastosen als Krebs, wie beispielsweise Leukämie als „Blutkrebs“, bezeichnet.
+
+Alle sonstigen Tumoren, zu denen auch benigne (gutartige) Neoplasien zählen, sind kein „gutartiger Krebs“ oder Krebs irgendeiner Form. Diese sind Gewebsvermehrungen oder Raumforderungen im Körper, die keine Metastasen bilden. Das betrifft sowohl die Schwellung bei einer Entzündung als auch gutartige Neoplasien (Neubildungen von Körpergewebe durch Fehlregulationen des Zellwachstums).
+
+Gutartige Tumore wie Muttermale und Fettgeschwülste (Lipome) werden in der Fachsprache nicht als Krebs bezeichnet, aber sie können trotzdem gefährlich werden, da sie entarten können oder lebenswichtige Organe in deren Funktion beeinträchtigen (etwa der Kleinhirn-Brückenwinkeltumor). Krebs ist im allgemeinen Sprachgebrauch ein Sammelbegriff für eine Vielzahl verwandter Krankheiten, bei denen Körperzellen unkontrolliert wachsen, sich teilen und gesundes Gewebe verdrängen und zerstören können. Krebs hat unterschiedliche Auslöser, die letztlich alle zu einer Störung des genetisch geregelten Gleichgewichts zwischen Zellzyklus (Wachstum und Teilung) und Zelltod (Apoptose) führen.
+
+Die sich dem Krebs widmende medizinische Fachdisziplin ist die Onkologie.
+
+Inhaltsverzeichnis
+
+1 Vorkommen und Verlauf
+2 Namensgeschichte
+3 Krebsentstehung
+3.1 Mehrschrittmodell/Dreistufenmodell
+3.2 Monoklonales Modell vs. Stammzellenmodell
+3.3 Historische Annahmen
+4 Theorien zu Krebsauslösern
+4.1 Umweltgifte und Strahlung
+4.2 Biologische Einflüsse
+4.3 Lebensstil und Lebensumstände
+4.4 Quantitative Einschätzung verschiedener Faktoren
+5 Folgen des Tumorwachstums
+5.1 Lokale Wirkungen
+5.2 Systemische Wirkungen
+6 Einordnung der Krebsarten
+6.1 Sonderformen
+6.2 Gewebeherkunft
+6.3 Lokalisation
+7 Statistik
+8 Behandlungsmöglichkeiten
+8.1 Aktuelle Behandlungsmethoden
+8.2 Alternative Behandlungsmethoden
+8.3 Rehabilitation
+9 Krebsvorbeugung
+10 Früherkennung
+11 Literatur
+12 Historische Quellen
+13 Siehe auch
+14 Weblinks
+15 Einzelnachweise
+Vorkommen und Verlauf
+
+
+Standardisierte Inzidenz (Neuerkrankungen)/100'000 Einwohner (Europastandard)
+und fünfjährige Überlebensraten in % in Deutschland 2008
+Art 
+Inzidenz
+
+5a-Überlebensrate
+
+♀ ♂ aktuell 1980er
+Insgesamt 349,9 450,0 ♀:57–66; ♂:52–60  ♀:50–53; ♂:38–40
+bei Kindern 
+15,9
+
+ca. 84  ca. 67
+Mundhöhle und Rachen  5,9 19,1  ♀:56–65; ♂:43–50  
+Speiseröhre 2,1 9,0 ♀:8–30; ♂:10–24 <10
+Magen 8,6 16,8  ♀:19–42; ♂:18–36  
+Darm  39,4  63,0  ♀:52–65; ♂:49–64  ca. 50
+Pankreas  9,8 13,4  ♀:4–11; ♂:3–10  
+Kehlkopf  0,9 6,9 ♀:60; ♂:42–68 
+Lunge 24,3  60,6  ♀:16–25; ♂:11–18  
+Malignes Melanom  16,6  17,1  ♀: 82–94; ♂:84–94 
+Brustdrüse der Frau 123,1 1,0 ♀: 83–87; ♂:61–77 
+Gebärmutterhals 9,5   56–75 
+Gebärmutterkörper 17,2    72–85 
+Eierstöcke  12,2    31–45 
+Prostata    110,9 87–94 
+Hoden   9,5 92–98 
+Niere 8,2 16,5  ♀:66–79; ♂:67–77  ca. 50
+Harnblase 9,9 37,1  ♀:39–62; ♂:50–69  
+Nervensystem  5,3 7,7 ♀:10–29; ♂:12–26  
+Schilddrüse 8,6 3,5 ♀:84–95; ♂:76–96  ♀:ca. 77; ♂:ca. 67
+Morbus Hodgkin  2,0 2,7 ♀:69–95; ♂:68–98  
+Non-Hodgkin-Lymphome  9,8 13,7  ♀:64–71; ♂:56–70  
+Leukämien 7,9 12,4  ♀:34–56; ♂:39–63  
+Quelle: Krebs in Deutschland 2007/2008 – Häufigkeiten und Trends. Eine gemeinsame Veröffentlichung des Robert-Koch-Instituts und der Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V., abgerufen am 13. Juli 2012.
+Prinzipiell kann jedes Organ des menschlichen Körpers von Krebs befallen werden. Es gibt jedoch erhebliche Häufigkeitsunterschiede nach Alter, Geschlecht, kollektiver Zugehörigkeit, geographischer Region, Ernährungsgewohnheiten und ähnlichen Faktoren. In Deutschland treten Krebserkrankungen gehäuft in Organen wie Brustdrüse (Frauen), Prostata (Männer), Lunge und Dickdarm auf.
+
+
+Krebs (in Rot dargestellt) ist in Deutschland bei Männern und Frauen die zweithäufigste Todesursache.
+
+Zellteilung im gesunden Gewebe gegenüber der bei Krebs
+Krebs ist in Deutschland nach den Herz-Kreislauferkrankungen die zweithäufigste Todesursache. Dennoch ist nicht jeder Krebsverlauf tödlich, falls rechtzeitig eine Therapie begonnen wird oder ein langsam wachsender Krebs erst in so hohem Lebensalter auftritt, dass der Patient an einer anderen Todesursache verstirbt. Die aktuellen von der Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V. (GEKID) 2012 veröffentlichten relativen 5-Jahresüberlebensraten über alle Krebsarten beziehen sich auf Patienten, die 2007 und 2008 erkrankten. Für Frauen lag der Wert bei 64 %, für Männer bei 59 %.[1] In nordeuropäischen Ländern gibt es noch günstigere Werte. In Finnland lagen beispielsweise die 5-Jahresüberlebensraten von Frauen und Männern, die 2007-2009 erkrankten, bei 65 % bzw. 62 %.[2] Als geheilt wird in der Onkologie ein Patient bezeichnet, der mindestens fünf Jahre lang ohne Rückfall (Rezidiv) überlebt. Diese Definition von „geheilt“ ist problematisch, weil viele Rückfälle erst zu einem späteren Zeitpunkt erfolgen. Es fließen mithin Patienten in die Krebs-Erfolgsstatistik ein, die später an Krebs sterben. Allerdings nähert sich bei den meisten Krebsarten nach rezidivfrei überlebten fünf Jahren die durchschnittliche Lebenserwartung derjenigen von Gleichaltrigen an.
+
+Eine Krebserkrankung äußert sich in verschiedenen Ausprägungen und Krankheitsbildern. Aus diesem Grund können keine generellen Aussagen bezüglich Lebenserwartung und Heilungschancen getroffen werden. Es sind gegenwärtig etwa 100 verschiedene Krebserkrankungen bekannt, die sich in Überlebenschance, Behandlungsmöglichkeiten und der Neigung zur Bildung von Metastasen teilweise stark unterscheiden.
+
+Die Häufigkeit der meisten Krebserkrankungen nimmt mit dem Alter deutlich zu, so dass man Krebs auch als eine Alterserkrankung des Zellwachstums ansehen kann. Daneben sind das Rauchen, andere karzinogene Noxen, familiäre Disposition (Veranlagung) und Virusinfektionen die Hauptursachen für Krebserkrankungen. Der Nobelpreisträger Harald zur Hausen führt gut 20 Prozent aller Krebserkrankungen auf Infektionen zurück (Humane Papillomviren (HPV), Hepatitis B und C, Helicobacter pylori, EBV, Humanes Herpesvirus 8 (HHV-8), Humanes T-lymphotropes Virus 1 (HTLV-1), bestimmte Parasiten (Blasenkrebs im Nildelta) und Merkelzell-Polyoma-Virus).[3] In Deutschland und den Vereinigten Staaten wird dieser Anteil als deutlich geringer eingeschätzt und mit etwa 5 Prozent angenommen.[4]
+
+Durch Krebsvorbeugung und Früherkennung kann das Krebsrisiko unter bestimmten Umständen (abhängig vom Diagnosezeitpunkt, der Krebsart und einem dafür optimalen Alter des Patienten) deutlich verringert werden.
+
+Krebs ist keinesfalls eine Erkrankung der Neuzeit. Es ist eine evolutionsgeschichtlich gesehen sehr alte Erkrankung, die prinzipiell zumindest alle Säugetiere betreffen kann. Krebs kommt im humanmedizinischen Sinne bei anderen Organismengruppen wie Pflanzen oder Reptilien (die ältesten Tumorbefunde liefern Saurierknochen) wahrscheinlich nicht vor; Gewebswucherungen sind hier eher als benigne Tumoren anzusprechen. Auch die unmittelbaren Vorfahren des Menschen (Homo), wie beispielsweise der Australopithecus (vor 2 bis 4,2 Millionen Jahren), hatten Krebs.[5] Krebserkrankungen haben die Menschheit während der gesamten Evolution begleitet.[6] Im Papyrus Ebers aus der Zeit 1550 vor Christus werden Krebserkrankungen erwähnt.[7]
+
+Namensgeschichte
+
+Die deutsche Bezeichnung der Tumoren mit „Krebs“ stammt aus dem Altgriechischen, wo durch karkínos (καρκίνος) ebenfalls sowohl das Tier als auch die Krankheit benannt wurde. Als Bezeichnung für Geschwüre taucht der Name zuerst im Corpus Hippocraticum auf. Im 2. Jahrhundert n. Chr. erläutert Galenos die Herkunft des Namens:
+
+„… und an der Brust sahen wir häufig Tumoren, die der Gestalt eines Krebses sehr ähnlich waren. So wie die Beine des Tieres an beiden Seiten des Körpers liegen, so verlassen die Venen den Tumor, der seiner Form nach dem Krebskörper gleicht.“
+
+– Galenos von Pergamon
+Aristoteles bezeichnete als Krebs oberflächlich feststellbare, in benachbarte Organe infiltrierende und einwachsende Geschwülste (etwa fortgeschrittener Hautkrebs oder Brustkrebs).
+
+Im Mittelalter galt der Brustbereich dem Tierkreiszeichen Krebs zugehörig (vgl. Homo signorum).
+
+Krebsentstehung
+
+
+Krebsentstehung durch Ungleichgewicht von Zellwachstum und -tod
+In einem gesunden Organismus werden die Zelltypen, aus denen sich die verschiedenen Gewebe der Organe aufbauen, in einem ausgewogenen artspezifischen Gleichgewicht gebildet und regeneriert, was als Homöostase bezeichnet wird. In diesem Zustand der Homöostase gibt es ein Gleichgewicht zwischen der Vermehrung von Zellen (Zellproliferation) und dem Zelltod. Der Hauptanteil des Absterbens von Zellen erfolgt dabei durch Apoptose, bei der die Zellen „Selbstmord“ begehen. In pathologischen Situationen kann dieses Absterben auch durch Nekrose geschehen. Bei Krebs ist dieses Gleichgewicht zu Gunsten des Zellwachstums verändert. Die Krebszellen wachsen dabei ungehindert, da hemmende Signale nicht erkannt oder nicht ausgeführt werden. Der Grund liegt in Defekten des benötigten genetischen Codes, die durch Mutationen im Genom entstanden sind. Weitere Beispiele einer Deregulation der Homöostase sind mit zu viel Zellwachstum Autoimmunerkrankungen und mit zu viel Zelltod AIDS, Hepatitis B und neurodegenerative Erkrankungen.
+
+Etwa 5.000 der insgesamt 25.000 Gene des Menschen sind für die sichere Erhaltung des genetischen Codes von einer Zellgeneration zur nächsten zuständig. Diese sogenannten Tumorsuppressorgene überwachen die korrekte Abfolge der Basenpaare in der DNA nach jeder Reduplikation, entscheiden über die Notwendigkeit von Reparaturvorgängen, halten den Zellzyklus an, bis die Reparaturen ausgeführt sind, und veranlassen gegebenenfalls einen programmierten Zelltod (Apoptose), falls die Reparatur nicht zum Erfolg führt. Daneben sind die Protoonkogene zuständig für die Einleitung oder den Unterhalt der Proliferation der Zelle und ihrer anschließenden Entwicklung zu einem bestimmten Zelltyp (Differenzierung).
+
+
+Eigenschaften von Krebszellen
+Nach der heute als plausibel geltenden Theorie der Krebsentstehung (Karzinogenese) ist das primäre Krankheitsereignis eine Veränderung in einem dieser Wächtergene − entweder durch einen Kopierfehler oder seltener durch eine angeborene Mutation. Dieses Gen kann dann den von ihm überwachten Teilschritt nicht mehr korrekt begleiten, so dass es in der nächsten Zellgeneration zu weiteren Defekten kommen kann. Ist ein zweites Wächtergen betroffen, so potenziert sich der Effekt fortlaufend. Wenn auch Apoptose-Gene (z. B. p53) betroffen sind, die in einer solchen Situation den programmierten Zelltod auslösen müssten, werden diese Zellen unsterblich. Durch die Aktivierung der Protoonkogene wird ein Krebs zum Wachstum angeregt, was in einer Raumforderung und in Folge zu auftretenden Schmerzen führen kann. Zur Krebsentstehung sind mehrere solcher Mutationen notwendig (engl. multiple hit model).[8]
+
+Die Proliferation einer in den relevanten Genen veränderten Zelle zu einem Zellhaufen vergrößert dabei entscheidend die Wahrscheinlichkeit für eine weitere relevante genetische Veränderung im Rahmen des Mehrschrittprozesses, da bei jedem Kopiervorgang der DNA Fehler entstehen können. Solche Veränderungen können auch durch äußere Einflüsse (z. B. krebserregende Stoffe, Onkoviren) induziert werden, oder durch eine genetische Instabilität der veränderten Zellpopulation zustande kommen. Irritierende Reize können durch Erhöhung der Proliferation diesen Prozess beschleunigen. Während bei einigen Tumoren eine oder zwei Mutationen ausreichen können[9], gibt es auch Tumoren, bei welchen bis zu zehn verschiedene Mutationen erfolgt sein müssen. Einige dieser notwendigen Mutationen können vererbt werden, was erklärt, dass auch sehr kleine Kinder an Krebs erkranken können und dass Krebs in sogenannten „Krebsfamilien“ gehäuft auftreten kann. Ein typisches Beispiel dafür ist das vererbbare Xeroderma pigmentosum. Bei nahen Verwandten von Patientinnen mit Brustkrebs ist die Wahrscheinlichkeit, Brustkrebs zu bekommen, doppelt so hoch wie in der übrigen Bevölkerung. In den dazwischenliegenden Schritten der Tumorentstehung (Promotion und Progression) spielen nicht genotoxische Prozesse eine große Rolle, was Beobachter dazu verleiten könnte, diese Einflüsse als eigentliche „Krebserreger“ einzustufen.
+
+Durch weitere Veränderungen der DNA kann die Zelle zusätzliche Eigenschaften ausbilden, die eine Behandlung der Krebserkrankung erschweren, darunter die Fähigkeit, unter Sauerstoffmangel zu überleben, eine eigene Blutversorgung aufzubauen (Angiogenese) oder aus dem Verband auszuwandern und sich in fremden Geweben wie Knochen (Knochenmetastase), Lunge (Lungenmetastase), Leber (Lebermetastase) oder Gehirn (Hirnmetastase) anzusiedeln (Metastasierung). Erst durch diese Fähigkeit gewinnt der Krebs seine tödliche Potenz: 90 % aller Krebspatienten, bei denen die Krankheit tödlich ausgeht, sterben nicht am Primärtumor, sondern an den Folgekrankheiten der Metastasierung.
+
+Das Immunsystem versucht grundsätzlich, die unkontrolliert wachsenden Zellen aufzuspüren und zu bekämpfen (engl. immune surveillance). Erste Vermutungen, dass Tumore durch eine Immunreaktion schrumpfen oder verschwinden können, sind von Louis Pasteur aufgestellt worden, eine genauere Beschreibung erfolgte jedoch erst 1957 durch Thomas und Burnet.[10] Da diese aber in vielerlei Hinsicht normalen Körperzellen gleichen, sind die Unterschiede und damit die Abwehrmaßnahmen meist nicht ausreichend, um den Tumor zu kontrollieren.
+
+Krebszellen sind häufig aneuploid, das heißt, sie haben dann eine veränderte Chromosomenzahl.[11] Es wird momentan untersucht, ob die Aneuploidie von Krebszellen Ursache oder Folge der Erkrankung ist. Damit verbunden ist die Theorie, wonach die Entstehung von Krebs nicht oder nicht nur auf die Mutation einzelner Gene, sondern vor allem auf die Veränderung des kompletten Chromosomensatzes zurückgeht.[12] Diese Unterschiede in den Chromosomensätzen entarteter Zellen führte auch zur Betrachtung mancher Krebsarten als einer jeweils neuen Spezies.[13]
+
+Mehrschrittmodell/Dreistufenmodell
+
+Die meisten Krebsforscher gehen vom sogenannten ‚Mehrschrittmodell‘ der Krebsentstehung aus. Das Mehrschrittmodell versucht die Krebsentwicklung ursächlich zu verstehen. Hierbei entspricht jeder einzelne Schritt einer bestimmten genetischen Veränderung. Jede dieser Mutationen wiederum treibt die stufenweise fortschreitende Verwandlung einer einzelnen normalen Zelle in hochmaligne Abkömmlinge voran (Maligne Transformation).[14] Die eigentliche Malignität (bei malignen Tumoren) der entarteten Zelle wird in der Phase der Progression erreicht. Die Begriffe Promotion und Progression werden zunehmend vom Begriff der Co-Karzinogenese ersetzt.
+
+Das ältere sogenannte ‚Dreistufenmodell‘ gliedert die Krebsentstehung dagegen in Phasen: Initiation, Promotion und Progression. So soll die Jahre bzw. Jahrzehnte dauernde Latenzphase zwischen dem initialen DNA-Schaden, also der Transformation einer einzelnen Zelle, und dem nachweisbaren Tumor erklärt werden. Problematisch am Dreistufenmodell ist, dass die Begrifflichkeiten Initiation, Promotion und Progression lediglich beschreiben und nicht die Ursache erklären.
+
+Monoklonales Modell vs. Stammzellenmodell
+
+Die monoklonale Theorie der Krebsentstehung geht davon aus, dass alle Tumorzellen gleich sind, d.h. sofern sie zur Teilung in der Lage sind, können sie jederzeit Ausgangspunkt neuer Tumore werden. Das Stammzellenmodell beschreibt dagegen eine Hierarchie: aus wenigen Krebsstammzellen leiten sich die normalen Krebszellen ab, die den Tumor durch häufige Teilung vergrößern. Solche Stammzellen könnten erklären, warum Chemo- oder Strahlentherapien einen bestehenden Tumor zunächst verschwinden lassen, es aber dennoch nach einiger Zeit zum Wiederauftauchen der Tumore kommt: da sich die Stammzellen deutlich seltener teilen als Tumorzellen, sind sie auch durch die meisten Chemotherapien weniger verwundbar. Aus den verbleibenden Stammzellen würden dann neue, sich schnell teilende Tumorzellen gebildet. Inwieweit solche Tumorstammzellen existieren und ob sie trotz Resistenz gegenüber bisherigen Behandlungsansätzen eliminiert werden können, ist Gegenstand der aktuellen Forschung.[15]
+
+Im Jahr 2009 gab es erste Hinweise solcher Resistenzen bei Brustkrebsstammzellen.[16] 2012 lieferten einige Forschungsarbeiten unabhängig voneinander weitere Hinweise auf Stammzellen bei gutartigen Tumoren von Haut und Darm, aber auch bei Glioblastomen, einem bösartigen Gehirntumor.[17][18][19]
+
+Eine neue Theorie des Krebsforschungspioniers Robert Weinberg vergleicht das Verhalten von Tumoren und Embryonen (siehe auch den Abschnitt Historische Annahmen). Eine befruchtete menschliche Eizelle (Zygote) bzw. der Embryo wird nicht von der Gebärmutterschleimhaut passiv versorgt, sondern nistet sich aktiv durch Invasion in ihr ein und lockt mit bestimmten Faktoren kleine Blutgefäße zur Versorgung an. Danach teilt sich die Zygote/der Embryo sehr häufig und vermehrt sich so exponentiell. Genau diese drei Verhaltensweisen kennzeichnen erstaunlicherweise eine invasive metastasierende Krebszelle. Da Krebszellen bekanntermaßen embryonale Gene reaktivieren (z.B. für das Alpha-1-Fetoprotein), liegt der Schluss nahe, dass Krebs aus Körper- oder adulten Stammzellen entsteht (s.o.), die durch Fehlsteuerung ein früheres Entwicklungsstadium wiederholen, wenn auch völlig unreguliert.[20] Daher sind maligne Tumoren, d.h. Sarkome und Karzinome, sehr wahrscheinlich auf Säugetiere beschränkt, da nur sie die embryonalen Invasionsgene besitzen.
+
+Historische Annahmen
+
+1902 schrieb John Beard, dass Krebszellen trophoblastischen Embryonalzellen glichen. Zu Beginn einer Schwangerschaft sorgten diese Zellen dafür, dass sich der Embryo in der Gebärmutter einnisten könne. Das Wachstum sei aggressiv und chaotisch. Die Zellen teilten sich schnell und gewinnen ihre Energie aus der Zuckergärung. Sie unterdrückten das Immunsystem der Mutter und produzierten humanes Choriongonadotropin (hCG), das mittlerweile als Tumormarker anerkannt ist. Die Wucherung stoppt erst, wenn der Embryo ab der siebten Woche Pankreasenzyme erzeugt. Ohne diese Enzyme entstünde der bösartigste Tumor, das Chorionkarzinom. Die Annahme, dass Krebstumoren Energie aus der Zuckergärung gewinnen (d. h. der Tumor würde anaerob leben), war die Basis für viele überholte Behandlungsmethoden.
+
+Im Jahr 1908 entdeckten Vilhelm Ellermann (1871–1924) und Oluf Bang (1881–1937) ein Virus, das Leukämie in Hühnern verursachte.
+
+Peyton Rous war es dann, der 1911 aus einem Muskeltumor mit der hohen Filterfeinheit von 120 Nanometern einen Extrakt filterte, mit dem er wieder Krebs erzeugen konnte. Er vermutete in diesem Extrakt ein Virus. 1966 erhielt Rous für diese Entdeckung des Rous-Sarkom-Virus (RSV) den Nobelpreis.
+
+Theorien zu Krebsauslösern
+
+Entsprechend der oben beschriebenen Theorie sind vor allem Einflüsse, die das Erbgut verändern, krebserregend. Besonders empfindlich dafür ist die Zelle während der Zellteilung; daher sind Zellen, die sich schnell teilen, besonders anfällig. Auch Einflüsse, die das Immunsystem daran hindern, entartete Zellen zu erkennen und zu beseitigen, gelten als krebsfördernd. Besonders gefährlich sind demnach:
+
+Umweltgifte und Strahlung
+
+Physikalische Noxen
+Ionisierende Strahlung wie ultraviolettes Licht, Röntgen- oder radioaktive Strahlung.
+Beispiel: Bei der Herz- (Koronar-) Untersuchung mittels Computertomographie erkaufen sich Patienten die erhöhte Sensitivität der Untersuchungsmethode mit einem gesteigerten Krebsrisiko. So errechneten amerikanische Wissenschaftler, dass bei Zwanzigjährigen eine von 143 mittels Koronar-CT untersuchten Frauen im Laufe ihres Lebens infolge dieser Angiographie-Strahlung an Krebs erkrankt, aber nur einer von 686 gleich alten Männern. Die CT-Angiographie der Koronarien scheint vor allem bei Frauen und jungen Menschen das Krebsrisiko erheblich zu erhöhen.[21] Nach einer Schädel-CT beträgt das Krebs-Risiko für Frauen 1:8.100 und für Männer 1:11.080.[22] Ausgehend von 70 Millionen durchgeführter CT-Scans in den USA im Jahr 2007 sind 29.000 künftige Krebserkrankungen zu befürchten.[23]
+Chemische Noxen
+Mutagene Chemikalien. Die wichtigsten sind größere polyzyklische aromatische Kohlenwasserstoffe, Benzol, Chrom(VI)-Verbindungen und Nitrosamine.
+Biologische Einflüsse
+
+Onkoviren (nach Schätzung der amerikanischen Krebsgesellschaft etwa 17 % der Krebsfälle[24])
+Verschiedene DNA-Viren, z. B. das Hepatitis B-Virus (HBV), welches zum Leberzellkarzinom, und HPV, das zum Zervixkarzinom führen kann
+Verschiedene RNA-Viren, z. B. das Hepatitis-C-Virus
+Verschiedene Retroviren, z. B. HIV, HTLV
+Stammzellen, vor allem embryonale, können unter bestimmten Umständen Krebs auslösen.[25]
+Immunsuppressive Therapien nach einer Organtransplantation können das Krebsrisiko im Vergleich zur Normalbevölkerung auf das Drei-[26] bis zu Sechsfache erhöhen.[27] Zu den häufigsten Krebserkrankungen nach einer Transplantation zählen das Kaposi-Sarkom und andere Formen von Hautkrebs sowie eine als PTLD bezeichnete Gruppe verschiedener lymphomartiger Erkrankungen.[28] Generell spielt das Immunsystem bei der Entstehung von Krebs eine wichtige Rolle, denn es ist prinzipiell in der Lage, entartete Zellen zu erkennen und erfolgreich zu bekämpfen.[29] Daneben können in seltenen Fällen bereits enthaltene Tumoren mit transplantiert werden.
+Körpergröße: Sowohl Studien an Männern als auch an Frauen zeigen einen Zusammenhang zwischen der Körpergröße und dem Krebsrisiko im späteren Leben. Ursächlich dafür könnte sein, dass viele Krebsarten, wie bereits seit langem bekannt ist, auf die gleichen Wachstumsfaktoren ansprechen, die in der Jugend zum Wachstum führen.[30][31][32]
+Nur bei Tieren: manche Tumoren sind von Tier zu Tier übertragbar, zu den infektiösen Tumoren gehören unter anderem das Sticker-Sarkom der Hunde und die DFTD (Devil Facial Tumour Disease) des Beutelteufels.[33]
+Lebensstil und Lebensumstände
+
+Die Million Women Study bestätigte die Annahme, dass Übergewicht das Krebsrisiko steigert. Ein erhöhter Body-Mass-Index ließ sowohl die Inzidenz als auch die Mortalität folgender Krebserkrankungen steigen: Endometriumkarzinom, Ösophaguskarzinom, Nierenkrebs, Multiples Myelom, Pankreaskarzinom, Non-Hodgkin-Lymphom, Ovarialkarzinom, Mammakarzinom und Kolonkarzinom nach der Menopause. Damit lassen sich laut Studienautoren 5 % aller Krebsfälle auf Übergewicht und Adipositas zurückführen.[34][35]
+Psychische Ursachen
+Dass die Persönlichkeit oder bestimmte innere Konflikte Krebs verursachen, ist unbestätigt. Es ist allenfalls denkbar, dass psychisch belastete (z. B. gestresste) Personen sich riskanter verhalten (z. B. mehr rauchen).[36][37]
+Quantitative Einschätzung verschiedener Faktoren
+
+Kanzerogene in der Umwelt: Verschiedene Faktoren als Verursacher von Krebs-Todesfällen in den USA nach Environmental Protection Agency (EPA), Angabe in % aller Krebs-Todesfälle.[38]
+Faktor  Anteil in %
+Nahrung 35
+Tabakkonsum 30
+Infektionen 10?
+Fortpflanzungs- und Sexualverhalten 7
+Arbeitsplatz  4
+Alkohol 3
+Geophysikalische Faktoren (z. B. Sonnenlicht-Exposition, Innenraumbelastung durch Radon, allg. Strahlenbelastung) 3
+Allgemeine (anthropogene) Umweltbelastungen (z. B. Innenraum, Luft, Trinkwasser, Boden, Altlasten, Pestizid-Eintrag)  2
+Industrieprodukte <1
+Lebensmittel-Zusatzstoffe <1
+Arzneimittel und medizinische Prozeduren  1
+Unbekannt ?
+Folgen des Tumorwachstums
+
+Die Folgen bösartigen Tumorwachstums für den Organismus sind sehr vielfältig und bei jedem Patienten individuell sehr unterschiedlich ausgeprägt. Tumorwachstum kann einerseits unmittelbar zu lokalen Wirkungen im Nachbargewebe führen. Andererseits können Tumoren auch systemische (den gesamten Organismus betreffende) Wirkungen verursachen. Entscheidend für den Krankheitsverlauf ist häufig die Ausbildung von Tochtergeschwülsten, die ihrerseits in den betroffenen Organen zu einer Reihe von Funktionsstörungen führen können.[39]
+
+Lokale Wirkungen
+
+Wenn Tumoren wachsen, können sie das gesunde Nachbargewebe verdrängen, ohne es zu zerstören, oder aber zerstörend in das Nachbargewebe einwachsen (invasiv-destruierendes Wachstum). Beide Formen des Wachstums können zu lokalen Komplikationen führen. So kann beispielsweise durch expansives Wachstum ein blutführendes Gefäß komprimiert werden. Die in der Folge auftretende Durchblutungsstörung des abhängigen Gewebes kann dazu führen, dass dieses Gewebe abstirbt (Nekrose). Infiltrierend-destruierendes Wachstum kann beispielsweise in Hohlorganen wie dem Darm durch Zerstörung des Gewebes zu Durchbrüchen (Perforationen) und Fistelungen führen. Tumorfisteln führen häufig durch Infektionen zu weiteren Komplikationen.[39]
+
+Systemische Wirkungen
+
+Tumoren können auf unterschiedliche Weise den gesamten Organismus beeinflussen. Vom Primärtumor ausgehende Tochtergeschwulste können sich in anderen Organen ansiedeln und hier durch lokales Wachstum Gewebe zerstören und zu Funktionsstörungen führen. Bei vielen Patienten kommt es im Laufe der Krebserkrankung zu einem allgemeinen Kräfteverfall und Gewichtsverlust (Tumorkachexie, Auszehrung). Zu den systemischen Wirkungen von Tumoren werden auch sogenannte paraneoplastische Syndrome gerechnet. Hierbei kommt es zu charakteristischen Symptomen in verschiedenen Organsystemen, die letztlich durch den Tumor verursacht werden. Beispielsweise kann ein Lungenkrebs zu einer Störung der hormonellen Regulation des Wasserhaushalts führen (Schwartz-Bartter-Syndrom).[39]
+
+Die meisten Patienten sterben nicht am Primärtumor, sondern an den Auswirkungen von dessen Metastasen. Deren unkontrollierte Vermehrung schädigt lebenswichtige Organe, bis diese ihre Funktion nicht mehr erfüllen können. Häufige unmittelbare Todesursachen sind Gefäßverschlüsse (Thromboembolien), Tumorkachexie oder vom Organismus nicht mehr beherrschbare Infektionen (Sepsis, Blutvergiftung).[40]
+
+Einordnung der Krebsarten
+
+Bösartige (maligne) Tumoren unterscheiden sich von gutartigen (benignen) Tumoren durch drei Kennzeichen: Sie wachsen
+
+infiltrierend: die Tumorzellen überschreiten Gewebegrenzen und wachsen in benachbartes Gewebe ein
+destruierend: sie zerstören dabei umliegendes Gewebe
+metastasierend: sie bilden via Blut- und Lymphgefäßen oder durch Abtropfung Tochtergeschwülste (Metastasen).
+Die Stadieneinteilung erfolgt bei Karzinomen nach der internationalen TNM-Klassifikation. Dabei steht T0 bis T4 für die Ausdehnung des Primär-Tumors, N0 bis N3 für den Lymphknotenbefall (lat. Nodulus lymphaticus) und M0 bzw. M1 für das Fehlen oder Vorhandensein von Fern-Metastasen.
+
+Sonderformen
+
+Daneben werden noch semimaligne Tumoren und Präkanzerosen unterschieden. Semimaligne Tumoren erfüllen nur zwei der genannten Kriterien, Präkanzerosen sind entartetes Gewebe, welches sich mit hoher Wahrscheinlichkeit zu malignen Tumoren entdifferenziert, aber noch nicht infiltrierend und metastasierend gewachsen ist.
+
+Der häufigste semimaligne Tumor ist das Basaliom, ein Tumor der Basalzellschicht vor allem der sonnenexponierten Haut, der infiltrierend und destruierend wächst, allerdings nicht metastasiert. Unbehandelt kann der Tumor das gesamte Gesicht einschließlich der Gesichtsknochen zerstören.
+
+Die weitaus häufigste Präkanzerose ist die zervikale intraepitheliale Neoplasie, eine Wucherung des Gebärmutterhalses, deren Zellen zellbiologisch Zeichen der Malignität aufweisen, allerdings vom Gewebe her noch nicht infiltriert, destruiert oder metastasiert haben. Zur Vorsorge wird Frauen der jährliche Gebärmutterabstrich nach Papanicolaou, auch PAP-Abstrich genannt, empfohlen, da Präkanzerosen sich deutlich besser behandeln lassen.
+
+Gewebeherkunft
+
+Krebstumoren werden nach dem Typ des entarteten Gewebes klassifiziert. Den weitaus größten Teil aller Krebserkrankungen machen Karzinome aus, also Tumoren, die von Epithel ausgehen. Diese werden nochmals differenziert in Plattenepithel- oder squamöse Karzinome, die sich von verhornter und unverhornter (Schleim-)Haut ableiten, und Adenokarzinome, welche sich vom Drüsenepithel ableiten und je nach Ursprung und Aufbau weiter differenziert werden. Vom Übergangsgewebe ausgehende Karzinome werden als Urothelkarzinome bezeichnet und sind unter anderem für den Blasenkrebs typisch. Eine weitere große Gruppe sind die hämatologischen Krebsformen des Blutes und der blutbildenden Organe, die sich in Leukämien und Lymphome, auch „Lymphdrüsenkrebs“ genannt, unterteilen lassen. Daneben gibt es seltenere bösartige Tumoren, wie die vom Stütz- und Bindegewebe ausgehenden Sarkome, neuroendokrine Tumoren wie das Karzinoid oder von embryonalem Gewebe ausgehende Teratome (vor allem der Keimdrüsen).
+
+Lokalisation
+
+Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD-10) klassifiziert maligne Tumoren nach ihrer Lokalisation.
+
+Statistik
+
+Qualitativ hochwertige Daten zur Krebsinzidenz weltweit werden seit den 1960er Jahren gesammelt und von der IARC veröffentlicht. Die WHO veröffentlicht für ausgewählte Länder zudem Daten zur Krebsmortalität. Etwa für ein Sechstel der Weltbevölkerung liegen Daten zur Inzidenz vor, für ein Drittel Daten zur Mortalität[41] . Die Zahl der diagnostizierten Krebserkrankungen scheint jedoch immer weiter anzusteigen. Die WHO gibt an, dass 2012 14,1 Millionen Menschen an Krebs erkrankt sind – das sind 11 Prozent mehr als im Jahr 2008[42]. Die Anzahl der Krebstoten stieg im gleichen Zeitraum um 8 Prozent auf 8,2 Millionen. Die weltweit häufigsten Krebsarten sind Lungenkrebs, Brustkrebs und Darmkrebs.
+
+Inzidenz und Mortalität der meisten Krebsarten (inklusive Lunge, Darm, Brust und Prostata) fallen in den Vereinigten Staaten und den meisten westlichen Ländern. In einigen Entwicklungs- und Schwellenländern steigen sie jedoch aufgrund der Übernahme eines ungesunden Lebenswandels (Rauchen, mangelnde körperliche Aktivität, Konsum energiedichter Nahrungsmittel). In ein paar dieser Länder liegen beispielsweise die Lungen- und Darmkrebsraten bereits über denen der Vereinigten Staaten. Entwicklungsländer sind jedoch immer noch überproportional von infektiösen Krebsarten betroffen (Gebärmutterhals, Leber, Magen).[41]
+
+
+Der prozentuale Anteil ausgewählter Tumorlokalisationen an allen Krebsneuerkrankungen in Deutschland im Jahr 2006
+
+Die Verteilung der Krebserkrankungen auf die einzelnen Organe bei Mann und Frau in Deutschland im Jahr 2007.
+Auf der x-Achse die altersstandardisierte Mortalitätsrate (erster Zahlenwert) und der prozentuale Anteil an den Krebserkrankungen (zweiter Zahlenwert in der Klammer).
+Statistisch gesehen entwickelt jeder dritte Europäer im Laufe seines Lebens Krebs.[43] In Deutschland erkranken etwa 395.000 Menschen jährlich an Krebs, davon rund 195.000 Frauen und 200.000 Männer. Die meisten Fälle treten im Alter von über 60 Jahren auf. Die unter 60-jährigen machen mit etwa 107.000 Fällen nur rund ein Viertel der Krebs-Neuerkrankungen aus. Einer US-Studie zufolge sterben weltweit jeden Tag etwa 20.000 Menschen an den Folgen einer Krebserkrankung. 2007 gab es demnach etwa 7,6 Millionen Tote durch Krebs – davon 4,7 Millionen in Entwicklungsländern. Die Gesamtzahl aller jährlich weltweit neudiagnostizierten Krebserkrankungen wird dieser Quelle nach mit 12,3 Millionen angegeben. Dies war die erste Schätzung dieser Art. Beim Tod durch die Folgen des Rauchens rechnen Forscher weiter mit steigenden Zahlen. Im 20. Jahrhundert sei der Tabakkonsum Ursache für etwa 100 Millionen Todesfälle gewesen, im 21. Jahrhundert sei mit etwa einer Milliarde Toten zu rechnen.[44][45]
+
+Jedes Jahr erkranken in Deutschland rund 1750 Kinder unter 15 Jahren an Krebs. Am häufigsten werden in dieser Altersgruppe Leukämien (34 Prozent), Tumoren des Gehirns (22 Prozent) und des Rückenmarks sowie Lymphknotenkrebs (12 Prozent) diagnostiziert. Jungen erkranken fast doppelt so häufig wie Mädchen.[46] 5 Jahre nach der Diagnose leben noch 81 Prozent der Kinder, wenn sie sich behandeln lassen. In den 1950er Jahren waren es weniger als 10 Prozent. Nach fünf Jahren gelten die Kinder dann als geheilt. Diese Rate variiert zwischen 59 Prozent für die AML und 90 Prozent für die ALL bis zu 97 Prozent für das Retinoblastom.[47]
+
+Die neuesten für Deutschland zur Verfügung stehenden statistischen Zahlen (Krebsregister des Saarlandes) ergeben für den Zeitraum von 1998 bis 2002 für alle Krebsarten eine relative 5-Jahres-Überlebensrate von 55 Prozent. Nach dieser fünfjährigen Überlebenszeit ergibt sich für die Überlebenden sodann meistens eine durchschnittliche Lebenserwartung, die der von Gleichaltrigen der allgemeinen Bevölkerung entspricht. Nur bei sehr wenigen Krebsarten ist dies nicht der Fall, hier muss eine 10-Jahres-Frist abgewartet werden. Von allen Krebsheilungen werden ca. 90 % ausschließlich durch die lokal auf die Tumorregion gerichtete, sogenannte lokoregionäre Behandlung, also durch Operation und Strahlentherapie (»Stahl und Strahl«) erreicht.
+
+Sehr selten gibt es auch Spontanremissionen. Sie treten nur bei etwa 1:50.000–100.000 Fällen auf. Als Spontanremission bezeichnet man ein komplettes oder teilweises Verschwinden eines bösartigen Tumors in Abwesenheit aller Behandlungen oder mit Behandlungen, für die bisher kein Wirksamkeitsnachweis geführt werden konnte. Allerdings liegt die Wahrscheinlichkeit solcher Spontanremissionen unter der Wahrscheinlichkeit einer Fehldiagnose. Trotz intensiver Forschung gelingt es zur Zeit nicht, gezielt Spontanremissionen therapeutisch zu induzieren.
+
+„Wir beobachten seit 15 Jahren, dass die Krebssterblichkeit in den USA und Deutschland sinkt“, sagt Nikolaus Becker vom Deutschen Krebsforschungszentrum in Heidelberg. Den größten Anteil am Erfolg schreibt die US-Statistik der Darmkrebsfrüherkennung zu. Bei Männern sinkt die Lungenkrebs-Rate, weil sie weniger rauchen.[48]
+
+Viele Malignompatienten tauchen in Krebsstatistiken offenbar nicht auf. Oft werden bösartige Tumoren nur durch eine Sektion aufgedeckt. In Hamburg hat man die zwischen 1994 und 2002 am Institut für Rechtsmedizin durchgeführten Autopsien in Sachen Krebsdiagnose genauer untersucht. 8844 Sektionen gingen in die Auswertung ein. Bei 519 Toten (5,9 %) fand sich ein bösartiger Tumor. Nur 58 dieser Fälle waren dem Krebsregister gemeldet worden. Zwei Drittel der Malignome waren zu Lebzeiten bekannt, 27,2 % wurden erst bei der Sektion entdeckt. Bei gut der Hälfte war der Krebs die Todesursache. Selbst von den letalen Tumoren waren 17 % erst bei der Autopsie erkannt worden. Damit scheinen die Krebsregister, die ja auf zu Lebzeiten bekannten Tumorerkrankungen basieren, nicht exakt zu sein.[49] In den Krebsstatistiken werden zudem – mit Ausnahme des malignen Melanoms – sämtliche Hautkrebserkrankungen nicht erfasst.[50] Deshalb enthält beispielsweise das Krebsregister Krebs in Deutschland nicht die 171.000 Fälle von Neuerkrankungen mit weißem Hautkrebs (Spinaliom, Basaliom) in Deutschland.[50][51]
+
+Vergleich der diagnostizierten und tödlichen Krebsneuerkrankungen in Deutschland 2008[52]
+Betroffenes Organ (+ ICD-10 Code) männlich  weiblich  Summe
+diagnostiziert  gestorben diagnostiziert  gestorben diagnostiziert  gestorben
+Alle  246.700 115.870 223.100 99.572  469.800 215.442
+Lunge (C33, C34)  33.960  29.505  15.570  12.841  49.530  42.346
+Darm (C18 – C21)  35.350  13.726  30.040  12.936  65.390  26.662
+Brust (C50) 520 136 71.660  17.209  72.180  17.345
+Bauchspeicheldrüse (C25)  7.390 7.327 7.570 7.508 14.960  14.835
+Magen (C16) 9.210 5.929 6.660 4.581 15.870  10.510
+Prostata (C61)  63.440  12.134      63.440  12.134
+Blut: Leukämie (C91 – C95)  6.340 3.908 5.080 3.400 11.420  7.308
+Niere (C64) 8.960 3.060 5.540 2.041 14.500  5.101
+Eierstock (C56)     7.790 5.529 7.790 5.529
+Harnblase (C67, D09.0, D41.4) 20.850  3.611 7.490 1.921 28.340  5.532
+Lymphdrüsen: Non-Hodgkin-Lymphome (C82 – C85) 7.270 2.926 6.430 2.658 13.700  5.584
+Mundhöhle und Rachen (C00-C14)  9.520 3.776 3.490 1.170 13.010  4.946
+Speiseröhre (C15) 4.800 3.655 1.380 1.135 6.180 4.790
+Gebärmutter (C54, C55)      11.280  2.420 11.280  2.420
+Haut: Malignes Melanom (C43)  8.910 1.365 8.890 1.135 17.800  2.500
+Gebärmutterhals (C53)     4.880 1.596 4.880 1.596
+Kehlkopf (C32)  3.610 1.275 510 209 4.120 1.484
+Schilddrüse (C73) 1.710 279 4.160 429 5.870 708
+Blut: Morbus Hodgkin (C81)  1.160 193 920 148 2.080 341
+Hoden (C62) 3.970 153     3.970 153
+Krebshäufungen bei bestimmten Berufen
+Jahr der Beschreibung Krebsart  Beruf
+1775  Hodenkrebs  Schornsteinfeger (Kontakt mit in Ruß enthaltenem Benzo[a]pyren)[53]
+1820  Hautkrebs Braunkohlearbeiter (Kontakt mit Braunkohleteeren)
+1879  Lungenkrebs Bergleute (Inhalation von Kohlestaub)
+1894  Hautkrebs Seeleute (Sonnenexposition; Kontakt mit geteerten Seilen, Planken etc.)
+1895  Blasenkrebs Arbeiter mit Kontakt zu Fuchsin
+1902  Hautkrebs Röntgen-Personal
+1912  Lungenkrebs Berufe mit Chromat-Kontakt
+1922  Skrotal- und Hautkrebs  Berufe mit Kontakt zu Schieferölen
+1928  Leukämie  Berufe mit Kontakt zu Benzol
+1933  Nasen- und Lungenkrebs  Berufe mit Kontakt zu Nickel
+1933  Lungenkrebs Berufe mit Kontakt zu Asbest
+1938  Pleuramesotheliom Berufe mit Kontakt zu Asbest
+1954  Peritonealmesotheliom Berufe mit Kontakt zu Asbest
+1972  Lungenkrebs Berufe mit Kontakt zu halogenierten Ethern („Haloethern“), insbesondere Dichlordimethylether[54][55]
+1974  Leberangiosarkom  Berufe mit Kontakt zu Vinylchlorid
+1988  Adenokarzinome der Nasenhaupt- und Nasennebenhöhlen[56] Berufe mit Kontakt zu Hartholzstaub (Stäube von Eichen- und Buchenholz)
+Behandlungsmöglichkeiten
+
+Um einen Tumor erfolgreich behandeln zu können, müssen aus den vorhandenen Behandlungsmethoden die für den jeweiligen Tumor am wirkungsvollsten eingesetzt werden. Welche Methoden jedoch die wirkungsvollsten sind, hängt vom individuellen Tumor ab. Die etablierte Herangehensweise basiert auf der Identifikation der Herkunft des Tumors innerhalb des Körpers (klinische Diagnose inklusive ICD) und der pathologischen Befundung (histologische Diagnose). Aufgrund der Herkunft lässt sich dann anhand von Leitlinien (bei häufigen Krebserkrankungen) eine Therapie festlegen. Dabei geht man davon aus, dass Tumoren gleicher Herkunft sich ähnlich behandeln lassen. Für eher seltene Krebsformen fehlen häufig diese Leitlinien und der Arzt steht vor der schwierigen Entscheidung die richtigen Methoden zu wählen. Weitere Hilfen, die zu einer gezielteren Auswahl der Therapiemethoden führen kann, sind zusätzliche diagnostische Verfahren (Krebsdiagnostik oder Tumordiagnostik).
+
+Neben dem zur Zeit etablierten Verfahren der Therapie nach der Herkunft des Tumors versucht man mittlerweile, die Tumoren noch weiter zu unterteilen. Die Auffassung, dass jeder Krebs seine eigene Tumorbiologie hat, hat sich dabei weitgehend durchgesetzt. Dabei hat man sich zum Ziel gesetzt, die Therapie auf jeden Patienten gezielt abzustimmen. Dieses Vorhaben der Therapieindividualisierung wird mit dem Schlagwort personalisierte Medizin bezeichnet.
+
+Aktuelle Behandlungsmethoden
+
+
+Übersicht über die Behandlungsalternativen bei Krebs
+Resektion: operative Entfernung des Tumors und benachbarter Lymphknoten (Lymphadenektomie).
+Strahlentherapie
+mit radioaktiven Stoffen
+durch radioaktives Jod (Schilddrüse nimmt aktiv Jod auf)
+mit Röntgenstrahlen
+mit Elektronen oder Neutronen
+mit Protonentherapie oder Ionenbestrahlung (Bestrahlung mit Protonen oder Ionen, die den Tumor umgebendes Gewebe schont)
+Medikamentenbehandlung
+mit Zytostatika („Chemotherapie“); die Krebszellen werden an der Vermehrung gehindert bzw. gestoppt
+Antihormontherapie („Hormontherapie“), z. B. Testosteronentzug beim Prostatakarzinom
+Hemmung des Blutgefäßwachstums (Krebsgewebe lockt Blutgefäße an, in Richtung des Krebsgewebes zu wachsen, um es zu versorgen.)
+Krebsimmuntherapie (mehrere Verfahren auf der Basis des Immunsystems. Beispielsweise monoklonale Antikörper, Radioimmuntherapie, Immuntoxine, Bacillus Calmette-Guérin oder Zytokine)
+Hyperthermie, beispielsweise mit Mikrowellen (Aufheizung des betroffenen Gewebes)
+Elektro-Chemotherapie
+Palliativmedizinische Behandlung zur Förderung der Lebensqualität, bei Krebsarten ohne Heilungschancen
+Gabe von Schmerzmitteln
+Besserung des Allgemeinbefindens durch Schmerzbehandlung
+Ausreichende Ernährung
+Hemmung des Knochenabbaues
+Steigerung der Blutbildung im Knochenmark
+Symptomatische Behandlungen wie Aufdehnung von Stenosen durch Bougierung oder Einlage von Stents
+Physiotherapie (spezielle Atemtherapie bei Lungenkrebs)
+Es gibt Experimente zur Krebsbehandlung mit onkolytischen Viren oder Krebsimpfstoffen.
+Auch wenn häufig eine vollständige Heilung nicht erreicht werden kann, ist in Betracht zu ziehen, dass bei einem 75-jährigen Krebspatienten eine Lebenszeitverlängerung von 1 oder 2 Jahren schon als ein sehr gutes Resultat zu betrachten ist (ältere Krebspatienten sterben oft an etwas anderem als am Krebs), während bei einer 45-jährigen Brustkrebspatientin erst eine 10-jährige Rückfallfreiheit als „sehr gut“ bewertet wird – denn sie hat eigentlich noch eine deutlich höhere Lebenserwartung.
+
+Alternative Behandlungsmethoden
+
+Die unbefriedigende Heilungsrate bei bestimmten Tumorerkrankungen und die Nebenwirkungen der etablierten Behandlungsmethoden lösen oft Ängste und Verzweiflung bei den Betroffenen und deren Angehörigen aus. Dies führt unter Umständen zur Hinwendung zu unkonventionellen Behandlungsarten, denen in vielen Fällen der Nachweis der Wirksamkeit fehlt, und deren Grundlagen meist einer naturwissenschaftlichen Überprüfung nicht standhalten. Einige von ihnen werden als „Wunderheilung“ abgelehnt, andere hingegen als ergänzende Therapieverfahren auch von der evidenzbasierten Medizin akzeptiert.
+
+Zu den alternativen Behandlungsmethoden gehören unter anderem die Misteltherapie und die Verwendung von Amygdalin. Beide sind umstritten. Ein wissenschaftlich haltbarer Nachweis der Wirksamkeit wurde bisher weder für die Misteltherapie[57] noch für Amygdalin erbracht.[58][59]
+
+Völlig unabhängig davon sind eine Reihe erfolgreicher Zytostatika, wie beispielsweise Vincristin oder Paclitaxel, ursprünglich in Pflanzen gefunden worden. Diese Zytostatika sind aber hochrein und hochkonzentriert und deshalb nicht mit „Kräutertee“ oder ähnlichem zu vergleichen.
+
+Nahrungsergänzungsmittel sind keine Arzneimittel. Im Gegensatz zu Arzneimitteln, die ihre Wirksamkeit in Deutschland seit 1978 gemäß dem Arzneimittelgesetz nachweisen müssen, bevor eine Zulassung erfolgen kann, war dies bei Nahrungsergänzungsmitteln bisher nicht der Fall. Sie unterliegen dem Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch.[60] Ein Nachweis auf Wirksamkeit muss gem. Verordnung EG Nr. 1924/2006 über nährwert- und gesundheitsbezogene Angaben bei Lebensmitteln neuerdings erbracht werden, wenn für das entsprechende Nahrungsergänzungsmittel mit einer Aussage geworben werden soll. Rechtlich gesehen dürfen solche Produkte sonst nicht mit krankheitsbezogenen Aussagen vertrieben werden. Dies wird jedoch – insbesondere bei über das Internet beworbenen Produkten – häufig unterlaufen.[61]
+
+Die US-amerikanische Arzneimittelbehörde FDA warnt beispielsweise auf ihrer Internetseite vor dem Kauf von 125 Produkten von 23 Herstellern. Einige Hersteller, die unter anderem mit Slogans wie „heilt alle Krebsarten“ oder „wirkt gegen Krebszellen und schont gesundes Gewebe“ warben, wurden abgemahnt. Unter den aufgeführten Produkten befinden sich unter anderem „Heilpilze“, wie beispielsweise der Glänzende Lackporling (Reishi) oder der Brasilianische Mandelegerling (Agaricus subrufescens), Kräutertees wie Essiac, Vitamine und Mineralstoffe.[62]
+
+Auf internationaler Ebene befasst sich die Organisation Concerted Action for Complementary and Alternative Medicine for Cancer (CAM-Cancer) mit den Methoden und Mitteln der Alternativ-/Komplementärmedizin zur Behandlung von Krebs und veröffentlicht Fachinformationen auf ihrer Website.[63]
+
+Rehabilitation
+
+Die Rehabilitation ist sinnvoll, um zusätzliche gesundheitliche Beeinträchtigungen möglichst gering zu halten, die Erwerbsfähigkeit wiederherzustellen und die Lebensqualität trotz der Erkrankung zu erhalten. Die Deutsche Krebshilfe und die Deutsche Krebsgesellschaft haben ihre gemeinsame Informationsarbeit verstärkt, um die Betroffenen über Rehabilitation zu informieren.[64] Die Zahl der Anträge auf onkologische Rehabilitation ist seit 2011 rückläufig.[65] Etwa 40 Prozent der Krebserkrankten in Deutschland befinden sich im erwerbstätigen Alter. Dennoch beantragen viele Krebspatienten keine Leistungen, die ihre Arbeitsfähigkeit wiederherstellen oder stabilisieren, trotzdem das durchaus sinnvoll wäre.[66]
+
+Für die immer häufigere Nichtinanspruchnahme von Rehabilitationsleistungen gibt es unterschiedliche Gründe: Noch vor einigen Jahren folgte nach Abschluss der Akutbehandlung eines Krebspatienten mehr oder weniger „automatisch“ eine medizinische Rehabilitationsmaßnahme. Zahlreiche stationäre Akutbehandlungen werden ambulant weitergeführt. Eine Anschlussheilrehabilitation (AHB), die sich unmittelbar oder spätestens nach 14 Tagen an die stationäre Behandlung anschließt, könnte somit häufig nicht mehr direkt und unkompliziert durch die Krankenhaussozialdienste eingeleitet werden. Die Betroffenen müssen daher selbst einen entsprechenden Antrag bei dem zuständigen Rehabilitationsträger stellen.[67] Aus Studien zu dieser Thematik ist bekannt, dass Informationsdefizite sowohl mit Blick auf die Zugangswege wie auch den Nutzen einer Maßnahme für die rückläufige REHA-Inanspruchnahme verantwortlich sind. Mit einer Intensivierung der Informationsarbeit versucht die Deutsche Krebshilfe Krebskranke und ihre Familien zu motivieren, eine Rehabilitation durchzuführen. Die Krebshilfe hat dazu ihre Informationsreihe Die Blauen Ratgeber ergänzt.
+
+Krebsvorbeugung
+
+→ Hauptartikel: Krebsprävention
+Früherkennung
+
+Gesundheitshinweis  Dieser Artikel behandelt ein Gesundheitsthema. Er dient nicht der Selbstdiagnose und ersetzt keine Arztdiagnose. Bitte hierzu diese Hinweise zu Gesundheitsthemen beachten!
+
+Mammogramm mit diagnostiziertem Brustkrebs
+
+Konventionelle Röntgenaufnahme der Lunge mit einem Bronchialkarzinom
+Bei den meisten Krebserkrankungen ist eine Früherkennung wichtig. Nur bei einigen wenigen Krebsarten – beispielsweise beim Lungenkrebs – ist die Früherkennung bislang ineffektiv. Die Früherkennung ist primär Aufgabe jedes Menschen und nicht des Arztes. Unbehandelt wächst der maligne Tumor so lange, bis das Organ bzw. der Körper zerstört ist. Da die Gefahr einer Krebserkrankung für eine Bevölkerung schwankt, muss für jede Generation und jedes Land das individuelle Krebsrisiko regelmäßig aufs Neue bestimmt werden. Das individuelle Krebsrisiko hängt zum Beispiel ab
+
+von neu aufkommenden Umweltgiften bzw. von Umweltgiften, deren Einsatz verringert oder verboten wird
+von der Bereitschaft, gesund zu leben (z.B. Ernährungsverhalten, genug Bewegung, Bereitschaft, sich vor direkter Sonneneinstrahlung zu schützen)
+vom Sexualverhalten (Durchseuchung einer Bevölkerung mit möglicherweise krebserregenden Viren)
+Je eher ein Krebs erkannt wird, desto besser die Heilungsaussichten. Wenn sie früher erkannt würden, ließen sich mehr Krebserkrankungen heilen, und sie ließen sich leichter (mit kleineren Eingriffen / kleinerem Aufwand / kleineren Nebenwirkungen) heilen. Nicht jede Früherkennung bietet nur Vorteile (siehe auch Screening):
+
+es können auch falsch-positive Befunde erstellt werden
+die Früherkennungsuntersuchung kann Risiken und/oder Nebenwirkungen haben. Zum Beispiel kommt es bei 2 bis 4 von 1000 Darmspiegelungen zu einer Darmperforation.
+Für Männer sind regelmäßige Untersuchungen des Arztes auf Blut im Stuhl und das Abtasten der Prostata wichtig (siehe Prostatakrebs), für Frauen ein Abstrich vom Gebärmutterhals (systematische Früherkennungsuntersuchung auf Gebärmutterhalskrebs) und Mammographie-Vorsorgeuntersuchungen (ab 50 Jahren), wobei der individuelle Nutzen und der Nutzen in absoluten Zahlen mit dem Arzt besprochen werden sollte.
+
+Auch mittels genetischer Untersuchungen ist es möglich, bestimmte Krebsarten bereits im Frühstadium zu erkennen. Dieses Verfahren wird in der Praxis jedoch selten angewandt.
+
+Viele Krebserkrankungen werden diagnostiziert, wenn Patienten aufgrund von selbst erkannten Veränderungen zum Arzt gehen. Ein Arztbesuch ist empfehlenswert bei:
+
+ungewöhnlichen Schwellungen; Wunden, die nicht abheilen; Veränderung der Form, Größe oder Farbe eines Hautmals oder abnorme Blutungen,
+chronischem Husten oder anhaltender Heiserkeit,
+einer Veränderung beim Stuhlgang oder beim Urinieren,
+einem unerklärlichen Gewichtsverlust,
+fühlbaren Veränderungen beim Abtasten der Brüste
+Jede Selbstuntersuchung ist mit einem recht großen Fehlerrisiko behaftet. Knötchen in der Brust können harmlos sein, andererseits können Laien bösartige Brusttumoren erst ertasten, wenn sie eine bestimmte Größe (und somit ein höheres Tumorstadium) erreicht haben – und mit hoher Wahrscheinlichkeit schon metastasiert sind.
+
+Das Bundesgesundheitsministerium schrieb 2011:
+
+„Im Bereich der Krebsvorsorge bieten viele Ärzte Leistungen an, die gesetzlich Versicherte selber zahlen müssen (z. B. bestimmte Ultraschalluntersuchungen oder Blutuntersuchungen). Die Kosten für diese sogenannten Individuellen Gesundheitsleistungen (IGeL) übernehmen die gesetzlichen Krankenkassen nicht, weil sie in der Regel keinen ausreichend belegten medizinischen Nutzen haben. Wenn Ihnen bei einem Praxisbesuch IGeL empfohlen werden, erbitten Sie sich daher Bedenkzeit. Bestehen Sie auf einen schriftlichen Vertrag, der den genauen Rahmen der IGeL und die damit verbundenen Kosten enthält. Ohne eine schriftliche Vereinbarung müssen Sie keine Rechnung bezahlen. Unabhängige Informationen zu IGeL erhalten Sie beim Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen (MDS), bei der unabhängigen Patientenberatung Deutschland (UPD) und der Deutsche Krebshilfe[68]“
+
+Literatur
+
+H.-J. Schmoll, K. Höffken, K. Possinger (Hrsg.): Kompendium Internistische Onkologie. 4. Auflage. Springer, Berlin 2005. 3 Bände. ISBN 978-3-540-20657-6. eingeschränkte Vorschau in der Google-Buchsuche
+Krebs in Deutschland, Häufigkeiten und Trends. (PDF; 2,4 MB) 4. Auflage 2004, herausgegeben von der Arbeitsgemeinschaft Bevölkerungsbezogener Krebsregister in Deutschland, Saarbrücken (= Krebsatlas)
+W. U. Eckart (Hrsg.): 100 Jahre organisierte Krebsforschung; 100 Years of Organized Cancer Research, Thieme, Stuttgart 2000. 201 S. ISBN 3-13-105661-4. eingeschränkte Vorschau in der Google-Buchsuche
+Siddhartha Mukherjee: The Emperor of All Maladies: A Biography of Cancer. Scribner, 2010. ISBN 1-4391-0795-5. eingeschränkte Vorschau in der Google-Buchsuche. Deutsche Ausgabe: Der König aller Krankheiten: Krebs – eine Biografie, DuMont Buchverlag, Köln 2012, ISBN 978-3-8321-9644-8.
+H. Stamatiadis-Smidt, H. zur Hausen, O. D. Wiestler (Hrsg.): Thema Krebs. 3. Auflage. Springer, Berlin 2006. ISBN 3-540-25792-6. eingeschränkte Vorschau in der Google-Buchsuche
+Bruce N. Ames, Lois Swirsky Gold: Falsche Annahmen über die Zusammenhänge zwischen der Umweltverschmutzung und der Entstehung von Krebs. In: Angewandte Chemie. 102, Nr. 11, 1990, S. 1233–1246, doi:10.1002/ange.19901021106.
+Historische Quellen
+
+Johann Heinrich Jänisch: Abhandlung von dem Krebs und von der besten Heilart desselben. 2. Ausg. St. Petersburg 1785 (Digitalisierte Ausgabe der Universitäts- und Landesbibliothek Düsseldorf)
+Siehe auch
+
+Deutsche Krebsgesellschaft
+Österreichische Krebshilfe
+Tumor Dormancy
+Deutsche Krebshilfe
+Krebsliga Schweiz
+Weblinks
+
+ Wiktionary: Krebs – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Commons: Krebs – Album mit Bildern, Videos und Audiodateien
+  Wikiquote: Krebs – Zitate
+Deutsches Krebsforschungszentrum
+Zentrum für Krebsregisterdaten im Robert-Koch-Institut
+Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V. (GEKID)
+NCI Fact Sheets National Cancer Institute
+Einzelnachweise
+
+Peter Kaatsch, Claudia Spix, Alexander Katalinic, Stefan Hentschel, Nadia Baras, Benjamin Barnes, Joachim Bertz, Stefan Dahm, Jörg Haberland, Klaus Kraywinkel, Antje Laudi, Ute Wolf: Krebs in Deutschland 2007/2008 – Häufigkeiten und Trends. Eine gemeinsame Veröffentlichung des Robert-Koch-Instituts und der Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V., 8. Ausgabe, 2012, abgerufen am 15. März 2013
+Finnish Cancer Registry: Newest survival ratios, abgerufen am 15. März 2013
+unbekannt: Gut 20 Prozent aller Krebserkrankungen sind auf Infektionen zurückzuführen. In: Ärzte Zeitung vom 8. Oktober 2008
+krebsatlas.de: Infektiöse Erreger. Vom 6. November 2007, abgerufen am 27. Februar 2010
+M. Greaves: Krebs – der blinde Passagier der Evolution. Verlag Springer, 2002, ISBN 3-540-43669-3 S. 9. eingeschränkte Vorschau in der Google-Buchsuche
+M. Reitz: Hautkrebs bei Hochkulturen. In: Kleine Kulturgeschichte der Haut ISBN 978-3-7985-1757-8 S. 78–83.
+S. A. Hoption Cann u. a.: Dr William Coley and tumour regression: a place in history or in the future. In: Postgraduate Medical Journal 79, 2003, S. 672–680. PMID 14707241 (Review)
+A. G. Knudson: Hereditary cancer, oncogenes, and antioncogenes. In: Cancer Res. (1985), Band 45(4), S. 1437–1443. PMID 2983882. PDF.
+R. Liu, M. Kain, L. Wang: Inactivation of X-linked tumor suppressor genes in human cancer. In: Future Oncol. (2012), Band 8(4), S. 463–481. PMID 22515449.
+M. Burnet: Cancer; a biological approach. I. The processes of control. In: Br Med J. (1957); Band 1(5022), S. 779–786. PMID 13404306; PMC 1973174 (freier Volltext).
+D. Zimonjic u. a.: Derivation of human tumor cells in vitro without widespread genomic instability. In Cancer Res 61, 2001, S.8838–8844. PMID 11751406
+P. Duesberg: Das Chaos in den Chromosomen. In: Spektrum der Wissenschaft 10, 2007, S. 55f.
+Alfred Böcking, Vera Zylka-Menhorn: Karzinogenese: Sind Tumoren eine neue Spezies? . In: Deutsches Ärzteblatt. 108, Nr. 48, Deutscher Ärzte-Verlag, 2. Dezember 2011, S. A-2604 / B-2176 / C-2148.
+D. Hanahan und R. A. Weinberg: The hallmarks of cancer. In: Cell. 100, Nr. 1, 2000, S. 57–70. PMID 10647931.
+Jörg Blech: Saat des Bösen. In: Der Spiegel. Nr. 24, 2007 (online).
+Mammakarzinom: Erstmals Wirkstoff gegen Tumorstammzellen. In: aerzteblatt.de. 14. August 2009, abgerufen am 26. Dezember 2014.
+rme/aerzteblatt.de: Neue Hinweise auf Krebsstammzellen. In: aerzteblatt.de. 2. August 2012, abgerufen am 26. Dezember 2014.
+Versuche an Mäusen: Krebsstammzellen könnten Tumorwachstum befeuern. In: Spiegel Online. 2. August 2012, abgerufen am 26. Dezember 2014.
+Gerlinde Felix: „Wölfe im Schafspelz“, Stuttgarter Zeitung, 2. August 2012, abgerufen am 3. August 2012.
+Katherine Bourzac: How a Tumor Is Like an Embryo – MIT Technology Review. In: technologyreview.com. 6. November 2007, abgerufen am 26. Dezember 2014.
+A. J. Einstein u. a.: Estimating risk of cancer associated with radiation exposure from 64-slice computed tomography coronary angiography. In: JAMA 298, 2007, S. 317–323. PMID 17635892
+R. Smith-Bindman, J. Lipson, R. Marcus, K. P. Kim, M. Mahesh, R. Gould, A. Berrington de González, D. L. Miglioretti: Radiation dose associated with common computed tomography examinations and the associated lifetime attributable risk of cancer. In: Archives of internal medicine Band 169, Nummer 22, Dezember 2009, S. 2078–2086, ISSN 1538-3679. doi:10.1001/archinternmed.2009.427. PMID 20008690.
+A. Berrington de González, M. Mahesh, K. P. Kim, M. Bhargavan, R. Lewis, F. Mettler, C. Land: Projected cancer risks from computed tomographic scans performed in the United States in 2007. In: Archives of internal medicine Band 169, Nummer 22, Dezember 2009, S. 2071–2077, ISSN 1538-3679. doi:10.1001/archinternmed.2009.440. PMID 20008689.
+C. Zimmer: Krebs – eine Nebenwirkung der Evolution? In: Spektrum der Wissenschaft 9, 2007, S. 80–88.
+Cancer warning over stem cell therapies. In: New Scientist vom 7. Januar 2007
+C. M. Vajdic und M. T. van Leeuwen: Cancer incidence and risk factors after solid organ transplantation. In: Int J Cancer 125, 2009, S. 1747–1754. PMID 19444916
+Blutmarker für das Krebsrisiko nach Organtransplantation. In: Ärzte Zeitung vom 22. Februar 2010
+O. M. Martinez, F. R. de Gruijl: Molecular and immunologic mechanisms of cancer pathogenesis in solid organ transplant recipients. In: American journal of transplantation. Band 8, Nummer 11, November 2008, S. 2205–2211, ISSN 1600-6143. doi:10.1111/j.1600-6143.2008.02368.x. PMID 18801025. (Review).
+G. P. Dunn u. a.: Cancer immunoediting: from immunosurveillance to tumor escape. In: Nat Immunol 3, 2002, S. 991–998. PMID 12407406 (Review)
+G. C. Kabat, M. L. Anderson u. a.: Adult stature and risk of cancer at different anatomic sites in a cohort of postmenopausal women. In: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. Band 22, Nummer 8, August 2013, S. 1353–1363, ISSN 1538-7755. doi:10.1158/1055-9965.EPI-13-0305. PMID 23887996.
+L. Zuccolo, R. Harris u. a.: Height and prostate cancer risk: a large nested case-control study (ProtecT) and meta-analysis. In: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. Band 17, Nummer 9, September 2008, S. 2325–2336, ISSN 1055-9965. doi:10.1158/1055-9965.EPI-08-0342. PMID 18768501. PMC 2566735 (freier Volltext).
+R. B. Walter, T. M. Brasky u. a.: Height as an explanatory factor for sex differences in human cancer. In: Journal of the National Cancer Institute. Band 105, Nummer 12, Juni 2013, S. 860–868, ISSN 1460-2105. doi:10.1093/jnci/djt102. PMID 23708052. PMC 3687370 (freier Volltext).
+C. Murgia u. a.: Clonal Origin and Evolution of a Transmissible Cancer. In: Cell 126, 2006, S. 477–487. PMID 16901782, PMC 2593932 (freier Volltext)
+G. K. Reeves u. a.: Cancer incidence and mortality in relation to body mass index in the Million Women Study: cohort study. In: BMJ 335, 2007, S. 1134. PMID 17986716
+E. E. Calle: Obesity and cancer. In: BMJ 335, 2007, S. 1107–1108. PMID 17986715
+S. O. Dalton u. a.: Depression and cancer risk: A register-based study of patients hospitalized with affective disorders, Denmark, 1969–1993. In: American Journal of Epidemiology 155, 2002, S. 1088–1095. PMID 12048222
+I. R. Schapiro u. a.: Psychic vulnerability and the associated risk for cancer. In: Cancer 94, 2002, S. 3299–3306. PMID 12115364
+Nach M. Bahadir, H. Parlar, Daniela Angerhöfer, Michael Spiteller: Springer Umweltlexikon. Berlin, Heidelberg 2000, S. 248. eingeschränkte Vorschau in der Google-Buchsuche
+U.-N. Riede, M. Werner, H.-E. Schäfer (Hrsg.): Allgemeine und spezielle Pathologie. Thieme, Stuttgart 2004. S. 382–384. ISBN 3-13-683305-8
+Gesundheitsberichterstattung des Bundes: Krebs. Abgerufen am 12. Oktober 2007
+A. Jemal, M. M. Center u. a.: Global patterns of cancer incidence and mortality rates and trends. In: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. Band 19, Nummer 8, August 2010, S. 1893–1907, ISSN 1538-7755. doi:10.1158/1055-9965.EPI-10-0437. PMID 20647400. (Review).
+IARC: Cancer Fact Sheets
+Mitteliung an die Presse – 2876. Tagung des Rates Beschäftigung, Sozialpolitik, Gesundheit und Verbraucherschutz. 9.–10. Juni 2008, abgerufen am 21. Juli 2008 (PDF; 328 kB). S. 21
+Täglich 20 000 Tote durch Krebs. In: Ärzte Zeitung vom 18. Dezember 2007
+National Institute for Occupational Safety and Health: NIOSH Safety and Health Topic: Occupational Cancer. Vom 4. Mai 2009, abgerufen am 25. Februar 2010
+Ärzte Zeitung, 8. Februar 2010, S. 2
+Ärzte Zeitung a. a. O.
+H. Charisius: Sieg in Zahlen. In: Süddeutsche Zeitung vom 19. Januar 2007, S. 18.
+Zitiert nach: Ein Viertel aller Krebserkrankungen bleibt unerkannt. In: FZ Med News vom 18. Oktober 2007; nach S. M. Said u. a.: Wie zuverlässig sind unsere Krebsstatistiken? In: DMW 132, 2007, S. 2067–2070.
+Robert-Koch-Institut (Hrsg.): Krebs in Deutschland 2005/2006 – Häufigkeiten und Trends. 7. Ausgabe, 2010, S. 19.
+Hautkrebs. Umdenken! Dem Krebs aktiv vorbeugen. In: krebshilfe.de. Deutsche Krebshilfe, archiviert vom Original am 14. April 2011, abgerufen am 14. April 2011.
+Krebs in Deutschland 2007/2008. Krebs in Deutschland 2007/2008. 8. Ausgabe. Robert-Koch-Institut (Hrsg) und die Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V. (Hrsg). Berlin, 2012, ISBN 978-3-89606-214-7
+W. Hiddemann und C. Bartram (Hrsg.): Onkologie. 2 Bände, Ausgabe 2, Verlag Springer, 2009, ISBN 3-540-79724-6 eingeschränkte Vorschau in der Google-Buchsuche
+H. Matthys und W. Seeger (Hrsg.): Klinische Pneumologie. Verlag Springer, 2008, ISBN 3-540-37682-8 S. 188.eingeschränkte Vorschau in der Google-Buchsuche
+Lungenkrebserzeugende Arbeitsstoffe . In: Deutsches Ärzteblatt. 93, Nr. 5, Deutscher Ärzte-Verlag, 2. Februar 1996, S. A-247 / B-195 / C-183.
+H. Feldmann: Das Gutachten des Hals-Nasen-Ohren-Arztes. Georg Thieme Verlag, 2006, ISBN 3-13-542306-9 S. 294 eingeschränkte Vorschau in der Google-Buchsuche
+Die Mistel in der Krebstherapie: Standard oder alternative Methode?, Krebsinformationsdienst des Deutschen Krebsforschungszentrums (DKFZ), Heidelberg. Vom 23. Oktober 2012. Zuletzt abgerufen am 4. September 2014.
+C. G. Moertel u. a.: A clinical trial of amygdalin (Laetrile) in the treatment of human cancer. In: NEJM 306, 1982, S. 201–206. PMID 7033783
+S. Milazzo u. a.: Laetrile for cancer: a systematic review of the clinical evidence. In: Supportive Care in Cancer 15, 2007, S. 583–595. doi:10.1007/s00520-006-0168-9 PMID 17106659
+Bundesinstitut für Risikobewertung: Gesundheitliche Bewertung von Nahrungsergänzungsmitteln. Abgerufen am 25. Februar 2010
+Vitamine, Spurenelemente und Krebs: (K)ein Plus für die Gesundheit?, Krebsinformationsdienst des Deutschen Krebsforschungszentrums (DKFZ), Heidelberg. Vom 3. November 2011. Zuletzt abgerufen am 4. Februar 2014.
+FDA warnt vor Betrug mit angeblichen Krebs-Wundermitteln. In: Online-Zeitung Mensch & Krebs vom 11. Juli 2008, nach einer Pressemitteilung des DKFZ.
+Concerted Action for Complementary and Alternative Medicine for Cancer: CAM-Summaries, Zusammenfassungen zu verschiedenen Methoden und Mitteln der vorbeugenden, behandelnden und palliativen Alternativ-/Komplementärmedizin (englisch), abgerufen am 2. November 2012.
+Presseerklärung der Krebshilfe vom 6. Juni 2014
+Reha-Bericht 2013 der Deutschen Rentenversicherung (DRV), 1. Januar 2014
+Robert Koch-Institut Berlin, Erhebung aus 2010
+DVSG-Vorsitzender Ulrich Kurlemann, Deutsche Vereinigung für Soziale Arbeit, 6. Juni 2014
+Infoblatt Nr. 12 (2011), Seite 2 von 2
+Gesundheitshinweis  Dieser Artikel behandelt ein Gesundheitsthema. Er dient nicht der Selbstdiagnose und ersetzt keine Arztdiagnose. Bitte hierzu diese Hinweise zu Gesundheitsthemen beachten!
+Von „http://de.wikipedia.org/w/index.php?title=Krebs_(Medizin)&oldid=138367051“
+Kategorie: Krebserkrankung
+Diese Seite wurde zuletzt am 1. Februar 2015 um 00:57 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

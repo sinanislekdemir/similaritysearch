@@ -1,0 +1,181 @@
+Assemblersprache
+
+aus Wikipedia, der freien Enzyklopädie
+Eine Assemblersprache (von englisch to assemble, montieren; kurz auch: „Assembler“) ist eine hardwarenahe Programmiersprache. Für verschiedene Computertypen gibt es jeweils eine spezielle, auf den Befehlssatz des Prozessors, Mikrocontrollers, digitalen Signalprozessors oder anderweitig programmierbaren Geräts zugeschnittene Assemblersprache. Von den Maschinensprachen unterscheiden sie sich dadurch, dass anstelle eines für den Menschen schwer verständlichen Binärcodes die Befehle und deren Operanden durch leichter verständliche mnemonische Symbole in Textform (z. B.„MOVE“), Operanden (u. a. auch) als symbolische Adressen (z. B.„PLZ“), notiert und dargestellt werden.[1]
+
+Assemblersprachen bezeichnet man, als Nachfolger der direkten Programmierung mit Zahlencodes, als Programmiersprachen der zweiten Generation. Ihre Befehle werden mit einer Übersetzungssoftware (Assembler) direkt und i. d. R. 1:1 in Maschinenbefehle übersetzt, in höheren Programmiersprachen (dritte Generation) hingegen übersetzt ein Compiler komplexere Programmanweisungen in mehrere Maschinenbefehle.[2]
+
+Im Sprachgebrauch werden die Ausdrücke „Maschinensprache“ und „Assembler(sprache)“ häufig synonym verwendet.
+
+Inhaltsverzeichnis
+
+1 Übersicht
+2 Beschreibung
+3 Beispielprogramm Hello World
+4 Verschiedene Assemblersprachen
+5 Geschichte
+6 Vergleich zur Programmierung in einer Hochsprache
+6.1 Nachteile
+6.2 Vorteile
+7 Siehe auch
+8 Literatur
+9 Weblinks
+10 Einzelnachweise
+Übersicht
+
+Assembler Programmformular aus der DDR
+Ein Quelltext in Assemblersprache wird auch als Assemblercode oder auch einfach als Assembler (üblich bis in die 1990er) bezeichnet. Er wird durch einen sogenannten Assembler in direkt ausführbare Maschinensprache (auch Maschinencode) umgewandelt.
+
+Programme in Assemblersprachen zeichnen sich dadurch aus, dass alle Verarbeitungsmöglichkeiten des Mikroprozessors genutzt und die Hardwarekomponenten direkt angesteuert werden können. Die Nutzung von Assemblersprachen ist heutzutage selten erforderlich. Sie finden im Allgemeinen nur noch dann Anwendung, wenn Programme bzw. einzelne Teile davon sehr zeitkritisch (z. B. beim Hochleistungsrechnen oder bei Echtzeitsystemen) oder hardwarenah (z. B. Gerätetreiber) sind. Ihre Nutzung kann auch dann sinnvoll sein, wenn die Programme nur einen sehr geringen Speicherplatzbedarf aufweisen dürfen (z. B. in eingebetteten Systemen). Außerdem können sie verwendet werden, wenn noch keine Hochsprachbibliotheken existieren, z. B. bei neu herausgebrachter Technik.
+
+Unter dem Aspekt der Geschwindigkeitsoptimierung kann der Einsatz von Assemblercode auch bei verfügbaren hochoptimierten Compilern noch seine Berechtigung haben, muss aber differenziert betrachtet und für die spezifische Anwendung abgewogen werden. Bei komplexer Technik wie Intel Itanium und verschiedenen digitalen Signalprozessoren kann ein Compiler u. U. durchaus besseren Code erzeugen als ein durchschnittlicher Assemblerprogrammierer, da das Ablaufverhalten solcher Architekturen mit komplexen mehrstufigen intelligenten Optimierungen (z. B. Out-of-order execution, Pipeline-Stalls, …) hochgradig nichtlinear ist. Die Geschwindigkeitsoptimierung wird immer komplexer, da zahlreiche Nebenbedingungen eingehalten werden müssen. Dies ist ein gleichermaßen wachsendes Problem für die immer besser werdenden Compiler der Hochsprachen als auch für Programmierer der Assemblersprache. Für einen optimalen Code wird immer mehr Kontextwissen benötigt (z. B. Cachenutzung, räumliche und zeitliche Lokalität der Speicherzugriffe), welches der Assembler-Programmierer teilweise (im Gegensatz zum Compiler) durch Laufzeitprofiling des ausgeführten Codes in seinem angestrebten Anwendungsfeld gewinnen kann. Ein Beispiel hierfür ist der SSE-Befehl MOVNTQ, welcher wegen des fehlenden Kontextwissens von Compilern kaum optimal eingesetzt werden kann.
+
+Die Rückwandlung von Maschinencode in menschenlesbare Assemblersprache wird Disassemblierung genannt. Wenn die ausführbare Datei keine Debug-Informationen enthält, lassen sich zusätzliche Informationen wie ursprüngliche Bezeichner oder Kommentare nicht wiederherstellen, da diese beim Assemblieren nicht in den Maschinencode übernommen wurden.
+
+Beschreibung
+Programmbefehle in Maschinensprache bilden sich aus dem Opcode und meist weiteren, je nach Befehl individuell festgelegten Angaben wie Adressen, im Befehl eingebettete Literale, Längenangaben etc. Da die Zahlenwerte der Opcodes schwierig zu merken sind, verwendet eine Assemblersprache besser merkbare Kürzel, so genannte mnemonische Symbole (kurz Mnemonics).
+
+Beispiel:
+
+Der folgende Befehl in der Maschinensprache von x86-Prozessoren
+
+10110000 01100001 (in hexadezimaler Darstellung: 'B0 61')
+entspricht dem Assemblerbefehl
+
+
+
+movb $0x61, %al    ; AT&T-Syntax (alles nach „;“ ist Kommentar)
+                   ; Mnemonisches Kürzel bedeutet "move_byte von/was , nach"
+
+bzw.
+
+
+
+mov al, 61h        ; Intel-Syntax; das 'mov' als mnemotechnischem Kürzel erkennt
+                   ; aus dem angesprochenen 'al', dass nur 1 byte kopiert werden soll.
+                   ; "mov wohin , was/woher"
+
+und bedeutet, dass der hexadezimale Wert '61' (dezimal 97) in den niederwertigen Teil des Registers ‚ax‘ geladen wird; ‚ax‘ bezeichnet das ganze Register, ‚al‘ (für low) den niederwertigen Teil des Registers. Der hochwertige Teil des Registers kann mit ‚ah‘ angesprochen werden (für high).
+
+Am Beispiel ist zu erkennen, dass - obwohl in den selben Maschinencode übersetzt wird - die beiden Assembler-Dialekte deutlich verschieden formulieren.
+
+Die Information, dass 1 byte zu kopieren ist, steckt bei AT&T im 'movb'; der Intel-mov entnimmt sie dem Umstand, dass Register(teil) 'al' 1 byte groß ist.
+Quelle und Ziel des Kopierens werden gerade vertauscht herum angegeben.
+Auch das Format zum Ansprechen eines Registers sowie zur Angabe eines direkten Zahlenwerts ist verschieden.
+Mit Computerhilfe kann man das eine in das andere weitgehend eins zu eins übersetzen. Jedoch werden Adressumformungen vorgenommen, so dass man symbolische Adressen benutzen kann. Im Allgemeinen haben die Assembler neben den eigentlichen Codes auch Steueranweisungen, die die Programmierung bequemer machen, zum Beispiel zur Definition eines Basisregisters.
+
+Häufig werden komplexere Assemblersprachen (Makroassembler) verwendet, um die Programmierarbeit zu erleichtern. Makros sind dabei im Quelltext enthaltene Aufrufe, die vor dem eigentlichen Assemblieren automatisch durch (meist kurze) Folgen von Assemblerbefehlen ersetzt werden. Dabei können einfache, durch Parameter steuerbare Ersetzungen vorgenommen werden. Die Disassemblierung von derart generiertem Code ergibt allerdings den reinen Assemblercode ohne die beim Übersetzen expandierten Makros.
+
+Beispielprogramm Hello World
+Ein sehr einfaches Programm, das zu Demonstrationszwecken häufig benutzte Demo-Programm „Hello World“, kann zum Beispiel in der Assemblersprache MASM für MS-DOS aus folgendem Assemblercode bestehen:
+
+
+
+DATA SEGMENT                ;- Beginn des Datensegments
+Meldung db "Hello World"    ;- Die Zeichenkette "Hello World"
+        db "$"              ;- Zeichen, das INT 21h (s.u) als Ende der Zeichenkette erkennt
+DATA ENDS                   ;- Ende des Datensegments
+                            ;
+CODE SEGMENT                ;- Beginn des Codesegments
+ASSUME CS:CODE,DS:DATA      ;- dem Assembler die vorgesehenen Segmente und Segmentregister mitteilen
+Anfang:                     ;- Einsprung-Label für den Anfang des Programms
+   mov ax, DATA             ;- Adresse des Datensegments in das Register "AX" laden
+   mov ds, ax               ;  In das Segmentregister "DS" übertragen (in das DS Register kann nicht direkt geladen werden)
+   mov dx, offset Meldung   ;- die zum Datensegment relative Adresse des Textes in das "DX" Datenregister laden
+                            ;  die vollständige Adresse von "Meldung" befindet sich nun im Registerpaar DS:DX
+   mov ah, 09h              ;- die Unterfunktion 9 des Betriebssysteminterrupts 21h auswählen
+   int 21h                  ;- den Betriebssysteminterrupt 21h aufrufen (hier erfolgt die Ausgabe des Textes am Schirm)
+   mov ax, 4C00h            ;- die Unterfunktion 4Ch (Programmbeendigung) des Betriebssysteminterrupts 21h festlegen
+   int 21h                  ;- diesen Befehl ausführen, damit wird die Kontrolle wieder an das Betriebssystem zurückgegeben
+CODE ENDS                   ;- Ende des Codesegments
+                            ;
+END Anfang                  ;- dem Assembler- und Linkprogramm den Programm-Einsprunglabel mitteilen
+                            ;- dadurch erhält der Befehlszähler "PC" beim Aufruf des Programmes diesen Wert
+
+Vergleichende Gegenüberstellungen für das „Hello World“ Programm in unterschiedlichen Assemblerdialekten enthält diese Liste.
+
+In einem Pascal-Quelltext (eine Hochsprache) kann der Programmcode für „Hello World“ dagegen deutlich kürzer sein:
+
+
+
+program Hello;
+begin
+  writeln( 'Hello World' );
+end.
+
+Verschiedene Assemblersprachen
+Jede Computerarchitektur hat ihre eigene Maschinensprache und damit Assemblersprache. Vereinzelt existieren sogar mehrere verschiedene Assemblersprachen/-dialekte (und zugehörige Assembler) für die gleiche Prozessorarchitektur. Die Sprachen verschiedener Architekturen unterscheiden sich in Anzahl und Typ der Operationen.
+
+Jedoch haben alle Architekturen die folgenden grundlegenden Operationen:
+
+Daten lesen und schreiben von/nach Hauptspeicher sowie Datenaustausch in/aus dem Prozessor (i. A. von/zu einem Register),
+einfache arithmetische Operationen (mit Gleitkommaprozessoren auch anspruchsvolle),
+einfache Kontrolle des Programmflusses,
+einfache logische Operationen.
+Bestimmte Rechnerarchitekturen haben oft auch komplexere Befehle (CISC) wie z. B.:
+
+Aufrufe von Ein- bzw. Ausgabegeräten,
+eine einfache Operation (z. B. Addition) auf einen Vektor von Werten anwenden,
+einen großen Speicherblock im Hauptspeicher verschieben,
+höhere Arithmetik wie Sinus-, Kosinus- und Wurzelberechnung (entweder über spezielle Zusatzprozessoren realisiert oder über Softwareroutinen),
+massive, direkte Parallelprogrammierbarkeit des Prozessors, etwa bei digitalen Signalprozessoren,
+Synchronisation mit anderen Prozessoren für SMP-Systeme,
+Unterbrechungssteuerungen, die besonders für Prozessrechner benötigt werden.
+Geschichte
+Der erste Assembler wurde zwischen 1948 und 1950 von Nathaniel Rochester für eine IBM 701 geschrieben.
+
+Früher wurden Betriebssysteme in einer Assemblersprache geschrieben. Heute werden jedoch Hochsprachen bevorzugt, in den meisten Fällen C. Allerdings müssen häufig kleine Assemblerroutinen hardwarenahe Aufgaben in Betriebssystemen übernehmen. Dazu gehört zum Beispiel das Zwischenspeichern von Registern bei Prozesswechsel (siehe Scheduler), oder bei der x86-Architektur der Teil des Boot-Loaders, der innerhalb des 512 Byte großen Master Boot Records untergebracht sein muss. Auch Teile von Gerätetreibern werden in Assemblersprache geschrieben, falls aus den Hochsprachen kein effizienter Hardware-Zugriff möglich ist. Manche Hochsprachencompiler erlauben es, direkt im eigentlichen Quellcode Assemblercode, sogenannte Inline-Assembler, einzubetten.
+
+Bis ca. 1990 wurden die meisten Computerspiele in Assemblersprachen programmiert, da nur so auf Heimcomputern und den damaligen Spielkonsolen eine akzeptable Spielgeschwindigkeit und eine den kleinen Speicher dieser Systeme nicht sprengende Programmgröße zu erzielen war. Noch heute gehören Computerspiele zu den Programmen, bei denen am ehesten kleinere assemblersprachliche Programmteile zum Einsatz kommen, um so Prozessorerweiterungen wie SSE zu nutzen.
+
+Bei vielen Anwendungen für Geräte, die von Mikrocontrollern gesteuert sind, war früher oft eine Programmierung in Assembler notwendig, um die knappen Ressourcen dieser Mikrocontroller optimal auszunutzen. Dies gilt heute praktisch nur noch, wenn wegen Massenproduktion möglichst günstige und damit minimale Mikrocontroller verwendet werden sollen und das Programm nicht zu komplex ist. Moderne C-Compiler haben aber auch in diesem Bereich die Assembler abgelöst. Um Assemblercode für solche Mikrocontroller zu Maschinencode zu übersetzen, werden Cross-Assembler bei der Entwicklung eingesetzt. Nicht zuletzt aufgrund größerer Programmspeicher bei gleichen Kosten für die Chips fallen die Vorteile von Hochsprachen gegenüber den teils verschwindend geringen Vorteilen der Assemblersprache immer mehr ins Gewicht.
+
+Vergleich zur Programmierung in einer Hochsprache
+Nachteile
+Da Assemblerprogramme sehr hardwarenah geschrieben sind, weil die unterschiedlichen Spezifikationen der einzelnen Computerarchitekturen individuell verschiedene Befehlssätze aufweisen, kann ein Assemblerprogramm i. A. nicht auf ein anderes Computersystem übertragen werden, ohne den Quelltext anzupassen. Das erfordert, abhängig von den Unterschieden der Assemblerssprachen, hohen Umstellungsaufwand, unter Umständen ist ein komplettes Neuschreiben des Programmtextes erforderlich. Im Gegensatz dazu muss bei Hochsprachen oft nur ein Compiler für die neue Zielplattform verwendet werden.
+
+Quelltexte in Assemblersprache sind fast immer deutlich länger als in einer Hochsprache, da die Instruktionen weniger komplex sind und so jede komplexe Operation auf elementare Maschinenbefehle heruntergebrochen werden muss. Das führt häufig zu unübersichtlichen, oft schlecht strukturierten und schlecht wartbaren Assembler-Programmen.
+
+Vorteile
+Nach wie vor dient Assembler zur Mikro-Optimierung von Berechnungen, da Hochsprachencompiler in einigen Situationen ineffizienten Code generieren.[3][4] In solchen Fällen können Berechnungen effizienter direkt in Assembler programmiert werden. Beispielsweise sind im Bereich des wissenschaftlichen Rechnens die schnellsten Varianten mathematischer Bibliotheken wie BLAS[5][6] oder bei architekturabhängigen Funktionen wie der C-Standardfunktion memcpy[7][8] weiterhin die mit Assembler-Code optimierten. Auch lassen sich gewisse, sehr systemnahe Operationen unter Umgehung des Betriebssystems (z. B. direktes Schreiben in den Bildschirmspeicher) nicht in allen Hochsprachen ausführen.
+
+Der Nutzen von Assembler liegt auch im Verständnis der Arbeits- und Funktionsweise eines Systems, das durch Konstrukte in Hochsprachen versteckt wird. Auch heute noch wird an vielen Hochschulen Assembler gelehrt, um ein Verständnis für die Rechnerarchitektur und seine Arbeitsweise zu bekommen.
+
+Die meisten Hochsprachencompiler übersetzen zuerst in Assemblercode oder können diesen optional ausgeben, so dass man Details genauer betrachten und gewisse Stellen von Hand optimieren kann.
+
+Siehe auch
+C--, eine „portable“ Assemblersprache
+Literatur
+Gerhard Niemeyer: Einführung in das Programmieren in ASSEMBLER. Systeme IBM, Siemens, Univac, Comparex, IBM-PC/370. 6. bearbeitete und erweiterte Auflage. de Gruyter, Berlin u. a. 1989, ISBN 3-11-012174-3 (De-Gruyter-Lehrbuch).
+Joachim Rohde: Assembler ge-packt. (Schnelles und effektives Nachschlagen aller relevanten Befehlssätze für AMD und Intel. MMX und 3DNow! SSE und seine Erweiterungen). 2. aktualisierte Auflage. Mitp-Verlag, Heidelberg 2007, ISBN 978-3-8266-1756-0 (Die ge-packte Referenz).
+Joachim Rohde, Marcus Roming: Assembler. Grundlagen der Programmierung. (Theorie und Praxis unter DOS und Windows. MMX und 3DNOW! Programme optimieren und Reverse Engineering). 2. aktualisierte und erweiterte Auflage. Mitp-Verlag, Bonn 2006, ISBN 3-8266-1469-0 (3-8266-1469-0).
+Jeff Duntemann: Assembly Language Step-by-Step. Programming with DOS and Linux. 2. Auflage. Wiley, New York NY u. a. 2000, ISBN 0-471-37523-3 (mit 1 CD-ROM).
+Paul Carter: PC Assembly Language, kostenloses E-Book, 2001, auf drpaulcarter.com erhältlich.
+Robert Britton: MIPS Assembly Language Programming. Prentice Hall, Upper Saddle River NJ 2003, ISBN 0-13-142044-5.
+Randall Hyde: The Art of Assembly Language. No Starch Press, San Francisco CA 2003, ISBN 1-886411-97-2, HTML und PDF (Memento vom 28. Juni 2011 im Internet Archive). (englisch)
+Steve McConnell: Code Complete. A practical Handbook of Software Construction. Microsoft Press, Redmond WA 1993, ISBN 1-55615-484-4.
+Weblinks
+ Wikibooks: Assembler-Programmierung – Lern- und Lehrmaterialien
+Randall Hydes: The Art of Assembly Language (Memento vom 28. Juni 2011 im Internet Archive). als HTML und PDF (englisch, archiviert)
+Assembler X86 Befehlslisten/OpCode und Beschreibungen
+Assembler-Programmierung unter Linux
+i8086.de 8086/88 Assembler Befehlsreferenz
+Pentium Befehlssatz und Takttabelle
+6502asm.com JavaScript-basierter 6502-kompatibler Assembler-Emulator
+Einzelnachweise
+Informatik Duden. ISBN 3-411-05232-5.
+Hering, Gutekunst, Dyllon: Handbuch der praktischen und technischen Informatik. S. 302, books.google.de
+Måns Rullgård: Bit-field-badness (englisch) hardwarebug.org. 30. Januar 2010. Abgerufen am 4. März 2010.
+Måns Rullgård: GCC makes a mess (englisch) hardwarebug.org. 13. Mai 2009. Abgerufen am 4. März 2010.
+John Markoff: Writing the Fastest Code, by Hand, for Fun: A Human Computer Keeps Speeding Up Chips (englisch) New York Times. 28. November 2005. Abgerufen am 4. März 2010.
+BLAS Benchmark-August2008. eigen.tuxfamily.org. 1. August 2008. Abgerufen am 4. März 2010.
+Mike Wall: Using Block Prefetch for Optimized Memory Performance (englisch, PDF; 136 kB) mit.edu. 19. März 2002. Abgerufen am 22. September 2012.
+Agner Fog: Optimizing subroutines in assembly language (englisch, PDF; 873 kB) Copenhagen University College of Engineering. S. 100. 29. Februar 2012. Abgerufen am 22. September 2012: „12.11 Loop unrolling“
+Normdaten (Sachbegriff): GND: 4003255-3
+Von „http://de.wikipedia.org/w/index.php?title=Assemblersprache&oldid=140002237“
+Kategorie: Assembler
+Diese Seite wurde zuletzt am 19. März 2015 um 22:54 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

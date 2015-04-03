@@ -1,0 +1,67 @@
+Algoritma
+
+Vikipedi, özgür ansiklopedi
+
+Bu maddedeki bazı bilgilerin kaynağı belirtilmemiştir. Ayrıntılar için maddenin tartışma sayfasına bakabilirsiniz.Maddeye uygun biçimde kaynaklar ekleyerek Vikipedi'ye katkıda bulunabilirsiniz.
+
+Algoritmaları daha kolay anlatabilmek için akış şemaları kullanılır.
+Algoritma, matematikte ve bilgisayar biliminde bir işi yapmak için tanımlanan, bir başlangıç durumundan başladığında, açıkça belirlenmiş bir son durumunda sonlanan, sonlu işlemler kümesidir. Yani belli bir problemi çözmek veya belirli bir amaca ulaşmak için çizilen yola algoritma denir. Genellikle programlamada kullanılır ve tüm programlama dillerinin temeli algoritmaya dayanır. Aynı zamanda algoritma tek bir problemi çözecek davranışın, temel işleri yapan komutların veya deyimlerin adım adım ortaya konulmasıdır ve bu adımların sıralamasına dikkat edilmelidir. Bir problem çözülürken algoritmik ve sezgisel (herustic) olmak üzere iki yaklaşım vardır. algoritmik yaklaşımda da çözüm için olası yöntemlerden en uygun olan seçilir ve yapılması gerekenler adım adım ortaya konulur. Algoritmayı belirtmek için ; metinsel olarak düz ifade ve akış diyagramı olmak üzere 2 yöntem kullanılır. Algoritmalar bilgisayarlar tarafından işletilebilirler. Algoritma kelimesi, Özbekistan'ın Harezm, bugünkü Türkmenistan'ın Khiva kentinde doğmuştur.
+
+Bilgisayar algoritmasına örnek verelim. Kullanıcının girdiği dört sayının ortalamasını görüntüleyen algoritmayı yazalım:
+
+ A0 --> Başla
+ A1 --> Sayaç=0 (Sayaç'ın ilk sayısı 0 olarak başlar.)
+ A2 --> Sayı=? : T=T+Sayı (Sayıyı giriniz. T'ye sayıyı ekle ve T'yi göster.)
+ A3 --> Sayaç=Sayaç+1 (Sayaç'a 1 ekle ve sayacı göster.)
+ A4 --> Sayaç<4 ise A2'ye git. (Eğer sayaç 4'ten küçükse Adım 2'ye git.)
+ A5 --> O=T/4 (Ortalama için T değerini 4'e böl)
+ A6 --> O'yu göster. (Ortalamayı göster.)
+ A7 --> Dur
+Konu başlıkları
+
+1 Tarihi
+2 Uygulama
+3 Hukuki Konular
+4 1950'den Sonraki Tarihi
+5 Önemli algoritma türleri
+6 Ayrıca bakınız
+Tarihi
+
+Algoritma sözcüğü Ebu Abdullah Muhammed bin Musa el Harezmi'nin Latince isminden kaynaklanır.
+Algoritma sözcüğü, Özbekistan'ın Harezm, bugünkü Türkmenistan'ın Khiva kentinde doğmuş olan Ebu Abdullah Muhammed İbn Musa el Harezmi'den kaynaklanır. Bu alim 9. yüzyılda cebir alanındaki algoritmik çalışmalarını kitaba dökerek matematiğe çok büyük bir katkı sağlamıştır. "Hisab el-cebir ve el-mukabala (حساب الجبر و المقابلة)" kitabı dünyanın ilk cebir kitabı ve aynı zamanda ilk algoritma koleksiyonunu oluşturur. Latince çevirisi Avrupa'da çok ilgi görür. Alimin ismini telaffuz edemeyen Avrupalılar "algorizm" sözcüğünü "Arap sayıları kullanarak aritmetik problemler çözme kuralları" manasında kullanırlar. Bu sözcük daha sonra "algoritma"ya dönüşür ve genel kapsamda kullanılır.
+
+Uygulama
+Çoğu algoritmalar bilgisayar olarak uygulanmak üzere tasarlanmıştır. Bununla birlikte, başka yöntemlerle de uygulanmaktadır, biyolojik sinir ağı(örneğin insan beyninin hesap yapması veya bir böceğin yemek araması), elektrik devresi veya mekanik cihazlar gibi.
+
+Hukuki Konular
+Algoritmalar, tek başlarına, genellikle patent verilebilir değildirler. Amerika Birleşik Devletleri'nde soyut kavramların, sayıların ve işaretlerin yalnızca basit yönlendirmelerinden oluşan bir iddia "süreç" oluşturmaz (USPTO 2006), ve bundan dolayı algoritmalar patent verilebilir değildir (Gottschalk v.Benson'da olduğu gibi). Bununla birlikte, algoritmanın pratik uygulamaları zaman zaman patent verilebilirdir. Örneğin, Diamond v.Diehr'da, sentetik kauçuğun muhafaza edilmesine yardımcı olmak için kullanılan basit geri bildirim algoritmasının uygulaması patent verilebilir sayılmıştır. Yazılım patenti son derece tartışmalıdır ve algoritmaları içeren birçok eleştirilmiş patent vardır, özellikle veri sıkıştırma algoritmaları, Unisys' LZW patentinde olduğu gibi.
+
+Ek olarak, bazı kriptografik algoritmaların ihracat kısıtlamaları vardır.
+
+1950'den Sonraki Tarihi
+Faaliyetlerin birçoğu algoritmanın tanımının geliştirilmesine yönlendirilmiştir ve aktifliği çevredeki sorunlar nedeniyle, özellikle matematiğin temelleri(özellikle Church-Turing tezi) ve akıl felsefesi(özellikle yapay zeka konusundaki tartışmalar) sebebiyle devam etmiştir.
+
+Önemli algoritma türleri
+Arama algoritmaları
+Bellek yönetimi algoritmaları
+Bilgisayar grafiği algoritmaları
+Birleşimsel algoritmalar
+Çizge algoritmaları
+Evrimsel algoritmalar
+Genetik algoritmalar
+Kripto algoritmaları veya kriptografik algoritmalar
+Kök bulma algoritmaları
+Optimizasyon algoritmaları
+Sıralama algoritmaları
+Veri sıkıştırma algoritmaları
+Ayrıca bakınız
+Algoritmalar listesi
+Algoritmaların tarihsel sıralaması
+
+
+[göster] g t d Bilgisayar biliminin alt dalları
+"http://tr.wikipedia.org/w/index.php?title=Algoritma&oldid=14932004" adresinden alındı.
+Kategoriler: AlgoritmalarBilişim terimleri
+Bu sayfa son olarak 20 Aralık 2014, 19:35 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.

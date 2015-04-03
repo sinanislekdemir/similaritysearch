@@ -1,0 +1,532 @@
+Syndrome d'immunodéficience acquise
+
+Syndrome d'immunodéficience acquise
+Classification et ressources externes
+Le ruban rouge, symbole de la lutte contre le sida.
+CIM-10  B24
+CIM-9 042
+DiseasesDB  5938
+MedlinePlus 000594
+eMedicine emerg/253 
+MeSH  D000163
+Wikipédia ne donne pas de conseils médicaux Mise en garde médicale
+Le syndrome d'immunodéficience acquise, plus connu sous son acronyme sida, est un ensemble de symptômes consécutifs à la destruction de plusieurs cellules du système immunitaire par un rétrovirus1,2. Le sida est le dernier stade de l'infection par ce virus et finit par la mort de l'organisme infecté, des suites de maladies opportunistes. En France, une personne malade du sida est désignée par le terme « sidéen » (au Canada, on emploie le terme « sidatique »)3. Il existe plusieurs rétrovirus responsables du sida, chacun infectant une espèce particulière4. Le plus connu d'entre eux est le virus de l'immunodéficience humaine (VIH), infectant l'Homme. D'autres virus en cause sont, parmi d'autres, le VIS infectant les singes et le VIF pour le chat.
+
+Trois modes de transmission ont été observés :
+
+par voie sexuelle, qui est le principal ;
+par voie sanguine : qui concerne particulièrement les utilisateurs de drogues injectables, les hémophiles, les transfusés et les professionnels de la santé ;
+de la mère à l'enfant : qui peut survenir in utero dans les dernières semaines de la grossesse, au moment de l'accouchement et de l'allaitement.
+Une pandémie s'est développée à partir de la fin des années 1970, faisant de cette maladie un problème sanitaire mondial. La prévention, telle que l'usage du préservatif, constitue de loin la meilleure option, car il n'existe actuellement aucun vaccin permettant de se protéger du virus, et les traitements antiviraux disponibles actuellement ne permettent aucune guérison. Bien qu'ayant une certaine efficacité, ils ne peuvent que stopper la prolifération du VIH au sein de l'organisme et non l'éradiquer. De plus, ces thérapeutiques, coûteuses, ne sont facilement accessibles que dans les pays développés qui peuvent assurer la charge financière ; dans les pays en développement, plus de 95 % des patients ne bénéficient aujourd'hui d'aucun traitement efficace. Pour cette raison, l'ONU, à travers son programme ONUSIDA, a fait de la lutte contre le sida une de ses priorités.
+
+Sommaire
+
+1 Modes de transmission
+2 Infection
+2.1 Classification en stades cliniques proposée par l'OMS
+2.1.1 Stade clinique 1
+2.1.2 Stade clinique 2
+2.1.3 Stade clinique 3
+2.1.4 Stade clinique 4
+2.2 Classification CDC de l'ensemble des infections liées au VIH
+2.2.1 Catégorie A
+2.2.2 Catégorie B
+2.2.3 Catégorie C (SIDA)
+3 Prévention
+3.1 Par voie sexuelle
+3.2 Chez les toxicomanes
+4 Diagnostic
+4.1 Tests de dépistage de l'infection
+4.2 Mesure de l'ARN viral plasmatique
+4.3 Évolution de la charge virale et du système immunitaire
+5 Signes cliniques
+6 Traitements
+7 Épidémiologie
+8 Contestation du lien entre VIH et sida
+9 Histoire
+9.1 Reconnaissance d'une épidémie
+9.2 Origine
+9.3 Pandémie
+10 Religion
+11 Législation
+12 Œuvres et bibliographie
+12.1 Films
+12.2 Séries télévisées
+12.3 Bande dessinée
+12.4 Livres
+12.5 Théâtre
+13 Notes et références
+14 Voir aussi
+14.1 Articles connexes
+14.1.1 Les négationnistes
+14.1.2 Le sida dans le monde
+14.1.3 Associations et organisations
+14.2 Liens externes
+Modes de transmission
+
+Les trois modes de transmission du VIH ont chacun leurs particularités : par voie sexuelle, par voie sanguine et durant la grossesse.
+
+La plupart des infections par le VIH ont été ou sont encore acquises à l'occasion de rapports sexuels non protégés. La transmission sexuelle se fait par contact entre les sécrétions sexuelles (ou du sang contaminé par le virus) et les muqueuses génitales, rectales ou buccales. La probabilité de transmission varie entre 0,005 % et 0,5 % par acte sexuel avec une personne infectée selon le type de rapport sexuel5. Le meilleur moyen de protection contre le VIH dans ce mode de transmission est le préservatif. À la suite de la synthèse de plusieurs études, il a été montré que l'usage du préservatif lors de chaque rapport et de manière correcte fait baisser le risque d'infection de 85 %6.
+
+Le mode de contamination par voie sanguine concerne tout particulièrement les usagers de drogues injectables, les hémophiles et les transfusés. Les professionnels de santé (soins infirmiers, laboratoires) sont aussi concernés, bien que plus rarement. Il ne faut pas négliger les risques de contamination lors des modifications corporelles telles que le piercing et le tatouage, si le protocole d'hygiène n'est pas respecté. La probabilité de transmission varie entre 0,67 % pour le partage de seringue avec un toxicomane séropositif au VIH et 90 % pour la transfusion sanguine avec du sang contaminé5.
+
+La transmission mère-enfant du virus peut survenir in utero dans les dernières semaines de la grossesse, et au moment de l'accouchement. À noter une tendance à la fausse séropositivité au VIH chez les multipares7. En l'absence de traitement, le taux de transmission, entre la mère et le fœtus, avoisine les 20 %. L'allaitement présente aussi un risque supplémentaire de contamination du bébé, de l'ordre de 5 %, ce qui explique qu'il soit déconseillé en cas d'infection de la mère. Cependant, trois études, l'une menée par PJ. Illif et al. au Zimbabwe8, l'autre par H. Coovadia en Afrique du Sud9, la dernière par M. Sinkala et al. en Zambie10, montrent que l'allaitement exclusif précoce réduit le risque global de transmission postnatale à 4 % et accroît la survie des enfants. Actuellement, les traitements disponibles alliés à une césarienne programmée ont réduit ce taux à 1 %11. Les résultats sont plus mitigés dans les pays en voie de développement12,13, le risque de transmission postnatale diminuant grâce à l'utilisation de la Névirapine jusqu'à 13 % selon HIVNET012, 18 % selon Quaghebeur et al.
+
+Infection
+
+Le VIH désorganise le système immunitaire en infectant les lymphocytes T CD4+. Ces cellules sont en effet les « coordinatrices » de la réponse immunitaire : elles jouent un rôle tout à fait central. La mort des cellules infectées est consécutive au détournement de la machinerie des lymphocytes, qui ne peuvent plus fabriquer leurs propres molécules, ainsi qu'à la destruction de l'intégrité membranaire au moment de la sortie des virus néoformés. Par ailleurs, les cellules infectées exposent à leur surface membranaire des protéines virales (complexe Env). Ces protéines sont reconnues par des cellules immunitaires saines et s'accolent au lymphocyte infecté. S'ensuit un processus de « baiser de la mort » (kiss of death) par lequel la cellule saine est détruite par activation de la voie de l'apoptose14. Dans ce sens, Luc Montagnier rappelle lors d'un colloque (Bruxelles, décembre 2003) : « la mort massive des lymphocytes T4 n'est pas due à l'infection directe des cellules par la souche virale, qui est alors peu cytopathogène, mais à des mécanismes indirects touchant les cellules CD4+ non infectées. Un des médiateurs de cette apoptose est l'existence d'un fort stress oxydant caractérisé par une prévalence de molécules oxydantes (radicaux libres) sur les défenses antioxydantes de l'organisme15. »
+
+En l'absence de traitement, la quasi-totalité des patients infectés par le VIH évolue vers le sida, phase ultime de la maladie. La durée d'évolution vers le sida a semblé être de deux ou trois ans au début de la pandémie, mais est plutôt de l'ordre de dix ans, ainsi que l'ont montré des études faites en Ouganda16. Les raisons de la latence de l'apparition de la maladie demeurent inexpliquées de façon satisfaisante.
+
+Un certain nombre de patients ne développent pas le SIDA, même sans traitement : ce sont les asymptomatiques à long terme dont un sous-groupe est composé de contrôleurs du VIH (estimés à 1 % des séropositifs) ; leur dénombrement – rendu plus difficile depuis le développement des antirétroviraux – a pu faire l'objet de contestation17.
+
+Il existe deux classifications pour décrire la progression de l'infection VIH, fondées sur les manifestations cliniques et les anomalies biologiques.
+
+Classification en stades cliniques proposée par l'OMS
+
+Stade clinique 1
+
+Patient asymptomatique.
+Adénopathies persistantes généralisées accompagnées de fièvre
+Stade clinique 2
+
+Perte de poids inférieure à 10 % du poids corporel.
+Manifestations cutanéomuqueuses mineures (dermite séborrhéique, ulcérations buccales récurrentes).
+Zona au cours des cinq dernières années.
+Infections récidivantes des voies respiratoires supérieures.
+Stade clinique 3
+
+Perte de poids supérieure à 10 % du poids corporel.
+Diarrhée chronique inexpliquée pendant plus d'un mois.
+Fièvre prolongée inexpliquée pendant plus d'un mois.
+Candidose buccale (muguet).
+Leucoplasie chevelue buccale.
+Tuberculose pulmonaire dans l'année précédente.
+Infections bactériennes sévères (pneumopathies par exemple).
+Stade clinique 4
+
+Pneumocystose.
+Toxoplasmose cérébrale.
+Maladie de Kaposi.
+Lymphome.
+Mycobactériose atypique généralisée, et plus généralement toute affection grave apparaissant chez un patient infecté par le VIH, ayant une baisse importante de son immunité (taux de CD4 inférieur à 200/mm3).
+Classification CDC de l'ensemble des infections liées au VIH
+
+Cette classification est hiérarchique et historique18, c’est-à-dire qu’une fois le patient a atteint une classe, lorsque les signes cliniques ont disparu, il conserve cette classe. Par exemple un patient classé B, ne pourra plus passer dans la catégorie A, même si les signes cliniques de la classe B ont disparu.
+
+Catégorie A
+
+Séropositivité aux anticorps du VIH en l'absence de symptômes (avant 1993, la séropositivité au VIH asymptomatique ne rentrait pas dans la classification « sida »).
+Lymphadénopathie généralisée persistante.
+Primo-infection symptomatique.
+Catégorie B
+
+Manifestations cliniques chez un patient infecté par le VIH, ne faisant pas partie de la catégorie C et qui répondent au moins à l'une des conditions suivantes :
+elles sont liées au VIH ou indicatives d'un déficit immunitaire ;
+elles ont une évolution clinique ou une prise en charge thérapeutique compliquée par l'infection VIH. (Cette catégorie correspond aux stades cliniques 2 et 3 de l'OMS.)
+Catégorie C (SIDA)
+
+Cette catégorie correspond à la définition du sida chez l'adulte. Les critères cliniques sont les mêmes que le stade clinique 4 de l'OMS.
+Prévention
+
+Les divers modes de transmission du VIH sont désormais parfaitement connus. Il n'existe, à ce jour, aucune vaccination efficace contre le sida. Le préservatif reste actuellement la meilleure prévention[réf. nécessaire].
+
+Par voie sexuelle
+
+Les rapports réceptifs sont plus à risque que les rapports insertifs, et les rapports anaux réceptifs sont ceux qui comportent le risque de transmission le plus élevé. Selon le ministère de la Santé français, la probabilité de transmission19 par acte varie de :
+
+0,03 % à 0,07 % dans le cas de rapport vaginal réceptif
+0,02 % à 0,05 % dans le cas de rapport vaginal insertif
+0,5 % à 3 % dans le cas de rapport anal réceptif
+0,01 % à 0,185 % dans le cas de rapport anal insertif
+Les infections sexuellement transmissibles (IST) favorisent la transmission du virus VIH, par les micro-ulcérations et l'inflammation qu'elles entraînent localement. Répondent à cette définition la syphilis, la gonococcie, la chlamydiose (CT), l’herpès virus (HSV), la papillomatose et la trichomonase. Être déjà séropositif pour le VIH ne protège pas d'une surinfection VIH par une nouvelle souche virale potentiellement plus virulente. Les rapports oro-génitaux ne sont pas dénués de risques. Plusieurs cas prouvés de transmission du VIH au cours de rapports oro-génitaux, essentiellement par fellation passive, mais aussi par rapport oro-anal, ont été rapportés20.
+
+Les personnes séropositives au VIH ne souffrant d’aucune autre MST et suivant un traitement antirétroviral efficace, c'est-à-dire ayant une virémie indétectable depuis au moins six mois, ne risquent de transmettre le VIH par voie sexuelle que de façon négligeable, avec un risque inférieur à 1 sur 100 00021.
+
+Lors d'une relation sexuelle, seuls les préservatifs, qu'ils soient masculins ou féminins, protègent du VIH et des principales infections sexuellement transmissibles. Ils doivent être utilisés lors de tout rapport sexuel avec pénétration (qu'elle soit vaginale, anale ou buccale), avec un partenaire séropositif ou dont le statut sérologique est inconnu.
+
+
+Préservatif masculin.
+La condition pour l'efficacité du préservatif masculin est qu'il soit utilisé correctement à chaque rapport. Les lubrifiants à base de corps gras, comme la vaseline, des pommades ou des crèmes, voire du beurre, doivent être proscrits car ils fragilisent les préservatifs en latex et augmentent les risques de rupture. Il faut leur préférer des lubrifiants à base d'eau. Il est préférable d'utiliser un préservatif non lubrifié pour la fellation. Il est par ailleurs indispensable de vérifier sur la pochette du préservatif l'inscription de la date de péremption et d'une norme reconnue (CE-EN 600 pour l'Union européenne).
+
+Le préservatif féminin représente une alternative au préservatif masculin. Il est en polyuréthane — ce qui autorise les lubrifiants à base de corps gras ou aqueux — avec un anneau externe et interne. Il se place à l'intérieur du vagin grâce à un anneau souple interne. Il peut être mis en place dans le vagin ou dans l'anus quelques heures avant un rapport sexuel, et n'a pas besoin d'être retiré tout de suite après le rapport, à l'inverse du préservatif masculin. Le principal obstacle à sa diffusion reste son coût élevé.
+
+L'usage du préservatif permet une diminution du risque d'infection22,23,24.
+
+Malgré la large diffusion d'informations sur la maladie et la prévention, certaines personnes ont néanmoins des comportements à risque (voir article prise de risque du SIDA), ce qui nécessite des actions de prévention.
+
+Article détaillé : Circoncision et sida.
+La circoncision permet de réduire la propagation du sida de 38 % à 66 % lors des rapports vaginaux pour le partenaire masculin25. L'hypothèse de cette réduction des risques d'infections fut avancée dès 198626,27, puis confirmée au cours des années 2000 par trois essais contrôlés randomisés28,29,30,31. Fortes de ces résultats, en mars 2007, l’OMS et ONUSIDA ont indiqué que la circoncision médicale est une stratégie additionnelle dans la lutte contre l’épidémie de sida dans les zones qui connaissent une épidémie généralisée du virus (prévalence supérieure à 3 %) et où sa transmission est essentiellement hétérosexuelle32.
+
+Chez les toxicomanes
+
+Cette section ne cite pas suffisamment ses sources. Pour l'améliorer, ajouter en note des références vérifiables ou les modèles {{Référence nécessaire}} ou {{Référence souhaitée}} sur les passages nécessitant une source.
+L'usage de drogue peut permettre la contamination par le partage de seringues par exemple, avec au moins une personne infectée mais de plus certaines drogues peuvent avoir en elles-mêmes une action nocive sur le système immunitaire ; le risque pour la santé peut donc être double. Là encore, certains prônent l'abstinence tandis que d'autres, jugeant que cette position n'est pas réaliste, préfèrent mettre à disposition des toxicomanes un matériel stérile ou des traitements de substitution.
+
+Les drogues comme la cocaïne, l'héroïne, le cannabis, etc., sont des corps toxiques étrangers. Elles provoquent donc une réponse immunitaire plus ou moins aiguë, dépendant de la nature de la substance, de sa concentration et de la fréquence à laquelle elle est consommée. Par exemple, le THC présenterait en particulier des effets immunosuppresseurs sur les macrophages, les cellules NK et les lymphocytes T33. L'ecstacy a également des effets néfastes sur les cellules CD4+ du système immunitaire34.
+
+
+Automate d'échange de seringues à Paris.
+Le partage et la réutilisation de seringues usagées et souillées par du sang contaminé constituent un risque majeur de contamination par le VIH, mais aussi par les virus des hépatites B et C. En France, des mesures de réduction des risques sanitaires ont été mises en place : vente libre de seringues (depuis 1987), trousses de prévention contenant le matériel nécessaire pour réaliser une injection à moindre risque, mise en place d'automates de distribution et de récupérateurs de seringues, offre de traitements de substitution par voie orale.
+
+Le risque d'infection par le virus du sida peut être augmenté lorsque la personne à l'origine de la contamination est porteur du VIH et d'un virus de l'hépatite (A, B ou C)[réf. nécessaire]. Dans ce cas très particulier, la surinfection simultanée est même à envisager (voir test VIH).
+
+Pour prévenir ces contaminations, il est essentiel de ne pas partager le matériel d'injection ou d'inhalation. Ceci comprend les seringues, les cotons, les cuillères et cupules, eau de dilution de la drogue, mais aussi les pailles et les pipes à crack, surtout si elles sont ébréchées. Le matériel d'injection doit être à usage unique.
+
+L'efficacité de ces mesures reste toutefois controversée : par exemple, certaines études35 ont montré qu'à Montréal, ceux qui participent aux programmes « seringues stérilisées » ont apparemment un taux de transmission plus élevé que ceux qui n'y participent pas. De plus, les associations de lutte contre la drogue reprochent à ces mesures de rendre la toxicomanie plus accessible et de ne pas assez insister sur les possibilités de désintoxication. Elles mettent en avant que résoudre le problème de drogue, résoudrait un des modes de transmission du sida.
+
+Diagnostic
+
+En 2009 en France, il était estimé qu'un tiers des séropositifs ne connaissaient pas leur statut sérologique36. Il n'y a pas de dépistage obligatoire, si ce n'est lors d'un don de sang, de sperme ou d'organe ainsi que lors d'une fécondation in vitro. Il est proposé lors des tests à passer avant la grossesse. Chacun est libre de se poser la question de son propre statut sérologique vis-à-vis du VIH, et d'aller faire un test de dépistage.
+
+Souvent, la primo-infection est silencieuse et l'infection par le VIH passe inaperçue jusqu'à ce que la maladie SIDA apparaisse ou qu'un test de séropositivité soit effectué.
+
+Tests de dépistage de l'infection
+
+Article détaillé : Test VIH.
+Le diagnostic de l'infection par le VIH fait appel à la détection dans le sang des patients des anticorps dirigés contre le VIH. C'est la recherche de séropositivité au VIH, qui est un signe de l'infection ; mais l’absence de séropositivité au VIH ne veut pas dire qu'il n'y a pas eu une contamination (ce qui peut être le cas au tout début de l'infection).
+
+La législation française actuelle exige l'utilisation de deux trousses sérologiques différentes lors du test de dépistage, car le test Elisa, s'il présente une sensibilité de 99,9 % (c'est-à-dire qu'il ne passera pas à côté d'une personne infectée), peut donner des résultats faussement positifs, en particulier lors de grossesses multipares7, lors de maladie grippale, chez les porteurs de facteur rhumatoïde, etc. Deux tests différents sont donc réalisés issus de deux laboratoires différents. Ces tests sont des tests à limite, c'est-à-dire que la séropositivité au VIH est déclarée si le taux d'anticorps dépasse une certaine valeur fixée par le fabricant du test.
+
+Afin d'éliminer le risque de résultat faussement positif, la séropositivité au VIH sera confirmée par un second prélèvement pour confirmation par un Western blot (immunoblot). Le malade est considéré séropositif au VIH si des anticorps dirigés contre les protéines constitutives du virus et contre les protéines internes du virus sont observés.
+
+De nouveaux tests de dépistage permettent d'identifier des patients porteurs de l'antigène p. 24. En effet en cas de prélèvement trop précoce, l'organisme n'a pas fabriqué d'anticorps en quantité détectable, et la recherche de l'Ag p. 24 ou la mesure de l'ARN-VIH plasmatique permettent un diagnostic plus précoce mais qui doit toujours être confirmé par un second prélèvement.
+
+Il est également à noter que les tests de séropositivité au VIH dans les pays en voie de développement se réduisent le plus souvent à un seul test Elisa effectué auprès des femmes enceintes, qui constituent les populations les plus faciles à dépister à l'hôpital.
+
+Une étude37 a montré que des souris alloimmunes peuvent produire les antigènes GP120 et p. 24 créés lors d'une infection par le VIH, bien qu'elles n'aient pas été exposées au VIH. Chez l'être humain, les antigènes GP120, p. 24 et p. 17 dans certains tissus placentaires spécifiques (chronic villitis) de femmes à termes non infectées ont été retrouvés38.
+
+Les tests de dépistage (Elisa) peuvent se révéler faussement positifs chez les personnes atteintes de lupus (ainsi que d'autres maladie auto-immunes tel qu'il a été confirmé au congrès de Yokohama en 1994) mais cela ne se retrouve généralement pas pour les tests de confirmation (Western blot)39. Pendant les mois qui suivent une vaccination anti-grippale (deux à cinq mois), le dépistage peut également se révéler faussement positif dans certains cas, y compris pour les tests de confirmation.
+
+Il existe plusieurs lieux concernant le dépistage. En France, les cas peuvent être observé dans les centres de dépistage anonyme et gratuit CDAG40, dans les hôpitaux (centres de planification, centres de la Femme, etc.), dans les centres de santé universitaires (pour les étudiants) et dans les laboratoires de ville. Le test est remboursé à 100 % sur prescription médicale.
+
+Mesure de l'ARN viral plasmatique
+
+La quantification par PCR (Réaction en chaîne par polymérase) de l'ARN viral plasmatique est le test permettant de suivre l'intensité de la réplication virale dans l'organisme infecté et est appelé charge virale. Ce test, couplé à la mesure du taux de lymphocytes T CD4+, est utilisé pour suivre l'évolution virologique d'un patient avant ou après la mise sous traitement. Il ne peut être utilisé comme seul moyen de diagnostic.
+
+On considère qu'une variation de la charge virale n'est significative qu'au-delà de 0,5 log, soit des variations d'un facteur (multiplication) de 3,6 environ à la hausse ou à la baisse. La charge virale est exprimée en copies par ml.
+
+Évolution de la charge virale et du système immunitaire
+
+Charge viral et système immunitaire en fonction de stade l'infection Les valeurs temporelles de la phase de latence clinique (ou phase asymptomatique) ne sont qu'une moyenne. Cette phase peut en effet aussi bien durer 1 an que 16, selon l'individu41.
+
+Signes cliniques
+
+Article détaillé : Signes cliniques de l'infection au VIH.
+Les signes cliniques de l'infection par le VIH varient selon le stade de la maladie. Dans son livre Des Virus et des Hommes, le professeur Luc Montagnier indique que cette maladie n'a aucun symptôme spécifique constant.
+
+Les symptômes de la primo-infection sont peu spécifiques. Ils apparaissent entre une et six semaines après la contamination, sous forme d'un syndrome pseudogrippal, ou mononucléosique. La fièvre est quasi constante, accompagnée de céphalées, de myalgies, d'asthénie. Les signes cutanéomuqueux associés sont une angine érythémateuse ou pseudomembraneuse comme dans la mononucléose infectieuse, et une éruption cutanée maculopapuleuse touchant essentiellement le tronc et la face. Peuvent s'y associer des ulcérations cutanéomuqueuses superficielles, surtout génitales et buccales.
+
+Dans plus de la moitié des cas, apparaissent au cours de la deuxième semaine des adénopathies multiples, cervicales, axillaires et inguinales. Des manifestations digestives à type de diarrhée avec douleurs abdominales sont présentes dans un tiers des cas. La durée d'évolution d'une primo-infection est en moyenne de deux semaines. En l'absence de dépistage précoce et donc de traitement, tant prophylactique que curatif, de nombreux patients découvrent leur séropositivité au VIH au stade sida, à l'occasion de l'apparition d'une maladie opportuniste. La liste en est longue : atteintes pulmonaires (pneumocystose, tuberculose, pneumopathie interstitielle lymphoïde, lymphome), digestives (diarrhée, cryptosporidiose), neurologiques (toxoplasmose cérébrale, démence à VIH, méningites), dermatologiques (sarcome de Kaposi, dermite séborrhéique), oculaires (rétinite à cytomégalovirus qui peut entraîner une cécité).
+
+Traitements
+
+Article détaillé : Antirétroviral.
+Il n'existe à l'heure actuelle pas de traitement permettant de guérir du sida, malgré l'existence de traitements comme les trithérapies rétrovirales qui permettent de contenir l'action du virus avec plus ou moins d'efficacité ; de nombreux morts sont déplorés chaque jour en particulier dans les pays en développement où ces traitements sont difficilement accessibles en raison de leur coût. Des recherches continuent pour la mise au point d'un vaccin, mais les progrès dans ce domaine sont lents.
+
+Les traitements ne sont pas généralement prescrits au début de la séropositivité au VIH, car ils présentent des effets indésirables, ainsi qu'une certaine toxicité42. La nécessité de suivre un traitement à l'aide des bilans sanguins, notamment le rapport Charge virale/Taux de CD4 est évaluée. Une fois le traitement débuté, il doit être poursuivi avec une très grande régularité (une mauvaise observance peut rendre le virus « résistant »). Les tentatives d'arrêt des traitements n'ont pour l'instant pas donné de résultats probants43.
+
+Les principaux effets indésirables à court terme des multithérapies s'atténuent généralement rapidement : fatigue, maux de tête, troubles digestifs (nausées, diarrhées), fièvre ou plaques rouges sur la peau. Après plusieurs mois de traitement, une lipodystrophie (graisse disparaissant du visage pour aller sur le ventre pour les hommes et les cuisses pour les femmes), des dyslipidémies (augmentation du cholestérol et des triglycérides) ; ainsi qu'un perturbation du métabolisme glucidique (mauvaise assimilation du sucre) peuvent survenir. Certains de ces effets indésirables peuvent être atténués par une activité physique adaptée44 ou une adaptation des traitements médicamenteux.
+
+L'espérance de vie actuelle sous traitement chez le sujet jeune infecté peut dépasser 35 ans45.
+
+Néanmoins, sur 80 000 personnes actuellement sous traitement en France, 27 000 sont en état d’échappement virologique (la réplication du virus n'est pas maitrisé par le traitement), et 3 000 sont en échec thérapeutique, soit en danger de mort imminente[réf. nécessaire].
+
+Au cours d'une grossesse, le risque de transmission de la mère à l'enfant est de 20 % à 40 %. Ce risque peut être considérablement réduit à l'aide d'un traitement préventif. Un traitement antirétroviral associé à la césarienne et à l'allaitement artificiel permet de réduire le risque de transmission à moins de 1 %. La durée courte du travail et le délai court de prise en charge après la rupture de la poche des eaux sont des facteurs de protection contre la transmission maternofœtale. Les dernières recommandations favorisant l'allaitement maternel complet jusqu'à l'âge de 9 mois au moins proviennent d'études très récentes qui montrent que celui-ci réduit le taux de transmission à 4 %8,9,10.
+
+Selon son président, M. Philippe Douste-Blazy, 8 enfants sur 10 malades du Sida sont pris en charge par l'institution internationale Unitaid dont le financement est fondé pour l'essentiel sur une taxe sur les billets d'avion46.
+
+En 2012, l'Américain Timothy Brown serait le premier cas connu de guérison du VIH. Il aurait été soigné indirectement à la suite d'une greffe de moelle osseuse alors qu'il était atteint d'une leucémie en 200747.
+
+Entre partenaires sérodiscordant (un positif, un négatif), il est possible de limiter (mais pas de supprimer) les risques de contamination sans usage de préservatif sous certaines conditions : les partenaires s'engagent sur la fidélité, le séropositif doit avoir une charge virale indétectable depuis au moins 6 mois et ne jamais manquer de prise de médicament selon les conseils du médecin. Dans ces conditions, le risque de contamination reste présent, à hauteur de 4%48. Ces conditions sont définies par le Conseil Supérieur de la Santé de Belgique dans le cadre d'un Plan VIH 2014-201949. Ce concept doit faire partie d'une prévention globale intégrée (prévention primaire, dépistage et prise en charge) qui fait intervenir le traitement comme outil de prévention. L'utilisation du préservatif et du lubrifiant, la distribution de seringues stériles et l'éducation à la sexualité et à la prévention des infections sexuellement transmissibles restent néanmoins les éléments clés de la prévention pour tous les groupes à risques (les hommes qui ont des relations sexuelles avec des hommes, les personnes migrantes, personnes vivant avec le VIH, adolescents, travailleurs du sexe, personnes qui s’injectent des drogues et détenus).
+
+L'objectif premier d'un traitement anti-rétroviral est de maintenir le nombre de CD4 au-dessus de 500/mm³. Pour atteindre cet objectif, un traitement anti-rétroviral doit maintenir une charge virale plasmatique au-dessous de 50 copies/mL. Ceci a pour effet de réduire la morbidité du VIH, d'améliorer le profil de tolérance clinique et biologique ainsi que la qualité de vie50.
+
+Épidémiologie
+
+
+Ascension et la chute du sida pour les enfants aux États-Unis.
+Article détaillé : Épidémiologie du sida.
+Depuis l'année 2002, le sida est considéré comme une pandémie mondiale. Les dernières estimations fournies par le rapport ONUSIDA 200751 portent à 33,2 millions, le nombre de personnes séropositives au VIH dans le monde ; 2,5 millions, le nombre de personnes nouvellement séropositives au VIH en 2007 ; et 2,1 millions, le nombre de personnes mortes du sida en 2007. Ce qui permet d'estimer à plus de 25 millions le nombre de morts depuis le début de la maladie en 1981. L'organisation note une stabilisation du taux d'infection (c'est-à-dire du nombre de personnes infectées par rapport à la population globale), ce qui amène à penser que le pic de l'épidémie a été atteint et que celle-ci se stabilise52. Cependant, le nombre de personnes infectées a augmenté, en raison de l'augmentation de la population et de l'accès aux trithérapies (qui retarde les décès).
+
+Ces estimations sont obtenues grâce à l’Epimodel53 utilisé par l'ONUSIDA. L'évolution de la prévalence de la séropositivité au VIH est alors obtenue par modélisation utilisant plusieurs paramètres démographiques et médicaux déterminés sur des échantillons de la population, en particulier les études antenatales54.
+
+Cependant, les chiffres de cette pandémie ne sont que des chiffres officiels, car certains États sont trop pauvres pour pouvoir avancer avec certitude un chiffre exact à un niveau national, surtout en Afrique. Par exemple, la Somalie, État qui n'existe plus, en proie à une guerre civile depuis 1989 est dans l'impossibilité de pouvoir engager une enquête sanitaire à grande échelle, pour connaître le nombre exact de malades ; autre exemple, le Sud-Soudan, nouvellement indépendant, qui sort de 30 ans de guerre civile, n'a pas les moyens d'établir des statistiques à grande échelle, et tout au plus, donne des estimations basses. À ces chiffres, il faut ajouter des populations aux modes de vies traditionnels qui vivent dans une économie de subsistance, qui, la plupart du temps, ne se font pas soigner, ou optent pour une médecine « traditionnelle » inefficiente et où le poids des traditions, coutumes et croyances est lourd. Souvent le SIDA n'est pas diagnostiqué. Ainsi de nombreux malades meurent du SIDA sans le savoir.
+
+La Chine offre un autre exemple : depuis des années, de nombreuses ONG dénoncent les chiffres discutables donnés par l'État chinois. Il semblerait que pour des raisons politiques sensibles, l'État chinois donnerait des chiffres loin de ceux de la réalité. Par exemple, un scandale a éclaté dans les années 2000, où il était question, que pour des campagnes de vaccinations, les seringues n'étaient pas changées, d'où un nombre important de contaminations au VIH. De nos jours encore, l'ampleur de ce désastre est méconnu, et l'État chinois n'avance aucun chiffre, et seules quelques ONG peuvent avancer des estimations basses. Pour d'autres pays, il y a aussi le poids de la religion : un État comme l'Arabie Saoudite, par exemple, communique peu, le SIDA étant considéré comme une honte en ce pays. Souvent, les causes des décès sont cachées, et on parle le plus souvent de tuberculose, alors que la raison de la mort est le SIDA. Régulièrement, l'OMS communique que la pandémie du SIDA se stabilise. Mais dans les faits, rien ne permet de dire si c'est vraiment le cas, car derrière la pandémie se cachent de nombreux tabous, tout comme des enjeux politiques importants, ce qui entraine la raison d'État, où la Chine est un parfait exemple. Parler de la stabilisation de la pandémie du SIDA est aléatoire, mais le SIDA reste une pandémie, ce qui explique que l'OMS reste vigilante. Ce qui est certain, est que les chiffres de la pandémie restent très importants, et qu'elle a toujours un impact majeur surtout en Afrique. Sans doute, les chiffres de l'ampleur de la pandémie sont sous-estimés, tout comme ils peuvent aussi correspondre peut-être à la réalité. Dans le monde, l'union Sud-Africaine semble être l'un des rares pays où le SIDA fait des ravages, à communiquer en toute transparence des chiffres et des données qui correspondent à la réalité. Dans ce pays, le système de santé est performant, et de plus, il y a de nombreux hôpitaux, contrairement à d'autres pays africains qui en sont dépourvus, par exemple l'Éthiopie, pays très pauvre, qui malgré sa bonne volonté à du mal à donner des chiffres exacts sur l'impact du SIDA, en ce pays de plus de 80 millions d'habitants.
+
+L'épidémie s'étend en Asie rapidement (plus d'un million de personnes ont été nouvellement contaminées dans cette région) et poursuit son expansion en Europe orientale. En s'étendant aux pays les plus peuplés du monde, elle peut avoir des conséquences potentiellement catastrophiques. Alors que dans les premières années elle touchait principalement les consommateurs de drogues injectables, les hommes homosexuels et travailleurs sexuels ainsi que leurs partenaires, ce n'est plus le cas aujourd'hui où la majorité des contaminations sont hétérosexuelles[réf. nécessaire].
+
+Dans les pays occidentaux, la prévalence de la séropositivité au VIH a quelque peu diminué, grâce aux campagnes de sensibilisation, ainsi que dans les pays d'Afrique centrale. Par exemple, en Ouganda55, elle est passée de 30 % en 1995 à 5 % en 2003. Néanmoins, parmi certaines parties de la population telles que les jeunes homosexuels, le taux d'infection montre de légers signes d'un possible retour à la hausse. Cela constitue un problème majeur pour les professionnels de la santé publique. Le sida demeure également extrêmement problématique en ce qui concerne les prostitué(e)s et les toxicomanes. Le taux de décès a considérablement chuté, à la suite de l'utilisation des trithérapies qui se sont avérées très efficaces, sans toutefois jamais arriver à le guérir (selon le rapport 2004 d'ONUSIDA, il y a en 2003 environ 580 000 personnes séropositives au VIH en Europe de l'Ouest).
+
+Selon l'UNICEF56, 530 000 enfants de moins de 15 ans ont été infectés par le VIH en 2006, essentiellement par transmission mère-enfant, malgré les progrès faits en Afrique, notamment dans le Sud et l'Est dans la prévention de ce type de transmission. 50 % des bébés infectés mourront avant d'avoir deux ans s'ils ne sont pas traités. Le nombre de femmes infectées est plus élevé que celui des hommes. En Afrique, les antirétroviraux (ARV) manquent toujours : 9 % des femmes enceintes séropositives au VIH en ont reçu en 2005 dans les pays pauvres ou moyennement riches, pour empêcher la transmission du VIH au bébé, contre 3 % en 2003.
+
+Toutefois, dans les pays en développement (surtout en Afrique sub-saharienne), les conditions économiques et le manque de campagnes de sensibilisation ont contribué à maintenir des taux d'infection élevés. Certains pays d'Afrique comptent actuellement jusqu'à 25 % de leur population active séropositive au VIH.
+
+Si ces populations atteignaient effectivement le stade sida, elles deviendraient inaptes au travail et nécessiteraient des soins médicaux intensifs. De telles situations pourraient, à l'avenir, provoquer dans la région l'effondrement de certaines sociétés, la chute de gouvernements, augmentant d'autant plus la détresse de ces pays.
+
+Pendant des années, nombre de ces gouvernements ont nié l'existence de ce problème, et commencent seulement à y rechercher des solutions. Le manque de soins médicaux adéquats, l'ignorance vis-à-vis de la maladie et de ses causes, ainsi que le manque de moyens financiers pour éduquer et soigner sont actuellement les principales causes de décès par le sida dans les pays en développement.
+
+Pour l'essentiel, la rapidité de diffusion du VIH dans ces pays est due aux coinfections VIH et virus de l'Herpès (HSV). Ce dernier favorise, lors des rapports sexuels, la transmission du VIH, en particulier la transmission hétérosexuelle en rendant les muqueuses génitales davantage perméables aux virus.
+
+En 2004 la mortalité globale en Afrique du Sud, par exemple, était de 567 000 personnes par an57, pour une population de 46,6 millions à la même date58.
+
+En France, les dernières statistiques datent de 2010. On dénombre 7000 à 8000 nouvelles contaminations par an. Dans 40 à 50 % des cas, le virus est contracté dans le cadre de relations sexuelles homme-homme (HSH), témoignant de ce que l'épidémie n'est pas encore contrôlée dans cette population (le nombre de nouveaux diagnostics chez les HSH a augmenté par paliers, puis s’est stabilisé depuis 2010 autour de 2 400 cas). Font suite par ordre d'incidence, les personnes d'origine d'Afrique subsaharienne et les usagers de drogues par voie intraveineuse. Le taux d’incidence est estimé à 39 pour 100 000 en Île-de-France et à 11 pour 100 000 pour 26 pour le reste de la Métropole. La majorité des découvertes de séropositivité en 2011 (72 %) correspondent à des personnes de 25 à 49 ans59.
+
+Contestation du lien entre VIH et sida
+
+Articles détaillés : Contestation de la responsabilité du VIH dans le sida et Sida en République populaire de Chine.
+Certaines personnes ou groupes remettent en question le lien de causalité entre le VIH et le sida, voire nient l'existence du virus60,61. Le virologiste Peter Duesberg, dont les travaux ont depuis été contredits62, soutient que le sida est causé par la consommation à long terme de drogues ou d'antirétroviraux. Ce point de vue a été repris pendant un temps par le gouvernement d'Afrique du Sud et, plus particulièrement, son président de l'époque, Thabo Mbeki. C'est pourquoi il a convoqué une conférence contradictoire entre les tenants de la position officielle et ceux soutenant des hypothèses alternatives, en demandant une réévaluation63. Il a également remis en cause l'innocuité de certains antirétroviraux, tels l'A.Z.T., et présenté la pauvreté comme origine du sida64. Malgré cela, l'Afrique du Sud a été un moteur dans le développement légal des génériques, en contournement de la position dominante des grands laboratoires occidentaux65. Malgré la réticence du gouvernement à fournir des médicaments aux séropositifs au VIH et sous la pression intérieure et internationale, les fonds consacrés à la lutte contre le sida n'ont cessé d'augmenter, atteignant leur point d'orgue aux campagnes nationales de traitement gratuit annoncées en 2003, mais peu développées depuis64. Les délais dans l'accès aux soins et aux traitements mais aussi dans la prévention sont ainsi imputés à ces attitudes controversées, même si de nombreux autres facteurs peuvent légitimement être invoqués pour expliquer que l'Afrique du Sud soit un des pays les plus touchés par le sida.
+
+En réaction à ces controverses, la Déclaration de Durban entend rappeler que les preuves que le sida est causé par le VIH sont claires, sans ambiguïté et conformes aux plus hauts standards de la science66.
+
+En Chine, la province du Henan a été contaminée massivement dans les années 1990 par des collectes de sang et de dérivés sanguins effectuées selon un protocole dangereux (réutilisation de matériel usagé, mise en commun du sang collecté, etc.), et a également nié la réalité du sida, pour protéger les responsables. Aujourd'hui[Quand ?], le mal est identifié, mais les traitements ne suivent pas.
+
+Selon une autre hypothèse, leur sida était l'effet des collectes de sang rémunérées trop fréquentes parmi une population très pauvre (et donc déjà mal nourrie), qui aurait causé son effondrement immunitaire67.
+
+Histoire
+
+Reconnaissance d'une épidémie
+
+Les premiers signes de l'épidémie remontent à la fin des années 1970, lorsque des médecins de New York et de San Francisco s'aperçoivent que beaucoup de leurs patients homosexuels souffrent d'asthénie, de perte de poids et parfois même de forme rare et atypique de cancer (comme le sarcome de Kaposi qui s'attaque aux leucocytes). L'existence d'un problème sanitaire est avérée en juillet 1981 lorsque le Centre pour le contrôle et la prévention des maladies (CDC) d'Atlanta relève une fréquence anormalement élevée de sarcomes de Kaposi, en particulier chez des patients homosexuels68. La maladie est d'abord connue sous le nom de « gay pneumonia » ou « gay cancer », GRID (Gay-Related Immune Deficiency) ou encore gay compromise syndrome aux États-Unis. Ces diverses appellations s'avérèrent inappropriées dès que s'affirma l'universalité de la maladie : à l'été 1982, débuta aux États-Unis l'usage du sigle AIDS, qui signifia d'abord Acquired Immune Deficiency Syndrome puis Acquired Immunodeficiency Syndrome. Le terme AIDS avec la notion d’Acquired (acquis) sont réputés être donnés par le chercheur Bruce Voeller, mort lui-même d'une complication liée à cette maladie69. En France, la Direction générale de la Santé adopta en 1982 le sigle SIDA, pour syndrome d'immunodéficience acquise ou syndrome d'immuno-dépression acquise, sur proposition du Pr Rozenbaum, qui traduisit le nom américain en utilisant le prénom d’une amie70. Avec les années, le sigle est devenu un nom : « sida » est un terme désormais utilisé71. Cette appellation de « syndrome » se justifiait alors, puisque l'on ne connaissait pas la cause de la constellation des troubles observés.
+
+L'origine virale ne fut pas d'emblée évoquée, et l'hypothèse d'une intoxication par des produits comme les poppers (stimulants sexuels contenant du nitrite d'amyle) a pu être émise au début, car les six premières personnes malades en avaient toutes été de gros consommateurs. De même, l'identification du virus responsable a été difficile, beaucoup de scientifiques parlant d’HTLV comme cause de l'épidémie. C'est à la même période que de nombreux transfusés sont contaminés par des lots de sang contenant le VIH. En quelques années, le virus va s'étendre pour finir par toucher toutes les couches de la population.
+
+En janvier 1983, l'équipe du professeur Jean-Claude Chermann, qui travaille à l'Institut Pasteur sous la direction de Luc Montagnier, isole un virus étroitement associé au SIDA72 ; à ce stade, cependant, le lien entre le LAV (Lymphadenopathy Associated Virus) et le sida n'est pas clairement établi par l'équipe de Luc Montagnier.
+
+Le 23 avril 1984, une conférence de presse est organisée par le département de la Santé et des Services sociaux des États-Unis. À cette occasion, la secrétaire américaine à la Santé Margaret Heckler annonce d'abord que Robert Gallo et ses collaborateurs ont découvert l'agent causal du sida, un rétrovirus baptisé HTLV-III. Elle annonce ensuite que cette équipe est en mesure de produire le virus en masse. Enfin, elle annonce la prochaine distribution d'un test de diagnostic73. En mai 1986, une commission de nomenclature virologique forge un sigle pour désigner le virus isolé : HIV (Human Immunodeficiency Virus), que les Français transcrivent en VIH74. En juin 1986, sous le gouvernement Chirac, le sida devient une maladie à déclaration obligatoire. En décembre 1986, les cas de sida avérés obtenant le statut de maladie de longue durée ouvrent droit à une prise en charge à 100 %75.
+
+Origine
+
+Article détaillé : Origine du virus de l'immunodéficience humaine.
+Le VIH est étroitement lié aux virus entraînant des maladies semblables au sida chez les chimpanzés et les mangabeys, le virus de l'immunodéficience simienne (VIS). Il existe plusieurs théories sur l'origine du sida, mais il est communément admis que le VIH-1 est une mutation du VIS. Ce dernier infecte notamment les chimpanzés (Pan troglodytes), qui sont des porteurs sains du VIScpz. La transmission chez l'homme a été rendue possible par une recombinaison76 des virus des chimpanzés et des mangabeys par une contamination par voie sanguine.
+
+Les études scientifiques ont suggéré que le virus serait apparu initialement en Afrique de l'Ouest, en particulier du Kinshasa où le virus aurait émergé en 192077, mais il est possible qu'il y ait eu plusieurs sources initiales distinctes. Le développement du chemin de fer au Congo belge aurait à cette époque provoqué une concentration de population à Kinshasa, ce qui aurait favorisé l'émergence du virus78. Le premier échantillon recensé du VIH fut recueilli en 1959 à Léopoldville (aujourd'hui Kinshasa), dans l'actuelle République démocratique du Congo. Parmi les premiers échantillons recueillis, le cas d'un Américain homosexuel en 1969 et d'un marin hétérosexuel norvégien en 197679.
+
+Au début de l'épidémie, des recherches ont été entreprises pour déterminer le patient zéro qui aurait propagé le virus aux États-Unis. Pendant un temps les soupçons se sont portés sur Gaëtan Dugas, un steward canadien homosexuel qui est mort le 30 mars 1984. Une étude fait remonter l'entrée du VIH aux États-Unis vers 196980.
+
+Pandémie
+
+Dès le début du xxie siècle, le SIDA se transforme en une pandémie. Il y a eu de 1981 à 2006 environ 25 millions de morts dus aux maladies en rapport avec le sida81. En 2007, l'épidémie semble marquer le pas, le nombre de séropositifs au VIH ayant sensiblement diminué de 38,6 millions en 2006 à 33,2 millions de personnes séropositives au VIH82. L'ONUSIDA indique cependant que cette diminution provient d'une meilleure utilisation des outils statistiques, et met en garde contre un optimisme exagéré.
+
+Les principales victimes sont actuellement les habitants des pays en voie de développement. Les raisons sont multiples et varient d'un pays à l'autre : tourisme sexuel pour l'Asie du Sud-Est, inoculations volontaires du virus[réf. nécessaire], absence d'information de la population sur les facteurs de risque de transmission (notamment en Afrique subsaharienne), convictions religieuses interdisant l'utilisation des moyens de protection tels que le préservatif, refus de l'abstinence ou relations hors mariage, manque de moyens ou de volonté pour faire de la prévention et informer les populations (principalement en Afrique et en Asie), voire refus d'admettre les faits.
+
+Religion
+
+La position de l'Église catholique à propos du sida ne diffère en rien de sa position sur la sexualité en général ; un thème qui fait souvent débat est celui de sa position concernant l'usage du préservatif en prophylaxie. Cependant, les propos du pape Benoît XVI, concernant l'utilisation du préservatif dans le cas de prostituées83, semble attester d'une mise en pratique de la doctrine du « moindre mal »84.
+
+Législation
+
+Les séropositifs au VIH étrangers peuvent difficilement entrer dans plusieurs pays85, comme la Russie86. Aux États-Unis, l'interdiction a été levée par l'administration Obama en janvier 201087.
+
+Œuvres et bibliographie
+
+Films
+
+Clins d'œil sur un adieu de Bill Sherwood (1986)
+Clair (Una Notte di Chiaro di Luna) Lina Wertmüller (1989)
+Common Threads: Stories from the Quilt de Rob Epstein et Jeffrey Friedman (1989)
+Un compagnon de longue date (Longtime companion) de Norman René (1990)
+Les Nuits fauves de Cyril Collard (1992)
+Peter's Friends de Kenneth Branagh (1992)
+The Living End de Gregg Araki (1992)
+Silverlake Life: The View from Here (1993)
+Zero Patience de John Greyson (1993)
+Philadelphia de Jonathan Demme (1993)
+Les Soldats de l'espérance (And the Band Played On) de Roger Spottiswoode (1993)
+N'oublie pas que tu vas mourir de Xavier Beauvois (1995)
+Kids de Larry Clark (1995)
+Trainspotting de Danny Boyle (1996)
+Mes 17 ans de Philippe Faucon (1996)
+Scénarios d'Afrique depuis 1997
+Gia (1998)
+VildSpor de Simon Staho (en) (1998)
+Jeanne et le Garçon formidable (1998), Drôle de Félix (2000) et Nés en 68 (2008) de Jacques Martineau et Olivier Ducastel.
+Dr Lucille Teasdale-Corti de Francine Allaire avec Marina Orsini (2000).
+Rent de Chris Columbus (2005)
+Zatertag is voor doden de Lies Niezen et Lee-Ann Cotton (2006)
+Les Témoins de André Téchiné (2007) sur une idée originale de Michel Canesi et Jamil Rahmani.
+Dallas Buyers Club de Jean-Marc Vallée (2013)
+The Normal Heart de Ryan Murphy (2014)
+Séries télévisées
+
+21 Jump Street Saison 2 épisode 13 Dernier envol : épisode entièrement consacré au VIH.
+Queer as folk : les personnages de Vic, Ben et Hunter sont séropositifs et divers épisodes tournent autour du VIH.
+Angels in America série de Mike Nichols d'après Tony Kushner (2003)
+Kamisama mō sukoshi dake série de Takeuchi Hideki et Iwamoto Hitoshi dont le thème central est le VIH et ses retombées sociales chez les personnes contaminées. La série aura beaucoup participé à l'évolution du regard sur la maladie au Japon. (1998)
+Urgences (série télévisée): via le personnage de Jeannie Boulet.
+Bande dessinée
+
+Jo de Derib, (ISBN 2-8036-1404-9) (1991)
+Toxico, Sida and Co Rapi Zappeur Collectif - Isoëte (1994)
+Le Prof de Tito (1996)
+Pedro et moi de Judd Winick (2000)
+Pilules bleues de Frederik Peeters (2001)
+Livres
+
+La gloire du Paria, de Dominique Fernandez (1987)
+Histoire du sida : début et origine d'une pandémie actuelle, de Mirko Grmek (Paris, Payot, 1989, rééditions : 1990, 1995, 2005)
+Les Nuits fauves, Cyril Collard, Flammarion (1989)
+Plus grands que l'amour de Dominique Lapierre (1990)
+Le Temps du sida, de Michel Bounan, Éditions Allia, Paris (1990, 2004)
+À l'ami qui ne m'a pas sauvé la vie (1990), le Protocole compassionnel (1991), l'Homme au chapeau rouge (1992), Cytomégalovirus, journal d'hospitalisation (1992) d’Hervé Guibert
+Cargo Vie, de Pascal de Duve (1993)
+Des Virus et des Hommes par le professeur Luc Montagnier, Éditions Odile Jacob, Paris (1994)
+Un mal imaginaire, de Maxime Montel, Éditions de Minuit, coll. Les jours et les nuits (1994)
+On n'est pas sérieux quand on a dix-sept ans de Barbara Samson (1994)
+La nouvelle peste d'Élisabeth Bourgois (1995)
+Tout contre Léo de Christophe Honoré (1996)
+Dans ma chambre (1996), Plus fort que moi (1998) P.O.L, Nicolas Pages (1999), Génie divin (2001) de Guillaume Dustan Balland, coll. « Le Rayon », sur le barebacking
+Je bande donc je suis, Serial Fucker. Journal d'un barebacker d'Erik Rémès Éditions blanche (1999), sur le barebacking
+La vie à reculons, Gudule (1999)
+Le basculement du monde, de Marie Borin, Éditions L'Âge d'Homme, 2007.
+L'Insecte, de Jean-Michel Iribarren, Éditions du Seuil (2000)
+Virus de vie, de Jean-Luc Romero, Éditions Florent Massot, Paris (2002)
+K'pote swing de Phil Marso, Édition Megacom-ik : la prévention du sida en langage SMS (2005)
+Les 10 plus gros mensonges sur le sida, Étienne de Harven et Jean-Claude Roussez, Éditions Dangles (2005), livre consacré à la Contestation de la responsabilité du VIH dans le sida
+Le Syndrome de Lazare, de Michel Canesi et Jamil Rahmani (2006)
+Le chant sacré Une histoire du sang contaminé : Tome 1, de Laurence Lacour, Édition Stock (2008)
+HP 1999, de Pierre Guéry (2009)
+Sang Damné, de Alexandre Bergamini, Édition Seuil (2011)
+Pour en finir avec le SIDA, de Jacques Leibowitch, Édition Plon (2011)
+Un mal qui ne se dit pas, de Anne Bouferguène, Édition Robert Laffont (2011)
+Pour un monde sans sida, Un combat partagé, de Françoise Barré-Sinoussi, Édition Albin Michel (2012)
+Théâtre
+
+Y a-t-il des tigres au Congo ?, de Bengt Ahlfors et Yohan Bargum
+Notes et références
+
+Anne Decoster, « Classification des Retroviridae (Rétrovirus) - Lentivirus »,‎ décembre 2004 (consulté le 2 juillet 2010), p. 2 du document PDF.
+Jean-Marie Huraux, Henri Agut, Anne-Marie Fillet, Vincent Calvez, Vincent Thibault, Agnès Gautheret-Dejean, Anne-Geneviève Marcelin, Claire Deback, « Virologie - Rétrovirus humains », sur Faculté de médecine Pierre-et-Marie-Curie,‎ 5 février 2008 (consulté le 2 juillet 2010), p. 114 du document PDF.
+sidéen sur le site du CNTRL
+Le reste de cet article se concentre sur le sida touchant l'Homme.
+(en) Estimation des risques d'infections par le VIH, site du CDC.
+(en) « Scientific Evidence on Condom Effectiveness for Sexually Transmitted Disease (STD) Prevention », National Institutes of Health,‎ 20 juin 2001 (consulté le 14 février 2008), p. 14.
+(en) « False-positive and indeterminate human immunodeficiency virus test results in pregnant women. » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 25 mars 2013
+(en) Iliff PJ, Piwoz EG, Tavengwa NV, Zunguza CD, Marinda ET, Nathoo KJ, Moulton LH, Ward BJ, Humphrey JH; ZVITAMBO study group, « Early exclusive breastfeeding reduces the risk of postnatal HIV-1 transmission and increases HIV-free survival », AIDS, vol. 19, no 7,‎ 2005, p. 699-708. (PMID 15821396)
+Coovadia et al.
+Sinkala et al.
+Laurent Mandelbrot Hôpital Cochin, Paris.
+(en) Sutthent R, Chokephaibulkit K, Piyasujabul D, Vanprapa N, Roogpisuthipong A, Chaisilwatana P, « Effect of perinatal short-course zidovudine on the clinical and virological manifestations of HIV-1 subtype E infection in infants », J Clin Virol, vol. 25, no 1,‎ 2002, p. 47-56. (PMID 12126721)
+Quaghebeur Mombasa, Kenya.
+(en) J-L Perfettini, M Castedo, T Roumier, K Andreau, R Nardacci, M Piacentini et G Kroemer « Mechanisms of apoptosis induction by the HIV-1 envelope » Cell Death and Differentiation (2005) 12, 916–23.
+Luc Montagnier, colloque à Bruxelles, décembre 2003 (document Microsoft Word).
+(en) HIV-1 infection in rural Africa: is there a difference in median time to AIDS and survival compared with that in industrialized countries?
+Dans Tout le monde doit connaître cette histoire paru en octobre 2009, le Pr Chermann assimile les VIH contrôleurs aux non-progresseurs. Par ailleurs il s'étonne de ne pas trouver de références pour les chiffres le plus souvent avancés concernant les non-progresseurs (1 % des séropositifs). Il dit que dans les échantillons dûment documentés à sa disposition, ces chiffres sont de… 25 % ! Il rapporte même des 50 % repérés dans des populations de certains pays d'Afrique !?
+CDC (Centers for Disease Control and Prevention). 1993 Revised Classification System for HIV Infection and Expanded Surveillance Case Definition for AIDS Among Adolescents and Adults.
+Ministère de la Santé[PDF].
+« Relations orales et risque de transmission du VIH », Actualités en épidémiologie VIH/sida, Agence de la santé publique du Canada,‎ avril 2003 (consulté le 8 octobre 2003).
+Vernazza P, Hirshel B, Bernasconi E. et Flepp M, « Les personnes séropositives ne souffrant d'aucune autre MST et suivant un traitement antirétroviral efficace ne transmettent pas le VIH par voie sexuelle », Schweiz Arzteztg, vol. 89, no 5,‎ janvier 2008, p. 165-169 (lire en ligne [PDF])
+(en)A meta-analysis of condom effectiveness in reducing sexually transmitted HIV., Social science & medicine.
+(en)The effectiveness of condoms in reducing heterosexual transmission of HIV., Familly planning perspectives.
+(en)Syndromic management of sexually-transmitted infections and behaviour change interventions on transmission of HIV-1 in rural Uganda: a community randomised trial., Lancet.
+« Male circumcision for prevention of heterosexual acquisition of HIV in men. », Siegfried N, Muller M, Deeks JJ, Volmink J., avril 2009.
+V Alcena, « AIDS in Third World countries », PLOS Medicine,‎ 19 octobre 2006 (lire en ligne)
+V Alcena, « AIDS in Third World countries », New York State Journal of Medicine, vol. 86, no 8,‎ août 1986, p. 446 (lire en ligne)
+Erreur de référence : Balise <ref> incorrecte ; aucun texte n’a été fourni pour les références nommées ANRS.
+Fink AJ, « A possible explanation for heterosexual male infection with AIDS », N Engl J Med, vol. 315, no 18,‎ octobre 1986, p. 1167 (PMID 3762636, DOI 10.1056/nejm198610303151818)
+Bailey RC, Moses S, Parker CB. et al., « Male circumcision for HIV prevention in young men in Kisumu, Kenya: a randomised controlled trial », Lancet, vol. 369, no 9562,‎ février 2007, p. 643–56 (PMID 17321310, DOI 10.1016/S0140-6736(07)60312-2)
+Gray RH, Kigozi G, Serwadda D. et al., « Male circumcision for HIV prevention in men in Rakai, Uganda: a randomised trial », =Lancet, vol. 369, no 9562,‎ février 2007, p. 657–66 (PMID 17321311, DOI 10.1016/S0140-6736(07)60313-4)
+« Nouvelles données sur la circoncision et la prévention du VIH : conséquences sur les politiques et les programmes » [PDF], consultation technique de l’OMS et de l’ONUSIDA, conclusions 7 : « La circoncision aura les plus grandes retombées potentielles pour la santé publique dans les zones où le VIH est hyperendémique (c’est-à-dire quand la prévalence dans la population générale dépasse 15 %), où le virus se propage principalement par voie hétérosexuelle et où une forte proportion (supérieure à 80 %) des hommes n’est pas circoncise. Les avantages sur la santé publique seront également considérables dans les zones qui connaissent une épidémie généralisée de VIH (c’est-à-dire quand la prévalence dans la population générale est comprise entre 3 % et 15 %), où la transmission du virus est essentiellement hétérosexuelle et où relativement peu d’hommes sont circoncis. »
+Cannabis et système immunitaire.
+« CATIE News : L'ecstasy fait-il triper le système immunitaire ? - 23 novembre 2001 » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2014-05-28.
+(en)High rates of HIV infection among injection drug users participating in needle exchange programs in Montreal: results of a cohort study.
+« Quelques chiffres sur le VIH/sida en France », sur sida-info-service.org,‎ 2 décembre 2010 (consulté le 27 décembre 2013)
+(en) Kion TA, Hoffmann GW, « Anti-HIV and anti-anti-MHC antibodies in alloimmune and autoimmune mice », Science, vol. 253, no 5024,‎ 1991, p. 1138-40. (PMID 1909456)
+(en) Faulk WP, Labarrere CA, « HIV proteins in normal human placentae », Am J Reprod Immunol, vol. 25, no 3,‎ 1991, p. 99-104. (PMID 1930645)
+(en) Soriano V, Ordi J, Grau J « Tests for HIV in Lupus » [Correspondence] N Engl J Med. 1994;331(13):881. DOI:10.1056/NEJM199409293311317
+Page d'informations sur le dépistage du SIDA en France.
+(en) Ho DD, Neumann AU, Perelson AS, Chen W, Leonard JM, Markowitz M. « Rapid turnover of plasma virions and CD4 lymphocytes in HIV-1 infection » Nature 1995;373(6510):123-6. PMID 7816094
+(en) Chiu DT, Duesberg P, The Toxicity of Azidothymidine (AZT) on Human and Animal Cells in Culture at Concentrations Used for Antiviral Therapy, Genetica, 1995;103-109.
+(en) The Strategies for Management of Antiretroviral Therapy (SMART) Study Group, CD4+ count–guided interruption of antiretroviral treatment, , N Eng J Med, 2006:355:2283-2296.
+(en)Thoni, G. J., Fedou, C., Brun, J. F., Fabre, J., Renard, E., Reynes, J., Varray, A., & Mercier, J. (2002) Reduction of fat accumulation and lipid disorders by individualized light aerobic training in human immunodeficiency virus infected patients with lipodystrophy and/or dyslipidemia. Diabetes Metab, 28(5), 397-404.
+(en) Survival of persons with and without HIV infection in Denmark, 1995–2005, Nicolai Lohse, Ann-Brit Eg Hansen, Gitte Pedersen, Gitte Kronborg, Jan Gerstoft, Henrik Toft Sørensen, Michael Væth, Niels Obel, Ann Intern Med, 2007;146;87-95.
+http://news.aouaga.com/h/5980.html
+http://www.itele.fr/video/un-seropositif-serait-gueri-du-sida
+« Avis du CSS concernant les lignes directrices relatives à l’utilisation du préservatif par les partenaires VIH-sérodiscordants recevant un traitement antirétroviral. », PUBLICATION DU CONSEIL SUPERIEUR DE LA SANTE N° 8902, Conseil Supérieur de la Santé,‎ juin 2013 (consulté le 22 novembre 2013).
+« Plan VIH 2014-2019 », Service Public Fédéral (SPF) Santé publique, Sécurité de la Chaîne alimentaire et Environnement,‎ septembre 2013 (consulté le 22 novembre 2013).
+PR Morlat, « Prise en charge médicale des personnes vivant avec le VIH », ?,‎ 2013 (lire en ligne)
+(en)UNAIDS: Aids epidemic update[PDF].
+Peter Piot, Libération no 7794, 31 mai 2006.
+(en)Chin J, Lwanga SK, Estimation and projection of adult AIDS cases: a simple epidemiological model[PDF], Bull World Health Organ, 1991;69:399-406.
+(en)Washington Post : Among the reasons for the overestimate is methodology; U.N. officials traditionally based their national HIV estimates on infection rates among pregnant women receiving prenatal care. As a group, such women were younger, more urban, wealthier and likely to be more sexually active than populations as a whole, according to recent studies.
+(en) Daily Nation.
+(en) Children and AIDS : a stocktaking[PDF], rapport de l'UNICEF de janvier 2006.
+(en) Mortality in SA, 2004[PDF].
+(en) Mid years population estimates 2004[PDF].
+philippe morlat, « prise en charge des personnes vivant avec le VIH - recommandations du groupe d'experts - rapport 2013 », ?,‎ 2013 (lire en ligne)
+(en) The Duesberg Phenomenon: A Berkeley virologist and his supporters continue to argue that HIV is not the cause of AIDS[PDF].
+HIV Denial in the Internet Era.
+Science series critically reviewing Duesberg's hypothesis, consulté le 16 septembre 2006
+Rapport d'études contradictoires sur le sida en Afrique mises en place par M. Thabo Mbeki, président de l'Afrique du Sud[PDF].
+sida : le réveil sud-africain.
+Le sida progresse en Afrique du Sud.
+(en)The Durban Declaration, Nature 406, 15-16 (6 July 2000) | doi:10.1038/35017662.
+Les 10 plus gros mensonges sur le sida, du Dr Etienne de Harven et Jean-Claude Roussez, 2005, éditions Dangles, Escalquens, p. 187.
+La publication le 5 juin 1981 par le Center for Disease Control de Los Angeles (auteurs : Gottlieb et al.) d'un article intitulé Pneumocystic Pneumonia - MMWR Morb Mortal Wkly Rep, 1981;30:250-2 est aussi donnée comme le début officiel de l'épidémie.
+(en) Bruce Raymond Voeller Obituary dans le The New York Times, 24 février 1994, consulté le 8 mai 2011.
+Blandine Grosjean, « Neuf choses que vous ignorez sûrement sur le Sida », Rue89, publié et consulté le 20 janvier 2011.
+cf. Mirko Grmek Histoire du sida.
+Ces résultats sont publiés dès le 20 mai suivant dans la revue américaine Science sous la forme d'un article intitulé en français « LAV, un nouveau virus humain T lymphotrope » ; Les deux premiers noms cités sont Barré-Sinoussi et Chermann ; Montagnier vient en douzième et dernière position, comme il est d'usage pour un chef de laboratoire. La place des deux ou trois premiers auteurs est celle de ceux qui ont réellement travaillé sur le projet décrit dans l'article. À l'origine, le premier signataire était Jean-Claude Chermann ; celui-ci dit avoir placé en premier Françoise Barré-Sinoussi, son assistante et élève, pour lui donner une meilleure visibilité professionnelle.
+(en) Department of Health & Human Services, « Office of Inspector General : closing Investigative Memorandum » [PDF], sur www.sciencefictions.net, Washington D.C.,‎ 10 juin 1994 (consulté le 30 septembre 2014)
+Le choix du nom fut laborieux. La commission composée de treize membres issus de quatre pays travailla de mars 1985 à mai 1986. Gallo et Essex, membres de la commission, refusèrent de signer la recommandation finale.
+SIDA et action publique : une analyse du changement de politiques en France, Jaeho Eun.
+http://www.ird.fr/la-mediatheque/fiches-d-actualite-scientifique/176-decouverte-de-l-origine-du-virus-de-l-immunodeficience-simienne-chez-le-chimpanze
+(en) Faria NR, Rambaut A, Suchard MA. et al. « The early spread and epidemic ignition of HIV-1 in human populations » Science 2014;346(6205):56-61. DOI:10.1126/science.1256739
+(en) Jon Cohen, « Early AIDS virus may have ridden Africa's rails » Science 2014;346(6205):21-22 DOI:10.1126/science.346.6205.21
+(en)Rebecca Kreston, « The Sea Has Neither Sense Nor Pity: the Earliest Known Cases of AIDS in the Pre-AIDS Era »,‎ 26 octobre 2012 (consulté le 26 octobre 2012).
+Étude dirigée par Michael Worobey et publiée dans Proceedings of the National Academy of Sciences le 29 octobre 2007, voir Jean-Louis Santini, « Haïti a été un tremplin de l'épidémie du sida », Agence France-Presse,‎ 29 octobre 2007 (consulté le 30 octobre 2007).
+« Rapport 2006 sur l'épidémie mondiale de Sida - Introduction » [PDF], ONUSIDA,‎ 2006 (consulté le 18 octobre 2007), p. 5.
+« Mise à jour 2007 du rapport sur l'épidémie mondiale de Sida - L'épidémie de sida dans le monde » [PDF], ONUSIDA,‎ 2007 (consulté le 24 novembre 2007), p. 8.
+Benoît XVI - Lumière du monde : Le pape, l'Église et les signes des temps. - Bayard Centurion - 2010 Entretien avec Peter Seewald.
+Le pape décapote un peu. Article de Jean-Yves Nau.
+« Rapport de la Cellule internationale de réflexion sur les restrictions au voyage liées au VIH : Conclusions et recommandations » [PDF], ONUSIDA,‎ 17 décembre 2008 (consulté le 1er octobre 2009).
+(en) « http://hivtravel.org/Default.aspx?PageId=143&CountryCode=RU » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-25
+Levée lundi de l'interdiction faite aux séropositifs d'entrer aux États-Unis in Le Monde.
+Voir aussi
+
+Sur les autres projets Wikimedia :
+Syndrome d'immunodéficience acquise, sur Wikimedia Commons sida, sur le Wiktionnaire Syndrome d'immunodéficience acquise, sur Wikiquote Syndrome d'immunodéficience acquise, sur Wikinews
+Articles connexes
+
+Origine du virus de l'immunodéficience humaine
+Discrimination des porteurs du VIH
+Données personnelles#Les données de santé (cf. notamment polémique concernant l'inscription du SIDA sur la liste des maladies à déclaration obligatoire, en 1999)
+Le programme FightAIDS@Home
+Personnalités et sida
+Années sida en France
+Prise de risque du SIDA
+VIH-2
+Traitement antirétroviral hautement actif
+Les négationnistes
+
+Contestation de la responsabilité du VIH dans le sida
+Le sida dans le monde
+
+en Afrique, en Asie, au Moyen-Orient, en Europe, au Canada, Sida aux États-Unis, en Amérique du Sud.
+Associations et organisations
+
+L'agence ONUSIDA (Organisation des Nations Unies)
+Le Fonds mondial de lutte contre le sida, la tuberculose et le paludisme
+L'association AIDES
+Les associations Act Up-Paris et Act Up New York
+L'association Sidaction (France)
+L'association Sida Info Service (France)
+Le Kiosque infos sida toxicomanie (France)
+L'association Ruban rouge
+Le Centre régional d’information et de prévention du sida (CRIPS)
+Les mouvements des malades
+L'association Libérons Les Capotes
+L'association Terrence Higgins Trust
+Liens externes
+
+(mul) Catégorie sida de l’annuaire DMOZ
+2006 Rapport sur l'épidémie mondiale de SIDA, sur le site d'ONUSIDA
+Sida, un glossaire[PDF], sur le site d'Act Up-Paris, mise à jour en juillet 2005
+Chronologie de la lutte contre le sida[PDF], sur le site de l'association Le Kiosque
+Conférences, entretiens et vidéocours sur le sida
+Kit de sensibilisation des enfants (lancé mi-juillet 2008, dans le cadre de l'initiative ONUSIDA) (Lien vers EDUCAIDS - UNAIDS Global Initiative for Education and HIV & AIDS)
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Syndrome_d%27immunodéficience_acquise&oldid=113457259 ».
+Dernière modification de cette page le 1 avril 2015 à 17:05.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

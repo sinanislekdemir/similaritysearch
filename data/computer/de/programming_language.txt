@@ -1,0 +1,199 @@
+Programmiersprache
+
+aus Wikipedia, der freien Enzyklopädie
+
+Quelltext eines Programms in der Programmiersprache C++.
+Eine Programmiersprache ist eine formale Sprache zur Formulierung von Datenstrukturen und Algorithmen, d. h. von Rechenvorschriften, die von einem Computer ausgeführt werden können.[1] Sie setzen sich aus Anweisungen nach einem vorgegebenen Muster zusammen, der sogenannten Syntax.
+
+Während die ersten Programmiersprachen noch unmittelbar an den Eigenschaften der jeweiligen Rechner orientiert waren, verwendet man heute meist problemorientierte Sprachen, sogenannte höhere Programmiersprachen, die eine abstraktere und für den Menschen leichter verständliche Ausdrucksweise erlauben. In diesen Sprachen geschriebene Programme können automatisiert in Maschinensprache übersetzt werden, die von einem Prozessor ausgeführt wird.
+
+Inhaltsverzeichnis
+
+1 Übersicht
+1.1 Panorama
+1.2 Anweisungskategorien
+1.3 Übersetzer
+2 Geschichte
+3 Programmierparadigmen
+3.1 Strukturierte Programmiersprachen
+3.2 Imperative Programmiersprachen
+3.3 Deklarative Programmiersprachen
+3.4 Objektorientierte Programmiersprachen
+4 Typsystem
+5 Sonstiges
+6 Siehe auch
+7 Literatur
+8 Weblinks
+9 Einzelnachweise
+Übersicht
+
+Begriffszusammenhänge 'Programmiersprache'
+Die in einer bestimmten Programmiersprache, häufig mittels einfacher Texteditoren erzeugten Anweisungen nennt man Quelltext (oder auch Quellcode). Um auf einem Computer ausgeführt zu werden, muss der Quelltext in die Maschinensprache dieses Computer(typ)s übersetzt werden. Diese ist im Gegensatz zu höheren Programmiersprachen und zur Assemblersprache ein für Menschen schwer lesbarer Binärcode. Wird von Programmierung in Maschinensprache gesprochen, so ist heute meist die Assemblersprache gemeint.
+
+Die Übersetzung in Maschinensprache kann entweder vor der Ausführung durch einen Compiler oder – zur Laufzeit – durch einen Interpreter oder JIT-Compiler geschehen. Oft wird eine Kombination aus beiden Varianten gewählt, bei der zuerst der Quelltext der angewendeten Programmiersprache in einen Zwischencode übersetzt wird, welcher dann zur Laufzeit innerhalb einer Laufzeitumgebung in Maschinencode überführt wird. Dieses Prinzip hat den Vorteil, dass derselbe Zwischencode auf verschiedenen Plattformen ausführbar ist. Beispiele für einen solchen Zwischencode sind der Java-Bytecode sowie die Common Intermediate Language.
+
+Programmiersprachen bieten meist mindestens
+
+Ein-/Ausgabe-Befehle, damit das Programm Informationen (genauer: Daten) entgegennehmen und wieder ausgeben kann;
+Deklaration von Variablen und Feldern, um Informationen (zwischen-)speichern zu können;
+mathematische Grund- und Standardfunktionen;
+Grundfunktionen zur Zeichenkettenverarbeitung;
+Steueranweisungen für bedingte Ausführung, Wiederholung, Programmunterteilung (z. B. in Unterfunktionen) sowie Einbinden von Bibliotheken.
+Meist ist es möglich, aus diesen Grundfunktionen höhere Funktionen zu erstellen, und diese als Bibliothek wiederverwendbar zu kapseln. Von dort zu einer höheren oder problemorientierten Sprache zu gelangen, ist kein großer Schritt mehr. So gab es schon bald eine große Zahl an Spezialsprachen für die verschiedensten Anwendungsgebiete. Damit steigt die Effizienz der Programmierer und die Portabilität der Programme, meist nimmt dafür die Verarbeitungsgeschwindigkeit der erzeugten Programme ab, und die Mächtigkeit der Sprache nimmt ab: Je höher und komfortabler die Sprache, desto mehr ist der Programmierer daran gebunden, die in ihr vorgesehenen Wege zu beschreiten.
+
+Sprachen sind verschieden erfolgreich - manche „wachsen“ und finden zunehmend breitere Anwendung; immer wieder sind auch Sprachen mit dem Anspruch entworfen worden, Mehrzweck- und Breitbandsprachen zu sein, oft mit bescheidenem Erfolg (PL/1, Ada, Algol 68).
+
+Panorama
+Die Bedeutung von Programmiersprachen für die Informatik drückt sich auch in der Vielfalt der Ausprägungen und der Breite der Anwendungen aus.
+
+Maschinensprache, Assemblersprachen oder C erlauben eine hardwarenahe Programmierung.
+Höhere Programmiersprachen erlauben komfortableres, schnelleres Programmieren.
+Skriptsprachen dienen zur einfachen Steuerung von Rechnern, wie bei der Stapelverarbeitung.
+Sprachen mit visuellen Programmierumgebungen erleichtern die graphische Gestaltung von Benutzeroberflächen.
+Esoterische Programmiersprachen sind experimentelle Sprachen mit teilweise interessanten Konzepten.
+Umgangssprachlich wird auch in anderen Bereichen von „Programmiersprachen“ gesprochen. Nachfolgende Sprachen sind jedoch nicht für die Beschreibung von Algorithmen und allgemeine Datenverarbeitung entworfen:
+
+Datenbanksprachen sind für den Einsatz in und die Abfrage von Datenbanken gedacht.
+Seitenbeschreibungssprachen sowie sonstige Beschreibungssprachen (z. B. VHDL) sind eine imperative Form eines Datenformats.
+CNC-Programmiersprachen dienen der Erzeugung von Steuerungsinformationen für Werkzeugmaschinen.
+Anweisungskategorien
+Die Anweisungen von Programmiersprachen (Beispiele siehe hier) lassen sich nach folgenden Gruppen klassifizieren:
+
+Eingabe und Ausgabe-Befehle – lesen Daten von der Tastatur, von einer Datei oder aus anderen Quellen ein oder sie geben sie auf/über ein bestimmtes Ausgabegerät (Drucker, Datei, Bildschirm, ...) aus.
+Zuweisungen und Berechnungen – verändern oder erzeugen Dateninhalte.
+Kontrollstrukturen – entscheiden aufgrund der vorliegenden Daten, welche Befehle als Nächstes ausgeführt werden.
+Deklarationen – reservieren Speicherplatz für Variablen oder Datenstrukturen unter einem frei wählbaren Namen. Über diesen Namen können sie später angesprochen werden.
+Aufrufe 'programm-externer' Unterroutinen/Module wie Systemfunktionen (z. B. 'Read') oder funktionaler Module, auch aus anderen Programmiersprachen.
+Übersetzer
+→ Hauptartikel: Compiler
+Um ein in einer bestimmten Programmiersprache erstelltes Programm ausführen zu können, muss dessen Quellcode in eine äquivalente Folge von Maschinenbefehlen übersetzt werden. Das ist notwendig, da Quelltext eine einer kontextfreien Grammatik (= der Syntax einer Programmiersprache) genügende Zeichenfolge ist (z. B. „A = B + 100 * C“), die der Prozessor nicht 'versteht'.
+
+Die in der Geschichte der Computertechnik und der Softwaretechnologie eingetretenen Entwicklungssprünge brachten auch unterschiedliche Werkzeuge zur Erzeugung von Maschinencode, ggf. über mehrere Stufen, mit sich. Diese werden beispielsweise als Compiler, Interpreter, Precompiler, Linker etc. bezeichnet.
+
+In Bezug auf die Art und den Zeitpunkt der Übersetzung können zwei Ablaufprinzipien unterschieden werden:
+
+Wird ein Programmtext als Ganzes 'übersetzt', so spricht man in Bezug auf den Übersetzungsmechanismus von einem Compiler. Der Compiler selbst ist ein Programm, das als Dateneingabe den Programm-Quellcode liest und als Datenausgabe den Maschinencode (z. B. Objectcode, EXE-Datei, „executable“) oder einen Zwischencode liefert.
+Wenn der Programmtext während der Ausführung übersetzt wird, spricht man von einer interpretierten Sprache. Das Programm wird in einer Laufzeitumgebung (z. B. JVM oder .NET CLR) interpretiert und von ihr in Maschinenbefehle umgewandelt. Dem Prozessor (CPU) werden sie Befehl für Befehl oder en-bloc zur Ausführung zugeleitet.
+Daneben existieren verschiedene Mischvarianten:
+
+Bei der „Just-in-Time-Kompilierung“ wird der Programmtext direkt vor jedem Programmlauf neu übersetzt.
+Zum Teil erzeugen Compiler einen noch nicht ausführbaren Programmcode, der von nachfolgenden Systemprogrammen zu ausführbarem Maschinencode umgeformt wird. Hier sind die Konzepte „plattformunabhängiger Zwischencode“ (z. B. im Rahmen der Software-Verteilung) und „plattformgebundener Objectcode“ (wird zusammen mit weiteren Modulen zu ausführbarem Code, z. T. Lademodul genannt, zusammengebunden) zu unterscheiden.
+Mit Precompilern können spezielle, in der Programmiersprache selbst nicht vorgesehene Syntax-Konstrukte (zum Beispiel Entscheidungstabellen) bearbeitet und, vor-übersetzt in die gewählte Programmiersprache, im Quellcode eingefügt werden.
+Zur Steuerung des Übersetzens kann der Quelltext neben den Anweisungen der Programmiersprache zusätzliche spezielle Compiler-Anweisungen enthalten. Komplexe Übersetzungsvorgänge werden bei Anwendung bestimmter Programmiersprachen / Entwicklungsumgebungen durch einen Projekterstellungsprozess und die darin gesetzten Parameter gesteuert.
+
+Geschichte
+→ Hauptartikel: Geschichte der Programmiersprachen
+
+Grace Hopper entwickelte den ersten Compiler und gilt als „Grandma COBOL“
+Zur Vorgeschichte der Programmiersprachen kann man von praktischer Seite die zahlreichen Notationen zählen, die sowohl in der Fernmeldetechnik (Morsezeichen) als auch zur Steuerung von Maschinen (Jacquard-Webstuhl) entwickelt worden waren; dann die Assemblersprachen der ersten Rechner, die doch nur deren Weiterentwicklung waren. Von theoretischer Seite zählen dazu die vielen Präzisierungen des Algorithmusbegriffs, von denen der λ-Kalkül die bei Weitem bedeutendste ist. Auch Zuses Plankalkül gehört hierhin, denn er ist dem minimalistischen Ansatz der Theoretiker verpflichtet (Bit als Grundbaustein).
+
+In einer ersten Phase wurden ab Mitte der 1950er Jahre unzählige Sprachen[2] entwickelt, die praktisch an gegebenen Aufgaben und Mitteln orientiert waren. Seit der Entwicklung von Algol 60 (1958–1963) ist die Aufgabe des Übersetzerbaus in der praktischen Informatik etabliert und wird zunächst mit Schwerpunkt Syntax (-erkennung, Parser) intensiv bearbeitet. Auf der praktischen Seite wurden erweiterte Datentypen wie Verbunde, Zeichenketten und Zeiger eingeführt (konsequent z. B. in Algol 68).
+
+In den 1950er Jahren wurden in den USA die ersten drei weiter verbreiteten, praktisch eingesetzten höheren Programmiersprachen entwickelt. Dabei verfolgten diese sowohl imperative als auch deklarativ-funktionale Ansätze.
+
+Die Entwicklung von Algol 60 läutete eine fruchtbare Phase vieler neuer Konzepte, wie das der prozeduralen Programmierung ein. Der Bedarf an neuen Programmiersprachen wurde durch den schnellen Fortschritt der Computertechnik gesteigert. In dieser Phase entstanden die bis heute populärsten Programmiersprachen: BASIC und C.
+
+In der Nachfolgezeit ab 1980 konnten sich die neu entwickelten logischen Programmiersprachen nicht gegen die Weiterentwicklung traditioneller Konzepte in Form des objektorientierten Programmierens durchsetzen. Das in den 1990er Jahren immer schneller wachsende Internet forderte seinen Tribut beispielsweise in Form von neuen Skriptsprachen für die Entwicklung von Webserver-Anwendungen.
+
+Derzeit schreitet die Integration der Konzepte der letzten Jahrzehnte voran. Größere Beachtung findet so beispielsweise der Aspekt der Codesicherheit in Form von virtuellen Maschinen. Neuere integrierte, visuelle Entwicklungsumgebungen haben deutliche Fortschritte gebracht, was Aufwand an Zeit, Kosten angeht. Bedienoberflächen lassen sich meist visuell gestalten, Codefragmente sind per Klick direkt erreichbar. Dokumentation zu anderen Programmteilen und Bibliotheken ist direkt einsehbar, meist gibt es sogar lookup-Funktionalität, die noch während des Schreibens herausfindet, welche Symbole an dieser Stelle erlaubt sind und entsprechende Vorschläge macht (Autovervollständigen).
+
+Neben der mittlerweile etablierten objektorientierten Programmierung ist die Model Driven Architecture ein weiterer Ansatz zur Verbesserung der Software-Entwicklung, in der Programme aus syntaktisch und semantisch formal spezifizierten Modellen generiert werden. Diese Techniken markieren gleichzeitig den Übergang von einer eher handwerklichen, individuellen Kunst zu einem industriell organisierten Prozess.
+
+Sprachgenerationen
+Man hat die Maschinen-, Assembler- und höheren Programmiersprachen auch als Sprachen der ersten bis dritten Generation bezeichnet; auch in Analogie zu den gleichzeitigen Hardwaregenerationen. Als vierte Generation wurden verschiedenste Systeme beworben, die mit Programmgeneratoren und Hilfsprogrammen z. B. zur Gestaltung von Bildschirmmasken (screen painter) ausgestattet waren. Die Sprache der fünften Generation schließlich sollte in den 1980er Jahren im Sinne des Fifth Generation Computing Concurrent Prolog sein.
+
+Programmierparadigmen
+→ Hauptartikel: Programmierparadigma
+Paradigmen in Programmiersprachen (Auswahl)
+Name  funktional  imperativ objektorientiert  deklarativ  logisch nebenläufig
+Ada   X X     X
+C   X       
+Prolog        X X 
+Scheme  X X (X) X   (X)
+Haskell X (X)   X   (X)
+Die Programmiersprachen lassen sich in Kategorien einteilen, die sich im evolutionären Verlauf der Programmiersprachen-Entwicklung als sog. Programmierparadigmen gebildet haben. Grundlegend sind die Paradigmen der strukturierten, der imperativen und der deklarativen Programmierung - mit jeweils weiteren Unterteilungen. Eine Programmiersprache kann jedoch auch mehreren Paradigmen gehorchen, das heißt die begriffsbestimmenden Merkmale mehrerer Paradigmen unterstützen.
+
+Strukturierte Programmiersprachen
+→ Hauptartikel: Strukturierte Programmierung
+Strukturierte Programmierung ist Anfang der 1970er Jahre auch aufgrund der Softwarekrise populär geworden. Es beinhaltet die Zerlegung eines Programms in Unterprogramme (prozedurale Programmierung) und die Beschränkung auf die drei elementaren Kontrollstrukturen Anweisungs-Reihenfolge, Verzweigung und Wiederholung.
+
+Imperative Programmiersprachen
+Ein in einer imperativen Programmiersprache geschriebenes Programm besteht aus Anweisungen (latein imperare = befehlen), die beschreiben, wie das Programm seine Ergebnisse erzeugt (zum Beispiel Wenn-dann-Folgen, Schleifen, Multiplikationen etc.).
+
+Deklarative Programmiersprachen
+Den genau umgekehrten Ansatz verfolgen die deklarativen Programmiersprachen. Dabei beschreibt der Programmierer, welche Bedingungen die Ausgabe des Programms (das Was) erfüllen muss. Wie die Ergebnisse konkret erzeugt werden, wird bei der Übersetzung, zum Beispiel durch einen Interpreter festgelegt. Ein Beispiel ist die Datenbankabfragesprache SQL.
+
+Ein Programm muss nicht unbedingt eine Liste von Anweisungen enthalten. Stattdessen können grafische Programmieransätze, zum Beispiel wie bei der in der Automatisierung verwendeten Plattform STEP 7, benutzt werden.
+
+Die Art der formulierten Bedingungen unterteilen die deklarativen Programmiersprachen in logische Programmiersprachen, die mathematische Logik benutzen, und funktionale Programmiersprachen, die dafür mathematische Funktionen einsetzen.
+
+Objektorientierte Programmiersprachen
+→ Hauptartikel: Objektorientierte Programmierung
+Hier werden Daten und Befehle, die auf diese Daten angewendet werden können, in Objekten zusammengefasst. Objektorientierung wird im Rahmen der Objektorientierten Programmierung verwendet, um die Komplexität der entstehenden Programme zu verringern.
+
+Die Bausteine, aus denen ein objektorientiertes Programm besteht, werden als Objekte bezeichnet. Die Konzeption dieser Objekte erfolgt dabei in der Regel auf Basis der folgenden Paradigmen:[3]
+
+Polymorphismus
+Fähigkeit eines Bezeichners, abhängig von seiner Verwendung unterschiedliche Datentypen anzunehmen.
+Datenkapselung
+Als Datenkapselung bezeichnet man in der Programmierung das Verbergen von Implementierungsdetails.
+Vererbung
+Vererbung heißt vereinfacht, dass eine abgeleitete Klasse die Methoden und Attribute der Basisklasse ebenfalls besitzt, also erbt.
+Typsystem
+→ Hauptartikel: Typisierung (Informatik)
+Variablen sind mit einem Namen versehene Orte im Speicher, die einen Wert aufnehmen können. Um die Art des abgelegten Wertes festzulegen, muss in vielen Programmiersprachen der Variablen ein Datentyp zugewiesen werden. Häufige Datentypen sind Ganz- und Gleitkommazahlen oder auch Zeichenketten.
+
+Es wird zwischen typisierten und typenlosen Sprachen unterschieden. In typisierten Sprachen (zum Beispiel C++ oder Java) wird der Inhalt der Variable durch einen Datentyp festgelegt. So gibt es für Ganz- und Gleitkommazahlen verschiedene Datentypen, die sich durch ihren Wertebereich unterscheiden. Sie können vorzeichenlos oder vorzeichenbehaftet sein. Nach aufsteigendem Wertebereich sind dies zum Beispiel: Short, Integer oder Long. Datentypen für Gleitkommazahlen sind zum Beispiel Float oder Double. Einzelne Zeichen können im Datentyp Char gespeichert werden. Für Zeichenketten steht der Datentyp String zur Verfügung.
+
+Die typisierten Sprachen können anhand des Zeitpunkts der Typüberprüfung unterschieden werden. Findet die Typüberprüfung bereits bei der Übersetzung des Programms statt, spricht man von statischer Typisierung. Findet die Typprüfung zur Laufzeit statt, spricht man von dynamischer Typisierung. Erkennt eine Programmiersprache Typfehler spätestens zur Laufzeit, wird sie als typsicher bezeichnet.
+
+Bei statischer Typprüfung ist der Programmierer versucht, diese zu umgehen, oder sie wird nicht vollständig durchgesetzt (zum jetzigen Stand der Technik muss es in jeder statischen Sprache eine Möglichkeit geben, typlose Daten zu erzeugen oder zwischen Typen zu wechseln – etwa wenn Daten vom Massenspeicher gelesen werden). In Sprachen mit dynamischer Typprüfung werden manche Typfehler erst gefunden, wenn es zu spät ist. Soll der Datentyp einer Variablen geändert werden, ist ein expliziter Befehl zur Umwandlung nötig.
+
+Die typenlosen Sprachen (zum Beispiel JavaScript oder Prolog) verfügen, im Gegensatz zu den typisierten Sprachen, über keine differenzierten Datentypen. Der Datentyp einer Variablen wird erst zur Laufzeit festgelegt. Wird einer Variablen ein Wert eines anderen Typs zugewiesen, findet eine Umwandlung der Variablen in den neuen Typ statt. Die typenlosen Sprachen behandeln oftmals alle Einheiten als Zeichenketten und kennen für zusammengesetzte Daten eine allgemeine Liste.
+
+Durch die Festlegung des Datentyps werden vor allem zwei Zwecke verfolgt:
+
+Deskriptive Typangaben erleichtern die Programmierung und entlasten die Notation. Beim Zugriff auf ein Feld mit einem Index kann die Speicherstelle, an der sich der abgefragte Wert befindet, abhängig vom verwendeten Datentyp berechnet werden.
+Präskriptive Typangaben schließen bestimmte Operationen aus. Es kann zum Beispiel das Einhalten von Feldgrenzen geprüft werden, um einen Zugriff über die Feldgrenzen hinaus zu verhindern.
+Das sichere Typsystem der Programmiersprache ML bildet die Grundlage für die Korrektheit der in ihr programmierten Beweissysteme (LCF, HOL, Isabelle); in ähnlicher Weise versucht man jetzt auch die Sicherheit von Betriebssystemen zu gewährleisten.[4] Schließlich ermöglichen erst Typangaben das populäre Überladen von Bezeichnern.
+
+Nach Strachey sollte das Typsystem im Mittelpunkt der Definition einer Programmiersprache stehen.
+
+Die Definition von Daten erfolgt im Allgemeinen durch die Angabe einer konkreten Spezifikation zur Datenhaltung und der dazu nötigen Operationen. Diese konkrete Spezifikation legt das allgemeine Verhalten der Operationen fest und abstrahiert damit von der konkreten Implementierung der Datenstruktur (s. a. Deklaration).
+
+Oft kann an den Bürgern erster Klasse (First class Citizens – FCCs) einer Programmiersprache – also den Formen von Daten, die direkt verwendet werden können, erkannt werden, welchem Paradigma die Sprache gehorcht. In Java z. B. sind Objekte FCCs, in Lisp ist jedes Stück Programm FCCs, in Perl sind es Zeichenketten, Arrays und Hashes. Auch der Aufbau der Daten folgt syntaktischen Regeln. Mit Variablen kann man bequem auf die Daten zugreifen und den dualen Charakter von Referenz und Datum einer Variablen ausnutzen. Um die Zeichenketten der Daten mit ihrer (semantischen) Bedeutung nutzen zu können, muss man diese Bedeutung durch die Angabe eines Datentyps angeben. Zumeist besteht im Rahmen des Typsystems auch die Möglichkeit, neue Typen zu vereinbaren. LISP verwendet als konzeptionelle Hauptstruktur Listen. Auch das Programm ist eine Liste von Befehlen, die andere Listen verändern. Forth verwendet als konzeptionelle Hauptstruktur Stacks und Stack-Operationen sowie ein zur Laufzeit erweiterbares Wörterbuch von Definitionen und führt in den meisten Implementationen überhaupt keine Typprüfungen durch.
+
+Sonstiges
+Ein beliebter Einstieg in eine Programmiersprache ist es, mit ihr den Text Hello World (oder deutsch „Hallo Welt“) auf den Bildschirm oder einem anderen Ausgabegerät auszugeben (siehe Hallo-Welt-Programm). Entsprechend gibt es Listen und eigene Webseiten,[5] die Lösungen in verschiedenen Programmiersprachen gegenüberstellen.
+
+Siehe auch
+Liste von Programmiersprachen
+Zeittafel der Programmiersprachen
+Programmiersprachen für Kinder
+Literatur
+Friedrich L. Bauer, Hans Wössner: Algorithmische Sprache und Programmentwicklung. 2. verbesserte Auflage. Springer, Berlin u. a. 1984, ISBN 3-540-12962-6.
+Peter A. Henning, Holger Vogelsang: Handbuch Programmiersprachen. Softwareentwicklung zum Lernen und Nachschlagen. Hanser, München 2007, ISBN 978-3-446-40558-5.
+Kenneth C. Louden: Programmiersprachen: Grundlagen, Konzepte, Entwurf. Internat. Thomson Publ., Bonn/ Albany u. a. 1994, ISBN 3-929821-03-6.
+John C. Reynolds: Theories of Programming Languages. Cambridge Univ. Press, Cambridge 1998, ISBN 0-521-59414-6.
+Peter van Roy, Seif Haridi: Concepts, Techniques, and Models of Computer Programming. MIT Press, Cambridge 2004, ISBN 0-262-22069-5.
+Michael L. Scott: Programming language pragmatics. 2. Auflage. Elsevier, Morgan Kaufmann, Amsterdam 2006, ISBN 0-12-633951-1.
+Weblinks
+ Wiktionary: Programmiersprache – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Wikibooks: Programmierung – Lern- und Lehrmaterialien
+ Commons: Programmiersprachen – Sammlung von Bildern, Videos und Audiodateien
+99 Bottles of Beer: Ein Programm in hunderten von Programmiersprachen bzw. Dialekten (englisch)
+Literate Programs Ein Wiki mit Beispielen in vielen Sprachen (englisch)
+Einzelnachweise
+Duden Informatik, ISBN 3-411-05232-5.
+Um 1965 zählte man 1700, vgl. ISWIM.
+Peter A. Henning, Holger Vogelsang: Taschenbuch Programmiersprachen. Fachbuchverlag im Carl Hanser Verlag, Leipzig 2007, ISBN 978-3-446-40744-2.
+Vgl. Sprachbasiertes System – z. B. Singularity basierend auf der Programmiersprache Sing#, JX für Java, Coyotos mit der Sprache BitC.
+Auflistung von Hello-World-Programmen nach Programmiersprachen
+Normdaten (Sachbegriff): GND: 4047409-4
+Von „http://de.wikipedia.org/w/index.php?title=Programmiersprache&oldid=140459543“
+Kategorien: ProgrammierspracheProgrammiersprache als ThemaCompilerbau
+Diese Seite wurde zuletzt am 1. April 2015 um 09:01 Uhr geändert.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.

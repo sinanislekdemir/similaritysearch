@@ -1,0 +1,215 @@
+Kuantum mekaniği
+
+Vikipedi, özgür ansiklopedi
+Uzman Bu maddenin veya maddenin bir bölümünün gelişebilmesi için konuda uzman kişilere gereksinim duyulmaktadır.
+Ayrıntılar için maddenin tartışma sayfasına lütfen bakınız.
+Konu hakkında uzman birini bulmaya yardımcı olarak ya da maddeye gerekli bilgileri ekleyerek Vikipedi'ye katkıda bulunabilirsiniz.
+
+Belirli enerji seviyelerinde (aşağıya doğru artarak: n=1,2,3,...) ve açısal momentum'lardaki (sağa doğru artarak: s, p, d,...) bir hidrojen atomu elektronunun dalga fonksiyonları. Daha parlak olan bölgeler elektronun pozisyonu için daha yüksek olasılık genliğine işaret ediyor.
+Modern fizik
+{  i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},\,t) = \hat H \Psi(\mathbf{r},\,t)}
+Schrödinger denklemi
+Modern fiziğin tarihçesi
+Kurucular[göster]
+Alt konular[göster]
+Bilim insanları[göster]
+g t d
+Kuantum mekaniği; madde ve ışığın, atom ve atomaltı seviyelerdeki davranışlarını inceleyen bir bilim dalı.[1] Nicem mekaniği veya dalga mekaniği adlarıyla da anılır. Kuantum mekaniği; moleküllerin, atomların ve bunları meydana getiren elektron, proton, nötron, kuark, gluon gibi parçacıkların özelliklerini açıklamaya çalışır.[1] Çalışma alanı, parçacıkların birbirleriyle ve ışık, x ışını, gama ışını gibi elektromanyetik radyasyonlarla olan etkileşimlerini de kapsar.[1]
+
+İngilizcedeki karşılığı quantum, Latince 'quantus' (ne kadar, ne büyüklükte) sözcüğünden gelir[2] ve kuramın belirli fiziksel nicelikler için kullandığı kesikli birimlere gönderme yapar. İngilizce 'mechanics' sözcüğü ise "bir şeyin çalışma prensibi" anlamına gelir.[3] Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck, Albert Einstein, Niels Bohr, Werner Heisenberg, Erwin Schrödinger, Max Born, John von Neumann, Paul Dirac, Wolfgang Pauli gibi bilim adamlarınca atılmıştır. Belirsizlik ilkesi, anti madde, Planck sabiti, kara cisim ışınımı, dalga kuramı, alan teorileri gibi kavram ve kuramlar bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine sebep olmuştur.
+
+Konu başlıkları
+
+1 Tarihçe
+1.1 Gelişmeler
+2 Klasik mekanik, kuantum mekaniği ve kuantum mekaniği'nin matematiği
+3 Kuantum Mekaniği'nin Uygulamaları
+4 Kuantum mekaniği felsefesi
+5 Kuantum mekaniği tamamlanmış bir teori midir?
+6 Kaynakça
+7 Ayrıca bakınız
+8 Dış bağlantılar
+Tarihçe
+Üslup2  Maddenin bu bölümündeki üslubun, ansiklopedik bir yazıdan beklenen resmî ve ciddi üsluba uygun olmadığı düşünülmektedir.
+Konuyla ilgili tartışma için maddenin tartışma sayfasına lütfen bakınız.
+Maddeyi geliştirerek ya da konuyla ilgili tartışmaya katılarak Vikipedi'ye katkıda bulunabilirsiniz.
+Klasik mekanik çok başarılı olmasına karşın, 1800'lü yılların sonlarına doğru, kara cisim ışıması (blackbody radiation), tayf çizgileri, fotoelektrik etki gibi bir takım olayları açıklamada yetersiz kalmıştır. Açıklamaların yanlışlığı bilim adamlarının yetersizliğinden değil aksine klasik mekaniğin yetersizliğinden kaynaklanıyordu. En yalın halde klasik mekanik Evren'i bir "süreklilik" olarak modelliyordu. 1900 yılında Max Planck enerji'nin, 1905 yılında ise Albert Einstein ışığın paketçiklerden oluştuğunu, yani süreksizlik gösterdiğini, bazı deneyleri açıklamak için bir varsayım olarak kullanmak zorunda kaldılar. Elbette bu iki darbe klasik mekaniği yıkmadı. Uzunca bir süre bilim adamları bu süreksizliği klasik mekanik kuramlarından türetmek için uğraştı. Yine aynı yıllarda atomun iç yapısı üzerine yapılan deneyler bir gerçeği gözler önüne serdi: Ernest Rutherford yaptığı deneyle atomun küçük bir çekirdeğe sahip olduğunu gösterdi.
+
+Bu dönemde elektronun varlığı biliniyordu. Bu durumda eğer negatif yüklü elektronlar pozitif çekirdeğin etrafında dairesel hareket yapıyorlarsa, çok kısa bir zaman diliminde elektronlar çekirdeğe düşeceklerdi. Bu elektromanyetik teoriye göre açıklanacak olursa, ivmelenen yükler ışıma yapar, dairesel hareket de ivmeli bir hareket olduğu için, elektron bu ışımayla enerji yayacak ve çekirdeğe düşüp sistem çökecekti.
+
+Geçiçi çözüm Niels Bohr'dan geldi. Elektronlar belli kuantizasyon kurallarınca, belli yörüngelerde hareket ediyorlar, enerjileri belli bir değere ulaşmadıkça ışıma yapamıyorlar bu sayede sistem dengede durabiliyordu. Bu geçici çözüm küçük atomlarda işe yaradıysa da daha büyük kütlelerde işe yaramıyordu. Bohr atom modeline, modeli deneylere uydurulmak için birçok yama yapıldı. Ne var ki Bohr'un "yamalı bohça"sı 1920'lere gelindiğinde artık iş görmüyordu, tayf çizgilerinin gözlenen yoğunluğunu yanlış veriyor, çok elektronlu atomlarda salınım ve emilim dalgaboylarını tahmin etmede başarısız oluyor, atomik sistemlerin zamana bağlı hareket denklemini vermedeki başarısızlığı gibi birkaç konuda daha gerçekleri gösteremiyordu.
+
+Kuantum mekaniğini Planck doğurduysa, bebekliğinin sonu da De Broglie ile gelmiştir. Louis de Broglie; birçok elçi, bakan ve Dük yetiştirmiş, aristokrat bir Fransız ailesinin çocuğuydu. Tarih eğitimi gördükten sonra fiziğe geçmiş ve 1923'te verdiği doktora tezinde, ışığın hem dalga hem de parçacık karakteri olmasından esinlenerek, aslında bütün madde çeşitlerinin aynı özelliği gösterebileceğini önerdi. Ortaya koyduğu fikir, Bohr'un "gizemli" yörüngelerini açıklamada başarılı oluyordu.
+
+Işığın girişim, kırınım yaptığı, yani dalga özelliği gösterdiği, Thomas Young'in yaptığı çift yarık deneyi ile gösterilmişti. Ama tüm madde parçacıklarının, su dalgaları ile aynı matematiksel özellikleri göstereceği beklenmiyordu.
+
+Max Planck 1900 yılında kara cisim ışınımı problemini (morötesi facia diye de anılır), çözmek için
+
+ E= h \nu \, 
+denklemini kullanmıştı. Bu denklem, foton kavramının başlangıcı oldu; çünkü ν frekansındaki elektron salınımından oluşan ışığın, klasik mekanikle uyuşmayan bir şekilde sadece, h*ν nun tamsayı katlarında enerji taşıyabileceğini göstermişti. 'h', günümüzde Planck sabiti adıyla anılır.
+
+Fotonlar dalga özelliği gösterirse madde de gösterebilir analojisinin yanında önemli bir ipucu da Einstein'in birkaç yıl önce özel görelilik ispatında kullandığı Lorentz Dönüşümleri idi.
+
+Buna göre, serbest bir parçacık, fazı x, zamanı t olan bir dalga ile ifade edilirse, 2*π*(k*x - ν*t) , ve bu faz Lorentz dönüşümlerinde sabit kalacaksa, k vektörü ve ν frekansı, x ve t gibi dönüşmelilerdi. Ya da diğer bir deyişle, p ve E gibi. Bunun mümkün olabilmesi için, k ve ν, p ve E ile aynı hız bağımlılığına sahip olmalılardı, bu yüzden de onlarla doğru orantılı olmalılardı.
+
+Fotonlar icin E=h*ν olduğundan, madde için de
+
+ E = h \nu \ ve  \ k=p/h  
+varsayımlarını yapmak 'doğal' gözükmüştür.
+
+Herhangi bir kapalı yörüngenin 1/|k| nın tam katı olması varsayımı ile, de Broglie, deneysel olarak gözlenen ve Sommerfeld ve Bohr tarafindan "kuantize olma şartları" olarak anılan şartları matematiksel olarak kolayca türetti. Bu türetme gayet gizemli bir şekilde doğru sonuçlar verince (Davisson ve Germer, 1927 yılında Bell Laboratuvarlarında gerçekleştirdikleri deneyle, elektronların da aynı ışık gibi girişim yaptığını ortaya koydular. Deney 1924'te de Brogli tarafından önerilmişti) insanlar deneysel olarak başka şeyleri tahmin etmesini de beklediler.
+
+Elbette yanıldılar çünkü bu şartlar serbest ışık parçaları için yola çıkan varsayımların, çekirdeğe bağlı elektronlar için uyarlanmasıydı ve çok ileri götürülmemesi gerekiyordu.
+
+Ama doğru çıkış noktası idi.
+
+Enteresan bir şekilde, 1925-1926 yılları arasında Werner Heisenberg, Max Born, Wolfgang Pauli ve Pascual Jordan, matris mekanigi ile kuantum mekaniğinin formal tanımını yaptılar. Ama formalizmlerinde dalga mekaniğine yer vermediler. Benimsedikleri felsefe ise, tamamen pozitivist idi. Yani sedece deneysel olarak gözlenebilen değerleri gözönüne alan bir yaklaşım kullandılar.
+
+1926 yılında Erwin Schrödinger bir dizi denklemle dalga mekaniğini yeniden canlandırdı.
+
+Sonunda kendi dalga mekaniğinden Heisenberg'in matriks mekaniğini de türetip iki formalizmin matematiksel olarak denk olduğunu da gösterdi. Son makalelerinden birinde Schrödinger, relativistik bir dalga denklemi de sunar.
+
+Dirac'a göre tarih biraz daha farklı işlemiştir. Ona göre, Schrödinger önce relativistik dalga denklemini geliştirdi, sonra bunu kullanarak hidrojenin spektrumunu hesapladı ve deneylere uymadığını gördü. Ancak bu denklemin, düşük hızlarda geçerli olan versiyonu aslında çalışıyordu!
+
+Daha sonra relativistik dalga denklemini yayınladığında ise, bu Oskar Klein ve Walter Gordon tarafından yayınlanmıştı ve hâlâ Klein-Gordon denklemi olarak anılır.
+
+Bu noktadan sonra Dirac; teoriye çeki düzen vermiş, özel görelilikle uyumlu hale getirmiş ve bazı deneylerin sonuçlarını teorik olarak üretmiştir. Örneğin pozitron'un varlığının tahmini... 1930'lara gelindiğinde ergenlikten çıkmış bir teori halini almıştır kuantum teorisi. Daha sonra 1940'larda Sin-Itiro Tomonaga, Julian Schwinger ve Richard P. Feynman, Kuantum elektrodinamiği konusunda önemli çalışmalara imza atmış, 1950'li ve 60'lı yıllar Kuantum renk dinamiğinin gelişimine tanık olmuştur.
+
+Gelişmeler
+1897: Pieter Zeeman, ışığın bir atom içindeki yüklü parçacıkların hareketi sonucu yayımlandığını buldu; J.J. Thomson da, elektronu keşfetti.
+1900: Max Planck, kara cisim ışımasını kuantumlanmış enerji yayımı ile açıkladı, kuantum kuramı böylece doğmuş oldu.
+1905: Albert Einstein dalga özellikleri olan ışığın aynı zamanda, daha sonra foton diye adlandırılacak olan, belirli büyüklükte enerji paketlerinden oluştuğu düşüncesini ortaya attı.
+1911-1913: Ernest Rutherford, atomun çekirdek modelini oluşturdu. Bohr ise atomu bir gezegen sistemi gibi betimledi.
+1923: Arhur Compton, X - ışınlarının elektronlarla etkileşimlerinde minyatür bilardo topları gibi davrandıklarını gözlemledi. Böylece ışığın parçacık davranışı hakkında yeni kanıtlar ortaya koydu.
+1923: Louis de Broglie, dalga-parçacık ikiliğini genelleştirdi.
+1924: Satyendra Nath Bose-Albert Einstein, kuantum parçacıklarını saymak için, Bose-Einstein istatistiği diye adlandırılan yeni bir yöntem buldular.
+Klasik mekanik, kuantum mekaniği ve kuantum mekaniği'nin matematiği
+Klasik mekanik, nesnelerin konum ve momentumları bilgilerini kullanarak, çeşitli kuvvet alanları altında nasıl hareket etmeleri gerektiğini bulmaya çalışır. Kökleri çok eskiye dayansa da başlangıcının Newton'un Principia'sı olduğunu kabul etmek yanlış olmaz. Daha sonra Euler, Lagrange, Jacobi, Hamilton, Poisson, Maxwell, Boltzman (İstatiksel mekanik ve klasik elektromanyetik teoriyi de klasik mekaniğe katıyorum) gibi birçok ad tarafından çok çeşitli bakış açıları geliştirilmiş ve birçok alanda başarılı bir şekilde uygulanmıştır. Klasik mekaniğin tamamlanmasının Einstein'ın görelilik kuramları ile gerçekleştiğini söylemek yanlış olur. Klasik mekanik çok başarılı olmasına karşın, 1800'lü yılların sonlarına doğru, siyah cisim ışıması, tayf çizgileri, fotoelelektrik etki gibi bir takım olayları açıklama da yetersiz kalmıştır. Açıklamaların yanlışlığı bilim adamlarının yetersizliğinden değil aksine klasik mekaniğin yetersizliğinden kaynaklanıyordu. Klasik mekanikteki sorunun ne olduğunu anlatmak aşırı teknik kaçacaktır, ancak en yalın halde klasik mekanik Evren'i sürekli olarak modelliyordu. Bu modelleme yanlıştı çünkü üç konum ve üç momentumla tanımlanan parçacıklar, sonsuz sayıda parametreyle tanımlanmanan alanlarla bir aradaydılar. Eş dağılım kuramınca ("equipartition theorem") sistemin enerjisinin denge durumunda sistem bileşenlerine eş biçimde dağılması gerekir. Alanlar sonsuz bileşene sahip olduğundan bütün enerji alanlara kalır. (Daha teknik daha doğru ifade, sistemin bütün özgürlük derecelerine eş olarak dağılır, alanlar sonsuz özgürülük derecesine sahip olduğu için bütün enerji alanlara akar.) Elbette böyle bir şey gözlenmez.
+
+Kuantum kuramı ise olayı bambaşka bir şekilde ele alır. Parçacıklar artık doğrudan 3 konum ve 3 momentumla tanımlanmak yerine bir "dalga fonksiyonu" ile tanımlanırlar. Bu dalga fonksiyonu parçacığın bütün bilgisini içinde barındırır ve dalga fonksiyonuna uygun "sorular" sorularak gerekli bilgi alınır. Örneğin konum bilgisi için dalga fonksiyonuna "parçacık nerede?" sorusunu sorarsınız, o ise size parçacığın soruyu sorduğunuz anda nerede olabileceğini söyler. Buradaki kritik nokta olabilirliktir. Bu, dalga fonksiyonunun bir de "olasılık fonksiyonu" olarak anılmasina neden olmaktadir. Daha sonra, bu olasılıksal durumu bilincli olup olmama durumuna baglayan Kopenhag Yorumu ortaya atılmıştır. (Matematik altyapısı yetersiz olanlar denklemleri görmezden gelebilirler.) Matematiksel olarak olayı şöyle tanımlayabiliriz:
+
+\Psi(x,t) parçacığı tanımlayan dalga fonksiyonumuz olsun,
+ \langle x \rangle =\int \Psi^*(x,t)x\Psi(x,t)dx
+integrali bize x'in beklenen değerini verir. Yukarıda bahsedilen soru sorma işlemi tam olarak böyle yapılır. Benzer şekilde momentumun beklenen değeri için;
+ \langle p \rangle =\int \Psi^*(x,t)\frac{\hbar}{i}\frac{d}{dx}\Psi(x,t)dx
+şeklinde soruyu sorarız. \Psi^*(x,t) dalga fonksiyonumuzun karmaşık eşleniğidir. Karmaşık eşlenik ve dalga fonksiyonu arasında kalan ifadeler gözlemlenebilirlerimizin, yani konum ve momentumun, konum uzayındaki operatörleridir. Operatörler sorunun ta kendisidir.
+
+Konum ve momentum dışında daha birçok gözlemlenebilir ile işlem yapılabilir. Ancak konum ve momentum operatörleri kullanılarak diğer birçok operatörü elde etmek mümkündür. İşin ilginç yanı bu operatörle elde etmek için klasik formüller kullanılır. Örneğin kinetik enerji klasik mekanikte;
+T=\frac{p^2}{2m}
+şeklinde tanımlanırken kuantum fiziğinde kinetik enerji operatörü yine aynı ifadeyle yazılır. Tek fark "p" artık bir sayı değil bir operatördür. Bu bize Ehrenfest teorimince sağlanır ve bütün operatörleri klasik yasaları kullanarak türetebiliriz. Bu noktada "Peki, dalga fonksiyonu nedir?" sorusuna dönmeliyiz. Dalga fonksiyonu bize Schrödinger denklemi tarafından verilen, bir bakıma parçacığın kimlik kartıdır.Bir boyutta Schrödinger denklemi;
+i\hbar  \frac{d}{dt}\Psi=-\frac{\hbar^2}{2m}\frac{d^2}{dx^2}\Psi+V(x,t)\Psi
+şeklinde yazılabilir. İfade bir bakıma enerji denklemidir ve bahsi geçen "kimlik" kartını sistemin enerjisine göre verir. (Burada kimlikten kasıt, parçacığın elektron mu yoksa nötron mu olduğu değil, momentumu, konumu, kinetik enerjisi gibi gözlemlenebilirleridir.) Bu "masum" denklem çözüldüğünde parçacığımızın dalga fonksiyonunu elde etmiş oluruz. En basit atom olan hidrojen atomunun zamandan bağımsız analitik olarak çözülmesi bile gerçekten büyük bir meseledir, neyse ki belli formalizmlerle, daha karmaşik sistemleri yaklaşımlar yaparak çözmek mümkün oluyor.
+
+Kuantum mekaniği temelinde bir olasılık teorisidir. Dalga fonksiyonu içinde sistemin bütün olası durumlarını barındırır. Siz soruyu sorduğunuzda size en olası cevabı verir, ancak soru sorma işlemi dalga fonksiyonunu "dağıtır" ve siz bir daha sorduğunuz zaman artık başka bir cevap alırsınız. Bunun yanı sıra kuantum mekaniği yapısı ötürü belirsizlikler barındırır. Bu belirsizlikler bazı gözlemlenebiliri ne kadar iyi bilirseniz diğer bazıları hakkında o kadar az şey bileceğinizi söyler. Örneğin konum ve momentum böyle bir çift oluşturur. Birini ne kadar iyi bilirseniz diğeri hakkında o kadar az bilginiz olur. Bu Heisenberg belirsizlik ilkesi olarak bilinir. Konum ve momentum için Heisenberg belirsizlik ilkesi şöyle gösterilir:
+
+\sigma_x\sigma_p\geqslant \frac{\hbar}{2}
+Bu ifade de \sigma_x ve \sigma_p ile verilenler sırasıylayla konum ve momentumdaki belirsizliklerdir.
+
+Yukarıda ele alınan kuantum mekaniği, öklidyen bir uzayda çalışılmış kuantum mekaniğidir, diğer bir deyişle göreceli değildir. Einstein'ın özel görelilik kuramına uyan bir kuantum mekaniği türetmek mümkündür. Hatta ilk bakışta kolay bir uğraştır. Kuantum fikrine ve özel göreliliğe biraz aşina olan biri bile çözüme kolayca ulaşır. Yukarıda değinilen Schrödinger denklemini daha sade bir formda şöyle ele alabiliriz:
+
+i\hbar \frac{\partial}{\partial t} \Psi = H\Psi
+
+Burada H olarak verilen Hamiltonian operatörüdür. (Toplam enerji olarak düşünülebilir.) Relativistik olmayan serbest parçacık (potansiyel enerji sıfır) için Hamiltonian:
+
+H=\frac{p^2}{2m}
+
+olarak verilir. Relativisitk serbest parçacık içinse Hamiltonian:
+
+ H=\sqrt{m^2c^4+p^2c^2} 
+
+şeklinde yazılabilir. İfade pek yabancı değil, değil mi? Hayır, olaya klâsik mekanik açısından bakarsanız, parçacığın durduğunu kabul edersek, momentum sıfır olacak ve ünlü E=mc^2 'yi elde etmiş olacaksınız. Şimdi relativistik Hamiltonianla Schrödinger denklemini yeniden yazalım:
+
+ \sqrt{(-i\hbar\mathbf{\nabla})^2 c^2 + m^2 c^4} \psi= i \hbar \frac{\partial}{\partial t}\psi. 
+
+Karesi alınırsa
+
+
+\mathbf{\nabla}^2\psi-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}\psi
+= \frac{m^2c^2}{\hbar^2}\psi
+elde edilir. Bu denklem Klein-Gordon denklemi olarak bilinir. Ancak denklem bir takım teknik nedenden ötürü sorunludur. Daha geçerli relativistik çözüm Dirac tarafından keşfedilmiştir ve kendi adıyla anılan denklemle verilir. Ultramikroskobik boyutlarda (Planck Uzunluğu) uzayın küçük dalga boylarında bir kaos olduğu düşünülür. Evrenin milyarda birinin milyarda birinin milyonda biri boyutlarda gözleyecek olursunuz Evren bir kaos olarak görünür.
+
+Kuantum mekaniği tarihi gelişimi boyunca birçok sınavdan alnının akıyla çıkmayı başarmıştır. Olguları büyük bir doğrulukla açıklaması, yeni olgulara ışık tutması bir teoriden beklenen özelliklerdir ve kuantum mekaniği bu işi gerçekten oldukça iyi başarmıştır. Kuantum fikirleri üzerine gelişen kuantum elektrodinamiği (QED) ve kuantum renk dinamiği (QCD) bu güne kadarki hiçbir teorinin ulaşamdığı hassasiyetlerde sonuçlar vermişlerdir. Ne varki geçtiğimiz yüzyılın çok büyük iki teorik açılımı bir biriyle uyuşmamaktadır. Doğada bilinen 4 kuvvetten 3'ü, elektromanyetizma, zayıf ve güçlü kuvvetler,kuantum kuramlarıyla ele alınabilirken kütle çekimin henüz tutarlı bir kuantum kuramı bulunamamıştır. Her ne kadar sicim kuramları kuantum kütle çekime aday gibi görünsede çözülmesi gereken çok büyük sorunlar halen daha bulunmaktadır. Günümüzde yaygın kanı kuantum ve kütle çekimin üstünde, doğrusal olmayan daha genel bir kuramın yer aldığıdır.
+
+Kuantum Mekaniği'nin Uygulamaları
+Kimyasal ve fizik bilimlerinin temelleri şu temel araştırma alanları üstüne kuruludur:
+
+Akışkanlar Mekaniği
+Elektromanyetik
+İstatistiksel Mekanik
+Kimyasal Kinetik
+Klâsik Mekanik
+Kuantum Mekaniği
+Optik
+Termodinamik
+Diğer tüm fizik ve kimya dalları, bu temel düzeneklerin uygulamalarıdır. O halde bunlara "saf", diğerlerine "uygulamalı" fizik ve kimya gözü ile bakılabilir. Kuantum mekaniğinin mikro sistemlere uygulanması ile şu uygulamalı fizik ve kimya dalları türetilmiştir:
+
+Anorganik Kimya, Organik Kimya, Biyokimya: Bunlar da temel uygulama dalı olan Kuantum Kimyası'nın özel olarak -sırasıyla- anorganik, organik ve biyomoleküllere olan uygulamasıdır.
+Katı Hal Kimyası (Fiziği): Katı halin kuantum mekaniği
+Kuantum Kimyası: Atom ve moleküllerin kuantum mekaniği (Fizik'te genelde Atom ve Molekül Fiziği ismi tercih edilir)
+Nükleer Kimya (Fizik): Çekirdeğin kuantum mekaniği
+Parçacık Kimyası (Fiziği): Atomaltı parçacıkların kuantum mekaniği
+Plazma Kimyası (Fiziği): Plazmanın kuantum mekaniği
+Sıvı Hal Kimyası (Fiziği): Sıvı halin kuantum mekaniği
+Fotokimya ve fotofizik, yüzey kimyası, vb. pek çok dal da kuantum mekaniğinden uygulamalar içermektedir.
+
+Kuantum mekaniği her ne kadar çok küçüklerin dünyasını modelleyen bir kuram olsa da uygulama alanları gerek dolaysız gerek dolaylı yollarla çok geniştir. Kuantum mekaniği biyoloji, malzeme bilimi, elektronik gibi birçok alanın günümüzdeki anlamına kavuşmasını sağlamıştır.
+
+Laser, maser, yarı iletkenler gibi günümüzün olmazsa olmazlarının icatları, kuantum mekaniği sayesinde mümkün olmuştur. Ayrıca elektron mikroskobu, atomik kuvvet mikroskobu, taramalı tünellemeli mikroskop gibi biyoloji ve nanoteknolojik uygulamaların olmazsa olmazları; PET-Scan (Positron Emmission Tomography), MRI (Magnetic Resonance Imaging), Tomografi gibi tıbbi görüntüleme cihazları yine kuantum mekaniğinin bize gösterdiği belli doğa olgularını kullanarak çalışırlar. Yine tıp, nanoteknoloji, elektronik gibi birçok alanda sayısız kullanımı olan fiberler kuantum mekaniğinin doğrudan uygulamasına örnektir. Modern kimya, kuantum fikirleri üzerine inşa edilmiş ve çok karmaşık moleküllerin yapıları bu sayede anlaşılmıştır.
+
+Kuantum mekaniği felsefesi
+Yazının önceki bölümlerinde kuantum mekaniğinin bugüne kadar girdiği birçok sınavdan başarıyla çıktığını söyledik. Peki, nasıl olurda bu denli başarılı bir teorinin kritik bir felsefesinden söz edilebilir? Dahası teorinin önemli felsefi sorunlar yarattığını ileri sürebiliriz?
+
+Kuantum mekaniği çok sağlam matematik temelleri üzerine kurulmuştur. Sistemlerin doğası bu matematikle modellenir. Ancak başlı başına bu modelleme kuantum mekaniğinin temel kavramlarının çözümlenmesinde yetersizdir. Örnek verecek olursak, \Psi(x,t) bir dalga fonksiyonudur. Bu dalga fonksiyonunun mutlak karesinin ise olasılık genliği olduğu ise bir yorumdur. Eğer bu yorumu araştırır ve genel bir çerçeveye oturtmak istersek, o zaman, kuantum mekaniği felsefesi yapmış oluruz.
+
+Kuantum mekaniği tamamlanmış bir teori midir?
+Kuantum mekaniğinin temelleri; 1927 yılından, yani Heisenberg belirsizlik ilkesinin formule edildiği yıldan bu zamana dek hiçbir değişikliğe uğramamıştır. Kuantum mekaniğinin uzantısı olarak ortaya çıkan teorilerde ortaya çıkan kavramlarda bildiğimiz kadarıyla bu temel ilkelerde değişiklik yapılmasını gerektirmezler. Kuantum mekaniği doğduğu andan itibaren temel ilkelerin anlaşılması bakımından büyük tartışmalara yol açmıştır. Bu tartışmalardan biri de halen daha önemini yititmemiş "EPR Paradoksu", A. Einstein, B. Podolsky ve N. Rosen tarafından 1935 yılında ileri sürülmüş; "Doğanın Kuantum Mekaniksel Tasviri Tamamlanmış Kabul Edilebilir mi?" yayınlanmış makalede dile getirildi. EPR makalesi bir fizik teorisinin tamamlanmış kabul edilebilmesi için iki temel koşulu yerine getirmesi gerektiğini söyler. Bunlar;
+
+Teorinin doğruluğu
+Teorinin tamamlanmışlığı
+EPR makalesine göre teorinin doğru olarak nitlendirilebilmesi için teorinin deney sonuçlarıyla uyumluluğu göz önüne alınmalıdır. Bu bakımdan kuantum mekaniği deneylerle büyük bir uyum gösterdiği için doğru kabul edilir. Teorinin başarısı için gerekli olan diğer koşul olan tamamlanmışlık için ise makalede şu koşul verilmiştir:
+
+"Bir fizik kuramında, her fiziksel gerçekliğe karşılık olan bir öge bulunmalıdır."
+
+Bu ifade ileriki bölümlerde detaylı olarak ele alınacaktır. Makalede fiziksel gerçeklik şu şekilde tanımlanmıştır:
+
+"Bir fiziksel niceliğin değerini, dinamik sistemi herhangi bir biçimde bozmaksızın kesinlikle tahmin edebiliyorsak, o zaman, fiziksel gerçekliğin, bu fiziksel niceliğe karşılık olan bir ögesi vardır."
+
+Fiziksel niceliğin kesin bir değerini, dinamik sistemi bozmadan teoride elde edebiliyorsak, o zaman, teoriden hesap ile elde edilen bu kesin değer fiziksel gerçekliğin bir ögesine karşılık gelecektir. Ancak fiziksel gerçekliğin bütün ögelerinin fizik teorisinde karşılıklarının bulunması gerektiğine dair bir koşul ileri sürülmemiştir. Bu nedenle, "EPR'ye göre doğru olan teorinin aynı zamanda tamamlanmış olması gerekmez.
+
+Fiziksel gerçeklik ölçütünün kuantum mekaniği çerçevesinde nasıl kullanıldığı makalede şu örnekle açıklanmıştır. Elimizdeki parçacık \Phi(p) fonksiyonu ile gösterilsin. Fonksiyonu;
+
+\Phi(p) = \sum_{j} a_{j}\phi_{j}(p)
+
+şeklinde gösterelim. Bu parçacığın momentumu ölçülmeden önce şu önerme ileri sürülebilir: Parçacığın momentumunun ölçümden sonra p_{i} değerini alma olasılığı |a_{i}|^2 dir. Ayrıca;
+
+\sum_{j} |a_{j}|^2 = 1
+
+olduğunu kabul edelim. Eğer alınabilecek birden çok momentum değeri mevcutsa |a_{i}|^2 1'e eşit değildir. Bu sebepten ötürü fiziksel gerçeklik ölçütü bu durumda kullanılamaz.
+
+Kaynakça
+^ a b c "Quantum mechanics." Britannica.com. 10 Ağustos 2014.
+^ "quantum." Online Etymology Dictionary. 10 Ağustos 2014.
+^ "mechanics." Oxford Dictionary of English 2e, Oxford University Press, 2003.
+Kuantum Fiziği (1/2)
+Kuantum Fiziği (2/2)
+Kuantum Fiziği – Prof. Dr. Erol AYGÜN-Doç. Dr. D. Mehmet Zengin, Ankara Üniversitesi Yayınları, 2. baskı, 1992
+Atom ve Molekül Fiziği - Prof. Dr. Erol Aygün-Doç. Dr. D. Mehmet Zengin-Ankara Üniversitesi yayınları, 1992
+Çağdaş Fiziğin Kavramları - Arthur Beiser Çev:Doç. Dr. M. Çetin-Doç. Dr. H. Yıldırım-Prof. Dr. Z. Gülsün. Dicle Ünv.yayınları-2,baskı-1989
+Atom ve Molekül Fiziği, Prof. Dr. B. H. Bransden, Prof. Dr. C. J. Joachain, Çevirenler: Prof. Dr. F. Köksal, Prof. Dr. H. Gümüş, On dokuz Mayıs Ünv.
+Fizikte matematik metotlar, Prof. Dr. C. Önem, Erciyes Ünv, 3. baskı, Birsen Yay
+Physics-part 2, Prof. Dr. D. Halliday, Prf Dr R.Resnick, Wiley International Edition.
+Katı hâl fiziğine giriş, Prof. Dr. T. Nuri Durlu, Ankara Ünv, 1992, 2. baskı.
+Ayrıca bakınız
+Çoğul dünyalar yorumu
+Kopenhag yorumu
+Pilot dalga kuramı
+Von Neumann yorumu
+Dış bağlantılar
+Kuantum Determinizm
+[gizle] g t d Fiziğin genel alanları
+Klasik mekanik  ·  Elektromanyetizm  ·  Termodinamik  ·  Genel görelilik  ·  Kuantum mekaniği  ·  Parçacık fiziği  ·  Yoğun madde fiziği  ·  Atom fiziği  ·  Süperiletken
+"http://tr.wikipedia.org/w/index.php?title=Kuantum_mekaniği&oldid=14982597" adresinden alındı.
+Kategoriler: Kuantum mekaniğiAlman icatlarıBilgisayarElektronik
+Bu sayfa son olarak 3 Ocak 2015, 15:36 tarihinde güncellenmiştir.
+Metin Creative Commons Attribution/Share-Alike Lisansı altındadır; ek koşullar uygulanabilir. Bu siteyi kullanarak, Kullanım Şartlarını ve Gizlilik İlkesini kabul etmiş olursunuz.
+Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan Wikimedia Foundation, Inc. tescilli markasıdır.
