@@ -14,7 +14,7 @@ No extra requirements.
     
 Sample output;
 
-(ss) ~/workspace/ruby_projects/ss> ruby idea.rb samples/speed_of_light_de.txt
+    (ss) ~/workspace/ruby_projects/ss> ruby idea.rb samples/speed_of_light_de.txt
     Generating language databases
     Generating topic databases
     Learning languages...
