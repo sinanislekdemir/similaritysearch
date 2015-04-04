@@ -95,3 +95,9 @@ contents = File.read ARGV[0]
 analyzer = Analyzer.new(language_db, topic_db)
 analyzer.test contents
 puts analyzer.statistics
+puts "------------------------".green.bold
+puts "Probable Result".green.bold
+puts "------------------------\n".green.bold
+puts "Language: ".blue.bold + analyzer.matches[:language][0][:lang].bold
+puts "Topic: ".blue.bold + analyzer.matches[:topic][0][:topic].bold
+
