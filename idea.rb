@@ -94,7 +94,7 @@ end
 contents = File.read ARGV[0]
 analyzer = Analyzer.new(language_db, topic_db)
 analyzer.test contents
-puts analyzer.statistics
+puts analyzer.statistics if ARGV.count > 1 && ARGV[1] == 'debug'
 puts "------------------------".green.bold
 puts "Probable Result".green.bold
 puts "------------------------\n".green.bold
