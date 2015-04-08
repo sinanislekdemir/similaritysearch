@@ -17,5 +17,9 @@ For the samples, "debug" mode is optional, lists all scores of all databases
 
     ruby idea.rb samples/cpp_fr.txt debug
 
+
+Flow;
+![alt tag](https://raw.github.com/sinanislekdemir/similaritysearch/master/flow.jpg)
+
 Sample output;
 ![alt tag](https://raw.github.com/sinanislekdemir/similaritysearch/master/sc.png)
